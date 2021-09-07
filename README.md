@@ -44,10 +44,10 @@ In this repo we have two feature types: the ones that add a new project (`add`) 
 
 An example branch name could be: `update_compound_comptroller`. A bad one would be `test2`.
 
-### Creating a commit.
+### Creating a commit
 
 We enforce the usage of `commitlint`. It has same principles as in the creation of a branch. You can check out https://commitlint.js.org/ for more info.
 
-### Creating a Pull Request.
+### Creating a Pull Request
 
 Creating a Pull Request from a fork is as easy as creating one within the repo. You can check out more info from [here](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
