@@ -1,0 +1,19 @@
+{
+  "name": "smart-contract-registry",
+  "version": "1.0.0",
+  "description": "An up-to-date registry of the relevant smart contracts for each protocol listed on Token Terminal.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/token-terminal/smart-contract-registry.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/token-terminal/smart-contract-registry/issues"
+  },
+  "homepage": "https://github.com/token-terminal/smart-contract-registry#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
+    "husky": "^7.0.2"
+  }
+}
