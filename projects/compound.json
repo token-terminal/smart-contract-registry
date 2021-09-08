@@ -202,7 +202,7 @@
     "address": "0xc00e94Cb662C3520282E6f5717214004A7f26888",
     "chain": "ethereum",
     "version": "v2",
-    "type": "core",
+    "type": "governance",
     "description": "Includes the logic for the COMP governance token",
     "explorers": [
       "https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888"
@@ -213,7 +213,7 @@
     "address": "0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B",
     "chain": "ethereum",
     "version": "v2",
-    "type": "core",
+    "type": "governance",
     "description": "Includes the logic for the Comptroller which controls the different parameters in the cToken contracts",
     "explorers": [
       "https://etherscan.io/address/0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b"
@@ -224,7 +224,7 @@
     "address": "0xc0Da02939E1441F497fd74F78cE7Decb17B66529",
     "chain": "ethereum",
     "version": "v2",
-    "type": "core",
+    "type": "governance",
     "description": "Includes the logic for how COMP holders propose and vote on the development of the protocol",
     "explorers": [
       "https://etherscan.io/address/0xc0da02939e1441f497fd74f78ce7decb17b66529"
@@ -235,7 +235,7 @@
     "address": "0x6d903f6003cca6255D85CcA4D3B5E5146dC33925",
     "chain": "ethereum",
     "version": "v2",
-    "type": "core",
+    "type": "governance",
     "description": "Includes the logic for how COMP holders implement the governance proposals",
     "explorers": [
       "https://etherscan.io/address/0x6d903f6003cca6255d85cca4d3b5e5146dc33925"
