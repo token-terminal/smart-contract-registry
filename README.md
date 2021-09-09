@@ -13,7 +13,7 @@ The registry file contains a list of objects with the following example data (fr
 ```
 {
     "name": "cAAVE",
-    "address": "0xe65cdb6479bac1e22340e4e755fae7e509ecd06c",
+    "address": "0xe65cdB6479BaC1e22340E4E755fAE7E509EcD06c",
     "chain": "ethereum",
     "version": "v2",
     "type": "core",

@@ -1,16 +1,16 @@
 [
   {
-    "name": "A descriptive name of the contract.",
-    "address": "A smart contract address of the contract.",
-    "chain": "ethereum | bsc | solana | avalanche | terra | xdai | matic | fantom | celo | arbitrum | optimism",
+    "name": "A descriptive name of the contract",
+    "address": "A smart contract address of the contract",
+    "chain": "ethereum | bsc | solana | avalanche | terra | xdai | polygon | fantom | celo | arbitrum | optimism",
     "version": "v1 | v2 | v3 | vN",
     "type": "core | governance",
-    "description": "An explanation of the functionality of the contract.",
-    "explorers": "A list of relevant links to explorers."
+    "description": "An explanation of the functionality of the contract",
+    "explorers": "A list of relevant links to explorers"
   },
   {
     "name": "cAAVE",
-    "address": "0xe65cdb6479bac1e22340e4e755fae7e509ecd06c",
+    "address": "0xe65cdB6479BaC1e22340E4E755fAE7E509EcD06c",
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
