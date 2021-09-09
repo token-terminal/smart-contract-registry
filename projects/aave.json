@@ -1,0 +1,706 @@
+[
+  {
+    "name": "aAAVE",
+    "address": "0xba3D9687Cf50fE253cd2e1cFeEdE1d6787344Ed5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the AAVE lending market (v1) and the associated aAAVE token",
+    "explorers": [
+      "https://etherscan.io/address/0xba3d9687cf50fe253cd2e1cfeede1d6787344ed5"
+    ]
+  },
+  {
+    "name": "aBAT",
+    "address": "0xE1BA0FB44CCb0D11b80F92f4f8Ed94CA3fF51D00",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the BAT lending market (v1) and the associated aBAT token",
+    "explorers": [
+      "https://etherscan.io/address/0xe1ba0fb44ccb0d11b80f92f4f8ed94ca3ff51d00"
+    ]
+  },
+  {
+    "name": "aBUSD",
+    "address": "0x6Ee0f7BB50a54AB5253dA0667B0Dc2ee526C30a8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the BUSD lending market (v1) and the associated aBUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0x6ee0f7bb50a54ab5253da0667b0dc2ee526c30a8"
+    ]
+  },
+  {
+    "name": "aDAI",
+    "address": "0xfC1E690f61EFd961294b3e1Ce3313fBD8aa4f85d",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the DAI lending market (v1) and the associated aDAI token",
+    "explorers": [
+      "https://etherscan.io/address/0xfc1e690f61efd961294b3e1ce3313fbd8aa4f85d"
+    ]
+  },
+  {
+    "name": "aENJ",
+    "address": "0x712DB54daA836B53Ef1EcBb9c6ba3b9Efb073F40",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the ENJ lending market (v1) and the associated aENJ token",
+    "explorers": [
+      "https://etherscan.io/address/0x712db54daa836b53ef1ecbb9c6ba3b9efb073f40"
+    ]
+  },
+  {
+    "name": "aETH",
+    "address": "0x3a3A65aAb0dd2A17E3F1947bA16138cd37d08c04",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the ETH lending market (v1) and the associated aETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x3a3a65aab0dd2a17e3f1947ba16138cd37d08c04"
+    ]
+  },
+  {
+    "name": "aKNC",
+    "address": "0x9D91BE44C06d373a8a226E1f3b146956083803eB",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the KNC lending market (v1) and the associated aKNC token",
+    "explorers": [
+      "https://etherscan.io/address/0x9d91be44c06d373a8a226e1f3b146956083803eb"
+    ]
+  },
+  {
+    "name": "aLEND",
+    "address": "0x7D2D3688Df45Ce7C552E19c27e007673da9204B8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the LEND lending market (v1) and the associated aLEND token",
+    "explorers": [
+      "https://etherscan.io/address/0x7d2d3688df45ce7c552e19c27e007673da9204b8"
+    ]
+  },
+  {
+    "name": "aLINK",
+    "address": "0xA64BD6C70Cb9051F6A9ba1F163Fdc07E0DfB5F84",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the LINK lending market (v1) and the associated aLINK token",
+    "explorers": [
+      "https://etherscan.io/address/0xa64bd6c70cb9051f6a9ba1f163fdc07e0dfb5f84"
+    ]
+  },
+  {
+    "name": "aMANA",
+    "address": "0x6FCE4A401B6B80ACe52baAefE4421Bd188e76F6f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the MANA lending market (v1) and the associated aMANA token",
+    "explorers": [
+      "https://etherscan.io/address/0x6fce4a401b6b80ace52baaefe4421bd188e76f6f"
+    ]
+  },
+  {
+    "name": "aMKR",
+    "address": "0x7deB5e830be29F91E298ba5FF1356BB7f8146998",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the MKR lending market (v1) and the associated aMKR token",
+    "explorers": [
+      "https://etherscan.io/address/0x7deb5e830be29f91e298ba5ff1356bb7f8146998"
+    ]
+  },
+  {
+    "name": "aREN",
+    "address": "0x69948cC03f478B95283F7dbf1CE764d0fc7EC54C",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the REN lending market (v1) and the associated aREN token",
+    "explorers": [
+      "https://etherscan.io/address/0x69948cc03f478b95283f7dbf1ce764d0fc7ec54c"
+    ]
+  },
+  {
+    "name": "aREP",
+    "address": "0x71010A9D003445aC60C4e6A7017c1E89A477B438",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the REP lending market (v1) and the associated aREP token",
+    "explorers": [
+      "https://etherscan.io/address/0x71010a9d003445ac60c4e6a7017c1e89a477b438"
+    ]
+  },
+  {
+    "name": "aSNX",
+    "address": "0x328C4c80BC7aCa0834Db37e6600A6c49E12Da4DE",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the SNX lending market (v1) and the associated aSNX token",
+    "explorers": [
+      "https://etherscan.io/address/0x328c4c80bc7aca0834db37e6600a6c49e12da4de"
+    ]
+  },
+  {
+    "name": "aSUSD",
+    "address": "0x625aE63000f46200499120B906716420bd059240",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the SUSD lending market (v1) and the associated aSUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0x625ae63000f46200499120b906716420bd059240"
+    ]
+  },
+  {
+    "name": "aTUSD",
+    "address": "0x4DA9b813057D04BAef4e5800E36083717b4a0341",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the TUSD lending market (v1) and the associated aTUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0x4da9b813057d04baef4e5800e36083717b4a0341"
+    ]
+  },
+  {
+    "name": "aUNI",
+    "address": "0xB124541127A0A657f056D9Dd06188c4F1b0e5aab",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the UNI lending market (v1) and the associated aUNI token",
+    "explorers": [
+      "https://etherscan.io/address/0xb124541127a0a657f056d9dd06188c4f1b0e5aab"
+    ]
+  },
+  {
+    "name": "aUSDC",
+    "address": "0x9bA00D6856a4eDF4665BcA2C2309936572473B7E",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the USDC lending market (v1) and the associated aUSDC token",
+    "explorers": [
+      "https://etherscan.io/address/0x9ba00d6856a4edf4665bca2c2309936572473b7e"
+    ]
+  },
+  {
+    "name": "aUSDT",
+    "address": "0x71fc860F7D3A592A4a98740e39dB31d25db65ae8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the USDT lending market (v1) and the associated aUSDT token",
+    "explorers": [
+      "https://etherscan.io/address/0x71fc860f7d3a592a4a98740e39db31d25db65ae8"
+    ]
+  },
+  {
+    "name": "aWBTC",
+    "address": "0xFC4B8ED459e00e5400be803A9BB3954234FD50e3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the WBTC lending market (v1) and the associated aWBTC token",
+    "explorers": [
+      "https://etherscan.io/address/0xfc4b8ed459e00e5400be803a9bb3954234fd50e3"
+    ]
+  },
+  {
+    "name": "aYFI",
+    "address": "0x12e51E77DAAA58aA0E9247db7510Ea4B46F9bEAd",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the YFI lending market (v1) and the associated aYFI token",
+    "explorers": [
+      "https://etherscan.io/address/0x12e51e77daaa58aa0e9247db7510ea4b46f9bead"
+    ]
+  },
+  {
+    "name": "aZRX",
+    "address": "0x6Fb0855c404E09c47C3fBCA25f08d4E41f9F062f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the ZRX lending market (v1) and the associated aZRX token",
+    "explorers": [
+      "https://etherscan.io/address/0x6fb0855c404e09c47c3fbca25f08d4e41f9f062f"
+    ]
+  },
+  {
+    "name": "aAAVE",
+    "address": "0xFFC97d72E13E01096502Cb8Eb52dEe56f74DAD7B",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the AAVE lending market and the associated aAAVE token",
+    "explorers": [
+      "https://etherscan.io/address/0xffc97d72e13e01096502cb8eb52dee56f74dad7b"
+    ]
+  },
+  {
+    "name": "aAMPL",
+    "address": "0x1E6bb68Acec8fefBD87D192bE09bb274170a0548",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the AMPL lending market and the associated aAMPL token",
+    "explorers": [
+      "https://etherscan.io/address/0x1e6bb68acec8fefbd87d192be09bb274170a0548"
+    ]
+  },
+  {
+    "name": "aBAL",
+    "address": "0x272F97b7a56a387aE942350bBC7Df5700f8a4576",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the BAL lending market and the associated aBAL token",
+    "explorers": [
+      "https://etherscan.io/address/0x272f97b7a56a387ae942350bbc7df5700f8a4576"
+    ]
+  },
+  {
+    "name": "aBAT",
+    "address": "0x05Ec93c0365baAeAbF7AefFb0972ea7ECdD39CF1",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the BAT lending market and the associated aBAT token",
+    "explorers": [
+      "https://etherscan.io/address/0x05ec93c0365baaeabf7aeffb0972ea7ecdd39cf1"
+    ]
+  },
+  {
+    "name": "aBUSD",
+    "address": "0xA361718326c15715591c299427c62086F69923D9",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the BUSD lending market and the associated aBUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0xa361718326c15715591c299427c62086f69923d9"
+    ]
+  },
+  {
+    "name": "aCRV",
+    "address": "0x8dAE6Cb04688C62d939ed9B68d32Bc62e49970b1",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the CRV lending market and the associated aCRV token",
+    "explorers": [
+      "https://etherscan.io/address/0x8dae6cb04688c62d939ed9b68d32bc62e49970b1"
+    ]
+  },
+  {
+    "name": "aDAI",
+    "address": "0x028171bCA77440897B824Ca71D1c56caC55b68A3",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the DAI lending market and the associated aDAI token",
+    "explorers": [
+      "https://etherscan.io/address/0x028171bca77440897b824ca71d1c56cac55b68a3"
+    ]
+  },
+  {
+    "name": "aDPI",
+    "address": "0x6F634c6135D2EBD550000ac92F494F9CB8183dAe",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the DPI lending market and the associated aDPI token",
+    "explorers": [
+      "https://etherscan.io/address/0x6f634c6135d2ebd550000ac92f494f9cb8183dae"
+    ]
+  },
+  {
+    "name": "aENJ",
+    "address": "0xaC6Df26a590F08dcC95D5a4705ae8abbc88509Ef",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the ENJ lending market and the associated aENJ token",
+    "explorers": [
+      "https://etherscan.io/address/0xac6df26a590f08dcc95d5a4705ae8abbc88509ef"
+    ]
+  },
+  {
+    "name": "aGUSD",
+    "address": "0xD37EE7e4f452C6638c96536e68090De8cBcdb583",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the GUSD lending market and the associated aGUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0xd37ee7e4f452c6638c96536e68090de8cbcdb583"
+    ]
+  },
+  {
+    "name": "aKNC",
+    "address": "0x39C6b3e42d6A679d7D776778Fe880BC9487C2EDA",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the KNC lending market and the associated aKNC token",
+    "explorers": [
+      "https://etherscan.io/address/0x39c6b3e42d6a679d7d776778fe880bc9487c2eda"
+    ]
+  },
+  {
+    "name": "aLINK",
+    "address": "0xa06bC25B5805d5F8d82847D191Cb4Af5A3e873E0",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the LINK lending market and the associated aLINK token",
+    "explorers": [
+      "https://etherscan.io/address/0xa06bc25b5805d5f8d82847d191cb4af5a3e873e0"
+    ]
+  },
+  {
+    "name": "aMANA",
+    "address": "0xa685a61171bb30d4072B338c80Cb7b2c865c873E",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the MANA lending market and the associated aMANA token",
+    "explorers": [
+      "https://etherscan.io/address/0xa685a61171bb30d4072b338c80cb7b2c865c873e"
+    ]
+  },
+  {
+    "name": "aMKR",
+    "address": "0xc713e5E149D5D0715DcD1c156a020976e7E56B88",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the MKR lending market and the associated aMKR token",
+    "explorers": [
+      "https://etherscan.io/address/0xc713e5e149d5d0715dcd1c156a020976e7e56b88"
+    ]
+  },
+  {
+    "name": "aPAX",
+    "address": "0x2e8F4bdbE3d47d7d7DE490437AeA9915D930F1A3",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the PAX lending market and the associated aPAX token",
+    "explorers": [
+      "https://etherscan.io/address/0x2e8f4bdbe3d47d7d7de490437aea9915d930f1a3"
+    ]
+  },
+  {
+    "name": "aRAI",
+    "address": "0xc9BC48c72154ef3e5425641a3c747242112a46AF",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the RAI lending market and the associated aRAI token",
+    "explorers": [
+      "https://etherscan.io/address/0xc9bc48c72154ef3e5425641a3c747242112a46af"
+    ]
+  },
+  {
+    "name": "aREN",
+    "address": "0xCC12AbE4ff81c9378D670De1b57F8e0Dd228D77a",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the REN lending market and the associated aREN token",
+    "explorers": [
+      "https://etherscan.io/address/0xcc12abe4ff81c9378d670de1b57f8e0dd228d77a"
+    ]
+  },
+  {
+    "name": "aRENFIL",
+    "address": "0x514cd6756CCBe28772d4Cb81bC3156BA9d1744aa",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the RENFIL lending market and the associated aRENFIL token",
+    "explorers": [
+      "https://etherscan.io/address/0x514cd6756ccbe28772d4cb81bc3156ba9d1744aa"
+    ]
+  },
+  {
+    "name": "aSNX",
+    "address": "0x35f6B052C598d933D69A4EEC4D04c73A191fE6c2",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the SNX lending market and the associated aSNX token",
+    "explorers": [
+      "https://etherscan.io/address/0x35f6b052c598d933d69a4eec4d04c73a191fe6c2"
+    ]
+  },
+  {
+    "name": "aSUSD",
+    "address": "0x6C5024Cd4F8A59110119C56f8933403A539555EB",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the SUSD lending market and the associated aSUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0x6c5024cd4f8a59110119c56f8933403a539555eb"
+    ]
+  },
+  {
+    "name": "aTUSD",
+    "address": "0x101cc05f4A51C0319f570d5E146a8C625198e636",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the TUSD lending market and the associated aTUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0x101cc05f4a51c0319f570d5e146a8c625198e636"
+    ]
+  },
+  {
+    "name": "aUNI",
+    "address": "0xB9D7CB55f463405CDfBe4E90a6D2Df01C2B92BF1",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the UNI lending market and the associated aUNI token",
+    "explorers": [
+      "https://etherscan.io/address/0xb9d7cb55f463405cdfbe4e90a6d2df01c2b92bf1"
+    ]
+  },
+  {
+    "name": "aUSDC",
+    "address": "0xBcca60bB61934080951369a648Fb03DF4F96263C",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the USDC lending market and the associated aUSDC token",
+    "explorers": [
+      "https://etherscan.io/address/0xbcca60bb61934080951369a648fb03df4f96263c"
+    ]
+  },
+  {
+    "name": "aUSDT",
+    "address": "0x3Ed3B47Dd13EC9a98b44e6204A523E766B225811",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the USDT lending market and the associated aUSDT token",
+    "explorers": [
+      "https://etherscan.io/address/0x3ed3b47dd13ec9a98b44e6204a523e766b225811"
+    ]
+  },
+  {
+    "name": "aWBTC",
+    "address": "0x9ff58f4fFB29fA2266Ab25e75e2A8b3503311656",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the WBTC lending market and the associated aWBTC token",
+    "explorers": [
+      "https://etherscan.io/address/0x9ff58f4ffb29fa2266ab25e75e2a8b3503311656"
+    ]
+  },
+  {
+    "name": "aWETH",
+    "address": "0x030bA81f1c18d280636F32af80b9AAd02Cf0854e",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the WETH lending market and the associated aWETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x030ba81f1c18d280636f32af80b9aad02cf0854e"
+    ]
+  },
+  {
+    "name": "aXSUSHI",
+    "address": "0xF256CC7847E919FAc9B808cC216cAc87CCF2f47a",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the XSUSHI lending market and the associated aXSUSHI token",
+    "explorers": [
+      "https://etherscan.io/address/0xf256cc7847e919fac9b808cc216cac87ccf2f47a"
+    ]
+  },
+  {
+    "name": "aYFI",
+    "address": "0x5165d24277cD063F5ac44Efd447B27025e888f37",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the YFI lending market and the associated aYFI token",
+    "explorers": [
+      "https://etherscan.io/address/0x5165d24277cd063f5ac44efd447b27025e888f37"
+    ]
+  },
+  {
+    "name": "aZRX",
+    "address": "0xDf7FF54aAcAcbFf42dfe29DD6144A69b629f8C9e",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Includes the logic for the ZRX lending market and the associated aZRX token",
+    "explorers": [
+      "https://etherscan.io/address/0xdf7ff54aacacbff42dfe29dd6144a69b629f8c9e"
+    ]
+  },
+  {
+    "name": "amAAVE",
+    "address": "0x1d2a0E5EC8E5bBDCA5CB219e649B565d8e5c3360",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the AAVE lending market on polygon and the associated amAAVE token",
+    "explorers": [
+      "https://polygonscan.com/address/0x1d2a0e5ec8e5bbdca5cb219e649b565d8e5c3360"
+    ]
+  },
+  {
+    "name": "amDAI",
+    "address": "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the DAI lending market on polygon and the associated amDAI token",
+    "explorers": [
+      "https://polygonscan.com/address/0x27f8d03b3a2196956ed754badc28d73be8830a6e"
+    ]
+  },
+  {
+    "name": "amUSDC",
+    "address": "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the USDC lending market on polygon and the associated amUSDC token",
+    "explorers": [
+      "https://polygonscan.com/address/0x1a13f4ca1d028320a707d99520abfefca3998b7f"
+    ]
+  },
+  {
+    "name": "amUSDT",
+    "address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the USDT lending market on polygon and the associated amUSDT token",
+    "explorers": [
+      "https://polygonscan.com/address/0x60d55f02a771d515e077c9c2403a1ef324885cec"
+    ]
+  },
+  {
+    "name": "amWBTC",
+    "address": "0x5c2ed810328349100A66B82b78a1791B101C9D61",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the WBTC lending market on polygon and the associated amWBTC token",
+    "explorers": [
+      "https://polygonscan.com/address/0x5c2ed810328349100a66b82b78a1791b101c9d61"
+    ]
+  },
+  {
+    "name": "amWETH",
+    "address": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the WETH lending market on polygon and the associated amWETH token",
+    "explorers": [
+      "https://polygonscan.com/address/0x28424507fefb6f7f8e9d3860f56504e4e5f5f390"
+    ]
+  },
+  {
+    "name": "amWMATIC",
+    "address": "0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes the logic for the WMATIC lending market on polygon and the associated amWMATIC token",
+    "explorers": [
+      "https://polygonscan.com/address/0x8df3aad3a84da6b69a4da8aec3ea40d9091b2ac4"
+    ]
+  },
+  {
+    "name": "AAVE",
+    "address": "0x7Fc66500c84A76Ad7e9c93437bFc5Ac33E2DDaE9",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Includes the logic for the AAVE governance token",
+    "explorers": [
+      "https://etherscan.io/address/0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+    ]
+  },
+  {
+    "name": "stkAAVE",
+    "address": "0x4da27a545c0c5B758a6BA100e3a049001de870f5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Includes the logic for the staked AAVE token",
+    "explorers": [
+      "https://etherscan.io/address/0x4da27a545c0c5b758a6ba100e3a049001de870f5"
+    ]
+  },
+  {
+    "name": "Governance",
+    "address": "0xEC568fffba86c094cf06b22134B23074DFE2252c",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "governance",
+    "description": "Includes the logic for how AAVE holders propose and vote on the development of the protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xec568fffba86c094cf06b22134b23074dfe2252c"
+    ]
+  },
+  {
+    "name": "Governance Strategy",
+    "address": "0xb7e383ef9B1E9189Fc0F71fb30af8aa14377429e",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "governance",
+    "description": "Includes the logic for calculating voting/proposition powers",
+    "explorers": [
+      "https://etherscan.io/address/0xb7e383ef9b1e9189fc0f71fb30af8aa14377429e"
+    ]
+  },
+  {
+    "name": "Executor (short)",
+    "address": "0xEE56e2B3D491590B5b31738cC34d5232F378a8D5",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "governance",
+    "description": "Includes the logic for the Executor (short) which controls the Aave Protocol V1 and V2 Risk Parameters, the token distributor for V2, the contract collecting fees for V1, the AAVE Reserve Ecosystem, and changes to this timelock itself",
+    "explorers": [
+      "https://etherscan.io/address/0xee56e2b3d491590b5b31738cc34d5232f378a8d5"
+    ]
+  },
+  {
+    "name": "Executor (long)",
+    "address": "0x61910EcD7e8e942136CE7Fe7943f956cea1CC2f7",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "governance",
+    "description": "Includes the logic for the Executor (long) which controls changes to the AAVE and stkAAVE tokens, updates to V2 governance parameters, and any changes to this timelock itself",
+    "explorers": [
+      "https://etherscan.io/address/0x61910ecd7e8e942136ce7fe7943f956cea1cc2f7"
+    ]
+  }
+]
