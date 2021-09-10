@@ -1,6 +1,6 @@
 [
   {
-    "name": "Factory",
+    "name": "Factory v2",
     "address": "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f",
     "chain": "ethereum",
     "version": "v2",
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "name": "Factory",
+    "name": "Factory v3",
     "address": "0x1F98431c8aD98523631AE4a59f267346ea31F984",
     "chain": "ethereum",
     "version": "v3",
