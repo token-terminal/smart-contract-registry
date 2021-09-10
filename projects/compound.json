@@ -5,7 +5,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the AAVE lending market and the associated cAAVE token",
+    "description": "Logic for the AAVE lending market and the associated cAAVE token",
     "explorers": [
       "https://etherscan.io/address/0xe65cdb6479bac1e22340e4e755fae7e509ecd06c"
     ]
@@ -16,7 +16,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the BAT lending market and the associated cBAT token",
+    "description": "Logic for the BAT lending market and the associated cBAT token",
     "explorers": [
       "https://etherscan.io/address/0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e"
     ]
@@ -27,7 +27,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the COMP lending market and the associated cCOMP token",
+    "description": "Logic for the COMP lending market and the associated cCOMP token",
     "explorers": [
       "https://etherscan.io/address/0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4"
     ]
@@ -38,7 +38,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the DAI lending market and the associated cDAI token",
+    "description": "Logic for the DAI lending market and the associated cDAI token",
     "explorers": [
       "https://etherscan.io/address/0x5d3a536e4d6dbd6114cc1ead35777bab948e3643"
     ]
@@ -49,7 +49,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the ETH lending market and the associated cETH token",
+    "description": "Logic for the ETH lending market and the associated cETH token",
     "explorers": [
       "https://etherscan.io/address/0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
     ]
@@ -60,7 +60,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the LINK lending market and the associated cLINK token",
+    "description": "Logic for the LINK lending market and the associated cLINK token",
     "explorers": [
       "https://etherscan.io/address/0xface851a4921ce59e912d19329929ce6da6eb0c7"
     ]
@@ -71,7 +71,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the MKR lending market and the associated cMKR token",
+    "description": "Logic for the MKR lending market and the associated cMKR token",
     "explorers": [
       "https://etherscan.io/address/0x95b4ef2869ebd94beb4eee400a99824bf5dc325b"
     ]
@@ -82,7 +82,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the REP lending market and the associated cREP token",
+    "description": "Logic for the REP lending market and the associated cREP token",
     "explorers": [
       "https://etherscan.io/address/0x158079ee67fce2f58472a96584a73c7ab9ac95c1"
     ]
@@ -93,7 +93,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the SAI lending market and the associated cSAI token",
+    "description": "Logic for the SAI lending market and the associated cSAI token",
     "explorers": [
       "https://etherscan.io/address/0xf5dce57282a584d2746faf1593d3121fcac444dc"
     ]
@@ -104,7 +104,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the SUSHI lending market and the associated cSUSHI token",
+    "description": "Logic for the SUSHI lending market and the associated cSUSHI token",
     "explorers": [
       "https://etherscan.io/address/0x4b0181102a0112a2ef11abee5563bb4a3176c9d7"
     ]
@@ -115,7 +115,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the TUSD lending market and the associated cTUSD token",
+    "description": "Logic for the TUSD lending market and the associated cTUSD token",
     "explorers": [
       "https://etherscan.io/address/0x12392f67bdf24fae0af363c24ac620a2f67dad86"
     ]
@@ -126,7 +126,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the UNI lending market and the associated cUNI token",
+    "description": "Logic for the UNI lending market and the associated cUNI token",
     "explorers": [
       "https://etherscan.io/address/0x35a18000230da775cac24873d00ff85bccded550"
     ]
@@ -137,7 +137,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the USDC lending market and the associated cUSDC token",
+    "description": "Logic for the USDC lending market and the associated cUSDC token",
     "explorers": [
       "https://etherscan.io/address/0x39aa39c021dfbae8fac545936693ac917d5e7563"
     ]
@@ -148,7 +148,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the USDT lending market and the associated cUSDT token",
+    "description": "Logic for the USDT lending market and the associated cUSDT token",
     "explorers": [
       "https://etherscan.io/address/0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9"
     ]
@@ -159,7 +159,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the WBTC lending market and the associated cWBTC token",
+    "description": "Logic for the WBTC lending market and the associated cWBTC token",
     "explorers": [
       "https://etherscan.io/address/0xc11b1268c1a384e55c48c2391d8d480264a3a7f4"
     ]
@@ -170,7 +170,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the WBTC2 lending market and the associated cWBTC2 token",
+    "description": "Logic for the WBTC2 lending market and the associated cWBTC2 token",
     "explorers": [
       "https://etherscan.io/address/0xccf4429db6322d5c611ee964527d42e5d685dd6a"
     ]
@@ -181,7 +181,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the YFI lending market and the associated cYFI token",
+    "description": "Logic for the YFI lending market and the associated cYFI token",
     "explorers": [
       "https://etherscan.io/address/0x80a2ae356fc9ef4305676f7a3e2ed04e12c33946"
     ]
@@ -192,7 +192,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the ZRX lending market and the associated cZRX token",
+    "description": "Logic for the ZRX lending market and the associated cZRX token",
     "explorers": [
       "https://etherscan.io/address/0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407"
     ]
@@ -203,7 +203,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "governance",
-    "description": "Includes the logic for the COMP governance token",
+    "description": "Logic for the COMP governance token",
     "explorers": [
       "https://etherscan.io/token/0xc00e94cb662c3520282e6f5717214004a7f26888"
     ]
@@ -214,7 +214,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "governance",
-    "description": "Includes the logic for the Comptroller which controls the different parameters in the cToken contracts",
+    "description": "Logic for the Comptroller which controls the different parameters in the cToken contracts",
     "explorers": [
       "https://etherscan.io/address/0x3d9819210a31b4961b30ef54be2aed79b9c9cd3b"
     ]
@@ -225,7 +225,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "governance",
-    "description": "Includes the logic for how COMP holders propose and vote on the development of the protocol",
+    "description": "Logic for how COMP holders propose and vote on the development of the protocol",
     "explorers": [
       "https://etherscan.io/address/0xc0da02939e1441f497fd74f78ce7decb17b66529"
     ]
@@ -236,7 +236,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "governance",
-    "description": "Includes the logic for how COMP holders implement the governance proposals",
+    "description": "Logic for how COMP holders implement the governance proposals",
     "explorers": [
       "https://etherscan.io/address/0x6d903f6003cca6255d85cca4d3b5e5146dc33925"
     ]

@@ -115,7 +115,7 @@
     "chain": "ethereum",
     "version": "v2",
     "type": "governance",
-    "description": "Includes the logic for how UNI holders propose and vote on the development of the protocol",
+    "description": "Logic for how UNI holders propose and vote on the development of the protocol",
     "explorers": [
       "https://etherscan.io/address/0x5e4be8bc9637f0eaa1a755019e06a68ce081d58f"
     ]
