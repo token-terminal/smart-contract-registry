@@ -28,6 +28,29 @@ Each project has a registry file under `projects/` folder with their respective 
 
 Check out the `template.json` to see a field-by-field example.
 
+## How to add a new project.json
+
+We want the naming of projects to be consistent and identical to our main [website](https://www.tokenterminal.com/)'s project pages.
+
+We enforce a case style called "kebab-case" for projects: names are lowercase and each space in the name is separated by a hyphen.
+
+Few examples:
+
+- MakerDAO: `makerdao`
+- Alpha Finance: `alpha-finance`
+- Pie DAO: `pie-dao`
+- Binance Smart Chain: `binance-smart-chain`
+
+If you're adding a project that's already on the site, you can check out the individual project page's url: https://www.tokenterminal.com/terminal/projects/binance-smart-chain.
+
+## How to add smart contracts with factory contracts
+
+Some projects make use of a Factory pattern in their smart contract design. This means that there's a contract that dynamically creates new contracts.
+
+For the registry to be practical we don't necessarily want to track all the factory-instantiated contracts.
+
+That's why we'd like to track only the factory contract and one example of a factory-instantiated contract. You can check Uniswap's `uniswap.json` registry for an example.
+
 ## How to contribute
 
 First of all, thank you for being awesome and taking the time to contribute. Being able to gather all relevant smart contracts in the ecosystem is a community-effort, which you are part of.
@@ -42,7 +65,7 @@ We want to encourage best practices in the creation of branches. Having consiste
 
 In this repo we have two feature types: the ones that add a new project (`add`) to the repo and the ones that update an existing project (`update`).
 
-An example branch name could be: `update_compound_comptroller`. A bad one would be `test2`.
+An example branch name could be: `update-compound-comptroller`. A bad one would be `test2`.
 
 ### Creating a commit
 
