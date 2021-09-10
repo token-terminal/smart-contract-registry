@@ -9,14 +9,14 @@
     "explorers": "A list of relevant links to explorers"
   },
   {
-    "name": "cAAVE",
-    "address": "0xe65cdB6479BaC1e22340E4E755fAE7E509EcD06c",
+    "name": "cCOMP",
+    "address": "0x70e36f6BF80a52b3B46b3aF8e106CC0ed743E8e4",
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the AAVE lending market and the associated cAAVE token",
+    "description": "Includes the logic for the COMP lending market and the associated cCOMP token",
     "explorers": [
-      "https://etherscan.io/address/0xe65cdb6479bac1e22340e4e755fae7e509ecd06c"
+      "https://etherscan.io/address/0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4"
     ]
   }
 ]
