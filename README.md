@@ -34,6 +34,7 @@ Check out the `template.json` to see a field-by-field example.
 - `address`: We prefer the `address` in the template to be [checksummed](https://coincodex.com/article/2078/ethereum-address-checksum-explained/).
 - `chain`: Check the `template.json` for a valid `chain`. We've chosen `polygon` over `matic` for 0xPolygon as an example. If the chain doesn't exist, let's check it out together in the Pull Request.
 - `version`: Smart contracts evolve and new versions get developed constantly. For tokens the version should default to `v1`, although exceptions exist.
+- `type`: Every smart contract is either core to the business or related to governance of the project. That's why we want to categorize each smart contract with either `core` or `governance` for standardization purposes.
 - `description`: A one-liner that explains what the smart contract does.
 - `explorers`: A list of explorers that can be used to deep dive into the smart contracts.
 
