@@ -19,7 +19,7 @@ Here's an example of a smart contract entry (cCOMP token) from the `compound.jso
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
-    "description": "Includes the logic for the COMP lending market and the associated cCOMP token",
+    "description": "Logic for the COMP lending market and the associated cCOMP token",
     "explorers": [
       "https://etherscan.io/address/0x70e36f6bf80a52b3b46b3af8e106cc0ed743e8e4"
     ]
