@@ -1,0 +1,156 @@
+[
+  {
+    "name": "MarketCapSqrtController",
+    "address": "0xF00A38376C8668fC1f3Cd3dAeef42E0E44A7Fcdb",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Controller contract for core index pools",
+    "explorers": [
+      "https://etherscan.io/address/0xf00a38376c8668fc1f3cd3daeef42e0e44a7fcdb"
+    ]
+  },
+  {
+    "name": "DEFI5",
+    "address": "0xfa6de2697D59E88Ed7Fc4dFE5A33daC43565ea41",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Example of a core index pool",
+    "explorers": [
+      "https://etherscan.io/address/0xfa6de2697d59e88ed7fc4dfe5a33dac43565ea41"
+    ]
+  },
+  {
+    "name": "SigmaControllerV1",
+    "address": "0x5B470A8C134D397466A1a603678DadDa678CBC29",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Controller contract for Sigma index pools",
+    "explorers": [
+      "https://etherscan.io/address/0x5b470a8c134d397466a1a603678dadda678cbc29"
+    ]
+  },
+  {
+    "name": "DEGEN",
+    "address": "0x126c121f99e1E211dF2e5f8De2d96Fa36647c855",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Example of a Sigma index pool",
+    "explorers": [
+      "https://etherscan.io/address/0x126c121f99e1e211df2e5f8de2d96fa36647c855"
+    ]
+  },
+  {
+    "name": "PoolFactory",
+    "address": "0x592f70cE43a310D15fF59BE1460F38Ab6DF3Fe65",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys index pools",
+    "explorers": [
+      "https://etherscan.io/address/0x592f70ce43a310d15ff59be1460f38ab6df3fe65"
+    ]
+  },
+  {
+    "name": "UniswapV2Oracle",
+    "address": "0xFa5a44D3Ba93D666Bf29C8804a36e725ecAc659A",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Oracle used to query FDV market caps for index component weighting",
+    "explorers": [
+      "https://etherscan.io/address/0xfa5a44d3ba93d666bf29c8804a36e725ecac659a"
+    ]
+  },
+  {
+    "name": "Chainlink DEGEN Oracle",
+    "address": "0x7Eee24183A36C84130d22dB16f01d593114A8391",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Example of oracle used to query circulating market caps for DEGEN index component weighting",
+    "explorers": [
+      "https://etherscan.io/address/0x7eee24183a36c84130d22db16f01d593114a8391"
+    ]
+  },
+  {
+    "name": "NirnVaultFactory",
+    "address": "0x0Cd08613dc6b04a7a58472f88791BE24C48be52E",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys Nirn vaults",
+    "explorers": [
+      "https://etherscan.io/address/0x0Cd08613dc6b04a7a58472f88791BE24C48be52E"
+    ]
+  },
+  {
+    "name": "CompoundProtocolAdapter",
+    "address": "0x7f77389B868718B5351433d8031D49921cd72acE",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Example of Nirn protocol adapter [Compound]",
+    "explorers": [
+      "https://etherscan.io/address/0x7f77389B868718B5351433d8031D49921cd72acE"
+    ]
+  },
+  {
+    "name": "AdapterRegistry",
+    "address": "0x5F2945604013Ee9f80aE2eDDb384462B681859C4",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Central repository for Nirn vaults and adapters (token and protocol)",
+    "explorers": [
+      "https://etherscan.io/address/0x5f2945604013ee9f80ae2eddb384462b681859c4"
+    ]
+  },
+  {
+    "name": "nDAI Vault",
+    "address": "0x5E9Fc917871ac9E42d579cDd8F2055ED97FF7d2D",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Example Nirn vault for DAI",
+    "explorers": [
+      "https://etherscan.io/address/0x5e9fc917871ac9e42d579cdd8f2055ed97ff7d2d"
+    ]
+  },
+  {
+    "name": "NDX",
+    "address": "0x86772b1409b61c639EaAc9Ba0AcfBb6E238e5F83",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Indexed (NDX) governance token",
+    "explorers": [
+      "https://etherscan.io/address/0x86772b1409b61c639eaac9ba0acfbb6e238e5f83"
+    ]
+  },
+  {
+    "name": "Timelock/Treasury",
+    "address": "0x78a3eF33cF033381FEB43ba4212f2Af5A5A0a2EA",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Contains DAO funds and index exit fees/Nirn revenue",
+    "explorers": [
+      "https://etherscan.io/address/0x78a3ef33cf033381feb43ba4212f2af5a5a0a2ea"
+    ]
+  },
+  {
+    "name": "Governor Alpha",
+    "address": "0x95129751769f99CC39824a0793eF4933DD8Bb74B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for how NDX holders propose and vote on the development of the protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x95129751769f99cc39824a0793ef4933dd8bb74b"
+    ]
+  }
+]
