@@ -1,0 +1,3975 @@
+[
+  {
+    "name": "BAG-BAG",
+    "address": "0xf487044eD85F2d47A8eAD6b86c834976B8c31736",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BAG farm for compounding BAG",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf487044ed85f2d47a8ead6b86c834976b8c31736",
+      "https://avascan.info/blockchain/c/address/0xf487044ed85f2d47a8ead6b86c834976b8c31736"
+    ]
+  },
+  {
+    "name": "BAG-QI-2",
+    "address": "0x8dc3cf91D0118121b5F152556E8E33804c1Ae1CD",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "BAG farm for compounding QI",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8dc3cf91d0118121b5f152556e8e33804c1ae1cd",
+      "https://avascan.info/blockchain/c/address/0x8dc3cf91d0118121b5f152556e8e33804c1ae1cd"
+    ]
+  },
+  {
+    "name": "BAG-QI",
+    "address": "0x976C480A2838EB668C502F9087765eD93E3CF892",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BAG farm for compounding QI",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x976c480a2838eb668c502f9087765ed93e3cf892",
+      "https://avascan.info/blockchain/c/address/0x976c480a2838eb668c502f9087765ed93e3cf892"
+    ]
+  },
+  {
+    "name": "BAG-WAVAX",
+    "address": "0x58887009A412Ad52a4FB746D0846585346d83BC0",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BAG farm for compounding WAVAX",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x58887009a412ad52a4fb746d0846585346d83bc0",
+      "https://avascan.info/blockchain/c/address/0x58887009a412ad52a4fb746d0846585346d83bc0"
+    ]
+  },
+  {
+    "name": "BAG-XAVA",
+    "address": "0x562ACEA3c03dBDDc25e2F24bb2685D17Bdb4e62f",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BAG farm for compounding XAVA",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x562acea3c03dbddc25e2f24bb2685d17bdb4e62f",
+      "https://avascan.info/blockchain/c/address/0x562acea3c03dbddc25e2f24bb2685d17bdb4e62f"
+    ]
+  },
+  {
+    "name": "BAMBOO-BAMBOO",
+    "address": "0x1Ad3bE171A6be9f6b9a60C30c5373185bD9c0B6e",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BAMBOO farm for compounding BAMBOO",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1ad3be171a6be9f6b9a60c30c5373185bd9c0b6e",
+      "https://avascan.info/blockchain/c/address/0x1ad3be171a6be9f6b9a60c30c5373185bd9c0b6e"
+    ]
+  },
+  {
+    "name": "BENQI-AVAX",
+    "address": "0x8B414448de8B609e96bd63Dcf2A8aDbd5ddf7fdd",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BENQI farm for compounding AVAX",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8b414448de8b609e96bd63dcf2a8adbd5ddf7fdd",
+      "https://avascan.info/blockchain/c/address/0x8b414448de8b609e96bd63dcf2a8adbd5ddf7fdd"
+    ]
+  },
+  {
+    "name": "BENQI-DAIe",
+    "address": "0x9669Fe1ea0d8883661289461b90a10B71Ae400Ee",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BENQI farm for compounding DAIe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9669fe1ea0d8883661289461b90a10b71ae400ee",
+      "https://avascan.info/blockchain/c/address/0x9669fe1ea0d8883661289461b90a10b71ae400ee"
+    ]
+  },
+  {
+    "name": "BENQI-LINKe",
+    "address": "0x4084F32A91F4D8636Ca08386EFE70c6E302F1d84",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BENQI farm for compounding LINKe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4084f32a91f4d8636ca08386efe70c6e302f1d84",
+      "https://avascan.info/blockchain/c/address/0x4084f32a91f4d8636ca08386efe70c6e302f1d84"
+    ]
+  },
+  {
+    "name": "BENQI-QI",
+    "address": "0xbF5bFFbf7D94D3B29aBE6eb20089b8a9E3D229f7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BENQI farm for compounding QI",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xbf5bffbf7d94d3b29abe6eb20089b8a9e3d229f7",
+      "https://avascan.info/blockchain/c/address/0xbf5bffbf7d94d3b29abe6eb20089b8a9e3d229f7"
+    ]
+  },
+  {
+    "name": "BENQI-USDCe",
+    "address": "0xFbDc6e63CF250E2843ffAef75717993b3D7CA89E",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BENQI farm for compounding USDCe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfbdc6e63cf250e2843ffaef75717993b3d7ca89e",
+      "https://avascan.info/blockchain/c/address/0xfbdc6e63cf250e2843ffaef75717993b3d7ca89e"
+    ]
+  },
+  {
+    "name": "BENQI-USDTe",
+    "address": "0x5bD57DFC6Bc4FC322da4a4A4dA9a0a05482644C2",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BENQI farm for compounding USDTe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5bd57dfc6bc4fc322da4a4a4da9a0a05482644c2",
+      "https://avascan.info/blockchain/c/address/0x5bd57dfc6bc4fc322da4a4a4da9a0a05482644c2"
+    ]
+  },
+  {
+    "name": "BENQI-WBTCe",
+    "address": "0x755c78D3bC25e297e8E010A2D1FCf49Cc43ADa21",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BENQI farm for compounding WBTCe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x755c78d3bc25e297e8e010a2d1fcf49cc43ada21",
+      "https://avascan.info/blockchain/c/address/0x755c78d3bc25e297e8e010a2d1fcf49cc43ada21"
+    ]
+  },
+  {
+    "name": "BENQI-WETHe",
+    "address": "0x7D2d076000611E44740d636843384412399e31b9",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BENQI farm for compounding WETHe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7d2d076000611e44740d636843384412399e31b9",
+      "https://avascan.info/blockchain/c/address/0x7d2d076000611e44740d636843384412399e31b9"
+    ]
+  },
+  {
+    "name": "BGL-AVAX-DAI",
+    "address": "0xA004785b6a53dd1f523d5519b5EFDC619B6b92c5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for AVAX-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xa004785b6a53dd1f523d5519b5efdc619b6b92c5",
+      "https://avascan.info/blockchain/c/address/0xa004785b6a53dd1f523d5519b5efdc619b6b92c5"
+    ]
+  },
+  {
+    "name": "BGL-AVAX-ETH",
+    "address": "0x8C3C86bEA8eD5ACbCE4944deF6731291Eb193C26",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8c3c86bea8ed5acbce4944def6731291eb193c26",
+      "https://avascan.info/blockchain/c/address/0x8c3c86bea8ed5acbce4944def6731291eb193c26"
+    ]
+  },
+  {
+    "name": "BGL-AVAX-LINK",
+    "address": "0xfb5Aa7660fDe5013996FD72a193ACCF00212Af32",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for AVAX-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfb5aa7660fde5013996fd72a193accf00212af32",
+      "https://avascan.info/blockchain/c/address/0xfb5aa7660fde5013996fd72a193accf00212af32"
+    ]
+  },
+  {
+    "name": "BGL-AVAX-USDT",
+    "address": "0xFD1F86448b56942C32B954092F2fDBCE91E37Bf6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfd1f86448b56942c32b954092f2fdbce91e37bf6",
+      "https://avascan.info/blockchain/c/address/0xfd1f86448b56942c32b954092f2fdbce91e37bf6"
+    ]
+  },
+  {
+    "name": "BGL-AVAX-WBTC",
+    "address": "0xFC47515433eE291E692958a2D15F99896FAFC0BC",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for AVAX-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfc47515433ee291e692958a2d15f99896fafc0bc",
+      "https://avascan.info/blockchain/c/address/0xfc47515433ee291e692958a2d15f99896fafc0bc"
+    ]
+  },
+  {
+    "name": "BGL-AVAX-XAVA",
+    "address": "0x39F7fCB3aF11B0a274514C581d468739e75f64EC",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for AVAX-XAVA LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x39f7fcb3af11b0a274514c581d468739e75f64ec",
+      "https://avascan.info/blockchain/c/address/0x39f7fcb3af11b0a274514c581d468739e75f64ec"
+    ]
+  },
+  {
+    "name": "BGL-BAG-AVAX",
+    "address": "0x908698B561eA14f153dDD1Ee02f99EBE0A4cea0f",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x908698b561ea14f153ddd1ee02f99ebe0a4cea0f",
+      "https://avascan.info/blockchain/c/address/0x908698b561ea14f153ddd1ee02f99ebe0a4cea0f"
+    ]
+  },
+  {
+    "name": "BGL-BAG-DAI",
+    "address": "0x8Bf6402AfcfE11519947829Af44770Fa44A01949",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8bf6402afcfe11519947829af44770fa44a01949",
+      "https://avascan.info/blockchain/c/address/0x8bf6402afcfe11519947829af44770fa44a01949"
+    ]
+  },
+  {
+    "name": "BGL-BAG-ETH",
+    "address": "0xBD9f16EeE869808bF22823427D1f4a1E7A440E8D",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xbd9f16eee869808bf22823427d1f4a1e7a440e8d",
+      "https://avascan.info/blockchain/c/address/0xbd9f16eee869808bf22823427d1f4a1e7a440e8d"
+    ]
+  },
+  {
+    "name": "BGL-BAG-LINK",
+    "address": "0x90E24A2dfd80F02D01c7B630E8e3199C8A0388D3",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x90e24a2dfd80f02d01c7b630e8e3199c8a0388d3",
+      "https://avascan.info/blockchain/c/address/0x90e24a2dfd80f02d01c7b630e8e3199c8a0388d3"
+    ]
+  },
+  {
+    "name": "BGL-BAG-LINKe",
+    "address": "0x3ca2cfd8E17C40ac6F4Aa6c1A4b1723F0Bf59dD8",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-LINKe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3ca2cfd8e17c40ac6f4aa6c1a4b1723f0bf59dd8",
+      "https://avascan.info/blockchain/c/address/0x3ca2cfd8e17c40ac6f4aa6c1a4b1723f0bf59dd8"
+    ]
+  },
+  {
+    "name": "BGL-BAG-QI",
+    "address": "0x9EE89F3a3Dfd596bb6F53696E2ed1D09C738f8c8",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-QI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9ee89f3a3dfd596bb6f53696e2ed1d09c738f8c8",
+      "https://avascan.info/blockchain/c/address/0x9ee89f3a3dfd596bb6f53696e2ed1d09c738f8c8"
+    ]
+  },
+  {
+    "name": "BGL-BAG-USDT",
+    "address": "0x165FA1023429E266Cd767845E8dE419Ce3abd379",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x165fa1023429e266cd767845e8de419ce3abd379",
+      "https://avascan.info/blockchain/c/address/0x165fa1023429e266cd767845e8de419ce3abd379"
+    ]
+  },
+  {
+    "name": "BGL-BAG-USDTe",
+    "address": "0xb940DA8b71791c1F42cc612d1af427878ec1A369",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb940da8b71791c1f42cc612d1af427878ec1a369",
+      "https://avascan.info/blockchain/c/address/0xb940da8b71791c1f42cc612d1af427878ec1a369"
+    ]
+  },
+  {
+    "name": "BGL-BAG-WBTC",
+    "address": "0x8F871D05d7AfB9dAffA5Df13A91c74e870e6c31E",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8f871d05d7afb9daffa5df13a91c74e870e6c31e",
+      "https://avascan.info/blockchain/c/address/0x8f871d05d7afb9daffa5df13a91c74e870e6c31e"
+    ]
+  },
+  {
+    "name": "BGL-BAG-WET",
+    "address": "0x211654525dC64A7f74F6361D6F3Dc0710108ae43",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-WET LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x211654525dc64a7f74f6361d6f3dc0710108ae43",
+      "https://avascan.info/blockchain/c/address/0x211654525dc64a7f74f6361d6f3dc0710108ae43"
+    ]
+  },
+  {
+    "name": "BGL-BAG-WETHe",
+    "address": "0x142b4e2c9234aFC3dC07e12d24493a4Ef26c537C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-WETHe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x142b4e2c9234afc3dc07e12d24493a4ef26c537c",
+      "https://avascan.info/blockchain/c/address/0x142b4e2c9234afc3dc07e12d24493a4ef26c537c"
+    ]
+  },
+  {
+    "name": "BGL-BAG-XAVA",
+    "address": "0xb667121B4D4b6ea5DE4bb61bd3a02E53529BfcCA",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-XAVA LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb667121b4d4b6ea5de4bb61bd3a02e53529bfcca",
+      "https://avascan.info/blockchain/c/address/0xb667121b4d4b6ea5de4bb61bd3a02e53529bfcca"
+    ]
+  },
+  {
+    "name": "BGL-BAG-YAK",
+    "address": "0x1B53500677cB1B042b12081a8661a6f08781D58c",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "BGL farm for BAG-YAK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1b53500677cb1b042b12081a8661a6f08781d58c",
+      "https://avascan.info/blockchain/c/address/0x1b53500677cb1b042b12081a8661a6f08781d58c"
+    ]
+  },
+  {
+    "name": "BalancesOfHelper",
+    "address": "0x70C9994Bd1A5ea76279a8eEDDA756C064Cc04026",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Helper files",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x70c9994bd1a5ea76279a8eedda756c064cc04026",
+      "https://avascan.info/blockchain/c/address/0x70c9994bd1a5ea76279a8eedda756c064cc04026"
+    ]
+  },
+  {
+    "name": "CLR-AVAX-ETH",
+    "address": "0x5F349aF20f87ec815301979fC9C434e2333641bF",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CLR farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5f349af20f87ec815301979fc9c434e2333641bf",
+      "https://avascan.info/blockchain/c/address/0x5f349af20f87ec815301979fc9c434e2333641bf"
+    ]
+  },
+  {
+    "name": "CLR-AVAX-LINK",
+    "address": "0x258Ed410926b57dc45915A479F4cefA130e5378B",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CLR farm for AVAX-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x258ed410926b57dc45915a479f4cefa130e5378b",
+      "https://avascan.info/blockchain/c/address/0x258ed410926b57dc45915a479f4cefa130e5378b"
+    ]
+  },
+  {
+    "name": "CLR-AVAX-PNG",
+    "address": "0x1f257A6E8e4873cc32ae4E69d8436Fe70C663fb7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CLR farm for AVAX-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1f257a6e8e4873cc32ae4e69d8436fe70c663fb7",
+      "https://avascan.info/blockchain/c/address/0x1f257a6e8e4873cc32ae4e69d8436fe70c663fb7"
+    ]
+  },
+  {
+    "name": "CLR-AVAX-USDT",
+    "address": "0xc0c50aB019d256Ec32023aFdca6868C022977da2",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CLR farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc0c50ab019d256ec32023afdca6868c022977da2",
+      "https://avascan.info/blockchain/c/address/0xc0c50ab019d256ec32023afdca6868c022977da2"
+    ]
+  },
+  {
+    "name": "CNR-CNR",
+    "address": "0xbd8B2bC5CaAb6843365084b529905964d0626248",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CNR farm for compounding CNR",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xbd8b2bc5caab6843365084b529905964d0626248",
+      "https://avascan.info/blockchain/c/address/0xbd8b2bc5caab6843365084b529905964d0626248"
+    ]
+  },
+  {
+    "name": "CNR-WAVAX",
+    "address": "0x1fc1f7A0943c589EDFf4A3650E40C0821B41901d",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CNR farm for compounding WAVAX",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1fc1f7a0943c589edff4a3650e40c0821b41901d",
+      "https://avascan.info/blockchain/c/address/0x1fc1f7a0943c589edff4a3650e40c0821b41901d"
+    ]
+  },
+  {
+    "name": "COM-LP-AVAX-COM",
+    "address": "0x7f3BB8dB336ff50120E290e5C8eC78B20f619D01",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "COM farm for AVAX-COM LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7f3bb8db336ff50120e290e5c8ec78b20f619d01",
+      "https://avascan.info/blockchain/c/address/0x7f3bb8db336ff50120e290e5c8ec78b20f619d01"
+    ]
+  },
+  {
+    "name": "COM-LP-AVAX-XCOM",
+    "address": "0xfd410034f88B99E4BeE8Bd7B51Fa323B6678Bf73",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "COM farm for AVAX-XCOM LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfd410034f88b99e4bee8bd7b51fa323b6678bf73",
+      "https://avascan.info/blockchain/c/address/0xfd410034f88b99e4bee8bd7b51fa323b6678bf73"
+    ]
+  },
+  {
+    "name": "CRL-CNR-AVAX",
+    "address": "0x779A387e67aF939A6E8E9cF664f69590763f9b06",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CRL farm for CNR-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x779a387e67af939a6e8e9cf664f69590763f9b06",
+      "https://avascan.info/blockchain/c/address/0x779a387e67af939a6e8e9cf664f69590763f9b06"
+    ]
+  },
+  {
+    "name": "CRL-CNR-ETH",
+    "address": "0x7175a0271375283bD3DD363018A4db9eD73639E4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CRL farm for CNR-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7175a0271375283bd3dd363018a4db9ed73639e4",
+      "https://avascan.info/blockchain/c/address/0x7175a0271375283bd3dd363018a4db9ed73639e4"
+    ]
+  },
+  {
+    "name": "CRL-CNR-LINK",
+    "address": "0x6094637C7A1B98Ee136fA1AaFaBd59E7b0B514be",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CRL farm for CNR-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6094637c7a1b98ee136fa1aafabd59e7b0b514be",
+      "https://avascan.info/blockchain/c/address/0x6094637c7a1b98ee136fa1aafabd59e7b0b514be"
+    ]
+  },
+  {
+    "name": "CRL-CNR-PNG",
+    "address": "0x5Da33bCD38FbC3e9632F9F6a198F4f0eF13746b6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CRL farm for CNR-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5da33bcd38fbc3e9632f9f6a198f4f0ef13746b6",
+      "https://avascan.info/blockchain/c/address/0x5da33bcd38fbc3e9632f9f6a198f4f0ef13746b6"
+    ]
+  },
+  {
+    "name": "CRL-CNR-USDT",
+    "address": "0xb74dE62EEf4EBb0d02e60BAf280F3C58080ec3C4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CRL farm for CNR-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb74de62eef4ebb0d02e60baf280f3c58080ec3c4",
+      "https://avascan.info/blockchain/c/address/0xb74de62eef4ebb0d02e60baf280f3c58080ec3c4"
+    ]
+  },
+  {
+    "name": "CRL-YAK-CNR",
+    "address": "0x316AD32f61eb06d537D1b545C5d4c5c2168Baf6a",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CRL farm for YAK-CNR LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x316ad32f61eb06d537d1b545c5d4c5c2168baf6a",
+      "https://avascan.info/blockchain/c/address/0x316ad32f61eb06d537d1b545c5d4c5c2168baf6a"
+    ]
+  },
+  {
+    "name": "CYCLE-JLP-DAIe-USDTe",
+    "address": "0x7d2dA0917500AFb3df94a09e24a34790A386B208",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CYCLE farm for DAIe-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7d2da0917500afb3df94a09e24a34790a386b208",
+      "https://avascan.info/blockchain/c/address/0x7d2da0917500afb3df94a09e24a34790a386b208"
+    ]
+  },
+  {
+    "name": "CYCLE-JLP-USDCe-DAIe",
+    "address": "0x87099fDE786144b554Af66Fb8cbE3130c8cb6470",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CYCLE farm for USDCe-DAIe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x87099fde786144b554af66fb8cbe3130c8cb6470",
+      "https://avascan.info/blockchain/c/address/0x87099fde786144b554af66fb8cbe3130c8cb6470"
+    ]
+  },
+  {
+    "name": "CYCLE-JLP-WETHe-AVAX",
+    "address": "0x3129FB69d734AeBeeeF7E40D33b5093f4284767c",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CYCLE farm for WETHe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3129fb69d734aebeeef7e40d33b5093f4284767c",
+      "https://avascan.info/blockchain/c/address/0x3129fb69d734aebeeef7e40d33b5093f4284767c"
+    ]
+  },
+  {
+    "name": "CYCLE-JLP-YAK-AVAX",
+    "address": "0x459f0Df3D59554dcd82A26C0373789D7ED3e0C53",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CYCLE farm for YAK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x459f0df3d59554dcd82a26c0373789d7ed3e0c53",
+      "https://avascan.info/blockchain/c/address/0x459f0df3d59554dcd82a26c0373789d7ed3e0c53"
+    ]
+  },
+  {
+    "name": "CYCLE-PGL-QI-AVAX",
+    "address": "0xF7A0D4E27F1A7663A10851710f0285afEf3467F7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "CYCLE farm for QI-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf7a0d4e27f1a7663a10851710f0285afef3467f7",
+      "https://avascan.info/blockchain/c/address/0xf7a0d4e27f1a7663a10851710f0285afef3467f7"
+    ]
+  },
+  {
+    "name": "ELP-AVAX-ELK",
+    "address": "0x449Ee12de33E45c5A5BaCBbE0f9DDd276e0ef417",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for AVAX-ELK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x449ee12de33e45c5a5bacbbe0f9ddd276e0ef417",
+      "https://avascan.info/blockchain/c/address/0x449ee12de33e45c5a5bacbbe0f9ddd276e0ef417"
+    ]
+  },
+  {
+    "name": "ELP-AVAX-ETH",
+    "address": "0x18DF163393c6DA3285C2888461b8fD736272E245",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x18df163393c6da3285c2888461b8fd736272e245",
+      "https://avascan.info/blockchain/c/address/0x18df163393c6da3285c2888461b8fd736272e245"
+    ]
+  },
+  {
+    "name": "ELP-AVAX-LINK",
+    "address": "0x6d76d0a8AD4F2325C6f4286DD3a40c1cd3B817dE",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for AVAX-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6d76d0a8ad4f2325c6f4286dd3a40c1cd3b817de",
+      "https://avascan.info/blockchain/c/address/0x6d76d0a8ad4f2325c6f4286dd3a40c1cd3b817de"
+    ]
+  },
+  {
+    "name": "ELP-AVAX-WBTC",
+    "address": "0xaa22703AF4a6575fEB316f078bdc584A94FdE108",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for AVAX-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xaa22703af4a6575feb316f078bdc584a94fde108",
+      "https://avascan.info/blockchain/c/address/0xaa22703af4a6575feb316f078bdc584a94fde108"
+    ]
+  },
+  {
+    "name": "ELP-ELK-AVAX-2",
+    "address": "0x07f11f5903Af3Bb24E27Af0f794Ef120726E76BB",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ELP farm for ELK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x07f11f5903af3bb24e27af0f794ef120726e76bb",
+      "https://avascan.info/blockchain/c/address/0x07f11f5903af3bb24e27af0f794ef120726e76bb"
+    ]
+  },
+  {
+    "name": "ELP-ELK-AVAX",
+    "address": "0xAcA969fb39FF5d572a219838411F218DE96615Fb",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for ELK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xaca969fb39ff5d572a219838411f218de96615fb",
+      "https://avascan.info/blockchain/c/address/0xaca969fb39ff5d572a219838411f218de96615fb"
+    ]
+  },
+  {
+    "name": "ELP-ELK-AVAX",
+    "address": "0x20afdEf84D1E87D9BfD8086F7269183E12C712E2",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ELP farm for ELK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x20afdef84d1e87d9bfd8086f7269183e12c712e2",
+      "https://avascan.info/blockchain/c/address/0x20afdef84d1e87d9bfd8086f7269183e12c712e2"
+    ]
+  },
+  {
+    "name": "ELP-ELK-DAI",
+    "address": "0x50F91f231F8eEca4ff6e0D4f2dABe7d22228D34d",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for ELK-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x50f91f231f8eeca4ff6e0d4f2dabe7d22228d34d",
+      "https://avascan.info/blockchain/c/address/0x50f91f231f8eeca4ff6e0d4f2dabe7d22228d34d"
+    ]
+  },
+  {
+    "name": "ELP-ELK-DAIe",
+    "address": "0x23824a5df28fdB675299fa6B34A96E6CDAE6EB2E",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for ELK-DAIe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x23824a5df28fdb675299fa6b34a96e6cdae6eb2e",
+      "https://avascan.info/blockchain/c/address/0x23824a5df28fdb675299fa6b34a96e6cdae6eb2e"
+    ]
+  },
+  {
+    "name": "ELP-ELK-ETH",
+    "address": "0xd661a38708E6544F2D32e302e6E893A97Be7314c",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for ELK-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xd661a38708e6544f2d32e302e6e893a97be7314c",
+      "https://avascan.info/blockchain/c/address/0xd661a38708e6544f2d32e302e6e893a97be7314c"
+    ]
+  },
+  {
+    "name": "ELP-ELK-ETH",
+    "address": "0xaa21128578043C10c5C50BFF1011879c5188dDB2",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ELP farm for ELK-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xaa21128578043c10c5c50bff1011879c5188ddb2",
+      "https://avascan.info/blockchain/c/address/0xaa21128578043c10c5c50bff1011879c5188ddb2"
+    ]
+  },
+  {
+    "name": "ELP-ELK-LINK",
+    "address": "0x882b1F5C8f5438e1C47Ef464A6199C70f20cCeDa",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for ELK-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x882b1f5c8f5438e1c47ef464a6199c70f20cceda",
+      "https://avascan.info/blockchain/c/address/0x882b1f5c8f5438e1c47ef464a6199c70f20cceda"
+    ]
+  },
+  {
+    "name": "ELP-ELK-LINK",
+    "address": "0xBA78660BCa43b5a692c632c2A02ff329701DcbF1",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ELP farm for ELK-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xba78660bca43b5a692c632c2a02ff329701dcbf1",
+      "https://avascan.info/blockchain/c/address/0xba78660bca43b5a692c632c2a02ff329701dcbf1"
+    ]
+  },
+  {
+    "name": "ELP-ELK-USDT",
+    "address": "0x1a7d36D12e12ABfA91e8da437bDa4c86657163e5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for ELK-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1a7d36d12e12abfa91e8da437bda4c86657163e5",
+      "https://avascan.info/blockchain/c/address/0x1a7d36d12e12abfa91e8da437bda4c86657163e5"
+    ]
+  },
+  {
+    "name": "ELP-ELK-USDT",
+    "address": "0xC2387b6AB5B75aacD6A4A94e44f8402f1E8AFdc2",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ELP farm for ELK-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc2387b6ab5b75aacd6a4a94e44f8402f1e8afdc2",
+      "https://avascan.info/blockchain/c/address/0xc2387b6ab5b75aacd6a4a94e44f8402f1e8afdc2"
+    ]
+  },
+  {
+    "name": "ELP-ELK-USDTe",
+    "address": "0x28Cd1849acbE189805BBc06f2E192b81189cE3E5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for ELK-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x28cd1849acbe189805bbc06f2e192b81189ce3e5",
+      "https://avascan.info/blockchain/c/address/0x28cd1849acbe189805bbc06f2e192b81189ce3e5"
+    ]
+  },
+  {
+    "name": "ELP-ELK-YAK",
+    "address": "0x1498d43FC704DEC72fD86B5f535Da65603aA466A",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ELP farm for ELK-YAK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1498d43fc704dec72fd86b5f535da65603aa466a",
+      "https://avascan.info/blockchain/c/address/0x1498d43fc704dec72fd86b5f535da65603aa466a"
+    ]
+  },
+  {
+    "name": "FROST-DAIe",
+    "address": "0x67F8190A37aA1F3516713F849bdF3B7b9E3dF3a0",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "FROST farm for compounding DAIe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x67f8190a37aa1f3516713f849bdf3b7b9e3df3a0",
+      "https://avascan.info/blockchain/c/address/0x67f8190a37aa1f3516713f849bdf3b7b9e3df3a0"
+    ]
+  },
+  {
+    "name": "FROST-JOE",
+    "address": "0xB6Bf27B1b3E0ce30A91533F2Fc251aFbda53E187",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "FROST farm for compounding JOE",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb6bf27b1b3e0ce30a91533f2fc251afbda53e187",
+      "https://avascan.info/blockchain/c/address/0xb6bf27b1b3e0ce30a91533f2fc251afbda53e187"
+    ]
+  },
+  {
+    "name": "FROST-PNG",
+    "address": "0x8a39f38b783857fd128A8bC3354f981160D750A7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "FROST farm for compounding PNG",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8a39f38b783857fd128a8bc3354f981160d750a7",
+      "https://avascan.info/blockchain/c/address/0x8a39f38b783857fd128a8bc3354f981160d750a7"
+    ]
+  },
+  {
+    "name": "FROST-TUNDRA",
+    "address": "0x7873238A924C6f00bE150b8CfDc3C233a8D5758B",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "FROST farm for compounding TUNDRA",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7873238a924c6f00be150b8cfdc3c233a8d5758b",
+      "https://avascan.info/blockchain/c/address/0x7873238a924c6f00be150b8cfdc3c233a8d5758b"
+    ]
+  },
+  {
+    "name": "FROST-USDTe",
+    "address": "0xa13ADB03619835E6e59ED0eD440bE765017D8715",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "FROST farm for compounding USDTe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xa13adb03619835e6e59ed0ed440be765017d8715",
+      "https://avascan.info/blockchain/c/address/0xa13adb03619835e6e59ed0ed440be765017d8715"
+    ]
+  },
+  {
+    "name": "FROST-YAK",
+    "address": "0x73d835325637FAF11Ae1838428510D9566E1a465",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "FROST farm for compounding YAK",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x73d835325637faf11ae1838428510d9566e1a465",
+      "https://avascan.info/blockchain/c/address/0x73d835325637faf11ae1838428510d9566e1a465"
+    ]
+  },
+  {
+    "name": "GDL-DAI-ZDAI",
+    "address": "0x57A6E0CEF1E32BeE5407BDcaB57dE10eEb383aA6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for DAI-ZDAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x57a6e0cef1e32bee5407bdcab57de10eeb383aa6",
+      "https://avascan.info/blockchain/c/address/0x57a6e0cef1e32bee5407bdcab57de10eeb383aa6"
+    ]
+  },
+  {
+    "name": "GDL-DAIe-USDTe",
+    "address": "0xecd3C537399D9DC65786a5ACcce94e48BD4988fF",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for DAIe-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xecd3c537399d9dc65786a5accce94e48bd4988ff",
+      "https://avascan.info/blockchain/c/address/0xecd3c537399d9dc65786a5accce94e48bd4988ff"
+    ]
+  },
+  {
+    "name": "GDL-ETH-ZETH",
+    "address": "0x0cAAA919FEeb50029f99b288e43a73c66178C976",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for ETH-ZETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0caaa919feeb50029f99b288e43a73c66178c976",
+      "https://avascan.info/blockchain/c/address/0x0caaa919feeb50029f99b288e43a73c66178c976"
+    ]
+  },
+  {
+    "name": "GDL-GDL",
+    "address": "0xB42cD0bea11ad9eC610F2bd5826463Bb93396538",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for compounding GDL",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb42cd0bea11ad9ec610f2bd5826463bb93396538",
+      "https://avascan.info/blockchain/c/address/0xb42cd0bea11ad9ec610f2bd5826463bb93396538"
+    ]
+  },
+  {
+    "name": "GDL-USDT-ZUSDT",
+    "address": "0x9968f0c68B9D812C226F3d6eb3cd3c958979E1af",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for USDT-ZUSDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9968f0c68b9d812c226f3d6eb3cd3c958979e1af",
+      "https://avascan.info/blockchain/c/address/0x9968f0c68b9d812c226f3d6eb3cd3c958979e1af"
+    ]
+  },
+  {
+    "name": "GDL-USDTe-TSD",
+    "address": "0x117A18E4f7514Ba89e5a1BDF92E2202EdAeD90E1",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for USDTe-TSD LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x117a18e4f7514ba89e5a1bdf92e2202edaed90e1",
+      "https://avascan.info/blockchain/c/address/0x117a18e4f7514ba89e5a1bdf92e2202edaed90e1"
+    ]
+  },
+  {
+    "name": "GDL-USDTe-USDCe",
+    "address": "0x0f12DC66F750d95fe7612dC757D7f352521bB61D",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for USDTe-USDCe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0f12dc66f750d95fe7612dc757d7f352521bb61d",
+      "https://avascan.info/blockchain/c/address/0x0f12dc66f750d95fe7612dc757d7f352521bb61d"
+    ]
+  },
+  {
+    "name": "GDL-WBTC-ZBTC",
+    "address": "0x8DF0790E9b9f06AdD676b53136Bd9734e4916D59",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for WBTC-ZBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8df0790e9b9f06add676b53136bd9734e4916d59",
+      "https://avascan.info/blockchain/c/address/0x8df0790e9b9f06add676b53136bd9734e4916d59"
+    ]
+  },
+  {
+    "name": "GDL-mYAK-YAK",
+    "address": "0x6DBF865f19cd0AACA9550bdDD3b92f4f4E239468",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "GDL farm for mYAK-YAK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6dbf865f19cd0aaca9550bddd3b92f4f4e239468",
+      "https://avascan.info/blockchain/c/address/0x6dbf865f19cd0aaca9550bddd3b92f4f4e239468"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-DAI",
+    "address": "0x75Cc908305b385ec1ff3646Bf84718780F95f20B",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x75cc908305b385ec1ff3646bf84718780f95f20b",
+      "https://avascan.info/blockchain/c/address/0x75cc908305b385ec1ff3646bf84718780f95f20b"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-ETH",
+    "address": "0xB18BfB17859C6B90dC0E374fe763A8AfCe25d80c",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb18bfb17859c6b90dc0e374fe763a8afce25d80c",
+      "https://avascan.info/blockchain/c/address/0xb18bfb17859c6b90dc0e374fe763a8afce25d80c"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-HUSKY",
+    "address": "0xCA400EbC7632A1a9346851A72Fd41A7Ef234077C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-HUSKY LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xca400ebc7632a1a9346851a72fd41a7ef234077c",
+      "https://avascan.info/blockchain/c/address/0xca400ebc7632a1a9346851a72fd41a7ef234077c"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-LINK",
+    "address": "0x5EA465E27F76B084F864addC47F04df8012B376a",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5ea465e27f76b084f864addc47f04df8012b376a",
+      "https://avascan.info/blockchain/c/address/0x5ea465e27f76b084f864addc47f04df8012b376a"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-LYD",
+    "address": "0x3335faf35C489A0872Bb6e4ADb274074b778c59A",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-LYD LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3335faf35c489a0872bb6e4adb274074b778c59a",
+      "https://avascan.info/blockchain/c/address/0x3335faf35c489a0872bb6e4adb274074b778c59a"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-PEFI",
+    "address": "0x92752C1d6912A12cd9Cf71093b8812c29E8Ef7F4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-PEFI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x92752c1d6912a12cd9cf71093b8812c29e8ef7f4",
+      "https://avascan.info/blockchain/c/address/0x92752c1d6912a12cd9cf71093b8812c29e8ef7f4"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-PNG",
+    "address": "0xB5B9CE35E6b3d5f8C800F19be5d8a76D9901f6B5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb5b9ce35e6b3d5f8c800f19be5d8a76d9901f6b5",
+      "https://avascan.info/blockchain/c/address/0xb5b9ce35e6b3d5f8c800f19be5d8a76d9901f6b5"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-SNOB",
+    "address": "0x77c26728465277510c4E33820a4D3b686F44Ab7E",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-SNOB LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x77c26728465277510c4e33820a4d3b686f44ab7e",
+      "https://avascan.info/blockchain/c/address/0x77c26728465277510c4e33820a4d3b686f44ab7e"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-USDT",
+    "address": "0x3d964716c98e732F84542FE38bDC3d21D1c7a9B1",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3d964716c98e732f84542fe38bdc3d21d1c7a9b1",
+      "https://avascan.info/blockchain/c/address/0x3d964716c98e732f84542fe38bdc3d21d1c7a9b1"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-WBTC",
+    "address": "0x85D6F430f30B24F5e933cB3F5E52487dEF8F4e75",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x85d6f430f30b24f5e933cb3f5e52487def8f4e75",
+      "https://avascan.info/blockchain/c/address/0x85d6f430f30b24f5e933cb3f5e52487def8f4e75"
+    ]
+  },
+  {
+    "name": "JLP-AVAX-XAVA",
+    "address": "0xD3D10b328c6cEe9FD599B11ea1272Fe829409bba",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for AVAX-XAVA LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xd3d10b328c6cee9fd599b11ea1272fe829409bba",
+      "https://avascan.info/blockchain/c/address/0xd3d10b328c6cee9fd599b11ea1272fe829409bba"
+    ]
+  },
+  {
+    "name": "JLP-DAI-USDT",
+    "address": "0xf6A7B70641bC02eBE9e57F347AC8Aa7197872e94",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for DAI-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf6a7b70641bc02ebe9e57f347ac8aa7197872e94",
+      "https://avascan.info/blockchain/c/address/0xf6a7b70641bc02ebe9e57f347ac8aa7197872e94"
+    ]
+  },
+  {
+    "name": "JLP-DAIe-AVAX",
+    "address": "0x698bceeE246934FbFFDbe222CC4444Ae7585C3cb",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for DAIe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x698bceee246934fbffdbe222cc4444ae7585c3cb",
+      "https://avascan.info/blockchain/c/address/0x698bceee246934fbffdbe222cc4444ae7585c3cb"
+    ]
+  },
+  {
+    "name": "JLP-DAIe-USDTe",
+    "address": "0x90148b6A79253c67131DdDf58EcB39B11663E40c",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for DAIe-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x90148b6a79253c67131dddf58ecb39b11663e40c",
+      "https://avascan.info/blockchain/c/address/0x90148b6a79253c67131dddf58ecb39b11663e40c"
+    ]
+  },
+  {
+    "name": "JLP-ELE-AVAX",
+    "address": "0xE8917E088FFaF180b061f6EAAc061bcf20f0Ab70",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for ELE-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe8917e088ffaf180b061f6eaac061bcf20f0ab70",
+      "https://avascan.info/blockchain/c/address/0xe8917e088ffaf180b061f6eaac061bcf20f0ab70"
+    ]
+  },
+  {
+    "name": "JLP-ETH-USDT",
+    "address": "0xE0A322B728275ACeD0323c9264b41184a75762f2",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for ETH-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe0a322b728275aced0323c9264b41184a75762f2",
+      "https://avascan.info/blockchain/c/address/0xe0a322b728275aced0323c9264b41184a75762f2"
+    ]
+  },
+  {
+    "name": "JLP-FRAX-AVAX",
+    "address": "0x6DA2Cd9D221a79769A72D78525437bb78602c57f",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for FRAX-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6da2cd9d221a79769a72d78525437bb78602c57f",
+      "https://avascan.info/blockchain/c/address/0x6da2cd9d221a79769a72d78525437bb78602c57f"
+    ]
+  },
+  {
+    "name": "JLP-JOE-AVAX",
+    "address": "0xeD8c2af5c9F7A0fa5AAa0D8F8E78DDCa28eef3D6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for JOE-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xed8c2af5c9f7a0fa5aaa0d8f8e78ddca28eef3d6",
+      "https://avascan.info/blockchain/c/address/0xed8c2af5c9f7a0fa5aaa0d8f8e78ddca28eef3d6"
+    ]
+  },
+  {
+    "name": "JLP-JOE-DAI",
+    "address": "0x1026733BBC59EDb627bf194b49f913A7A466466f",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for JOE-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1026733bbc59edb627bf194b49f913a7a466466f",
+      "https://avascan.info/blockchain/c/address/0x1026733bbc59edb627bf194b49f913a7a466466f"
+    ]
+  },
+  {
+    "name": "JLP-JOE-PNG",
+    "address": "0x551E9E18b2D292C3189f47ac129a5179db6eBC30",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for JOE-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x551e9e18b2d292c3189f47ac129a5179db6ebc30",
+      "https://avascan.info/blockchain/c/address/0x551e9e18b2d292c3189f47ac129a5179db6ebc30"
+    ]
+  },
+  {
+    "name": "JLP-JOE-USDT",
+    "address": "0x964A0c4f0C03a3d307dF4266e3A73a33FC804dbF",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for JOE-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x964a0c4f0c03a3d307df4266e3a73a33fc804dbf",
+      "https://avascan.info/blockchain/c/address/0x964a0c4f0c03a3d307df4266e3a73a33fc804dbf"
+    ]
+  },
+  {
+    "name": "JLP-JOE-USDTe",
+    "address": "0x3b2464afCDCCAca302357736df4B1d552e239fee",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for JOE-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3b2464afcdccaca302357736df4b1d552e239fee",
+      "https://avascan.info/blockchain/c/address/0x3b2464afcdccaca302357736df4b1d552e239fee"
+    ]
+  },
+  {
+    "name": "JLP-LINK-USDT",
+    "address": "0xA4d9aE5F2338e561182F030751654c2F4c00DE8F",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for LINK-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xa4d9ae5f2338e561182f030751654c2f4c00de8f",
+      "https://avascan.info/blockchain/c/address/0xa4d9ae5f2338e561182f030751654c2f4c00de8f"
+    ]
+  },
+  {
+    "name": "JLP-LINKe-AVAX",
+    "address": "0x1227a55a86ACa0331e450BA6A3750054Da35347D",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for LINKe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1227a55a86aca0331e450ba6a3750054da35347d",
+      "https://avascan.info/blockchain/c/address/0x1227a55a86aca0331e450ba6a3750054da35347d"
+    ]
+  },
+  {
+    "name": "JLP-LINKe-USDTe",
+    "address": "0x972CCEF781feB87450D52d929685B162E9d305C4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for LINKe-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x972ccef781feb87450d52d929685b162e9d305c4",
+      "https://avascan.info/blockchain/c/address/0x972ccef781feb87450d52d929685b162e9d305c4"
+    ]
+  },
+  {
+    "name": "JLP-MIM-AVAX",
+    "address": "0x11303d1552C95f96CaD65A3c0797f20d043e1AB5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for MIM-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x11303d1552c95f96cad65a3c0797f20d043e1ab5",
+      "https://avascan.info/blockchain/c/address/0x11303d1552c95f96cad65a3c0797f20d043e1ab5"
+    ]
+  },
+  {
+    "name": "JLP-QI-AVAX",
+    "address": "0x1fEb96Ef9B166859280B6992d4d6c4cdC5b694f6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for QI-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1feb96ef9b166859280b6992d4d6c4cdc5b694f6",
+      "https://avascan.info/blockchain/c/address/0x1feb96ef9b166859280b6992d4d6c4cdc5b694f6"
+    ]
+  },
+  {
+    "name": "JLP-SHERPA-AVAX",
+    "address": "0x6d0B40B7b1e5f68132E7faD3a4A6Bc06F165f560",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for SHERPA-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6d0b40b7b1e5f68132e7fad3a4a6bc06f165f560",
+      "https://avascan.info/blockchain/c/address/0x6d0b40b7b1e5f68132e7fad3a4a6bc06f165f560"
+    ]
+  },
+  {
+    "name": "JLP-SPELL-AVAX",
+    "address": "0x46CE405ee945B2D2cC494c62105D8284fb04B8Ba",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for SPELL-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x46ce405ee945b2d2cc494c62105d8284fb04b8ba",
+      "https://avascan.info/blockchain/c/address/0x46ce405ee945b2d2cc494c62105d8284fb04b8ba"
+    ]
+  },
+  {
+    "name": "JLP-SYN-AVAX",
+    "address": "0x19d6C1acd4DdA69b54BBe5dA8c45D8261A0E47FB",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for SYN-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x19d6c1acd4dda69b54bbe5da8c45d8261a0e47fb",
+      "https://avascan.info/blockchain/c/address/0x19d6c1acd4dda69b54bbe5da8c45d8261a0e47fb"
+    ]
+  },
+  {
+    "name": "JLP-TIME-AVAX",
+    "address": "0x048db6C50fFd46DF3bBD8332BB65c062F8D961a8",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for TIME-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x048db6c50ffd46df3bbd8332bb65c062f8d961a8",
+      "https://avascan.info/blockchain/c/address/0x048db6c50ffd46df3bbd8332bb65c062f8d961a8"
+    ]
+  },
+  {
+    "name": "JLP-USDCe-AVAX",
+    "address": "0xA1801f4FFD40b192A13A54614E66d3625d5C422e",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for USDCe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xa1801f4ffd40b192a13a54614e66d3625d5c422e",
+      "https://avascan.info/blockchain/c/address/0xa1801f4ffd40b192a13a54614e66d3625d5c422e"
+    ]
+  },
+  {
+    "name": "JLP-USDCe-DAIe",
+    "address": "0x7257F259c17226C5B09048308403757a6680f2C1",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for USDCe-DAIe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7257f259c17226c5b09048308403757a6680f2c1",
+      "https://avascan.info/blockchain/c/address/0x7257f259c17226c5b09048308403757a6680f2c1"
+    ]
+  },
+  {
+    "name": "JLP-USDTe-AVAX",
+    "address": "0xdD65Bb46A7C4a9ccB8d3Dd7caA40D75e0622e445",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for USDTe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xdd65bb46a7c4a9ccb8d3dd7caa40d75e0622e445",
+      "https://avascan.info/blockchain/c/address/0xdd65bb46a7c4a9ccb8d3dd7caa40d75e0622e445"
+    ]
+  },
+  {
+    "name": "JLP-USDTe-USDCe",
+    "address": "0x0B3f8eFa73B40AB006b99867D9abFc76dCf699C4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for USDTe-USDCe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0b3f8efa73b40ab006b99867d9abfc76dcf699c4",
+      "https://avascan.info/blockchain/c/address/0x0b3f8efa73b40ab006b99867d9abfc76dcf699c4"
+    ]
+  },
+  {
+    "name": "JLP-WBTC-USDT",
+    "address": "0xD3C3d0F3c745295c3cf727e3dA0c33f6296C16b1",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for WBTC-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xd3c3d0f3c745295c3cf727e3da0c33f6296c16b1",
+      "https://avascan.info/blockchain/c/address/0xd3c3d0f3c745295c3cf727e3da0c33f6296c16b1"
+    ]
+  },
+  {
+    "name": "JLP-WBTCe-AVAX",
+    "address": "0xF3B07e79E1F18315006642E9E5c1484d2C97A9E4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for WBTCe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf3b07e79e1f18315006642e9e5c1484d2c97a9e4",
+      "https://avascan.info/blockchain/c/address/0xf3b07e79e1f18315006642e9e5c1484d2c97a9e4"
+    ]
+  },
+  {
+    "name": "JLP-WBTCe-USDTe",
+    "address": "0xCb3257195A3Cec8f97d2375B7AA4939ce3e125E9",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for WBTCe-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xcb3257195a3cec8f97d2375b7aa4939ce3e125e9",
+      "https://avascan.info/blockchain/c/address/0xcb3257195a3cec8f97d2375b7aa4939ce3e125e9"
+    ]
+  },
+  {
+    "name": "JLP-WET-AVAX",
+    "address": "0x1154831d66afe2e825c0B400A0780B9756CC3240",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for WET-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1154831d66afe2e825c0b400a0780b9756cc3240",
+      "https://avascan.info/blockchain/c/address/0x1154831d66afe2e825c0b400a0780b9756cc3240"
+    ]
+  },
+  {
+    "name": "JLP-WETHe-AVAX",
+    "address": "0x45AF056a757D6649c24D74c2E4fE449682F6A2dB",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for WETHe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x45af056a757d6649c24d74c2e4fe449682f6a2db",
+      "https://avascan.info/blockchain/c/address/0x45af056a757d6649c24d74c2e4fe449682f6a2db"
+    ]
+  },
+  {
+    "name": "JLP-WETHe-USDTe",
+    "address": "0x16aeb10777f1315fc28084fe35a45F377c161cD3",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for WETHe-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x16aeb10777f1315fc28084fe35a45f377c161cd3",
+      "https://avascan.info/blockchain/c/address/0x16aeb10777f1315fc28084fe35a45f377c161cd3"
+    ]
+  },
+  {
+    "name": "JLP-YAK-AVAX",
+    "address": "0x468EBa06c845205Fb79098EF3b95c0b319DC0541",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for YAK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x468eba06c845205fb79098ef3b95c0b319dc0541",
+      "https://avascan.info/blockchain/c/address/0x468eba06c845205fb79098ef3b95c0b319dc0541"
+    ]
+  },
+  {
+    "name": "JLP-ZABU-AVAX",
+    "address": "0x68E7DD061b068eA476E979215e3C08a235BD0CeE",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for ZABU-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x68e7dd061b068ea476e979215e3c08a235bd0cee",
+      "https://avascan.info/blockchain/c/address/0x68e7dd061b068ea476e979215e3c08a235bd0cee"
+    ]
+  },
+  {
+    "name": "JLP-ZABU-USDTe",
+    "address": "0x0280988155EdB58210Fe30be5d429C0f1B91BcE6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for ZABU-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0280988155edb58210fe30be5d429c0f1b91bce6",
+      "https://avascan.info/blockchain/c/address/0x0280988155edb58210fe30be5d429c0f1b91bce6"
+    ]
+  },
+  {
+    "name": "JLP-mYAK-AVAX",
+    "address": "0x69d8EbE4A431D51ef6720b7e4aEd213615d2e614",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JLP farm for mYAK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x69d8ebe4a431d51ef6720b7e4aed213615d2e614",
+      "https://avascan.info/blockchain/c/address/0x69d8ebe4a431d51ef6720b7e4aed213615d2e614"
+    ]
+  },
+  {
+    "name": "JOE-JOE",
+    "address": "0x99D6aCaCA55ffcA5fE47755D17865d394E59c891",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "JOE farm for compounding JOE",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x99d6acaca55ffca5fe47755d17865d394e59c891",
+      "https://avascan.info/blockchain/c/address/0x99d6acaca55ffca5fe47755d17865d394e59c891"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-AVAX-ETH",
+    "address": "0x2eE33e53eBD75222c7c62F1e9FEB0bc9766136ba",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2ee33e53ebd75222c7c62f1e9feb0bc9766136ba",
+      "https://avascan.info/blockchain/c/address/0x2ee33e53ebd75222c7c62f1e9feb0bc9766136ba"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-AVAX-SUSHI",
+    "address": "0xf752325D33f748115660B8661ab7DE10cfd1997C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for AVAX-SUSHI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf752325d33f748115660b8661ab7de10cfd1997c",
+      "https://avascan.info/blockchain/c/address/0xf752325d33f748115660b8661ab7de10cfd1997c"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-AVAX-USDT",
+    "address": "0x7346502437C9F09AB040855f756EdeA2A2aC0912",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7346502437c9f09ab040855f756edea2a2ac0912",
+      "https://avascan.info/blockchain/c/address/0x7346502437c9f09ab040855f756edea2a2ac0912"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-AVAX-WBTC",
+    "address": "0x197e2AE97a783b9a7958eafd01e2467B875989d7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for AVAX-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x197e2ae97a783b9a7958eafd01e2467b875989d7",
+      "https://avascan.info/blockchain/c/address/0x197e2ae97a783b9a7958eafd01e2467b875989d7"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-DAIe-USDTe",
+    "address": "0x1933133cFab7Fd8908E776e63095aC58c0fAEaE3",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for DAIe-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1933133cfab7fd8908e776e63095ac58c0faeae3",
+      "https://avascan.info/blockchain/c/address/0x1933133cfab7fd8908e776e63095ac58c0faeae3"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LINKe-AVAX",
+    "address": "0xc8410344FDa4F4A348492a19b099B389494ED668",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LINKe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc8410344fda4f4a348492a19b099b389494ed668",
+      "https://avascan.info/blockchain/c/address/0xc8410344fda4f4a348492a19b099b389494ed668"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-AVAX",
+    "address": "0xFfbE3f2b1fF3f595e3059CCa8a7FcD3eB4D71949",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xffbe3f2b1ff3f595e3059cca8a7fcd3eb4d71949",
+      "https://avascan.info/blockchain/c/address/0xffbe3f2b1ff3f595e3059cca8a7fcd3eb4d71949"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-DAIe",
+    "address": "0xb9D554fee84Fa97fEee3525a162602860aE554c5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-DAIe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb9d554fee84fa97feee3525a162602860ae554c5",
+      "https://avascan.info/blockchain/c/address/0xb9d554fee84fa97feee3525a162602860ae554c5"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-ETH",
+    "address": "0x7A43D565837274eA2f6E6d95F4020871669C13C9",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7a43d565837274ea2f6e6d95f4020871669c13c9",
+      "https://avascan.info/blockchain/c/address/0x7a43d565837274ea2f6e6d95f4020871669c13c9"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-PNG",
+    "address": "0x104a9f8C3a1f3bF0814105E1fD457CD7775979cE",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x104a9f8c3a1f3bf0814105e1fd457cd7775979ce",
+      "https://avascan.info/blockchain/c/address/0x104a9f8c3a1f3bf0814105e1fd457cd7775979ce"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-SNOB",
+    "address": "0xF947758148e056Cd8096eFD07f536B59f3247206",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-SNOB LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf947758148e056cd8096efd07f536b59f3247206",
+      "https://avascan.info/blockchain/c/address/0xf947758148e056cd8096efd07f536b59f3247206"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-USDT",
+    "address": "0x069E889D729D4D96Dae10C86a4D1F629ad81adEf",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x069e889d729d4d96dae10c86a4d1f629ad81adef",
+      "https://avascan.info/blockchain/c/address/0x069e889d729d4d96dae10c86a4d1f629ad81adef"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-USDTe",
+    "address": "0x4934D7C4F22829432BE73bB29E7882B39F5E5C31",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4934d7c4f22829432be73bb29e7882b39f5e5c31",
+      "https://avascan.info/blockchain/c/address/0x4934d7c4f22829432be73bb29e7882b39f5e5c31"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-WETHe",
+    "address": "0x8FFeAc711b0F7dff69228eb40f33034b5fB822A2",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-WETHe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8ffeac711b0f7dff69228eb40f33034b5fb822a2",
+      "https://avascan.info/blockchain/c/address/0x8ffeac711b0f7dff69228eb40f33034b5fb822a2"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-LYD-XAVA",
+    "address": "0x998DB5870F83Fc6a1908125E3d7B85D58C9fA806",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for LYD-XAVA LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x998db5870f83fc6a1908125e3d7b85d58c9fa806",
+      "https://avascan.info/blockchain/c/address/0x998db5870f83fc6a1908125e3d7b85d58c9fa806"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-QI-AVAX",
+    "address": "0x87Cb748dCc4E22c0e6928b0BE738d958FEe4F304",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for QI-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x87cb748dcc4e22c0e6928b0be738d958fee4f304",
+      "https://avascan.info/blockchain/c/address/0x87cb748dcc4e22c0e6928b0be738d958fee4f304"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-USDTe-AVAX",
+    "address": "0x622bE93c63Fa148EC78fdb508Ac1AF1BA8BC0Dd4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for USDTe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x622be93c63fa148ec78fdb508ac1af1ba8bc0dd4",
+      "https://avascan.info/blockchain/c/address/0x622be93c63fa148ec78fdb508ac1af1ba8bc0dd4"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-WBTCe-AVAX",
+    "address": "0x481480FCEECA146743D75bFDa581946efBc74261",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for WBTCe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x481480fceeca146743d75bfda581946efbc74261",
+      "https://avascan.info/blockchain/c/address/0x481480fceeca146743d75bfda581946efbc74261"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-WETHe-AVAX",
+    "address": "0xC6eBfB1199fCa2841ac8A30c5Ac2D28Ced2ee204",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for WETHe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc6ebfb1199fca2841ac8a30c5ac2d28ced2ee204",
+      "https://avascan.info/blockchain/c/address/0xc6ebfb1199fca2841ac8a30c5ac2d28ced2ee204"
+    ]
+  },
+  {
+    "name": "LYDIA-LP-YAK-AVAX",
+    "address": "0xF32309A6C21C1C27b0a6b87E607B9862d67Be21f",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "LYDIA farm for YAK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf32309a6c21c1c27b0a6b87e607b9862d67be21f",
+      "https://avascan.info/blockchain/c/address/0xf32309a6c21c1c27b0a6b87e607b9862d67be21f"
+    ]
+  },
+  {
+    "name": "OLIVE-OLIVE",
+    "address": "0x4DD36b27e038E5c479d8BEC440c8f4eE89B6dF5D",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "OLIVE farm for compounding OLIVE",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4dd36b27e038e5c479d8bec440c8f4ee89b6df5d",
+      "https://avascan.info/blockchain/c/address/0x4dd36b27e038e5c479d8bec440c8f4ee89b6df5d"
+    ]
+  },
+  {
+    "name": "Olive-LP-AVAX-ELK",
+    "address": "0xded4e24C158b973D4cD309b19295954DD0ad5A23",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for AVAX-ELK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xded4e24c158b973d4cd309b19295954dd0ad5a23",
+      "https://avascan.info/blockchain/c/address/0xded4e24c158b973d4cd309b19295954dd0ad5a23"
+    ]
+  },
+  {
+    "name": "Olive-LP-AVAX-ETH",
+    "address": "0xa019F49464FCD206d080060CBbCB1A089441a732",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xa019f49464fcd206d080060cbbcb1a089441a732",
+      "https://avascan.info/blockchain/c/address/0xa019f49464fcd206d080060cbbcb1a089441a732"
+    ]
+  },
+  {
+    "name": "Olive-LP-AVAX-SNOB",
+    "address": "0x4CAceCe41645Ae3A78655cdC33320beD00f72437",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for AVAX-SNOB LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4cacece41645ae3a78655cdc33320bed00f72437",
+      "https://avascan.info/blockchain/c/address/0x4cacece41645ae3a78655cdc33320bed00f72437"
+    ]
+  },
+  {
+    "name": "Olive-LP-AVAX-USDT",
+    "address": "0x212dF67Bf1243eE57686883C9222637136bb65E4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x212df67bf1243ee57686883c9222637136bb65e4",
+      "https://avascan.info/blockchain/c/address/0x212df67bf1243ee57686883c9222637136bb65e4"
+    ]
+  },
+  {
+    "name": "Olive-LP-DAI-USDT",
+    "address": "0xC82ad2Eab7EE0B9226aE884255ca9c1cB33D9E2C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for DAI-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc82ad2eab7ee0b9226ae884255ca9c1cb33d9e2c",
+      "https://avascan.info/blockchain/c/address/0xc82ad2eab7ee0b9226ae884255ca9c1cb33d9e2c"
+    ]
+  },
+  {
+    "name": "Olive-LP-OLIVE-AVAX",
+    "address": "0xfDffdf6Dc4FB30BeDE8af0f78D42c5468F37324B",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for OLIVE-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfdffdf6dc4fb30bede8af0f78d42c5468f37324b",
+      "https://avascan.info/blockchain/c/address/0xfdffdf6dc4fb30bede8af0f78d42c5468f37324b"
+    ]
+  },
+  {
+    "name": "Olive-LP-OLIVE-USDT",
+    "address": "0x89a806347b0814a265Dc17aFc343866b2214dD0F",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for OLIVE-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x89a806347b0814a265dc17afc343866b2214dd0f",
+      "https://avascan.info/blockchain/c/address/0x89a806347b0814a265dc17afc343866b2214dd0f"
+    ]
+  },
+  {
+    "name": "Olive-LP-PNG-AVAX",
+    "address": "0xec2258cC4B75aD0a013C7346c07f7470AEa7F0e4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for PNG-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xec2258cc4b75ad0a013c7346c07f7470aea7f0e4",
+      "https://avascan.info/blockchain/c/address/0xec2258cc4b75ad0a013c7346c07f7470aea7f0e4"
+    ]
+  },
+  {
+    "name": "Olive-LP-SUSHI-AVAX",
+    "address": "0x3a8D3FBaB8b87473b9B2D78393200B099fA98497",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for SUSHI-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3a8d3fbab8b87473b9b2d78393200b099fa98497",
+      "https://avascan.info/blockchain/c/address/0x3a8d3fbab8b87473b9b2d78393200b099fa98497"
+    ]
+  },
+  {
+    "name": "Olive-LP-WBTC-AVAX",
+    "address": "0x9C36eca9309f0CeB5818da889E47D3c3E2ba9F32",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for WBTC-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9c36eca9309f0ceb5818da889e47d3c3e2ba9f32",
+      "https://avascan.info/blockchain/c/address/0x9c36eca9309f0ceb5818da889e47d3c3e2ba9f32"
+    ]
+  },
+  {
+    "name": "Olive-LP-mYAK-AVAX",
+    "address": "0x75912BF4454e7f7EA21B83BD1313974b69d8C63a",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Olive farm for mYAK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x75912bf4454e7f7ea21b83bd1313974b69d8c63a",
+      "https://avascan.info/blockchain/c/address/0x75912bf4454e7f7ea21b83bd1313974b69d8c63a"
+    ]
+  },
+  {
+    "name": "PEFI_PGL-ETH-AVAX",
+    "address": "0x8D325d788140c391Fcb55A45E19bB4c66Ef87529",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PEFI_PGL farm for ETH-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8d325d788140c391fcb55a45e19bb4c66ef87529",
+      "https://avascan.info/blockchain/c/address/0x8d325d788140c391fcb55a45e19bb4c66ef87529"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-AAVE",
+    "address": "0x09Ad8BafB4Da3951FF8d4EEbD91C654bCEAb053c",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-AAVE LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x09ad8bafb4da3951ff8d4eebd91c654bceab053c",
+      "https://avascan.info/blockchain/c/address/0x09ad8bafb4da3951ff8d4eebd91c654bceab053c"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-AAVE",
+    "address": "0xbaB74Ca880E918440AD5A8b9CCECe56cCE5CDA31",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-AAVE LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xbab74ca880e918440ad5a8b9ccece56cce5cda31",
+      "https://avascan.info/blockchain/c/address/0xbab74ca880e918440ad5a8b9ccece56cce5cda31"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-DAI",
+    "address": "0xEbbe895fA78D8CEbcc44a68dc95689F53B66c9a7",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xebbe895fa78d8cebcc44a68dc95689f53b66c9a7",
+      "https://avascan.info/blockchain/c/address/0xebbe895fa78d8cebcc44a68dc95689f53b66c9a7"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-DAI",
+    "address": "0xb373a54f7F773a99feBe49F2C5dB11756574f0CE",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb373a54f7f773a99febe49f2c5db11756574f0ce",
+      "https://avascan.info/blockchain/c/address/0xb373a54f7f773a99febe49f2c5db11756574f0ce"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-ETH",
+    "address": "0x241f66d7aE5053b63367BB083BA7d6c364ff4987",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x241f66d7ae5053b63367bb083ba7d6c364ff4987",
+      "https://avascan.info/blockchain/c/address/0x241f66d7ae5053b63367bb083ba7d6c364ff4987"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-ETH",
+    "address": "0xA7d7CDc5671858AEF49827A7a06a0E0880f8eEbf",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xa7d7cdc5671858aef49827a7a06a0e0880f8eebf",
+      "https://avascan.info/blockchain/c/address/0xa7d7cdc5671858aef49827a7a06a0e0880f8eebf"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-ETH",
+    "address": "0x06404FC9C69F8333DC24D4C856E2c8Db7983EB8a",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x06404fc9c69f8333dc24d4c856e2c8db7983eb8a",
+      "https://avascan.info/blockchain/c/address/0x06404fc9c69f8333dc24d4c856e2c8db7983eb8a"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-LINK",
+    "address": "0x02Fe99baBb22DA03B19D4696169b7E92f35445b9",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x02fe99babb22da03b19d4696169b7e92f35445b9",
+      "https://avascan.info/blockchain/c/address/0x02fe99babb22da03b19d4696169b7e92f35445b9"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-LINK",
+    "address": "0x0bc2Fb2d9Ba486cBF9e6192f982023f72E80f96F",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0bc2fb2d9ba486cbf9e6192f982023f72e80f96f",
+      "https://avascan.info/blockchain/c/address/0x0bc2fb2d9ba486cbf9e6192f982023f72e80f96f"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-PEFI",
+    "address": "0x579cF87201C82B21ba9ae29678B812E07fccf14C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVAX-PEFI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x579cf87201c82b21ba9ae29678b812e07fccf14c",
+      "https://avascan.info/blockchain/c/address/0x579cf87201c82b21ba9ae29678b812e07fccf14c"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-PNG",
+    "address": "0x6eDA40218604b9aBE4DC40d68a23A86f1F50B66C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVAX-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6eda40218604b9abe4dc40d68a23a86f1f50b66c",
+      "https://avascan.info/blockchain/c/address/0x6eda40218604b9abe4dc40d68a23a86f1f50b66c"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-PNG",
+    "address": "0xDf8CD9449babBf8C7687BbdB69d09EB413B78018",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xdf8cd9449babbf8c7687bbdb69d09eb413b78018",
+      "https://avascan.info/blockchain/c/address/0xdf8cd9449babbf8c7687bbdb69d09eb413b78018"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-PNG",
+    "address": "0xA544b965C2a05b97C44f3126cec916332aFb3175",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xa544b965c2a05b97c44f3126cec916332afb3175",
+      "https://avascan.info/blockchain/c/address/0xa544b965c2a05b97c44f3126cec916332afb3175"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-SNOB",
+    "address": "0xC9cD088fD5C17d5cbFd1ff331fa6A48F2f5D9Cb1",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVAX-SNOB LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc9cd088fd5c17d5cbfd1ff331fa6a48f2f5d9cb1",
+      "https://avascan.info/blockchain/c/address/0xc9cd088fd5c17d5cbfd1ff331fa6a48f2f5d9cb1"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-SNOB",
+    "address": "0x3b23E8a535B2a9e4C73f617c1c5A36299b3C57B2",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-SNOB LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3b23e8a535b2a9e4c73f617c1c5a36299b3c57b2",
+      "https://avascan.info/blockchain/c/address/0x3b23e8a535b2a9e4c73f617c1c5a36299b3c57b2"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-SPORE-2",
+    "address": "0x81514F9533753137E9F8842fe4BDefFFa3E3Dced",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-SPORE LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x81514f9533753137e9f8842fe4bdefffa3e3dced",
+      "https://avascan.info/blockchain/c/address/0x81514f9533753137e9f8842fe4bdefffa3e3dced"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-SPORE",
+    "address": "0x7be1a6637D753B16e5FF4E00F917Bb921617d805",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVAX-SPORE LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7be1a6637d753b16e5ff4e00f917bb921617d805",
+      "https://avascan.info/blockchain/c/address/0x7be1a6637d753b16e5ff4e00f917bb921617d805"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-SUSHI",
+    "address": "0xCdC094B37015569178fA6920492228aF811C4Db9",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-SUSHI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xcdc094b37015569178fa6920492228af811c4db9",
+      "https://avascan.info/blockchain/c/address/0xcdc094b37015569178fa6920492228af811c4db9"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-SUSHI",
+    "address": "0x206D15CB7DA413C0E662f284e00f907f51999a40",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-SUSHI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x206d15cb7da413c0e662f284e00f907f51999a40",
+      "https://avascan.info/blockchain/c/address/0x206d15cb7da413c0e662f284e00f907f51999a40"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-UNI",
+    "address": "0xB58535A99e2D615df6Ff00AD091D01310Daabda3",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVAX-UNI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb58535a99e2d615df6ff00ad091d01310daabda3",
+      "https://avascan.info/blockchain/c/address/0xb58535a99e2d615df6ff00ad091d01310daabda3"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-UNI",
+    "address": "0xb88F392e8992d1fc4b54FFED5164BD548C238d95",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-UNI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb88f392e8992d1fc4b54ffed5164bd548c238d95",
+      "https://avascan.info/blockchain/c/address/0xb88f392e8992d1fc4b54ffed5164bd548c238d95"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-UNI",
+    "address": "0x2521597A67DbA56932358F0a67f196BA0cD33053",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-UNI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2521597a67dba56932358f0a67f196ba0cd33053",
+      "https://avascan.info/blockchain/c/address/0x2521597a67dba56932358f0a67f196ba0cd33053"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-USDT",
+    "address": "0x4e42c97EFae0777643938262f43c247b702Ad7c6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4e42c97efae0777643938262f43c247b702ad7c6",
+      "https://avascan.info/blockchain/c/address/0x4e42c97efae0777643938262f43c247b702ad7c6"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-USDT",
+    "address": "0x9099A81DDb2c6Ee1Fd3993e021E6c9179f84CcD1",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9099a81ddb2c6ee1fd3993e021e6c9179f84ccd1",
+      "https://avascan.info/blockchain/c/address/0x9099a81ddb2c6ee1fd3993e021e6c9179f84ccd1"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-USDT",
+    "address": "0xe51d794d7822e5A78bA681A69294a31BF2117b94",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe51d794d7822e5a78ba681a69294a31bf2117b94",
+      "https://avascan.info/blockchain/c/address/0xe51d794d7822e5a78ba681a69294a31bf2117b94"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-VSO",
+    "address": "0xbFBbEB1Bde34C53533A38cFBb07c37fFA06502a5",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-VSO LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xbfbbeb1bde34c53533a38cfbb07c37ffa06502a5",
+      "https://avascan.info/blockchain/c/address/0xbfbbeb1bde34c53533a38cfbb07c37ffa06502a5"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-WBTC",
+    "address": "0x5D2E25ff380AE1e872Bc23184Af14dED67E3a29b",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5d2e25ff380ae1e872bc23184af14ded67e3a29b",
+      "https://avascan.info/blockchain/c/address/0x5d2e25ff380ae1e872bc23184af14ded67e3a29b"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-WBTC",
+    "address": "0x1817fE376740b53CAe73224B7F0a57F23DD4C9b5",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1817fe376740b53cae73224b7f0a57f23dd4c9b5",
+      "https://avascan.info/blockchain/c/address/0x1817fe376740b53cae73224b7f0a57f23dd4c9b5"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-YFI",
+    "address": "0x1EC356F7EA5a1cD8B479Cf7a27c76A24b323D409",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for AVAX-YFI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1ec356f7ea5a1cd8b479cf7a27c76a24b323d409",
+      "https://avascan.info/blockchain/c/address/0x1ec356f7ea5a1cd8b479cf7a27c76a24b323d409"
+    ]
+  },
+  {
+    "name": "PGL-AVAX-YFI",
+    "address": "0xF2a857Ee56f568989Da138653c044379c08f0657",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for AVAX-YFI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf2a857ee56f568989da138653c044379c08f0657",
+      "https://avascan.info/blockchain/c/address/0xf2a857ee56f568989da138653c044379c08f0657"
+    ]
+  },
+  {
+    "name": "PGL-AVE-AVAX",
+    "address": "0xfAeD69427E2444263b4C62c630a872A289a54865",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVE-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfaed69427e2444263b4c62c630a872a289a54865",
+      "https://avascan.info/blockchain/c/address/0xfaed69427e2444263b4c62c630a872a289a54865"
+    ]
+  },
+  {
+    "name": "PGL-AVME-AVAX",
+    "address": "0xb34fE8A87DFEbD5Ab0a03DB73F2d49b903E63DB6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for AVME-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb34fe8a87dfebd5ab0a03db73f2d49b903e63db6",
+      "https://avascan.info/blockchain/c/address/0xb34fe8a87dfebd5ab0a03db73f2d49b903e63db6"
+    ]
+  },
+  {
+    "name": "PGL-BIRD-AVAX",
+    "address": "0xF0c2d1D6A3D7Fb3d1Ddc2468fCF1d3B1AB648DaC",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for BIRD-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf0c2d1d6a3d7fb3d1ddc2468fcf1d3b1ab648dac",
+      "https://avascan.info/blockchain/c/address/0xf0c2d1d6a3d7fb3d1ddc2468fcf1d3b1ab648dac"
+    ]
+  },
+  {
+    "name": "PGL-BIRD-USDT",
+    "address": "0x43C1d15C34D73eb6dFD2bf39BC53C0a0b5724b17",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for BIRD-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x43c1d15c34d73eb6dfd2bf39bc53c0a0b5724b17",
+      "https://avascan.info/blockchain/c/address/0x43c1d15c34d73eb6dfd2bf39bc53c0a0b5724b17"
+    ]
+  },
+  {
+    "name": "PGL-CYCLE-AVAX",
+    "address": "0xE285a5Cb85297a10fB65EB8FEdbf3900eC242dB8",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for CYCLE-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe285a5cb85297a10fb65eb8fedbf3900ec242db8",
+      "https://avascan.info/blockchain/c/address/0xe285a5cb85297a10fb65eb8fedbf3900ec242db8"
+    ]
+  },
+  {
+    "name": "PGL-DAIe-AVAX",
+    "address": "0x07d392a242a4E62919C316fF8EEe210e4034ed20",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for DAIe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x07d392a242a4e62919c316ff8eee210e4034ed20",
+      "https://avascan.info/blockchain/c/address/0x07d392a242a4e62919c316ff8eee210e4034ed20"
+    ]
+  },
+  {
+    "name": "PGL-DAIe-PNG",
+    "address": "0x3683B47E3FE0A37e624Fb82D60D593042b1920f1",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for DAIe-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3683b47e3fe0a37e624fb82d60d593042b1920f1",
+      "https://avascan.info/blockchain/c/address/0x3683b47e3fe0a37e624fb82d60d593042b1920f1"
+    ]
+  },
+  {
+    "name": "PGL-GAJ-AVAX",
+    "address": "0xb7e864cB98896b8E348d31Bda03C3524dc709041",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for GAJ-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb7e864cb98896b8e348d31bda03c3524dc709041",
+      "https://avascan.info/blockchain/c/address/0xb7e864cb98896b8e348d31bda03c3524dc709041"
+    ]
+  },
+  {
+    "name": "PGL-GAJ-PNG",
+    "address": "0x8DbDD4A46ABE939a98b5876702bFF56EA4Cd33Ad",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for GAJ-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8dbdd4a46abe939a98b5876702bff56ea4cd33ad",
+      "https://avascan.info/blockchain/c/address/0x8dbdd4a46abe939a98b5876702bff56ea4cd33ad"
+    ]
+  },
+  {
+    "name": "PGL-GDL-AVAX",
+    "address": "0xfdd8B1444B3A929979d84E2255Ab52cb9F7B5a4C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for GDL-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfdd8b1444b3a929979d84e2255ab52cb9f7b5a4c",
+      "https://avascan.info/blockchain/c/address/0xfdd8b1444b3a929979d84e2255ab52cb9f7b5a4c"
+    ]
+  },
+  {
+    "name": "PGL-LINKe-AVAX",
+    "address": "0x5Be841f804Be8f9825c85e728f9b7c8EE55da507",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for LINKe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5be841f804be8f9825c85e728f9b7c8ee55da507",
+      "https://avascan.info/blockchain/c/address/0x5be841f804be8f9825c85e728f9b7c8ee55da507"
+    ]
+  },
+  {
+    "name": "PGL-LINKe-PNG",
+    "address": "0x59280E53ac2202563Ad3Dd6FfdC5Ee954C540501",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for LINKe-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x59280e53ac2202563ad3dd6ffdc5ee954c540501",
+      "https://avascan.info/blockchain/c/address/0x59280e53ac2202563ad3dd6ffdc5ee954c540501"
+    ]
+  },
+  {
+    "name": "PGL-PEFI-DAI",
+    "address": "0xc474e6cAE8b7c7E43b3c69125A7226A4A08a4229",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for PEFI-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc474e6cae8b7c7e43b3c69125a7226a4a08a4229",
+      "https://avascan.info/blockchain/c/address/0xc474e6cae8b7c7e43b3c69125a7226a4a08a4229"
+    ]
+  },
+  {
+    "name": "PGL-PEFI-LINK",
+    "address": "0xe97e85a8cc54980e0370faA196DAE25E43b2aef0",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for PEFI-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe97e85a8cc54980e0370faa196dae25e43b2aef0",
+      "https://avascan.info/blockchain/c/address/0xe97e85a8cc54980e0370faa196dae25e43b2aef0"
+    ]
+  },
+  {
+    "name": "PGL-PNG-DAI",
+    "address": "0x8c325C11e06619Ba0825010feD6D565b4FddC887",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for PNG-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8c325c11e06619ba0825010fed6d565b4fddc887",
+      "https://avascan.info/blockchain/c/address/0x8c325c11e06619ba0825010fed6d565b4fddc887"
+    ]
+  },
+  {
+    "name": "PGL-PNG-ETH",
+    "address": "0xe867eC0fa1969380960fE544F2A8d5758A26E254",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for PNG-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe867ec0fa1969380960fe544f2a8d5758a26e254",
+      "https://avascan.info/blockchain/c/address/0xe867ec0fa1969380960fe544f2a8d5758a26e254"
+    ]
+  },
+  {
+    "name": "PGL-PNG-LINK",
+    "address": "0x0Bd7cdDB6B76eeAA8AAaEC124e7Ffe0d26496D3e",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for PNG-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0bd7cddb6b76eeaa8aaaec124e7ffe0d26496d3e",
+      "https://avascan.info/blockchain/c/address/0x0bd7cddb6b76eeaa8aaaec124e7ffe0d26496d3e"
+    ]
+  },
+  {
+    "name": "PGL-PNG-PEFI",
+    "address": "0xbD42169E094CD8b95513cB3640e9D37418258E17",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for PNG-PEFI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xbd42169e094cd8b95513cb3640e9d37418258e17",
+      "https://avascan.info/blockchain/c/address/0xbd42169e094cd8b95513cb3640e9d37418258e17"
+    ]
+  },
+  {
+    "name": "PGL-PNG-SNOB",
+    "address": "0x9550593eA20359A4EfeB914C1FFf2d123EC9C091",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for PNG-SNOB LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9550593ea20359a4efeb914c1fff2d123ec9c091",
+      "https://avascan.info/blockchain/c/address/0x9550593ea20359a4efeb914c1fff2d123ec9c091"
+    ]
+  },
+  {
+    "name": "PGL-PNG-SPORE-2",
+    "address": "0x816D5441C47d6d8fa62b28b6CB32aE7e72fB0E7a",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for PNG-SPORE LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x816d5441c47d6d8fa62b28b6cb32ae7e72fb0e7a",
+      "https://avascan.info/blockchain/c/address/0x816d5441c47d6d8fa62b28b6cb32ae7e72fb0e7a"
+    ]
+  },
+  {
+    "name": "PGL-PNG-SPORE",
+    "address": "0x7832928758afD045cE857aFe5b6320466b5c05ed",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for PNG-SPORE LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7832928758afd045ce857afe5b6320466b5c05ed",
+      "https://avascan.info/blockchain/c/address/0x7832928758afd045ce857afe5b6320466b5c05ed"
+    ]
+  },
+  {
+    "name": "PGL-PNG-SUSHI",
+    "address": "0x75E302c0F29f75813a1DBEB9fCADfdeE48ebE362",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for PNG-SUSHI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x75e302c0f29f75813a1dbeb9fcadfdee48ebe362",
+      "https://avascan.info/blockchain/c/address/0x75e302c0f29f75813a1dbeb9fcadfdee48ebe362"
+    ]
+  },
+  {
+    "name": "PGL-PNG-USDT",
+    "address": "0xB9C5AE872E946bB2b39f1CFBEb2749830cCf20fa",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for PNG-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb9c5ae872e946bb2b39f1cfbeb2749830ccf20fa",
+      "https://avascan.info/blockchain/c/address/0xb9c5ae872e946bb2b39f1cfbeb2749830ccf20fa"
+    ]
+  },
+  {
+    "name": "PGL-PNG-VSO",
+    "address": "0x2cFB60bD96B5215437c3e9D2cAB218fcE29F096C",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for PNG-VSO LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2cfb60bd96b5215437c3e9d2cab218fce29f096c",
+      "https://avascan.info/blockchain/c/address/0x2cfb60bd96b5215437c3e9d2cab218fce29f096c"
+    ]
+  },
+  {
+    "name": "PGL-PNG-WBTC",
+    "address": "0xf1854dCe74e2e354ce6Acb5dAAa77A93690820D4",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "PGL farm for PNG-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf1854dce74e2e354ce6acb5daaa77a93690820d4",
+      "https://avascan.info/blockchain/c/address/0xf1854dce74e2e354ce6acb5daaa77a93690820d4"
+    ]
+  },
+  {
+    "name": "PGL-QI-AVAX",
+    "address": "0x8E2DCd0F79C024c02A8d88A9c8C366E64bD8feA9",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for QI-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8e2dcd0f79c024c02a8d88a9c8c366e64bd8fea9",
+      "https://avascan.info/blockchain/c/address/0x8e2dcd0f79c024c02a8d88a9c8c366e64bd8fea9"
+    ]
+  },
+  {
+    "name": "PGL-QI-PNG",
+    "address": "0x5adcc735654Bfa472e8c47a639b08292913eD773",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for QI-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5adcc735654bfa472e8c47a639b08292913ed773",
+      "https://avascan.info/blockchain/c/address/0x5adcc735654bfa472e8c47a639b08292913ed773"
+    ]
+  },
+  {
+    "name": "PGL-SNOB-PEFI",
+    "address": "0x6b128f920813dF43Ac91D83ed8A79b08C99a41db",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for SNOB-PEFI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6b128f920813df43ac91d83ed8a79b08c99a41db",
+      "https://avascan.info/blockchain/c/address/0x6b128f920813df43ac91d83ed8a79b08c99a41db"
+    ]
+  },
+  {
+    "name": "PGL-STORM-AVAX",
+    "address": "0xe84BC4114f38D7259D04cE53DF8aaA784dd6680d",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for STORM-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe84bc4114f38d7259d04ce53df8aaa784dd6680d",
+      "https://avascan.info/blockchain/c/address/0xe84bc4114f38d7259d04ce53df8aaa784dd6680d"
+    ]
+  },
+  {
+    "name": "PGL-STORM-USDTe",
+    "address": "0xbb0841e1b782E001aF08cDD5097A7a09162B9ec6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for STORM-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xbb0841e1b782e001af08cdd5097a7a09162b9ec6",
+      "https://avascan.info/blockchain/c/address/0xbb0841e1b782e001af08cdd5097a7a09162b9ec6"
+    ]
+  },
+  {
+    "name": "PGL-SUSHI-PEFI",
+    "address": "0x976EEea238514fd13A4aB3E4cB45EfA17F9426A7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for SUSHI-PEFI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x976eeea238514fd13a4ab3e4cb45efa17f9426a7",
+      "https://avascan.info/blockchain/c/address/0x976eeea238514fd13a4ab3e4cb45efa17f9426a7"
+    ]
+  },
+  {
+    "name": "PGL-TUNDRA-AVAX",
+    "address": "0x2eC16d231f4001153dD84Da477455D0BcB7d5c71",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for TUNDRA-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2ec16d231f4001153dd84da477455d0bcb7d5c71",
+      "https://avascan.info/blockchain/c/address/0x2ec16d231f4001153dd84da477455d0bcb7d5c71"
+    ]
+  },
+  {
+    "name": "PGL-TUNDRA-DAIe",
+    "address": "0xFB503e8CC1657aDEb1A7ed40A0D7aE77ECeCaAfd",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for TUNDRA-DAIe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfb503e8cc1657adeb1a7ed40a0d7ae77ececaafd",
+      "https://avascan.info/blockchain/c/address/0xfb503e8cc1657adeb1a7ed40a0d7ae77ececaafd"
+    ]
+  },
+  {
+    "name": "PGL-TUNDRA-USDTe",
+    "address": "0x942B94A79fBe8Ae12594ee4510619B5209D4a6D4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for TUNDRA-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x942b94a79fbe8ae12594ee4510619b5209d4a6d4",
+      "https://avascan.info/blockchain/c/address/0x942b94a79fbe8ae12594ee4510619b5209d4a6d4"
+    ]
+  },
+  {
+    "name": "PGL-USDCe-AVAX",
+    "address": "0x4647247005A15594D16a226867812F509C4557ED",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for USDCe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4647247005a15594d16a226867812f509c4557ed",
+      "https://avascan.info/blockchain/c/address/0x4647247005a15594d16a226867812f509c4557ed"
+    ]
+  },
+  {
+    "name": "PGL-USDCe-PNG",
+    "address": "0x14d35e27D1381C73AA748f39eCa82c6E6f759392",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for USDCe-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x14d35e27d1381c73aa748f39eca82c6e6f759392",
+      "https://avascan.info/blockchain/c/address/0x14d35e27d1381c73aa748f39eca82c6e6f759392"
+    ]
+  },
+  {
+    "name": "PGL-USDTe-AVAX",
+    "address": "0x54ee73D619D332E360bB3895Ee1647E18dCD21F7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for USDTe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x54ee73d619d332e360bb3895ee1647e18dcd21f7",
+      "https://avascan.info/blockchain/c/address/0x54ee73d619d332e360bb3895ee1647e18dcd21f7"
+    ]
+  },
+  {
+    "name": "PGL-USDTe-PNG",
+    "address": "0xC5D0efF84fF61A8A6b6CcF6852506AFb51fe803F",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for USDTe-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc5d0eff84ff61a8a6b6ccf6852506afb51fe803f",
+      "https://avascan.info/blockchain/c/address/0xc5d0eff84ff61a8a6b6ccf6852506afb51fe803f"
+    ]
+  },
+  {
+    "name": "PGL-WBTCe-AVAX",
+    "address": "0x6296043F1cE18a94eE61A9d6dA99281197d73a00",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for WBTCe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6296043f1ce18a94ee61a9d6da99281197d73a00",
+      "https://avascan.info/blockchain/c/address/0x6296043f1ce18a94ee61a9d6da99281197d73a00"
+    ]
+  },
+  {
+    "name": "PGL-WETHe-AVAX",
+    "address": "0xF3072d053EAcFAB3adcA9edde5913610566D82D6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for WETHe-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf3072d053eacfab3adca9edde5913610566d82d6",
+      "https://avascan.info/blockchain/c/address/0xf3072d053eacfab3adca9edde5913610566d82d6"
+    ]
+  },
+  {
+    "name": "PGL-WETHe-PNG",
+    "address": "0x093Dcad3a5257457746de4c614F983b23B982602",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for WETHe-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x093dcad3a5257457746de4c614f983b23b982602",
+      "https://avascan.info/blockchain/c/address/0x093dcad3a5257457746de4c614f983b23b982602"
+    ]
+  },
+  {
+    "name": "PGL-XAVA-AVAX-2",
+    "address": "0x9d2935dcb0225cD79169cB71F45157cfFC6cDD42",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for XAVA-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9d2935dcb0225cd79169cb71f45157cffc6cdd42",
+      "https://avascan.info/blockchain/c/address/0x9d2935dcb0225cd79169cb71f45157cffc6cdd42"
+    ]
+  },
+  {
+    "name": "PGL-XAVA-AVAX",
+    "address": "0x9B3365CF1927c29Fa6C1d9bbD214A6bf7b893a06",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for XAVA-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9b3365cf1927c29fa6c1d9bbd214a6bf7b893a06",
+      "https://avascan.info/blockchain/c/address/0x9b3365cf1927c29fa6c1d9bbd214a6bf7b893a06"
+    ]
+  },
+  {
+    "name": "PGL-XAVA-AVAX",
+    "address": "0x08337a1549166dCc463279B68f0028b2f0515B0B",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for XAVA-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x08337a1549166dcc463279b68f0028b2f0515b0b",
+      "https://avascan.info/blockchain/c/address/0x08337a1549166dcc463279b68f0028b2f0515b0b"
+    ]
+  },
+  {
+    "name": "PGL-YAK-AVAX-2",
+    "address": "0xE8326E606793bf60a7A9Ee13AAEe1C06b3D4e491",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "PGL farm for YAK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe8326e606793bf60a7a9ee13aaee1c06b3d4e491",
+      "https://avascan.info/blockchain/c/address/0xe8326e606793bf60a7a9ee13aaee1c06b3d4e491"
+    ]
+  },
+  {
+    "name": "PGL-YAK-AVAX",
+    "address": "0x2D5c943ee961b7DC605CA192a19Fd0Fe9258aC5F",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for YAK-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2d5c943ee961b7dc605ca192a19fd0fe9258ac5f",
+      "https://avascan.info/blockchain/c/address/0x2d5c943ee961b7dc605ca192a19fd0fe9258ac5f"
+    ]
+  },
+  {
+    "name": "PGL-YAK-PNG",
+    "address": "0x0e3AAE51740325E41351103Ad4A0594900100b43",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for YAK-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0e3aae51740325e41351103ad4a0594900100b43",
+      "https://avascan.info/blockchain/c/address/0x0e3aae51740325e41351103ad4a0594900100b43"
+    ]
+  },
+  {
+    "name": "PGL-ZABU-AVAX",
+    "address": "0x38056B8AD79256cECf7a2Ab6103A9c00AbE61214",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for ZABU-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x38056b8ad79256cecf7a2ab6103a9c00abe61214",
+      "https://avascan.info/blockchain/c/address/0x38056b8ad79256cecf7a2ab6103a9c00abe61214"
+    ]
+  },
+  {
+    "name": "PGL-ZABU-USDTe",
+    "address": "0xD3F113CFC44A5E28a6683A2D0424d3ea6CCc2aC0",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PGL farm for ZABU-USDTe LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xd3f113cfc44a5e28a6683a2d0424d3ea6ccc2ac0",
+      "https://avascan.info/blockchain/c/address/0xd3f113cfc44a5e28a6683a2d0424d3ea6ccc2ac0"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-BAMBOO-V2",
+    "address": "0x37A83906a69d6236DBcB4d8257D8f62d1f3BBcD5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for BAMBOO-V2 LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x37a83906a69d6236dbcb4d8257d8f62d1f3bbcd5",
+      "https://avascan.info/blockchain/c/address/0x37a83906a69d6236dbcb4d8257d8f62d1f3bbcd5"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-BAMBOO",
+    "address": "0xF0BDE208A05CC0a056B5FAE1a78212Adf7A4AFfe",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for AVAX-BAMBOO LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf0bde208a05cc0a056b5fae1a78212adf7a4affe",
+      "https://avascan.info/blockchain/c/address/0xf0bde208a05cc0a056b5fae1a78212adf7a4affe"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-BTC-V2",
+    "address": "0xDEfC4b949EA970533FE6F5A75248d4Da534F8873",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for BTC-V2 LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xdefc4b949ea970533fe6f5a75248d4da534f8873",
+      "https://avascan.info/blockchain/c/address/0xdefc4b949ea970533fe6f5a75248d4da534f8873"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-BTC",
+    "address": "0x06Fd3eceE685cA5717c814dc7a790641E98aD9c7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for AVAX-BTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x06fd3ecee685ca5717c814dc7a790641e98ad9c7",
+      "https://avascan.info/blockchain/c/address/0x06fd3ecee685ca5717c814dc7a790641e98ad9c7"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-ETH-Strategy",
+    "address": "0xE8F4423a2ab1Bf71712Cc5dE8fBad4cAa42B101C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for ETH-Strategy LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe8f4423a2ab1bf71712cc5de8fbad4caa42b101c",
+      "https://avascan.info/blockchain/c/address/0xe8f4423a2ab1bf71712cc5de8fbad4caa42b101c"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-ETH-V2",
+    "address": "0x0b4a63943e96463b432ec79E7287E63d830BEC51",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for ETH-V2 LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0b4a63943e96463b432ec79e7287e63d830bec51",
+      "https://avascan.info/blockchain/c/address/0x0b4a63943e96463b432ec79e7287e63d830bec51"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-ETH-Vault",
+    "address": "0xd335117acC6BF8B829Fa0687776FE99B3888fbFD",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for ETH-Vault LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xd335117acc6bf8b829fa0687776fe99b3888fbfd",
+      "https://avascan.info/blockchain/c/address/0xd335117acc6bf8b829fa0687776fe99b3888fbfd"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-ETH",
+    "address": "0xC0787Fd12249451763be576cf73621f3aF61ebBD",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc0787fd12249451763be576cf73621f3af61ebbd",
+      "https://avascan.info/blockchain/c/address/0xc0787fd12249451763be576cf73621f3af61ebbd"
+    ]
+  },
+  {
+    "name": "PLP-AVAX-USDT",
+    "address": "0x00508fD84E2aCA19B8aF38C2c59171971D97495b",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x00508fd84e2aca19b8af38c2c59171971d97495b",
+      "https://avascan.info/blockchain/c/address/0x00508fd84e2aca19b8af38c2c59171971d97495b"
+    ]
+  },
+  {
+    "name": "PLP-DAI-USDT",
+    "address": "0x43801E030AFbdFD9A30dA3E5321DD6B609083BCB",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for DAI-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x43801e030afbdfd9a30da3e5321dd6b609083bcb",
+      "https://avascan.info/blockchain/c/address/0x43801e030afbdfd9a30da3e5321dd6b609083bcb"
+    ]
+  },
+  {
+    "name": "PLP-ETH-WBTC-V2",
+    "address": "0x69293F1f9F4ad45ef9295f94ccaED0C045466214",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for WBTC-V2 LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x69293f1f9f4ad45ef9295f94ccaed0c045466214",
+      "https://avascan.info/blockchain/c/address/0x69293f1f9f4ad45ef9295f94ccaed0c045466214"
+    ]
+  },
+  {
+    "name": "PLP-ETH-WBTC",
+    "address": "0xaa9e134D3f9C802f099c53A0C0195373e34d92F7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for ETH-WBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xaa9e134d3f9c802f099c53a0c0195373e34d92f7",
+      "https://avascan.info/blockchain/c/address/0xaa9e134d3f9c802f099c53a0c0195373e34d92f7"
+    ]
+  },
+  {
+    "name": "PLP-LINK-BAMBOO-V2",
+    "address": "0x4a79206B5e1aF8ff4e62183f2f2ff2B4Efb0A9B9",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PLP farm for BAMBOO-V2 LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4a79206b5e1af8ff4e62183f2f2ff2b4efb0a9b9",
+      "https://avascan.info/blockchain/c/address/0x4a79206b5e1af8ff4e62183f2f2ff2b4efb0a9b9"
+    ]
+  },
+  {
+    "name": "PNG-PNG",
+    "address": "0xDdddDfEb2dB092a84f27893a040b2BfedE8BE074",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "PNG farm for compounding PNG",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xdddddfeb2db092a84f27893a040b2bfede8be074",
+      "https://avascan.info/blockchain/c/address/0xdddddfeb2db092a84f27893a040b2bfede8be074"
+    ]
+  },
+  {
+    "name": "PairHelper",
+    "address": "0x8Cd1Eb470226F63F6514666BfBA6a12f1603b297",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Helper files",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8cd1eb470226f63f6514666bfba6a12f1603b297",
+      "https://avascan.info/blockchain/c/address/0x8cd1eb470226f63f6514666bfba6a12f1603b297"
+    ]
+  },
+  {
+    "name": "SNOB-S3D",
+    "address": "0x8d9153c1976769E2C8774f88648E75C897D1e4B0",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "SNOB farm for compounding S3D",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8d9153c1976769e2c8774f88648e75c897d1e4b0",
+      "https://avascan.info/blockchain/c/address/0x8d9153c1976769e2c8774f88648e75c897d1e4b0"
+    ]
+  },
+  {
+    "name": "SNOB-S3F",
+    "address": "0xC1F14E9D2b7B88B62e33772b3D14BC6d360d7Cdb",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "SNOB farm for compounding S3F",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc1f14e9d2b7b88b62e33772b3d14bc6d360d7cdb",
+      "https://avascan.info/blockchain/c/address/0xc1f14e9d2b7b88b62e33772b3d14bc6d360d7cdb"
+    ]
+  },
+  {
+    "name": "STORM-DAIe",
+    "address": "0xAB4f4a38bc4F74116259174835f67035e973B885",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding DAIe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xab4f4a38bc4f74116259174835f67035e973b885",
+      "https://avascan.info/blockchain/c/address/0xab4f4a38bc4f74116259174835f67035e973b885"
+    ]
+  },
+  {
+    "name": "STORM-JOE-2",
+    "address": "0x92984CE5878Ce56f65218cBC1957c99b2573Ec3B",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "STORM farm for compounding JOE",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x92984ce5878ce56f65218cbc1957c99b2573ec3b",
+      "https://avascan.info/blockchain/c/address/0x92984ce5878ce56f65218cbc1957c99b2573ec3b"
+    ]
+  },
+  {
+    "name": "STORM-JOE",
+    "address": "0x1cF9398D088fe72F18ae4F0dD056Bc19bF02D00b",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding JOE",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1cf9398d088fe72f18ae4f0dd056bc19bf02d00b",
+      "https://avascan.info/blockchain/c/address/0x1cf9398d088fe72f18ae4f0dd056bc19bf02d00b"
+    ]
+  },
+  {
+    "name": "STORM-PNG-2",
+    "address": "0xFf40Eb068d35bB24f1e43CDB38fd342e2aA58af7",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "STORM farm for compounding PNG",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xff40eb068d35bb24f1e43cdb38fd342e2aa58af7",
+      "https://avascan.info/blockchain/c/address/0xff40eb068d35bb24f1e43cdb38fd342e2aa58af7"
+    ]
+  },
+  {
+    "name": "STORM-PNG",
+    "address": "0x16a97496D7F7b8E2D38a0788d0a811bb08FAA484",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding PNG",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x16a97496d7f7b8e2d38a0788d0a811bb08faa484",
+      "https://avascan.info/blockchain/c/address/0x16a97496d7f7b8e2d38a0788d0a811bb08faa484"
+    ]
+  },
+  {
+    "name": "STORM-QI",
+    "address": "0x51132860F3c6947aeb3cB8139121F4D5Ff6AA6d4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding QI",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x51132860f3c6947aeb3cb8139121f4d5ff6aa6d4",
+      "https://avascan.info/blockchain/c/address/0x51132860f3c6947aeb3cb8139121f4d5ff6aa6d4"
+    ]
+  },
+  {
+    "name": "STORM-STORM",
+    "address": "0xf8571832675F27a26E7d152394fC07246Bd33b91",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding STORM",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xf8571832675f27a26e7d152394fc07246bd33b91",
+      "https://avascan.info/blockchain/c/address/0xf8571832675f27a26e7d152394fc07246bd33b91"
+    ]
+  },
+  {
+    "name": "STORM-USDCe",
+    "address": "0xE40Dd09cBe02419d2Be363f55200c72bcA617404",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding USDCe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe40dd09cbe02419d2be363f55200c72bca617404",
+      "https://avascan.info/blockchain/c/address/0xe40dd09cbe02419d2be363f55200c72bca617404"
+    ]
+  },
+  {
+    "name": "STORM-USDTe",
+    "address": "0x19D579dfA6a41C9215f1a55B810D59F254F6A8fC",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding USDTe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x19d579dfa6a41c9215f1a55b810d59f254f6a8fc",
+      "https://avascan.info/blockchain/c/address/0x19d579dfa6a41c9215f1a55b810d59f254f6a8fc"
+    ]
+  },
+  {
+    "name": "STORM-WAVAX",
+    "address": "0x5f02327Fc088f8Db5fa8F5A9992Aebdc33450d1F",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding WAVAX",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5f02327fc088f8db5fa8f5a9992aebdc33450d1f",
+      "https://avascan.info/blockchain/c/address/0x5f02327fc088f8db5fa8f5a9992aebdc33450d1f"
+    ]
+  },
+  {
+    "name": "STORM-WBTCe",
+    "address": "0xDd1C67481A12C8314aA834D6c96A6530ccfb9dA9",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding WBTCe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xdd1c67481a12c8314aa834d6c96a6530ccfb9da9",
+      "https://avascan.info/blockchain/c/address/0xdd1c67481a12c8314aa834d6c96a6530ccfb9da9"
+    ]
+  },
+  {
+    "name": "STORM-WETHe",
+    "address": "0x32e4F703d6eB770f4e1fD8AbC4daE35f1a420291",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding WETHe",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x32e4f703d6eb770f4e1fd8abc4dae35f1a420291",
+      "https://avascan.info/blockchain/c/address/0x32e4f703d6eb770f4e1fd8abc4dae35f1a420291"
+    ]
+  },
+  {
+    "name": "STORM-YAK",
+    "address": "0x23576f938a7923E3f4e419831b35489Adb0494e4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "STORM farm for compounding YAK",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x23576f938a7923e3f4e419831b35489adb0494e4",
+      "https://avascan.info/blockchain/c/address/0x23576f938a7923e3f4e419831b35489adb0494e4"
+    ]
+  },
+  {
+    "name": "StrategyHelper",
+    "address": "0x462e05962EB9938cE73E59ccb7B7ae287Ff8Bd17",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Helper files",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x462e05962eb9938ce73e59ccb7b7ae287ff8bd17",
+      "https://avascan.info/blockchain/c/address/0x462e05962eb9938ce73e59ccb7b7ae287ff8bd17"
+    ]
+  },
+  {
+    "name": "TEDDY-PGL-TEDDY-AVAX",
+    "address": "0x56E2492A926E419C6711e257b6be5E4491220b92",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "TEDDY farm for TEDDY-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x56e2492a926e419c6711e257b6be5e4491220b92",
+      "https://avascan.info/blockchain/c/address/0x56e2492a926e419c6711e257b6be5e4491220b92"
+    ]
+  },
+  {
+    "name": "Timelock",
+    "address": "0x6FD41A93c2902B48D9dE81158389EF7B95c338f5",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "Time lock contract",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6fd41a93c2902b48d9de81158389ef7b95c338f5",
+      "https://avascan.info/blockchain/c/address/0x6fd41a93c2902b48d9de81158389ef7b95c338f5"
+    ]
+  },
+  {
+    "name": "Timelock",
+    "address": "0x8d36C5c6947ADCcd25Ef49Ea1aAC2ceACFff0bD7",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "Time lock contract",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8d36c5c6947adccd25ef49ea1aac2ceacfff0bd7",
+      "https://avascan.info/blockchain/c/address/0x8d36c5c6947adccd25ef49ea1aac2ceacfff0bd7"
+    ]
+  },
+  {
+    "name": "XAVA-XAVA",
+    "address": "0x7867C7a94eF30E26ae855af5d271fB9E52f26c36",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "XAVA farm for compounding XAVA",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7867c7a94ef30e26ae855af5d271fb9e52f26c36",
+      "https://avascan.info/blockchain/c/address/0x7867c7a94ef30e26ae855af5d271fb9e52f26c36"
+    ]
+  },
+  {
+    "name": "YAK-YAK",
+    "address": "0x0C4684086914D5B1525bf16c62a0FF8010AB991A",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "YAK farm for compounding YAK",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0c4684086914d5b1525bf16c62a0ff8010ab991a",
+      "https://avascan.info/blockchain/c/address/0x0c4684086914d5b1525bf16c62a0ff8010ab991a"
+    ]
+  },
+  {
+    "name": "YSL-AVAX-ETH",
+    "address": "0x007A0f7C4CAe14415dbCAC83da92d4c01f7601ED",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "YSL farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x007a0f7c4cae14415dbcac83da92d4c01f7601ed",
+      "https://avascan.info/blockchain/c/address/0x007a0f7c4cae14415dbcac83da92d4c01f7601ed"
+    ]
+  },
+  {
+    "name": "YSL-AVAX-ETH",
+    "address": "0x1AD92f75C2740efD143ED666f8dE3eD963b22AD3",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "YSL farm for AVAX-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1ad92f75c2740efd143ed666f8de3ed963b22ad3",
+      "https://avascan.info/blockchain/c/address/0x1ad92f75c2740efd143ed666f8de3ed963b22ad3"
+    ]
+  },
+  {
+    "name": "YSL-AVAX-USDT",
+    "address": "0x8054fABa5fC1b8523A0c2fb54845C2Ec3326B347",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "YSL farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8054faba5fc1b8523a0c2fb54845c2ec3326b347",
+      "https://avascan.info/blockchain/c/address/0x8054faba5fc1b8523a0c2fb54845c2ec3326b347"
+    ]
+  },
+  {
+    "name": "YSL-AVAX-USDT",
+    "address": "0x72E332cc6bf00EC48861C51df104770EDf7890B6",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "YSL farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x72e332cc6bf00ec48861c51df104770edf7890b6",
+      "https://avascan.info/blockchain/c/address/0x72e332cc6bf00ec48861c51df104770edf7890b6"
+    ]
+  },
+  {
+    "name": "YSL-AVAX-YTS",
+    "address": "0x303DfF9550a1E959A7E6731809A587acc195fD21",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "YSL farm for AVAX-YTS LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x303dff9550a1e959a7e6731809a587acc195fd21",
+      "https://avascan.info/blockchain/c/address/0x303dff9550a1e959a7e6731809a587acc195fd21"
+    ]
+  },
+  {
+    "name": "YSL-AVAX-YTS",
+    "address": "0x0345f2b85d238a963965Ef8163ccB93efF81Ff5E",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "YSL farm for AVAX-YTS LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0345f2b85d238a963965ef8163ccb93eff81ff5e",
+      "https://avascan.info/blockchain/c/address/0x0345f2b85d238a963965ef8163ccb93eff81ff5e"
+    ]
+  },
+  {
+    "name": "YSL-YTS-ETH",
+    "address": "0x2409E04F96E71Fc931E18196509F130dFE0959a6",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "YSL farm for YTS-ETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2409e04f96e71fc931e18196509f130dfe0959a6",
+      "https://avascan.info/blockchain/c/address/0x2409e04f96e71fc931e18196509f130dfe0959a6"
+    ]
+  },
+  {
+    "name": "YSL-YTS-PNG",
+    "address": "0xC53DC280dc14F24B21370919d757cF7b296BFd31",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "YSL farm for YTS-PNG LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc53dc280dc14f24b21370919d757cf7b296bfd31",
+      "https://avascan.info/blockchain/c/address/0xc53dc280dc14f24b21370919d757cf7b296bfd31"
+    ]
+  },
+  {
+    "name": "YSL-YTS-USDT",
+    "address": "0xaf985c13836b753445487c99448dA38Bd7774A17",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "YSL farm for YTS-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xaf985c13836b753445487c99448da38bd7774a17",
+      "https://avascan.info/blockchain/c/address/0xaf985c13836b753445487c99448da38bd7774a17"
+    ]
+  },
+  {
+    "name": "ZABU-PNG",
+    "address": "0xCFD132761c41f66A188A478a282121b0Fb6d99bF",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZABU farm for compounding PNG",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xcfd132761c41f66a188a478a282121b0fb6d99bf",
+      "https://avascan.info/blockchain/c/address/0xcfd132761c41f66a188a478a282121b0fb6d99bf"
+    ]
+  },
+  {
+    "name": "ZABU-WAVAX",
+    "address": "0x150f6526De9b55E126870A118D47DC4Fd0F8Ac48",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZABU farm for compounding WAVAX",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x150f6526de9b55e126870a118d47dc4fd0f8ac48",
+      "https://avascan.info/blockchain/c/address/0x150f6526de9b55e126870a118d47dc4fd0f8ac48"
+    ]
+  },
+  {
+    "name": "ZABU-XAVA",
+    "address": "0x4d94796EEe7694E5c60cd850eF47D9E536D3Ad8b",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZABU farm for compounding XAVA",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4d94796eee7694e5c60cd850ef47d9e536d3ad8b",
+      "https://avascan.info/blockchain/c/address/0x4d94796eee7694e5c60cd850ef47d9e536d3ad8b"
+    ]
+  },
+  {
+    "name": "ZABU-YAK",
+    "address": "0x3E63F20Cdd82A9Fec2Bbe48ca820589AFCb85194",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZABU farm for compounding YAK",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3e63f20cdd82a9fec2bbe48ca820589afcb85194",
+      "https://avascan.info/blockchain/c/address/0x3e63f20cdd82a9fec2bbe48ca820589afcb85194"
+    ]
+  },
+  {
+    "name": "ZERO-LP-AVAX-CHART",
+    "address": "0xC92fAc369925f6f6e88384c2A6f3678977dC6213",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for AVAX-CHART LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc92fac369925f6f6e88384c2a6f3678977dc6213",
+      "https://avascan.info/blockchain/c/address/0xc92fac369925f6f6e88384c2a6f3678977dc6213"
+    ]
+  },
+  {
+    "name": "ZERO-LP-AVAX-ZERO",
+    "address": "0xC47c5050E1f8e45a6741613E29a303D7cc106afF",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for AVAX-ZERO LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc47c5050e1f8e45a6741613e29a303d7cc106aff",
+      "https://avascan.info/blockchain/c/address/0xc47c5050e1f8e45a6741613e29a303d7cc106aff"
+    ]
+  },
+  {
+    "name": "ZERO-LP-AVAX-ZERO",
+    "address": "0x6BbeA2dbA0Ea15F17C92F84765ae1c3Ab651dF58",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ZERO farm for AVAX-ZERO LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6bbea2dba0ea15f17c92f84765ae1c3ab651df58",
+      "https://avascan.info/blockchain/c/address/0x6bbea2dba0ea15f17c92f84765ae1c3ab651df58"
+    ]
+  },
+  {
+    "name": "ZERO-LP-AVAX-ZERO",
+    "address": "0xb2dA66e3245d47b67Ea0d98B8789C614e2e3A76D",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "ZERO farm for AVAX-ZERO LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xb2da66e3245d47b67ea0d98b8789c614e2e3a76d",
+      "https://avascan.info/blockchain/c/address/0xb2da66e3245d47b67ea0d98b8789c614e2e3a76d"
+    ]
+  },
+  {
+    "name": "ZERO-LP-AVAX-zETH",
+    "address": "0x456A68EeC203a35A8fa1D9c7Bf5797909D1cee04",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for AVAX-zETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x456a68eec203a35a8fa1d9c7bf5797909d1cee04",
+      "https://avascan.info/blockchain/c/address/0x456a68eec203a35a8fa1d9c7bf5797909d1cee04"
+    ]
+  },
+  {
+    "name": "ZERO-LP-AVAX-zUSDC",
+    "address": "0x6ea142f55aE733eeaEef5fEA34d4312478c762e5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for AVAX-zUSDC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6ea142f55ae733eeaeef5fea34d4312478c762e5",
+      "https://avascan.info/blockchain/c/address/0x6ea142f55ae733eeaeef5fea34d4312478c762e5"
+    ]
+  },
+  {
+    "name": "ZERO-LP-CHART-zUSDC",
+    "address": "0x7924612c49084b71eaA383C3aeB8A7e7EEb1A63e",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for CHART-zUSDC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x7924612c49084b71eaa383c3aeb8a7e7eeb1a63e",
+      "https://avascan.info/blockchain/c/address/0x7924612c49084b71eaa383c3aeb8a7e7eeb1a63e"
+    ]
+  },
+  {
+    "name": "ZERO-LP-GDL-ZERO",
+    "address": "0xDf98Af02258E7F32A4fEb77c159A42Bd64D204d3",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for GDL-ZERO LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xdf98af02258e7f32a4feb77c159a42bd64d204d3",
+      "https://avascan.info/blockchain/c/address/0xdf98af02258e7f32a4feb77c159a42bd64d204d3"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-CHART",
+    "address": "0x81dBdb246Fa1bB98a85C59eAF9face97403b6C19",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for ZERO-CHART LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x81dbdb246fa1bb98a85c59eaf9face97403b6c19",
+      "https://avascan.info/blockchain/c/address/0x81dbdb246fa1bb98a85c59eaf9face97403b6c19"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-DAI",
+    "address": "0xfE0521F000d20f0bb9bB2cBa51dC9066468671f9",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ZERO farm for ZERO-DAI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xfe0521f000d20f0bb9bb2cba51dc9066468671f9",
+      "https://avascan.info/blockchain/c/address/0xfe0521f000d20f0bb9bb2cba51dc9066468671f9"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-ZUSDT",
+    "address": "0x86D919752822Fcf060307201808e8f206Ad10324",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "ZERO farm for ZERO-ZUSDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x86d919752822fcf060307201808e8f206ad10324",
+      "https://avascan.info/blockchain/c/address/0x86d919752822fcf060307201808e8f206ad10324"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-zBTC",
+    "address": "0x485240Fd6e73EC6afd32A7C64707F7AAc11EE151",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ZERO farm for ZERO-zBTC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x485240fd6e73ec6afd32a7c64707f7aac11ee151",
+      "https://avascan.info/blockchain/c/address/0x485240fd6e73ec6afd32a7c64707f7aac11ee151"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-zETH",
+    "address": "0x49e01Ade31690D286C5E820a8DAA4412125c7E7a",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for ZERO-zETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x49e01ade31690d286c5e820a8daa4412125c7e7a",
+      "https://avascan.info/blockchain/c/address/0x49e01ade31690d286c5e820a8daa4412125c7e7a"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-zETH",
+    "address": "0xca0803B898F64E3a990998a79Ad874c1880bA346",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ZERO farm for ZERO-zETH LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xca0803b898f64e3a990998a79ad874c1880ba346",
+      "https://avascan.info/blockchain/c/address/0xca0803b898f64e3a990998a79ad874c1880ba346"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-zSUSHI",
+    "address": "0x411b1F257E84394A60C7Fb8fbdA9C53A0C441057",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ZERO farm for ZERO-zSUSHI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x411b1f257e84394a60c7fb8fbda9c53a0c441057",
+      "https://avascan.info/blockchain/c/address/0x411b1f257e84394a60c7fb8fbda9c53a0c441057"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-zUNI",
+    "address": "0xD8399D3db7da1E1Db132DE4E5D3cCF8620dfa2e6",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ZERO farm for ZERO-zUNI LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xd8399d3db7da1e1db132de4e5d3ccf8620dfa2e6",
+      "https://avascan.info/blockchain/c/address/0xd8399d3db7da1e1db132de4e5d3ccf8620dfa2e6"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-zUSDC",
+    "address": "0x8D35BEB9e8750959c3520d202b589aB78C366D59",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "ZERO farm for ZERO-zUSDC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8d35beb9e8750959c3520d202b589ab78c366d59",
+      "https://avascan.info/blockchain/c/address/0x8d35beb9e8750959c3520d202b589ab78c366d59"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-zUSDC",
+    "address": "0x141bE6e009a0D9a5c0d4e557c0636e97B3de2a7B",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ZERO farm for ZERO-zUSDC LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x141be6e009a0d9a5c0d4e557c0636e97b3de2a7b",
+      "https://avascan.info/blockchain/c/address/0x141be6e009a0d9a5c0d4e557c0636e97b3de2a7b"
+    ]
+  },
+  {
+    "name": "ZERO-LP-ZERO-zUSDT",
+    "address": "0x9800F6189EE6849361d8bF4c0cD7a75a3074550d",
+    "chain": "avalanche",
+    "version": "v2",
+    "type": "core",
+    "description": "ZERO farm for ZERO-zUSDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9800f6189ee6849361d8bf4c0cd7a75a3074550d",
+      "https://avascan.info/blockchain/c/address/0x9800f6189ee6849361d8bf4c0cd7a75a3074550d"
+    ]
+  },
+  {
+    "name": "sGLB-PGL-AVAX-LINK",
+    "address": "0x829a96AFAcB3f39f740b39fDF575658f88B153f1",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "sGLB farm for AVAX-LINK LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x829a96afacb3f39f740b39fdf575658f88b153f1",
+      "https://avascan.info/blockchain/c/address/0x829a96afacb3f39f740b39fdf575658f88b153f1"
+    ]
+  },
+  {
+    "name": "sGLB-PGL-AVAX-USDT",
+    "address": "0x1E3808e065280E5D773e7D1e9D1f8421C4543b27",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "sGLB farm for AVAX-USDT LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1e3808e065280e5d773e7d1e9d1f8421c4543b27",
+      "https://avascan.info/blockchain/c/address/0x1e3808e065280e5d773e7d1e9d1f8421c4543b27"
+    ]
+  },
+  {
+    "name": "sGLB-PGL-ETH-AVAX",
+    "address": "0x855f76F69826b41D663dA8587C199e5Ff4C55325",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "sGLB farm for ETH-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x855f76f69826b41d663da8587c199e5ff4c55325",
+      "https://avascan.info/blockchain/c/address/0x855f76f69826b41d663da8587c199e5ff4c55325"
+    ]
+  },
+  {
+    "name": "sGLB-PGL-PNG-AVAX",
+    "address": "0xeec2d8bD006e189A0e53819C670b9c08Ee098EB0",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "sGLB farm for PNG-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xeec2d8bd006e189a0e53819c670b9c08ee098eb0",
+      "https://avascan.info/blockchain/c/address/0xeec2d8bd006e189a0e53819c670b9c08ee098eb0"
+    ]
+  },
+  {
+    "name": "sGLB-PGL-SUSHI-AVAX",
+    "address": "0xA75AF2E0ea2BBDa6Dc6921B4Ee3bb051309d28C9",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "sGLB farm for SUSHI-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xa75af2e0ea2bbda6dc6921b4ee3bb051309d28c9",
+      "https://avascan.info/blockchain/c/address/0xa75af2e0ea2bbda6dc6921b4ee3bb051309d28c9"
+    ]
+  },
+  {
+    "name": "xPARTY-PARTY-AVAX",
+    "address": "0x9CFe241015D21c3D8290a1b59205E5d0c2F7f421",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "xPARTY farm for PARTY-AVAX LP",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9cfe241015d21c3d8290a1b59205e5d0c2f7f421",
+      "https://avascan.info/blockchain/c/address/0x9cfe241015d21c3d8290a1b59205e5d0c2f7f421"
+    ]
+  },
+  {
+    "name": "Claim",
+    "address": "0x5929cDDE7C7715D3E42F577E5CADcf2C2D246c52",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5929cdde7c7715d3e42f577e5cadcf2c2d246c52",
+      "https://avascan.info/blockchain/c/address/0x5929cdde7c7715d3e42f577e5cadcf2c2d246c52"
+    ]
+  },
+  {
+    "name": "Formula-YRT-GDL-mYAK-YAK",
+    "address": "0x460c1D4D448Ce463BD0b134ac25F3E27Ed015E97",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Voting power formula for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x460c1d4d448ce463bd0b134ac25f3e27ed015e97",
+      "https://avascan.info/blockchain/c/address/0x460c1d4d448ce463bd0b134ac25f3e27ed015e97"
+    ]
+  },
+  {
+    "name": "Formula-YRT-JLP-mYAK-AVAX",
+    "address": "0x0826ec0b93eED1D8E7F36dfa2EC592abd37078A8",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Voting power formula for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0826ec0b93eed1d8e7f36dfa2ec592abd37078a8",
+      "https://avascan.info/blockchain/c/address/0x0826ec0b93eed1d8e7f36dfa2ec592abd37078a8"
+    ]
+  },
+  {
+    "name": "LockManager",
+    "address": "0xCB031c1044f27bb491E61bCBd96a54f5316e23EF",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xcb031c1044f27bb491e61bcbd96a54f5316e23ef",
+      "https://avascan.info/blockchain/c/address/0xcb031c1044f27bb491e61bcbd96a54f5316e23ef"
+    ]
+  },
+  {
+    "name": "MasterYak",
+    "address": "0x0cf605484A512d3F3435fed77AB5ddC0525Daf5f",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x0cf605484a512d3f3435fed77ab5ddc0525daf5f",
+      "https://avascan.info/blockchain/c/address/0x0cf605484a512d3f3435fed77ab5ddc0525daf5f"
+    ]
+  },
+  {
+    "name": "PGLFormula",
+    "address": "0x6662a6B70316ae373b56855b2CDa521c59F6e2C2",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6662a6b70316ae373b56855b2cda521c59f6e2c2",
+      "https://avascan.info/blockchain/c/address/0x6662a6b70316ae373b56855b2cda521c59f6e2c2"
+    ]
+  },
+  {
+    "name": "TokenRegistry",
+    "address": "0x77F227C5828f38596081DC03519DEC8606211BEF",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x77f227c5828f38596081dc03519dec8606211bef",
+      "https://avascan.info/blockchain/c/address/0x77f227c5828f38596081dc03519dec8606211bef"
+    ]
+  },
+  {
+    "name": "VotingPower",
+    "address": "0x1A89939f66a04e61ab2389851b7D9dc483e6fd35",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1a89939f66a04e61ab2389851b7d9dc483e6fd35",
+      "https://avascan.info/blockchain/c/address/0x1a89939f66a04e61ab2389851b7d9dc483e6fd35"
+    ]
+  },
+  {
+    "name": "VotingPowerPrism",
+    "address": "0x2160deC25ECcb5f9a8aF38061b3aD1b828018aBb",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2160dec25eccb5f9a8af38061b3ad1b828018abb",
+      "https://avascan.info/blockchain/c/address/0x2160dec25eccb5f9a8af38061b3ad1b828018abb"
+    ]
+  },
+  {
+    "name": "YRTJLPFormula",
+    "address": "0x56894D9e63659314cABcCb600fda8116ecdBacf2",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x56894d9e63659314cabccb600fda8116ecdbacf2",
+      "https://avascan.info/blockchain/c/address/0x56894d9e63659314cabccb600fda8116ecdbacf2"
+    ]
+  },
+  {
+    "name": "YRTPGLFormula",
+    "address": "0x2CCc71d0a32ce41E260cC67e68986113Cce27f20",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2ccc71d0a32ce41e260cc67e68986113cce27f20",
+      "https://avascan.info/blockchain/c/address/0x2ccc71d0a32ce41e260cc67e68986113cce27f20"
+    ]
+  },
+  {
+    "name": "YakFormula",
+    "address": "0x1BA4f0a66445777AE0Be89DCB72316c9f02cC75A",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance contracts for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x1ba4f0a66445777ae0be89dcb72316c9f02cc75a",
+      "https://avascan.info/blockchain/c/address/0x1ba4f0a66445777ae0be89dcb72316c9f02cc75a"
+    ]
+  },
+  {
+    "name": "Yak Token",
+    "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance token for yield yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x59414b3089ce2af0010e7523dea7e2b35d776ec7",
+      "https://avascan.info/blockchain/c/address/0x59414b3089ce2af0010e7523dea7e2b35d776ec7"
+    ]
+  },
+  {
+    "name": "MiniYak Token",
+    "address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "A mYak is one-million-th Yak",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xddaaad7366b455aff8e7c82940c43ceb5829b604",
+      "https://avascan.info/blockchain/c/address/0xddaaad7366b455aff8e7c82940c43ceb5829b604"
+    ]
+  }
+]
+
