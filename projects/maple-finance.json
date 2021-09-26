@@ -1,0 +1,223 @@
+[
+  {
+    "name": "BPool",
+    "address": "0xc1b10e536CD611aCFf7a7c32A9E29cE6A02Ef6ef",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Balancer: MPL/USDC 50/50",
+    "explorers": [
+      "https://etherscan.io/address/0xc1b10e536cd611acff7a7c32a9e29ce6a02ef6ef"
+    ]
+  },
+  {
+    "name": "CollateralLockerFactory",
+    "address": "0xEE3e59D381968f4F9C92460D9d5Cfcf5d3A67987",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys CollateralLockers",
+    "explorers": [
+      "https://etherscan.io/address/0xee3e59d381968f4f9c92460d9d5cfcf5d3a67987"
+    ]
+  },
+  {
+    "name": "DebtLockerFactory",
+    "address": "0x2a7705594899Db6c3924A872676E54f041d1f9D8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys DebtLockers",
+    "explorers": [
+      "https://etherscan.io/address/0x2a7705594899db6c3924a872676e54f041d1f9d8"
+    ]
+  },
+  {
+    "name": "FundingLockerFactory",
+    "address": "0x0eB96A53EC793a244876b018073f33B23000F25b",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys FundingLockers",
+    "explorers": [
+      "https://etherscan.io/address/0x0eb96a53ec793a244876b018073f33b23000f25b"
+    ]
+  },
+  {
+    "name": "GlobalAdmin",
+    "address": "0x93CC3E39C91cf93fd57acA416ed6fE66e8bdD573",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Global admin contract",
+    "explorers": [
+      "https://etherscan.io/address/0x93cc3e39c91cf93fd57aca416ed6fe66e8bdd573"
+    ]
+  },
+  {
+    "name": "Governor",
+    "address": "0xd6d4Bcde6c816F17889f1Dd3000aF0261B03a196",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governor contract",
+    "explorers": [
+      "https://etherscan.io/address/0xd6d4bcde6c816f17889f1dd3000af0261b03a196"
+    ]
+  },
+  {
+    "name": "LateFeeCalc",
+    "address": "0x8dC5aa328142aa8a008c25F66a77eaA8E4B46f3c",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Calculates late fee payments for Loans",
+    "explorers": [
+      "https://etherscan.io/address/0x8dc5aa328142aa8a008c25f66a77eaa8e4b46f3c"
+    ]
+  },
+  {
+    "name": "LiquidityLockerFactory",
+    "address": "0x966528BB1C44f96b3AA8Fbf411ee896116b068C9",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys LiquidityLockers",
+    "explorers": [
+      "https://etherscan.io/address/0x966528bb1c44f96b3aa8fbf411ee896116b068c9"
+    ]
+  },
+  {
+    "name": "LoanFactory",
+    "address": "0x908cC851Bc757248514E060aD8Bd0a03908308ee",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys Loans",
+    "explorers": [
+      "https://etherscan.io/address/0x908cc851bc757248514e060ad8bd0a03908308ee"
+    ]
+  },
+  {
+    "name": "LoanLib",
+    "address": "0x51A189ccD2eB5e1168DdcA7e59F7c8f39AA52232",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "External library that performs calculations for Loan",
+    "explorers": [
+      "https://etherscan.io/address/0x51a189ccd2eb5e1168ddca7e59f7c8f39aa52232"
+    ]
+  },
+  {
+    "name": "MapleGlobals",
+    "address": "0xC234c62c8C09687DFf0d9047e40042cd166F3600",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Central contract for managing whitelists (factories, pool delegates, calculators, assets) and general parameters for the protocol. Controlled by the governor multisig",
+    "explorers": [
+      "https://etherscan.io/address/0xc234c62c8c09687dff0d9047e40042cd166f3600"
+    ]
+  },
+  {
+    "name": "MapleToken",
+    "address": "0x33349B282065b0284d756F0577FB39c158F935e6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "MPL token. Inherits FDT so that it can distribute funds from the treasury.",
+    "explorers": [
+      "https://etherscan.io/address/0x33349b282065b0284d756f0577fb39c158f935e6"
+    ]
+  },
+  {
+    "name": "MapleTreasury",
+    "address": "0xa9466EaBd096449d650D5AEB0dD3dA6F52FD0B19",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Treasury that collects fees denominated in the loanAsset, converts them to USDC and then transfers to the MapleToken",
+    "explorers": [
+      "https://etherscan.io/address/0xa9466eabd096449d650d5aeb0dd3da6f52fd0b19"
+    ]
+  },
+  {
+    "name": "MplRewardsFactory",
+    "address": "0x0155729EbCd47Cb1fBa02bF5a8DA20FaF3860535",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys MplRewards contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x0155729ebcd47cb1fba02bf5a8da20faf3860535"
+    ]
+  },
+  {
+    "name": "PoolFactory",
+    "address": "0x2Cd79F7f8b38B9c0D80EA6B230441841A31537eC",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys Pools",
+    "explorers": [
+      "https://etherscan.io/address/0x2cd79f7f8b38b9c0d80ea6b230441841a31537ec"
+    ]
+  },
+  {
+    "name": "PoolLib",
+    "address": "0x2c1C30fb8cC313Ef3cfd2E2bBf2da88AdD902C30",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "External library that performs calculations for Pool",
+    "explorers": [
+      "https://etherscan.io/address/0x2c1c30fb8cc313ef3cfd2e2bbf2da88add902c30"
+    ]
+  },
+  {
+    "name": "PremiumCalc",
+    "address": "0xe88Ab4Cf1Ec06840d16feD69c964aD9DAFf5c6c2",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Calculates premium payment if entire loan is paid back early",
+    "explorers": [
+      "https://etherscan.io/address/0xe88ab4cf1ec06840d16fed69c964ad9daff5c6c2"
+    ]
+  },
+  {
+    "name": "RepaymentCalc",
+    "address": "0x7d622bB6Ed13a599ec96366Fa95f2452c64ce602",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Calculates payments for Loans",
+    "explorers": [
+      "https://etherscan.io/address/0x7d622bb6ed13a599ec96366fa95f2452c64ce602"
+    ]
+  },
+  {
+    "name": "StakeLockerFactory",
+    "address": "0x53a597A4730Eb02095dD798B203Dcc306348B8d6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys StakeLockers",
+    "explorers": [
+      "https://etherscan.io/address/0x53a597a4730eb02095dd798b203dcc306348b8d6"
+    ]
+  },
+  {
+    "name": "Util",
+    "address": "0x95f9676A34aF2675B63948dDba8F8c798741A52a",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "External library that calculates minAmount for Uniswap trades",
+    "explorers": [
+      "https://etherscan.io/address/0x95f9676a34af2675b63948ddba8f8c798741a52a"
+    ]
+  }
+]
+  
