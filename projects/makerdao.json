@@ -71,7 +71,7 @@
     "chain": "ethereum",
     "version": "v1",
     "type": "governance",
-    "description": "Logic for DAI surplus auction ",
+    "description": "Logic for DAI surplus auction",
     "explorers": [
       "https://etherscan.io/address/0xc4269cc7acdedc3794b221aa4d9205f564e27f0d#code"
     ]
@@ -214,7 +214,7 @@
     "chain": "ethereum",
     "version": "v1",
     "type": "core",
-    "description": "Enables any user to execute a flash mint of Dai.",
+    "description": "Enables any user to execute a flash mint of Dai",
     "explorers": [
       "https://etherscan.io/address/0x1eb4cf3a948e7d72a198fe073ccb8c7a948cd853"
     ]
