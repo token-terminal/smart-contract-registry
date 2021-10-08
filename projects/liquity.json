@@ -1,0 +1,200 @@
+[
+  {
+    "name": "activePool",
+    "address": "0xDf9Eb223bAFBE5c5271415C75aeCD68C21fE3D7F",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "The Active Pool holds the ETH collateral and LUSD debt (but not LUSD tokens) for all active troves",
+    "explorers": [
+      "https://etherscan.io/address/0xdf9eb223bafbe5c5271415c75aecd68c21fe3d7f"
+    ]
+  },
+  {
+      "name": "borrowerOperations",
+      "address": "0x24179CD81c9e782A4096035f7eC97fB8B783e007",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract contains all the borrower operations",
+      "explorers": [
+        "https://etherscan.io/address/0x24179cd81c9e782a4096035f7ec97fb8b783e007"
+      ]
+    },
+    {
+      "name": "troveManager",
+      "address": "0xA39739EF8b0231DbFA0DcdA07d7e29faAbCf4bb2",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract manages the troves",
+      "explorers": [
+        "https://etherscan.io/address/0xa39739ef8b0231dbfa0dcda07d7e29faabcf4bb2"
+      ]
+    },
+    {
+      "name": "collSurplusPool",
+      "address": "0x3D32e8b97Ed5881324241Cf03b2DA5E2EBcE5521",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract manages the surplus collateral",
+      "explorers": [
+        "https://etherscan.io/address/0x3d32e8b97ed5881324241cf03b2da5e2ebce5521"
+      ]
+    },
+    {
+      "name": "communityIssuance",
+      "address": "0xD8c9D9071123a059C6E0A945cF0e0c82b508d816",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract issues LQTY tokens for the community",
+      "explorers": [
+        "https://etherscan.io/address/0xd8c9d9071123a059c6e0a945cf0e0c82b508d816"
+      ]
+    },
+    {
+      "name": "defaultPool",
+      "address": "0x896a3F03176f05CFbb4f006BfCd8723F2B0D741C",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "The Default Pool holds the ETH and LUSD debt (but not LUSD tokens) from liquidations that have been redistributed to active troves but not yet applied, i.e. not yet recorded on a recipient active trove's struct",
+      "explorers": [
+        "https://etherscan.io/address/0x896a3f03176f05cfbb4f006bfcd8723f2b0d741c"
+      ]
+    },
+    {
+      "name": "hintHelpers",
+      "address": "0xE84251b93D9524E0d2e621Ba7dc7cb3579F997C0",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract contains read-only functionality for calculation of accurate hints to be supplied to borrower operations and redemptions",
+      "explorers": [
+        "https://etherscan.io/address/0xe84251b93d9524e0d2e621ba7dc7cb3579f997c0"
+      ]
+    },
+    {
+      "name": "lockupContractFactory",
+      "address": "0x2eBeF24dA09489218Ba2BECb01867F6DaAeDcD4B",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "The LockupContractFactory deploys LockupContracts - its main purpose is to keep a registry of valid deployed LockupContracts",
+      "explorers": [
+        "https://etherscan.io/address/0x2ebef24da09489218ba2becb01867f6daaedcd4b"
+      ]
+    },
+    {
+      "name": "lqtyStaking",
+      "address": "0x4f9Fbb3f1E99B56e0Fe2892e623Ed36A76Fc605d",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract states the logic for how LQTY staking works",
+      "explorers": [
+        "https://etherscan.io/address/0x4f9fbb3f1e99b56e0fe2892e623ed36a76fc605d"
+      ]
+    },
+    {
+      "name": "priceFeed",
+      "address": "0x4c517D4e2C851CA76d7eC94B805269Df0f2201De",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract contains the logic for the price feed. The PriceFeed uses Chainlink as primary oracle, and Tellor as fallback",
+      "explorers": [
+        "https://etherscan.io/address/0x4c517d4e2c851ca76d7ec94b805269df0f2201de"
+      ]
+    },
+    {
+      "name": "sortedTroves",
+      "address": "0x8FdD3fbFEb32b28fb73555518f8b361bCeA741A6",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract contains a list of all nodes",
+      "explorers": [
+        "https://etherscan.io/address/0x8fdd3fbfeb32b28fb73555518f8b361bcea741a6"
+      ]
+    },
+    {
+      "name": "stabilityPool",
+      "address": "0x66017D22b0f8556afDd19FC67041899Eb65a21bb",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract holds LUSD tokens deposited by Stability Pool depositors",
+      "explorers": [
+        "https://etherscan.io/address/0x66017d22b0f8556afdd19fc67041899eb65a21bb"
+      ]
+    },
+    {
+      "name": "gasPool",
+      "address": "0x9555b042F969E561855e5F28cB1230819149A8d9",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "The purpose of this contract is to hold LUSD tokens for gas compensation",
+      "explorers": [
+        "https://etherscan.io/address/0x9555b042f969e561855e5f28cb1230819149a8d9"
+      ]
+    },
+    {
+      "name": "unipool",
+      "address": "0xd37a77E71ddF3373a79BE2eBB76B6c4808bDF0d5",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract contains the logic for LUSD-ETH LP token staking",
+      "explorers": [
+        "https://etherscan.io/address/0xd37a77e71ddf3373a79be2ebb76b6c4808bdf0d5"
+      ]
+    },
+    {
+      "name": "lusdToken",
+      "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract contains the logic for the LUSD stablecoin token",
+      "explorers": [
+        "https://etherscan.io/address/0x5f98805a4e8be255a32880fdec7f6728c6568ba0"
+      ]
+    },
+    {
+      "name": "lqtyToken",
+      "address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract contains the logic for the LQTY token. The token captures the fee revenue generated by the Liquity Protocol via staking",
+      "explorers": [
+        "https://etherscan.io/address/0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d"
+      ]
+    },
+    {
+      "name": "multiTroveGetter",
+      "address": "0xFc92d0E9Fa35df17E3A6d9F40716ca2cE749922B",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This contract contains read-only functionality for sorted troves",
+      "explorers": [
+        "https://etherscan.io/address/0xfc92d0e9fa35df17e3a6d9f40716ca2ce749922b"
+      ]
+    },
+    {
+      "name": "uniToken",
+      "address": "0xF20EF17b889b437C151eB5bA15A47bFc62bfF469",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "This is the contract for the Uniswap v2 LUSD-ETH pair",
+      "explorers": [
+        "https://etherscan.io/address/0xf20ef17b889b437c151eb5ba15a47bfc62bff469"
+      ]
+    }
+]
