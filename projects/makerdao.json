@@ -1,0 +1,244 @@
+[
+  {
+    "name": "dai",
+    "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "The Dai Token Contract",
+    "explorers": [
+      "https://etherscan.io/address/0x6b175474e89094c44da98b954eedeac495271d0f"
+    ]
+  },
+  {
+    "name": "vat",
+    "address": "0x35D1b3F3D7966A1DFe207aa4514C12a259A0492B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Core contract that stores Vaults and tracks all the associated Dai and Collateral balances",
+    "explorers": [
+      "https://etherscan.io/address/0x35d1b3f3d7966a1dfe207aa4514c12a259a0492b"
+    ]
+  },
+  {
+    "name": "spot",
+    "address": "0x65C79fcB50Ca1594B025960e539eD7A9a6D434A3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "The liaison between the Oracles and Core Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x65c79fcb50ca1594b025960e539ed7a9a6d434a3"
+    ]
+  },
+  {
+    "name": "DaiJoin",
+    "address": "0x9759A6Ac90977b93B58547b4A71c78317f391A28",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Allows users to withdraw their Dai from the system into a standard ERC20 token",
+    "explorers": [
+      "https://etherscan.io/address/0x9759a6ac90977b93b58547b4a71c78317f391a28"
+    ]
+  },
+  {
+    "name": "ETHJoin",
+    "address": "0x2F0b23f53734252Bda2277357e97e1517d6B042A",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Allows native Ether to be used with the system",
+    "explorers": [
+      "https://etherscan.io/address/0x2f0b23f53734252bda2277357e97e1517d6b042a"
+    ]
+  },
+  {
+    "name": "GemJoin",
+    "address": "0x3D0B1912B66114d4096F48A8CEe3A56C231772cA",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Allows standard ERC20 tokens to be deposited for use with the system",
+    "explorers": [
+      "https://etherscan.io/address/0x3d0b1912b66114d4096f48a8cee3a56c231772ca"
+    ]
+  },
+  {
+    "name": "flap",
+    "address": "0xC4269cC7acDEdC3794b221aA4D9205F564e27f0d",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for DAI surplus auction",
+    "explorers": [
+      "https://etherscan.io/address/0xc4269cc7acdedc3794b221aa4d9205f564e27f0d#code"
+    ]
+  },
+  {
+    "name": "flop",
+    "address": "0xA41B6EF151E06da0e34B009B86E828308986736D",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for MKR debt auction",
+    "explorers": [
+      "https://etherscan.io/address/0xa41b6ef151e06da0e34b009b86e828308986736d#code"
+    ]
+  },
+  {
+    "name": "vow",
+    "address": "0xA950524441892A31ebddF91d3cEEFa04Bf454466",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Represents the Maker Protocol's balance sheet",
+    "explorers": [
+      "https://etherscan.io/address/0xa950524441892a31ebddf91d3ceefa04bf454466"
+    ]
+  },
+  {
+    "name": "token",
+    "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "MKR token contract",
+    "explorers": [
+      "https://etherscan.io/address/0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+    ]
+  },
+  {
+    "name": "DSSspell",
+    "address": "0xF8085d74Ad616D48c225f3812a610f5Cd5F676dA",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Performs one action or series of atomic actions one time only",
+    "explorers": [
+      "https://etherscan.io/address/0xf8085d74ad616d48c225f3812a610f5cd5f676da#code"
+    ]
+  },
+  {
+    "name": "DSpause",
+    "address": "0xbE286431454714F511008713973d3B053A2d38f3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "A delegatecall based proxy with an enforced delay",
+    "explorers": [
+      "https://etherscan.io/address/0xbe286431454714f511008713973d3b053a2d38f3#code"
+    ]
+  },
+  {
+    "name": "chief",
+    "address": "0x9eF05f7F6deB616fd37aC3c959a2dDD25A54E4F5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Electing a Chief contract via an approval voting system",
+    "explorers": [
+      "https://etherscan.io/address/0x9ef05f7f6deb616fd37ac3c959a2ddd25a54e4f5#code"
+    ]
+  },
+  {
+    "name": "pot",
+    "address": "0x197E90f9FAD81970bA7976f33CbD77088E5D7cf7",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "The logic for Dai Savings Rate",
+    "explorers": [
+      "https://etherscan.io/address/0x197e90f9fad81970ba7976f33cbd77088e5d7cf7"
+    ]
+  },
+  {
+    "name": "jug",
+    "address": "0x19c0976f590D67707E62397C87829d896Dc0f1F1",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Accumulation of Stability Fees for Collateral Types",
+    "explorers": [
+      "https://etherscan.io/address/0x19c0976f590d67707e62397c87829d896dc0f1f1"
+    ]
+  },
+  {
+    "name": "DssProxyActions",
+    "address": "0x82ecD135Dce65Fbc6DbdD0e4237E0AF93FFD5038",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A generalized wrapper for the Maker Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x82ecd135dce65fbc6dbdd0e4237e0af93ffd5038"
+    ]
+  },
+  {
+    "name": "VoteProxy",
+    "address": "0x99356a44a9e130b9b075FCB729e89A2E7262E849",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Allowing MKR users to vote with a hot or cold wallet using a proxy voting identity",
+    "explorers": [
+      "https://etherscan.io/address/0x99356a44a9e130b9b075fcb729e89a2e7262e849"
+    ]
+  },
+  {
+    "name": "cdpManager",
+    "address": "0x5ef30b9986345249bc32d8928B7ee64DE9435E39",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Managing Vaults to be transferred between users",
+    "explorers": [
+      "https://etherscan.io/address/0x5ef30b9986345249bc32d8928b7ee64de9435e39"
+    ]
+  },
+  {
+    "name": "dsrManager",
+    "address": "0x373238337Bfe1146fb49989fc222523f83081dDb",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Provides an easy to use smart contract that allows service providers to deposit/withdraw dai into the DSR contract pot",
+    "explorers": [
+      "https://etherscan.io/address/0x373238337bfe1146fb49989fc222523f83081ddb"
+    ]
+  },
+  {
+    "name": "flash",
+    "address": "0x1EB4CF3A948E7D72A198fe073cCb8C7a948cD853",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Enables any user to execute a flash mint of Dai",
+    "explorers": [
+      "https://etherscan.io/address/0x1eb4cf3a948e7d72a198fe073ccb8c7a948cd853"
+    ]
+  },
+  {
+    "name": "end",
+    "address": "0xaB14d3CE3F733CACB76eC2AbE7d2fcb00c99F3d5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "The logic for a shutdown",
+    "explorers": [
+      "https://etherscan.io/address/0xab14d3ce3f733cacb76ec2abe7d2fcb00c99f3d5"
+    ]
+  },
+  {
+    "name": "esm",
+    "address": "0x29CfBd381043D00a98fD9904a431015Fef07af2f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "The ESM is the trigger system for the shutdown of the Maker Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x29cfbd381043d00a98fd9904a431015fef07af2f"
+    ]
+  }
+]
