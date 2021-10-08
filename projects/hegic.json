@@ -1,0 +1,167 @@
+[
+  {
+    "name": "ETH Call",
+    "address": "0xb9ed94c6d594b2517c4296e24A8c517FF133fb6d",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "Logic for the ETH call option pool",
+    "explorers": [
+      "https://etherscan.io/address/0xb9ed94c6d594b2517c4296e24a8c517ff133fb6d"
+    ]
+  },
+  {
+      "name": "WBTC call",
+      "address": "0xfA77f713901a840B3DF8F2Eb093d95fAC61B215A",
+      "chain": "ethereum",
+      "version": "v2",
+      "type": "core",
+      "description": "Logic for the WBTC call option pool",
+      "explorers": [
+        "https://etherscan.io/address/0xfa77f713901a840b3df8f2eb093d95fac61b215a"
+      ]
+    },
+    {
+      "name": "ETH put",
+      "address": "0x790e96E7452c3c2200bbCAA58a468256d482DD8b",
+      "chain": "ethereum",
+      "version": "v2",
+      "type": "core",
+      "description": "Logic for the ETH put option pool",
+      "explorers": [
+        "https://etherscan.io/address/0x790e96e7452c3c2200bbcaa58a468256d482dd8b"
+      ]
+    },
+    {
+      "name": "WBTC put",
+      "address": "0x7A42A60F8bA4843fEeA1bD4f08450D2053cC1ab6",
+      "chain": "ethereum",
+      "version": "v2",
+      "type": "core",
+      "description": "Logic for the WBTC put option pool",
+      "explorers": [
+        "https://etherscan.io/address/0x7a42a60f8ba4843feea1bd4f08450d2053cc1ab6"
+      ]
+    },
+    {
+      "name": "Hegic staking ETH",
+      "address": "0xc9aC1F2571748c4d02774b8d0fE5981ee4B897A2",
+      "chain": "ethereum",
+      "version": "v2",
+      "type": "core",
+      "description": "Staking contract with staking rewards paid out in ETH",
+      "explorers": [
+        "https://etherscan.io/address/0xc9ac1f2571748c4d02774b8d0fe5981ee4b897a2"
+      ]
+    },
+    {
+      "name": "Hegic staking WBTC",
+      "address": "0x956BeD5f95D3Cfc16581C3892931C0D110376f9f",
+      "chain": "ethereum",
+      "version": "v2",
+      "type": "core",
+      "description": "Staking contract with staking rewards paid out in WBTC",
+      "explorers": [
+        "https://etherscan.io/address/0x956bed5f95d3cfc16581c3892931c0d110376f9f"
+      ]
+    },
+    {
+      "name": "Hegic staking USDC",
+      "address": "0xe7E8A2eD68f573D8CB25B9c7d734ebDE65b47336",
+      "chain": "ethereum",
+      "version": "v2",
+      "type": "core",
+      "description": "Staking contract with staking rewards paid out in USDC",
+      "explorers": [
+        "https://etherscan.io/address/0xe7e8a2ed68f573d8cb25b9c7d734ebde65b47336"
+      ]
+    },
+    {
+      "name": "WBTC Options Contract",
+      "address": "0x3961245db602ed7c03eeccda33ea3846bd8723bd",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Logic for WBTC options",
+      "explorers": [
+        "https://etherscan.io/address/0x3961245db602ed7c03eeccda33ea3846bd8723bd"
+      ]
+    },
+    {
+      "name": "ETH Options Contract",
+      "address": "0xEfC0eEAdC1132A12c9487d800112693bf49EcfA2",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Logic for ETH options",
+      "explorers": [
+        "https://etherscan.io/address/0xefc0eeadc1132a12c9487d800112693bf49ecfa2"
+      ]
+    },
+    {
+      "name": "WBTC Bidirectional Liquidity Pool Contract",
+      "address": "0x20DD9e22d22dd0a6ef74a520cb08303B5faD5dE7",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Logic for WBTC options liquidity pool",
+      "explorers": [
+        "https://etherscan.io/address/0x20dd9e22d22dd0a6ef74a520cb08303b5fad5de7"
+      ]
+    },
+    {
+      "name": "ETH Bidirectional Liquidity Pool Contract",
+      "address": "0x878F15ffC8b894A1BA7647c7176E4C01f74e140b",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Logic for ETH options liquidity pool",
+      "explorers": [
+        "https://etherscan.io/address/0x878f15ffc8b894a1ba7647c7176e4c01f74e140b"
+      ]
+    },
+    {
+      "name": "WBTC Staking Lots Contract",
+      "address": "0x840a1AE46B7364855206Eb5b7286Ab7E207e515b",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Staking contract with staking rewards paid out in WBTC",
+      "explorers": [
+        "https://etherscan.io/address/0x840a1ae46b7364855206eb5b7286ab7e207e515b"
+      ]
+    },
+    {
+      "name": "ETH Staking Lots Contract",
+      "address": "0x1Ef61E3E5676eC182EED6F052F8920fD49C7f69a",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Staking contract with staking rewards paid out in ETH",
+      "explorers": [
+        "https://etherscan.io/address/0x1ef61e3e5676ec182eed6f052f8920fd49c7f69a"
+      ]
+    },
+    {
+      "name": "BTC/USD ChainLink price feed contract",
+      "address": "0xF4030086522a5bEEa4988F8cA5B36dbC97BeE88c",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Contract for BTC/USD price oracle",
+      "explorers": [
+        "https://etherscan.io/address/0xf4030086522a5beea4988f8ca5b36dbc97bee88c"
+      ]
+    },
+    {
+      "name": "ETH/USD ChainLink price feed contract",
+      "address": "0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Contract for ETH/USD price oracle",
+      "explorers": [
+        "https://etherscan.io/address/0x5f4ec3df9cbd43714fe2740f5e3616155c5b8419"
+      ]
+    }
+  ]
