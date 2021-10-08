@@ -1,0 +1,211 @@
+[
+  {
+    "name": "core",
+    "address": "0x8d5ED43dCa8C2F7dFB20CF7b53CC7E593635d7b9",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "The core contract's responsibilities access control and the DAO Tribe trasury",
+    "explorers": [
+      "https://etherscan.io/address/0x8d5ed43dca8c2f7dfb20cf7b53cc7e593635d7b9"
+    ]
+  },
+  {
+    "name": "Tribe",
+    "address": "0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "FEI governance token (TRIBE)",
+    "explorers": [
+      "https://etherscan.io/address/0xc7283b66eb1eb5fb86327f08e1b5816b0720212b"
+    ]
+  },
+  {
+    "name": "FEI DAO",
+    "address": "0xE087F94c3081e1832dC7a22B48c6f2b5fAaE579B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Contract responsible for managing the DAO",
+    "explorers": [
+      "https://etherscan.io/address/0xe087f94c3081e1832dc7a22b48c6f2b5faae579b"
+    ]
+  },
+  {
+    "name": "FEI DAO Timelock",
+    "address": "0x639572471f2f318464dc01066a56867130e45E25",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "The Governor of the DAO, logic for how TRIBE holders implement the governance proposals",
+    "explorers": [
+      "https://etherscan.io/address/0x639572471f2f318464dc01066a56867130e45e25"
+    ]
+  },
+  {
+    "name": "FEI",
+    "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "FEI token contract",
+    "explorers": [
+      "https://etherscan.io/address/0x956f47f50a910163d8bf957cf5846d573e7f87ca"
+    ]
+  },
+  {
+    "name": "FEI/USD Oracle",
+    "address": "0x8721f9EAba0B9081069970bCBce38763D3D4f28E",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A wrapper around FEI/USD Chainlink price feed",
+    "explorers": [
+      "https://etherscan.io/address/0x8721f9eaba0b9081069970bcbce38763d3d4f28e"
+    ]
+  },
+  {
+    "name": "FEI/ETH Oracle",
+    "address": "0x060Be7B51F78DFFd04749332fd306BA1228e7444",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A wrapper around FEI/ETH Chainlink price feed",
+    "explorers": [
+      "https://etherscan.io/address/0x060be7b51f78dffd04749332fd306ba1228e7444"
+    ]
+  },
+  {
+    "name": "DAI Bonding Curve",
+    "address": "0xC0afe0E649e32528666F993ce63822c3840e941a",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A bonding curve implementation for purchasing FEI with DAI",
+    "explorers": [
+      "https://etherscan.io/address/0xc0afe0e649e32528666f993ce63822c3840e941a"
+    ]
+  },
+  {
+    "name": "ETH Bonding Curve",
+    "address": "0xe1578B4a32Eaefcd563a9E6d0dc02a4213f673B7",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A bonding curve implementation for purchasing FEI with ETH",
+    "explorers": [
+      "https://etherscan.io/address/0xe1578b4a32eaefcd563a9e6d0dc02a4213f673b7"
+    ]
+  },
+  {
+    "name": "RAI Bonding Curve",
+    "address": "0x25d60212D47Dd8F6Ff0469367E4c6C98Cd3411A5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A bonding curve implementation for purchasing FEI with RAI",
+    "explorers": [
+      "https://etherscan.io/address/0x25d60212d47dd8f6ff0469367e4c6c98cd3411a5"
+    ]
+  },
+  {
+    "name": "DPI Bonding Curve",
+    "address": "0xBf5721c5E1C370f6F1A3E21b3972E0AcE93A1E84",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A bonding curve implementation for purchasing FEI with DPI",
+    "explorers": [
+      "https://etherscan.io/address/0xbf5721c5e1c370f6f1a3e21b3972e0ace93a1e84"
+    ]
+  },
+  {
+    "name": "DPISushiswapPCVDeposit",
+    "address": "0x90fA375B75A58bB3A4842603f712DB285CC82Bf6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A PCV deposit for holding DPI liquidity on Sushiswap",
+    "explorers": [
+      "https://etherscan.io/address/0x90fa375b75a58bb3a4842603f712db285cc82bf6"
+    ]
+  },
+  {
+    "name": "INDEX Snapshot Delegator PCV Deposit",
+    "address": "0x0ee81df08B20e4f9E0F534e50da437D24491c4ee",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Created by core, logic for using Fei treasury in Index Coop",
+    "explorers": [
+      "https://etherscan.io/address/0x0ee81df08b20e4f9e0f534e50da437d24491c4ee"
+    ]
+  },
+  {
+    "name": "EthUniswapPCVDeposit",
+    "address": "0x5d6446880FCD004c851EA8920a628c70Ca101117",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A PCV deposit for holding ETH liquidity on Uniswap",
+    "explorers": [
+      "https://etherscan.io/address/0x5d6446880fcd004c851ea8920a628c70ca101117"
+    ]
+  },
+  {
+    "name": "UniswapPCVController",
+    "address": "0x0760dfE09Bd6d04D0Df9a60C51f01ecedCEb5132",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A PCV Controller for reweighting FEI Uniswap prices",
+    "explorers": [
+      "https://etherscan.io/address/0x0760dfe09bd6d04d0df9a60c51f01ecedceb5132"
+    ]
+  },
+  {
+    "name": "EthReserveStabilizer",
+    "address": "0x17305f0e18318994a57b494078CAC866A857F7b6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Exchanges FEI for ETH from the reserves",
+    "explorers": [
+      "https://etherscan.io/address/0x17305f0e18318994a57b494078cac866a857f7b6"
+    ]
+  },
+  {
+    "name": "RatioPCVController",
+    "address": "0xfC1aD6eb84351597cD3b9B65179633697d65B920",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Allows for percentage withdrawals of PCV from PCV Deposits",
+    "explorers": [
+      "https://etherscan.io/address/0xfc1ad6eb84351597cd3b9b65179633697d65b920"
+    ]
+  },
+  {
+    "name": "TribalChief",
+    "address": "0x9e1076cC0d19F9B0b8019F384B0a29E48Ee46f7f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Staking logic that enables single sided TRIBE staking",
+    "explorers": [
+      "https://etherscan.io/address/0x9e1076cc0d19f9b0b8019f384b0a29e48ee46f7f"
+    ]
+  },
+  {
+    "name": "Tribe ERC20Dripper",
+    "address": "0x3Fe0EAD3500e767F0F8bC2d3B5AF7755B1b21A6a",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "TRIBE staking logic",
+    "explorers": [
+      "https://etherscan.io/address/0x3fe0ead3500e767f0f8bc2d3b5af7755b1b21a6a"
+    ]
+  }
+]
