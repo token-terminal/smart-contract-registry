@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Index Factory proxy",
+    "address": "0x3CEEa6a3C98c2489b09b820F62FE568b5E21E797",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "The Factory contract includes the main parameters for how the protocol works",
+    "explorers": [
+      "https://etherscan.io/address/0x3ceea6a3c98c2489b09b820f62fe568b5e21e797"
+    ]
+  },
+  {
+    "name": "Ethereum Volatility Index Token",
+    "address": "0xC53342fd7575f572b0fF4569e31941A5B821aC76",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract lets you mint/redeem an ETHV token",
+    "explorers": [
+      "https://etherscan.io/address/0xc53342fd7575f572b0ff4569e31941a5b821ac76"
+    ]
+  },
+  {
+    "name": "Inverse Ethereum Volatility Index Token",
+    "address": "0x3A707d56D538e85B783E8CE12B346e7fB6511F90",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract lets you mint/redeem an iETHV token",
+    "explorers": [
+      "https://etherscan.io/address/0x3a707d56d538e85b783e8ce12b346e7fb6511f90"
+    ]
+  },
+  {
+    "name": "ETHV Volmex Protocol Proxy DAI Collateral",
+    "address": "0xa57fC404f69fCE71CA26e26f0A4DF7F35C8cd5C3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract holds all the ETHV DAI collateral",
+    "explorers": [
+      "https://etherscan.io/address/0xa57fc404f69fce71ca26e26f0a4df7f35c8cd5c3"
+    ]
+  },
+  {
+    "name": "Bitcoin Volatility Index Token",
+    "address": "0x51B0bcBEFf204B39Ce792D1E16767Fe6F7631970",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract lets you mint/redeem an BTCV token",
+    "explorers": [
+      "https://etherscan.io/address/0x51b0bcbeff204b39ce792d1e16767fe6f7631970"
+    ]
+  },
+  {
+    "name": "Inverse Bitcoin Volatility Index Token",
+    "address": "0x2590F1fD14Ef8Bb0A46C7A889c4CBc146510f9C3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract lets you mint/redeem an iBTC token",
+    "explorers": [
+      "https://etherscan.io/address/0x2590f1fd14ef8bb0a46c7a889c4cbc146510f9c3"
+    ]
+  },
+  {
+    "name": "BTCV Volmex Protocol Proxy DAI Collateral",
+    "address": "0x187922d4235D10239b2c6CCb2217aDa724F56DDA",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract holds all the BTCV DAI collateral",
+    "explorers": [
+      "https://etherscan.io/address/0x187922d4235d10239b2c6ccb2217ada724f56dda"
+    ]
+  },
+  {
+    "name": "ETHV Volmex Protocol Proxy USDC Collateral",
+    "address": "0x1BB632a08936e17Ee3971E6Eeb824910567e120B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract holds all the ETHV USDC collateral",
+    "explorers": [
+      "https://etherscan.io/address/0x1bb632a08936e17ee3971e6eeb824910567e120b"
+    ]
+  },
+  {
+    "name": "BTCV Volmex Protocol Proxy USDC Collateral",
+    "address": "0x054FBeBD2Cb17205B57fb56a426ccc54cAaBFaBC",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract holds all the BTCV USDC collateral",
+    "explorers": [
+      "https://etherscan.io/address/0x054fbebd2cb17205b57fb56a426ccc54caabfabc"
+    ]
+  },
+  {
+    "name": "Index Factory proxy",
+    "address": "0x0A5f89CDC9E008af95788b057F6D8741374Ae697",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "The Factory contract includes the main parameters for how the protocol works",
+    "explorers": [
+      "https://polygonscan.com/address/0x0a5f89cdc9e008af95788b057f6d8741374ae697#code"
+    ]
+  },
+  {
+    "name": "Ethereum Volatility Index Token",
+    "address": "0x3Dbd2A88627566306AE9f5F5FB466B498535aF21",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract lets you mint/redeem an ETHV token",
+    "explorers": [
+      "https://polygonscan.com/address/0x3dbd2a88627566306ae9f5f5fb466b498535af21"
+    ]
+  },
+  {
+    "name": "Inverse Ethereum Volatility Index Token",
+    "address": "0x39cDBd331c94d781D4B50802346152549689B1e5",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract lets you mint/redeem an iETHV token",
+    "explorers": [
+      "https://polygonscan.com/address/0x39cdbd331c94d781d4b50802346152549689b1e5"
+    ]
+  },
+  {
+    "name": "ETHV Volmex Protocol Proxy DAI Collateral",
+    "address": "0x164c668204Ce54558431997A6DD636Ee4E758b19",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract holds all the ETHV DAI collateral",
+    "explorers": [
+      "https://polygonscan.com/address/0x164c668204ce54558431997a6dd636ee4e758b19"
+    ]
+  },
+  {
+    "name": "Bitcoin Volatility Index Token",
+    "address": "0xE52F979590067637120004D188771b4aE48807Ee",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract lets you mint/redeem an BTCV token",
+    "explorers": [
+      "https://polygonscan.com/address/0xe52f979590067637120004d188771b4ae48807ee"
+    ]
+  },
+  {
+    "name": "Inverse Bitcoin Volatility Index Token",
+    "address": "0x89b1F5DB1797f82af33dED6e6B50623a83aE84fA",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract lets you mint/redeem an iBTC token",
+    "explorers": [
+      "https://polygonscan.com/address/0x89b1f5db1797f82af33ded6e6b50623a83ae84fa"
+    ]
+  },
+  {
+    "name": "BTCV Volmex Protocol Proxy DAI Colalteral",
+    "address": "0x90E6c403c02f72986a98E8a361Ec7B7C8BC29259",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract holds all the BTCV DAI collateral",
+    "explorers": [
+      "https://polygonscan.com/address/0x90e6c403c02f72986a98e8a361ec7b7c8bc29259"
+    ]
+  },
+  {
+    "name": "ETHV Volmex Protocol Proxy USDC Collateral",
+    "address": "0xEeb6f0C2261E21b657A27582466e5aD9acC072D7",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract holds all the ETHV USDC collateral",
+    "explorers": [
+      "https://polygonscan.com/address/0xeeb6f0c2261e21b657a27582466e5ad9acc072d7"
+    ]
+  },
+  {
+    "name": "BTCV Volmex Protocol Proxy USDC Collateral",
+    "address": "0xA2b3501d34edA289F0bEF1cAf95E5D0111032F36",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "This contract holds all the BTCV USDC collateral",
+    "explorers": [
+      "https://polygonscan.com/address/0xa2b3501d34eda289f0bef1caf95e5d0111032f36"
+    ]
+  }
+]
