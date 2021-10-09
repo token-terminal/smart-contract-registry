@@ -11,256 +11,256 @@
     ]
   },
   {
-      "name": "Claims",
-      "address": "0x813174d3eC6f7C11f4364a637cEf0f1CD6176139",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic for how claiming works",
-      "explorers": [
-        "https://etherscan.io/address/0x813174d3ec6f7c11f4364a637cef0f1cd6176139"
-      ]
-    },
-    {
-      "name": "ClaimsData",
-      "address": "0xdc2D359F59F6a26162972c3Bd0cFBfd8C9Ef43af",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic for how claiming works",
-      "explorers": [
-        "https://etherscan.io/address/0xdc2d359f59f6a26162972c3bd0cfbfd8c9ef43af"
-      ]
-    },
-    {
-      "name": "ClaimsReward",
-      "address": "0x15671E5710e6E8f087939F8dbB6707Bc4B5c64A9",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic for how all rewards are given",
-      "explorers": [
-        "https://etherscan.io/address/0x15671e5710e6e8f087939f8dbb6707bc4b5c64a9"
-      ]
-    },
-    {
-      "name": "CommunityStakingIncentives",
-      "address": "0x27e6d3Ce99Fa5ec4019Ce598aF54bcB3A2FB2E5f",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic for how the community staking incentives work",
-      "explorers": [
-        "https://etherscan.io/address/0x27e6d3ce99fa5ec4019ce598af54bcb3a2fb2e5f"
-      ]
-    },
-    {
-      "name": "DistributorFactory",
-      "address": "0x6752c6FbDDc24ac88f3749D8921E00c77Bffef8c",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Allows users to create new Distributor instances",
-      "explorers": [
-        "https://etherscan.io/address/0x6752c6fbddc24ac88f3749d8921e00c77bffef8c"
-      ]
-    },
-    {
-      "name": "Gateway",
-      "address": "0x089Ab1536D032F54DFbC194Ba47529a4351af1B5",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Proxy contracts are upgraded using this contract",
-      "explorers": [
-        "https://etherscan.io/address/0x089ab1536d032f54dfbc194ba47529a4351af1b5"
-      ]
-    },
-    {
-      "name": "Governance",
-      "address": "0x4A5C681dDC32acC6ccA51ac17e9d461e6be87900",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Logic for how NXM holders propose and vote on the development of the protocol",
-      "explorers": [
-        "https://etherscan.io/address/0x4a5c681ddc32acc6cca51ac17e9d461e6be87900"
-      ]
-    },
-    {
-      "name": "Incidents",
-      "address": "0x8CEBa69a8e96a4ce71Aa65859DBdb180B489a719",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Handles the adding and payments of incidents",
-      "explorers": [
-        "https://etherscan.io/address/0x8ceba69a8e96a4ce71aa65859dbdb180b489a719"
-      ]
-    },
-    {
-      "name": "MCR",
-      "address": "0x406511caf30043f92625414E0B951a5d9c5aBF66",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic regarding the MCR (minimun capital requirment). The MCR is the level of funds required to be very confident all claims can be paid",
-      "explorers": [
-        "https://etherscan.io/address/0x406511caf30043f92625414e0b951a5d9c5abf66"
-      ]
-    },
-    {
-      "name": "MemberRoles",
-      "address": "0x055CC48f7968FD8640EF140610dd4038e1b03926",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Logic for how governence roles are added and managed",
-      "explorers": [
-        "https://etherscan.io/address/0x055cc48f7968fd8640ef140610dd4038e1b03926"
-      ]
-    },
-    {
-      "name": "NXMToken",
-      "address": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Logic for the NXM governance token",
-      "explorers": [
-        "https://etherscan.io/address/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
-      ]
-    },
-    {
-      "name": "NXMaster",
-      "address": "0x01BFd82675DBCc7762C84019cA518e701C0cD07e",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic for different emergency functions",
-      "explorers": [
-        "https://etherscan.io/address/0x01bfd82675dbcc7762c84019ca518e701c0cd07e"
-      ]
-    },
-    {
-      "name": "Pool",
-      "address": "0xcafea35cE5a2fc4CED4464DA4349f81A122fd12b",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic associated with calling External oracles",
-      "explorers": [
-        "https://etherscan.io/address/0xcafea35ce5a2fc4ced4464da4349f81a122fd12b"
-      ]
-    },
-    {
-      "name": "Pool2",
-      "address": "0xcafeaDA4d15BBC7592113D5d5af631b5dcd53Dcb",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic associated with calling External oracles(?)",
-      "explorers": [
-        "https://etherscan.io/address/0xcafeada4d15bbc7592113d5d5af631b5dcd53dcb"
-      ]
-    },
-    {
-      "name": "PooledStaking",
-      "address": "0x84EdfFA16bb0b9Ab1163abb0a13Ff0744c11272f",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Logic for how NXM staking works",
-      "explorers": [
-        "https://etherscan.io/address/0x84edffa16bb0b9ab1163abb0a13ff0744c11272f"
-      ]
-    },
-    {
-      "name": "ProposalCategory",
-      "address": "0x888eA6Ab349c854936b98586CE6a17E98BF254b2",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Logic related to the governance of the protocol",
-      "explorers": [
-        "https://etherscan.io/address/0x888ea6ab349c854936b98586ce6a17e98bf254b2"
-      ]
-    },
-    {
-      "name": "Quotation",
-      "address": "0xB365FA523d853fbfA5608E3e4c8457166287D958",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic associated with creating and expiring covers",
-      "explorers": [
-        "https://etherscan.io/address/0xb365fa523d853fbfa5608e3e4c8457166287d958"
-      ]
-    },
-    {
-      "name": "QuotationData",
-      "address": "0x1776651F58a17a50098d31ba3C3cD259C1903f7A",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic associated with creating and expiring covers",
-      "explorers": [
-        "https://etherscan.io/address/0x1776651f58a17a50098d31ba3c3cd259c1903f7a"
-      ]
-    },
-    {
-      "name": "SwapOperator",
-      "address": "0xcafea19bB9ab657f8Ea74363C937446C0846a320",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Allows the SwapController to exchange assets",
-      "explorers": [
-        "https://etherscan.io/address/0xcafea19bb9ab657f8ea74363c937446c0846a320"
-      ]
-    },
-    {
-      "name": "TokenController",
-      "address": "0x5407381b6c251cFd498ccD4A1d877739CB7960B8",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic related to NXM members and token holders",
-      "explorers": [
-        "https://etherscan.io/address/0x5407381b6c251cfd498ccd4a1d877739cb7960b8"
-      ]
-    },
-    {
-      "name": "TokenData",
-      "address": "0xE20B3aE826Cdb43676e418F7C3B84B75b5697a40",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic related to NXM members and token holders",
-      "explorers": [
-        "https://etherscan.io/address/0xe20b3ae826cdb43676e418f7c3b84b75b5697a40"
-      ]
-    },
-    {
-      "name": "TokenFunctions",
-      "address": "0xcafea2D407F1307d1413e84b2730F0870fd72dC0",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Contains all token related non-standard functions specific to Nexus Mutual",
-      "explorers": [
-        "https://etherscan.io/address/0xcafea2d407f1307d1413e84b2730f0870fd72dc0"
-      ]
-    },
-    {
-      "name": "TwapOracle",
-      "address": "0xcafea1C9f94e077DF44D95c4A1ad5a5747a18b5C",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Logic related to price information",
-      "explorers": [
-        "https://etherscan.io/address/0xcafea1c9f94e077df44d95c4a1ad5a5747a18b5c"
-      ]
-    }
+    "name": "Claims",
+    "address": "0x813174d3eC6f7C11f4364a637cEf0f1CD6176139",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for how claiming works",
+    "explorers": [
+      "https://etherscan.io/address/0x813174d3ec6f7c11f4364a637cef0f1cd6176139"
+    ]
+  },
+  {
+    "name": "ClaimsData",
+    "address": "0xdc2D359F59F6a26162972c3Bd0cFBfd8C9Ef43af",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for how claiming works",
+    "explorers": [
+      "https://etherscan.io/address/0xdc2d359f59f6a26162972c3bd0cfbfd8c9ef43af"
+    ]
+  },
+  {
+    "name": "ClaimsReward",
+    "address": "0x15671E5710e6E8f087939F8dbB6707Bc4B5c64A9",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for how all rewards are given",
+    "explorers": [
+      "https://etherscan.io/address/0x15671e5710e6e8f087939f8dbb6707bc4b5c64a9"
+    ]
+  },
+  {
+    "name": "CommunityStakingIncentives",
+    "address": "0x27e6d3Ce99Fa5ec4019Ce598aF54bcB3A2FB2E5f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for how the community staking incentives work",
+    "explorers": [
+      "https://etherscan.io/address/0x27e6d3ce99fa5ec4019ce598af54bcb3a2fb2e5f"
+    ]
+  },
+  {
+    "name": "DistributorFactory",
+    "address": "0x6752c6FbDDc24ac88f3749D8921E00c77Bffef8c",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Allows users to create new Distributor instances",
+    "explorers": [
+      "https://etherscan.io/address/0x6752c6fbddc24ac88f3749d8921e00c77bffef8c"
+    ]
+  },
+  {
+    "name": "Gateway",
+    "address": "0x089Ab1536D032F54DFbC194Ba47529a4351af1B5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Proxy contracts are upgraded using this contract",
+    "explorers": [
+      "https://etherscan.io/address/0x089ab1536d032f54dfbc194ba47529a4351af1b5"
+    ]
+  },
+  {
+    "name": "Governance",
+    "address": "0x4A5C681dDC32acC6ccA51ac17e9d461e6be87900",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for how NXM holders propose and vote on the development of the protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x4a5c681ddc32acc6cca51ac17e9d461e6be87900"
+    ]
+  },
+  {
+    "name": "Incidents",
+    "address": "0x8CEBa69a8e96a4ce71Aa65859DBdb180B489a719",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Handles the adding and payments of incidents",
+    "explorers": [
+      "https://etherscan.io/address/0x8ceba69a8e96a4ce71aa65859dbdb180b489a719"
+    ]
+  },
+  {
+    "name": "MCR",
+    "address": "0x406511caf30043f92625414E0B951a5d9c5aBF66",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic regarding the MCR (minimun capital requirment). The MCR is the level of funds required to be very confident all claims can be paid",
+    "explorers": [
+      "https://etherscan.io/address/0x406511caf30043f92625414e0b951a5d9c5abf66"
+    ]
+  },
+  {
+    "name": "MemberRoles",
+    "address": "0x055CC48f7968FD8640EF140610dd4038e1b03926",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for how governence roles are added and managed",
+    "explorers": [
+      "https://etherscan.io/address/0x055cc48f7968fd8640ef140610dd4038e1b03926"
+    ]
+  },
+  {
+    "name": "NXMToken",
+    "address": "0xd7c49CEE7E9188cCa6AD8FF264C1DA2e69D4Cf3B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for the NXM governance token",
+    "explorers": [
+      "https://etherscan.io/address/0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
+    ]
+  },
+  {
+    "name": "NXMaster",
+    "address": "0x01BFd82675DBCc7762C84019cA518e701C0cD07e",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for different emergency functions",
+    "explorers": [
+      "https://etherscan.io/address/0x01bfd82675dbcc7762c84019ca518e701c0cd07e"
+    ]
+  },
+  {
+    "name": "Pool",
+    "address": "0xcafea35cE5a2fc4CED4464DA4349f81A122fd12b",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic associated with calling External oracles",
+    "explorers": [
+      "https://etherscan.io/address/0xcafea35ce5a2fc4ced4464da4349f81a122fd12b"
+    ]
+  },
+  {
+    "name": "Pool2",
+    "address": "0xcafeaDA4d15BBC7592113D5d5af631b5dcd53Dcb",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic associated with calling External oracles(?)",
+    "explorers": [
+      "https://etherscan.io/address/0xcafeada4d15bbc7592113d5d5af631b5dcd53dcb"
+    ]
+  },
+  {
+    "name": "PooledStaking",
+    "address": "0x84EdfFA16bb0b9Ab1163abb0a13Ff0744c11272f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for how NXM staking works",
+    "explorers": [
+      "https://etherscan.io/address/0x84edffa16bb0b9ab1163abb0a13ff0744c11272f"
+    ]
+  },
+  {
+    "name": "ProposalCategory",
+    "address": "0x888eA6Ab349c854936b98586CE6a17E98BF254b2",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic related to the governance of the protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x888ea6ab349c854936b98586ce6a17e98bf254b2"
+    ]
+  },
+  {
+    "name": "Quotation",
+    "address": "0xB365FA523d853fbfA5608E3e4c8457166287D958",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic associated with creating and expiring covers",
+    "explorers": [
+      "https://etherscan.io/address/0xb365fa523d853fbfa5608e3e4c8457166287d958"
+    ]
+  },
+  {
+    "name": "QuotationData",
+    "address": "0x1776651F58a17a50098d31ba3C3cD259C1903f7A",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic associated with creating and expiring covers",
+    "explorers": [
+      "https://etherscan.io/address/0x1776651f58a17a50098d31ba3c3cd259c1903f7a"
+    ]
+  },
+  {
+    "name": "SwapOperator",
+    "address": "0xcafea19bB9ab657f8Ea74363C937446C0846a320",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Allows the SwapController to exchange assets",
+    "explorers": [
+      "https://etherscan.io/address/0xcafea19bb9ab657f8ea74363c937446c0846a320"
+    ]
+  },
+  {
+    "name": "TokenController",
+    "address": "0x5407381b6c251cFd498ccD4A1d877739CB7960B8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic related to NXM members and token holders",
+    "explorers": [
+      "https://etherscan.io/address/0x5407381b6c251cfd498ccd4a1d877739cb7960b8"
+    ]
+  },
+  {
+    "name": "TokenData",
+    "address": "0xE20B3aE826Cdb43676e418F7C3B84B75b5697a40",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic related to NXM members and token holders",
+    "explorers": [
+      "https://etherscan.io/address/0xe20b3ae826cdb43676e418f7c3b84b75b5697a40"
+    ]
+  },
+  {
+    "name": "TokenFunctions",
+    "address": "0xcafea2D407F1307d1413e84b2730F0870fd72dC0",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Contains all token related non-standard functions specific to Nexus Mutual",
+    "explorers": [
+      "https://etherscan.io/address/0xcafea2d407f1307d1413e84b2730f0870fd72dc0"
+    ]
+  },
+  {
+    "name": "TwapOracle",
+    "address": "0xcafea1C9f94e077DF44D95c4A1ad5a5747a18b5C",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic related to price information",
+    "explorers": [
+      "https://etherscan.io/address/0xcafea1c9f94e077df44d95c4a1ad5a5747a18b5c"
+    ]
+  }
 ]
