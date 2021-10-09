@@ -22,1092 +22,1092 @@
     ]
   },
   {
-      "name": "Dai Pod",
-      "address": "0x2f994e2E4F3395649eeE8A89092e63Ca526dA829",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x2f994e2e4f3395649eee8a89092e63ca526da829"
-      ]
-    },
-    {
-      "name": "USDC Prize Pool",
-      "address": "0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416"
-      ]
-    },
-    {
-      "name": "USDC Prize Strategy",
-      "address": "0x3d9946190907ada8b70381b25c71eb9adf5f9b7b",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x3d9946190907ada8b70381b25c71eb9adf5f9b7b"
-      ]
-    },
-    {
-      "name": "USDC Pod",
-      "address": "0x386EB78f2eE79AddE8Bdb0a0e27292755ebFea58",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x386eb78f2ee79adde8bdb0a0e27292755ebfea58"
-      ]
-    },
-    {
-      "name": "UNI Prize Pool",
-      "address": "0x0650d780292142835F6ac58dd8E2a336e87b4393",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x0650d780292142835f6ac58dd8e2a336e87b4393"
-      ]
-    },
-    {
-      "name": "UNI Prize Strategy",
-      "address": "0xe8726B85236a489a8E84C56c95790d07a368f913",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0xe8726b85236a489a8e84c56c95790d07a368f913"
-      ]
-    },
-    {
-      "name": "COMP Prize Strategy",
-      "address": "0x3ec4694b65e41f12d6b5d5ba7c2341f4d6859773",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x3ec4694b65e41f12d6b5d5ba7c2341f4d6859773"
-      ]
-    },
-    {
-      "name": "GUSD Prize Pool",
-      "address": "0x65C8827229FbD63f9de9FDfd400C9D264066A336",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x65c8827229fbd63f9de9fdfd400c9d264066a336"
-      ]
-    },
-    {
-      "name": "GUSD Prize Strategy",
-      "address": "0x821cF440654addD81493e1949F9ee078D65bb57f",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x821cf440654addd81493e1949f9ee078d65bb57f"
-      ]
-    },
-    {
-      "name": "POOL Prize Pool",
-      "address": "0x396b4489da692788e327e2e4b2b0459a5ef26791",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x396b4489da692788e327e2e4b2b0459a5ef26791"
-      ]
-    },
-    {
-      "name": "POOL Prize Strategy",
-      "address": "0x21e5e62e0b6b59155110cd36f3f6655fbbcf6424",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x21e5e62e0b6b59155110cd36f3f6655fbbcf6424"
-      ]
-    },
-    {
-      "name": "Loot Box ERC721",
-      "address": "0x4d695c615a7AACf2d7b9C481B66045BB2457Dfde",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x4d695c615a7aacf2d7b9c481b66045bb2457dfde"
-      ]
-    },
-    {
-      "name": "Loot Box Prize Strategy Listener",
-      "address": "0xfe7205DF55BA42c8801e44B55BF05F06cCe8565E",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0xfe7205df55ba42c8801e44b55bf05f06cce8565e"
-      ]
-    },
-    {
-      "name": "Aave USDT Prize Pool",
-      "address": "0xc7d56c06F136EFff93e349C7BF8cc46bBF5D902c",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0xc7d56c06f136efff93e349c7bf8cc46bbf5d902c"
-      ]
-    },
-    {
-      "name": "Aave USDT Prize Strategy",
-      "address": "0x2223d2e68e0990567f5e0451f4c027870ea07227",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x2223d2e68e0990567f5e0451f4c027870ea07227"
-      ]
-    },
-    {
-      "name": "Sushi Prize Pool",
-      "address": "0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559"
-      ]
-    },
-    {
-      "name": "Sushi Prize Strategy",
-      "address": "0x94ac4f591908ad5a1ccc9e05d2d75b0dd62d97fa",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x94ac4f591908ad5a1ccc9e05d2d75b0dd62d97fa"
-      ]
-    },
-    {
-      "name": "USDT Prize Pool",
-      "address": "0x481f1BA81f7C01400831DfF18215961C3530D118",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x481f1ba81f7c01400831dff18215961c3530d118"
-      ]
-    },
-    {
-      "name": "USDT Prize Strategy",
-      "address": "0xc0fcdb4d882c28238cbcfbb023f87a7a7a1bdaa1",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0xc0fcdb4d882c28238cbcfbb023f87a7a7a1bdaa1"
-      ]
-    },
-    {
-      "name": "Uniswap POOL LP Prize Pool",
-      "address": "0x3AF7072D29Adde20FC7e173a7CB9e45307d2FB0A",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x3af7072d29adde20fc7e173a7cb9e45307d2fb0a"
-      ]
-    },
-    {
-      "name": "Reserve Registry",
-      "address": "0x3e8b9901dBFE766d3FE44B36c180A1bca2B9A295",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x3e8b9901dbfe766d3fe44b36c180a1bca2b9a295"
-      ]
-    },
-    {
-      "name": "Pod Factory",
-      "address": "0x4e3a9F9fBAFB2EC49727cFfa2a411F7a0C1C4cE1",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-        "https://etherscan.io/address/0x4e3a9f9fbafb2ec49727cffa2a411f7a0c1c4ce1"
-      ]
-    },
-    {
-      "name": "ConfigurableReserve",
-      "address": "0xd1797D46C3E825fce5215a0259D3426a5c49455C",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Configurable Reserve",
-      "explorers": [
-        "https://etherscan.io/address/0xd1797d46c3e825fce5215a0259d3426a5c49455c"
-      ]
-    },
-    {
-      "name": "ControlledTokenBuilder",
-      "address": "0xaF00636E7D943a62CCb87E8153c1C97bF657F11D",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-        "https://etherscan.io/address/0xaf00636e7d943a62ccb87e8153c1c97bf657f11d"
-      ]
-    },
-    {
-      "name": "MultipleWinnersBuilder",
-      "address": "0x10f61a36e1327036E5E416D52ff0f4b5c9EfAAA3",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-        "https://etherscan.io/address/0x10f61a36e1327036e5e416d52ff0f4b5c9efaaa3"
-      ]
-    },
+    "name": "Dai Pod",
+    "address": "0x2f994e2E4F3395649eeE8A89092e63Ca526dA829",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x2f994e2e4f3395649eee8a89092e63ca526da829"
+    ]
+  },
   {
-      "name": "PoolWithMultipleWinnersBuilder",
-      "address": "0xAD1C620137FA76f520f9a39daAcD7B008D7d2F2D",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
+    "name": "USDC Prize Pool",
+    "address": "0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xde9ec95d7708b8319ccca4b8bc92c0a3b70bf416"
+    ]
+  },
+  {
+    "name": "USDC Prize Strategy",
+    "address": "0x3d9946190907ada8b70381b25c71eb9adf5f9b7b",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x3d9946190907ada8b70381b25c71eb9adf5f9b7b"
+    ]
+  },
+  {
+    "name": "USDC Pod",
+    "address": "0x386EB78f2eE79AddE8Bdb0a0e27292755ebFea58",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x386eb78f2ee79adde8bdb0a0e27292755ebfea58"
+    ]
+  },
+  {
+    "name": "UNI Prize Pool",
+    "address": "0x0650d780292142835F6ac58dd8E2a336e87b4393",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x0650d780292142835f6ac58dd8e2a336e87b4393"
+    ]
+  },
+  {
+    "name": "UNI Prize Strategy",
+    "address": "0xe8726B85236a489a8E84C56c95790d07a368f913",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xe8726b85236a489a8e84c56c95790d07a368f913"
+    ]
+  },
+  {
+    "name": "COMP Prize Strategy",
+    "address": "0x3ec4694b65e41f12d6b5d5ba7c2341f4d6859773",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x3ec4694b65e41f12d6b5d5ba7c2341f4d6859773"
+    ]
+  },
+  {
+    "name": "GUSD Prize Pool",
+    "address": "0x65C8827229FbD63f9de9FDfd400C9D264066A336",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x65c8827229fbd63f9de9fdfd400c9d264066a336"
+    ]
+  },
+  {
+    "name": "GUSD Prize Strategy",
+    "address": "0x821cF440654addD81493e1949F9ee078D65bb57f",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x821cf440654addd81493e1949f9ee078d65bb57f"
+    ]
+  },
+  {
+    "name": "POOL Prize Pool",
+    "address": "0x396b4489da692788e327e2e4b2b0459a5ef26791",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x396b4489da692788e327e2e4b2b0459a5ef26791"
+    ]
+  },
+  {
+    "name": "POOL Prize Strategy",
+    "address": "0x21e5e62e0b6b59155110cd36f3f6655fbbcf6424",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x21e5e62e0b6b59155110cd36f3f6655fbbcf6424"
+    ]
+  },
+  {
+    "name": "Loot Box ERC721",
+    "address": "0x4d695c615a7AACf2d7b9C481B66045BB2457Dfde",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x4d695c615a7aacf2d7b9c481b66045bb2457dfde"
+    ]
+  },
+  {
+    "name": "Loot Box Prize Strategy Listener",
+    "address": "0xfe7205DF55BA42c8801e44B55BF05F06cCe8565E",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xfe7205df55ba42c8801e44b55bf05f06cce8565e"
+    ]
+  },
+  {
+    "name": "Aave USDT Prize Pool",
+    "address": "0xc7d56c06F136EFff93e349C7BF8cc46bBF5D902c",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xc7d56c06f136efff93e349c7bf8cc46bbf5d902c"
+    ]
+  },
+  {
+    "name": "Aave USDT Prize Strategy",
+    "address": "0x2223d2e68e0990567f5e0451f4c027870ea07227",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x2223d2e68e0990567f5e0451f4c027870ea07227"
+    ]
+  },
+  {
+    "name": "Sushi Prize Pool",
+    "address": "0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xc32a0f9dfe2d93e8a60ba0200e033a59aec91559"
+    ]
+  },
+  {
+    "name": "Sushi Prize Strategy",
+    "address": "0x94ac4f591908ad5a1ccc9e05d2d75b0dd62d97fa",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x94ac4f591908ad5a1ccc9e05d2d75b0dd62d97fa"
+    ]
+  },
+  {
+    "name": "USDT Prize Pool",
+    "address": "0x481f1BA81f7C01400831DfF18215961C3530D118",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x481f1ba81f7c01400831dff18215961c3530d118"
+    ]
+  },
+  {
+    "name": "USDT Prize Strategy",
+    "address": "0xc0fcdb4d882c28238cbcfbb023f87a7a7a1bdaa1",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xc0fcdb4d882c28238cbcfbb023f87a7a7a1bdaa1"
+    ]
+  },
+  {
+    "name": "Uniswap POOL LP Prize Pool",
+    "address": "0x3AF7072D29Adde20FC7e173a7CB9e45307d2FB0A",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x3af7072d29adde20fc7e173a7cb9e45307d2fb0a"
+    ]
+  },
+  {
+    "name": "Reserve Registry",
+    "address": "0x3e8b9901dBFE766d3FE44B36c180A1bca2B9A295",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x3e8b9901dbfe766d3fe44b36c180a1bca2b9a295"
+    ]
+  },
+  {
+    "name": "Pod Factory",
+    "address": "0x4e3a9F9fBAFB2EC49727cFfa2a411F7a0C1C4cE1",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x4e3a9f9fbafb2ec49727cffa2a411f7a0c1c4ce1"
+    ]
+  },
+  {
+    "name": "ConfigurableReserve",
+    "address": "0xd1797D46C3E825fce5215a0259D3426a5c49455C",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Configurable Reserve",
+    "explorers": [
+      "https://etherscan.io/address/0xd1797d46c3e825fce5215a0259d3426a5c49455c"
+    ]
+  },
+  {
+    "name": "ControlledTokenBuilder",
+    "address": "0xaF00636E7D943a62CCb87E8153c1C97bF657F11D",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://etherscan.io/address/0xaf00636e7d943a62ccb87e8153c1c97bf657f11d"
+    ]
+  },
+  {
+    "name": "MultipleWinnersBuilder",
+    "address": "0x10f61a36e1327036E5E416D52ff0f4b5c9EfAAA3",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://etherscan.io/address/0x10f61a36e1327036e5e416d52ff0f4b5c9efaaa3"
+    ]
+  },
+  {
+    "name": "PoolWithMultipleWinnersBuilder",
+    "address": "0xAD1C620137FA76f520f9a39daAcD7B008D7d2F2D",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
       "https://etherscan.io/address/0xad1c620137fa76f520f9a39daacd7b008d7d2f2d"
-      ]
+    ]
   },
   {
-      "name": "TokenFaucetProxyFactory",
-      "address": "0x63fE3D163A3533f3d13Ace30c539A9e8c290D630",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
+    "name": "TokenFaucetProxyFactory",
+    "address": "0x63fE3D163A3533f3d13Ace30c539A9e8c290D630",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
       "https://etherscan.io/address/0x63fe3d163a3533f3d13ace30c539a9e8c290d630"
-      ]
+    ]
   },
   {
-      "name": "YieldSourcePrizePoolProxyFactory",
-      "address": "0x0835c8C4Ab282B5dBF06d59E1489eF17F1c40D96",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
+    "name": "YieldSourcePrizePoolProxyFactory",
+    "address": "0x0835c8C4Ab282B5dBF06d59E1489eF17F1c40D96",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
       "https://etherscan.io/address/0x0835c8c4ab282b5dbf06d59e1489ef17f1c40d96"
-      ]
+    ]
   },
   {
-      "name": "GovernorAlpha",
-      "address": "0xB3a87172F555ae2a2AB79Be60B336D2F7D0187f0",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "governance",
-      "description": "Governance",
-      "explorers": [
+    "name": "GovernorAlpha",
+    "address": "0xB3a87172F555ae2a2AB79Be60B336D2F7D0187f0",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Governance",
+    "explorers": [
       "https://etherscan.io/address/0xb3a87172f555ae2a2ab79be60b336d2f7d0187f0"
-      ]
+    ]
   },
   {
-      "name": "Pool",
-      "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "governance",
-      "description": "Governance",
-      "explorers": [
+    "name": "Pool",
+    "address": "0x0cEC1A9154Ff802e7934Fc916Ed7Ca50bDE6844e",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Governance",
+    "explorers": [
       "https://etherscan.io/address/0x0cec1a9154ff802e7934fc916ed7ca50bde6844e"
-      ]
+    ]
   },
   {
-      "name": "Timelock",
-      "address": "0x42cd8312D2BCe04277dD5161832460e95b24262E",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "governance",
-      "description": "Governance",
-      "explorers": [
+    "name": "Timelock",
+    "address": "0x42cd8312D2BCe04277dD5161832460e95b24262E",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Governance",
+    "explorers": [
       "https://etherscan.io/address/0x42cd8312d2bce04277dd5161832460e95b24262e"
-      ]
+    ]
   },
   {
-      "name": "TreasuryVesterForTreasury",
-      "address": "0x21950E281bDE1714ffd1062ed17c56D4D8de2359",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "governance",
-      "description": "Governance",
-      "explorers": [
+    "name": "TreasuryVesterForTreasury",
+    "address": "0x21950E281bDE1714ffd1062ed17c56D4D8de2359",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Governance",
+    "explorers": [
       "https://etherscan.io/address/0x21950e281bde1714ffd1062ed17c56d4d8de2359"
-      ]
+    ]
   },
   {
-      "name": "RNGBlockhash",
-      "address": "0xb1D89477d1b505C261bab6e73f08fA834544CD21",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "RNG Contracts",
-      "explorers": [
+    "name": "RNGBlockhash",
+    "address": "0xb1D89477d1b505C261bab6e73f08fA834544CD21",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "RNG Contracts",
+    "explorers": [
       "https://etherscan.io/address/0xb1d89477d1b505c261bab6e73f08fa834544cd21"
-      ]
+    ]
   },
   {
-      "name": "RNGChainlink",
-      "address": "0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "RNG Contracts",
-      "explorers": [
+    "name": "RNGChainlink",
+    "address": "0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "RNG Contracts",
+    "explorers": [
       "https://etherscan.io/address/0xb2dc5571f477b1c5b36509a71013bfedd9cc492f"
-      ]
+    ]
   },
   {
-      "name": "ERC721ControlledFactory",
-      "address": "0x4E869b3A0978fA61DAbd7Da8F9B272AADc745Fb3",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Loot Box Contracts",
-      "explorers": [
+    "name": "ERC721ControlledFactory",
+    "address": "0x4E869b3A0978fA61DAbd7Da8F9B272AADc745Fb3",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Loot Box Contracts",
+    "explorers": [
       "https://etherscan.io/address/0x4e869b3a0978fa61dabd7da8f9b272aadc745fb3"
-      ]
+    ]
   },
   {
-      "name": "LootBoxController",
-      "address": "0x2c2a966b7F5448A36EC9f896088DfB99B21d8A24",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Loot Box Contracts",
-      "explorers": [
+    "name": "LootBoxController",
+    "address": "0x2c2a966b7F5448A36EC9f896088DfB99B21d8A24",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Loot Box Contracts",
+    "explorers": [
       "https://etherscan.io/address/0x2c2a966b7f5448a36ec9f896088dfb99b21d8a24"
-      ]
+    ]
   },
   {
-      "name": "LootBoxPrizeStrategyListenerFactory",
-      "address": "0x25e6a78D93D2935A638fDbd684e7b39565d0B7eA",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Loot Box Contracts",
-      "explorers": [
+    "name": "LootBoxPrizeStrategyListenerFactory",
+    "address": "0x25e6a78D93D2935A638fDbd684e7b39565d0B7eA",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Loot Box Contracts",
+    "explorers": [
       "https://etherscan.io/address/0x25e6a78d93d2935a638fdbd684e7b39565d0b7ea"
-      ]
+    ]
   },
   {
-      "name": "MerkleDistributor",
-      "address": "0xBE1a33519F586A4c8AA37525163Df8d67997016f",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Retroactive Token Distribution",
-      "explorers": [
+    "name": "MerkleDistributor",
+    "address": "0xBE1a33519F586A4c8AA37525163Df8d67997016f",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Retroactive Token Distribution",
+    "explorers": [
       "https://etherscan.io/address/0xbe1a33519f586a4c8aa37525163df8d67997016f"
-      ]
+    ]
   },
   {
-      "name": "GenericProxyFactory",
-      "address": "0x14e09c3319244a84e7c1E7B52634f5220FA96623",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Generic Proxy Factory",
-      "explorers": [
+    "name": "GenericProxyFactory",
+    "address": "0x14e09c3319244a84e7c1E7B52634f5220FA96623",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Generic Proxy Factory",
+    "explorers": [
       "https://etherscan.io/address/0x14e09c3319244a84e7c1e7b52634f5220fa96623"
-      ]
+    ]
   },
   {
-      "name": "AddressRegistry",
-      "address": "0x34733851E2047F8d0e1aa91124A6f9EaDc54D253",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Prize Pool Registry",
-      "explorers": [
+    "name": "AddressRegistry",
+    "address": "0x34733851E2047F8d0e1aa91124A6f9EaDc54D253",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Prize Pool Registry",
+    "explorers": [
       "https://etherscan.io/address/0x34733851e2047f8d0e1aa91124a6f9eadc54d253"
-      ]
+    ]
   },
   {
-      "name": "PodsRegistry",
-      "address": "0x4658f736b93dCDdCbCe46cDe955970E697fd351f",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Pods Registry",
-      "explorers": [
+    "name": "PodsRegistry",
+    "address": "0x4658f736b93dCDdCbCe46cDe955970E697fd351f",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Pods Registry",
+    "explorers": [
       "https://etherscan.io/address/0x4658f736b93dcddcbce46cde955970e697fd351f"
-      ]
+    ]
   },
   {
-      "name": "PrizeStrategyUpkeep",
-      "address": "0xb9D70C3d7E4453Cc679D8A91145a28782268f229",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Prize Strategy Upkeep",
-      "explorers": [
+    "name": "PrizeStrategyUpkeep",
+    "address": "0xb9D70C3d7E4453Cc679D8A91145a28782268f229",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Prize Strategy Upkeep",
+    "explorers": [
       "https://etherscan.io/address/0xb9d70c3d7e4453cc679d8a91145a28782268f229"
-      ]
+    ]
   },
   {
-      "name": "PodsUpkeep",
-      "address": "0x6c87C9960fac84F31AEc88964cA1270C70Ca6853",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Pods Upkeep",
-      "explorers": [
+    "name": "PodsUpkeep",
+    "address": "0x6c87C9960fac84F31AEc88964cA1270C70Ca6853",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Pods Upkeep",
+    "explorers": [
       "https://etherscan.io/address/0x6c87c9960fac84f31aec88964ca1270c70ca6853"
-      ]
+    ]
   },
   {
-      "name": "AaveBUSDYieldSource",
-      "address": "0x858415FdB262F17F7a63f6B1F6fEd7AF8308A1A7",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
+    "name": "AaveBUSDYieldSource",
+    "address": "0x858415FdB262F17F7a63f6B1F6fEd7AF8308A1A7",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
       "https://etherscan.io/address/0x858415fdb262f17f7a63f6b1f6fed7af8308a1a7"
-      ]
+    ]
   },
   {
-      "name": "AaveGUSDYieldSource",
-      "address": "0x2bA1e000a381aD42af10C6e33aFe5994eE878D72",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
+    "name": "AaveGUSDYieldSource",
+    "address": "0x2bA1e000a381aD42af10C6e33aFe5994eE878D72",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
       "https://etherscan.io/address/0x2ba1e000a381ad42af10c6e33afe5994ee878d72"
-      ]
+    ]
   },
   {
-      "name": "AaveSUSDYieldSource",
-      "address": "0x4C8D99B0c7022923ef1A81ADb4E4e326f8E91ac9",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
+    "name": "AaveSUSDYieldSource",
+    "address": "0x4C8D99B0c7022923ef1A81ADb4E4e326f8E91ac9",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
       "https://etherscan.io/address/0x4c8d99b0c7022923ef1a81adb4e4e326f8e91ac9"
-      ]
+    ]
   },
   {
-      "name": "AaveUSDTYieldSource",
-      "address": "0x6E159B199423383572B7CB05FBbD54103A827F2b",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
+    "name": "AaveUSDTYieldSource",
+    "address": "0x6E159B199423383572B7CB05FBbD54103A827F2b",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
       "https://etherscan.io/address/0x6e159b199423383572b7cb05fbbd54103a827f2b"
-      ]
+    ]
   },
   {
-      "name": "ATokenYieldSource",
-      "address": "0xBa71a9907e88925F59a3658C3a7618440Df6406E",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
+    "name": "ATokenYieldSource",
+    "address": "0xBa71a9907e88925F59a3658C3a7618440Df6406E",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
       "https://etherscan.io/address/0xba71a9907e88925f59a3658c3a7618440df6406e"
-      ]
+    ]
   },
   {
-      "name": "SushiYieldSource",
-      "address": "0x9858aC37e385E52dA6385d828Cfe55a182D8ffA6",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Sushi Yield Source",
-      "explorers": [
+    "name": "SushiYieldSource",
+    "address": "0x9858aC37e385E52dA6385d828Cfe55a182D8ffA6",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Sushi Yield Source",
+    "explorers": [
       "https://etherscan.io/address/0x9858ac37e385e52da6385d828cfe55a182d8ffa6"
-      ]
+    ]
   },
   {
-      "name": "PoolTogetherEVMBridgeRoot",
-      "address": "0xfe6c5Ae087366A7119f12946d07E04C94BB7A048",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "EVM Bridge",
-      "explorers": [
+    "name": "PoolTogetherEVMBridgeRoot",
+    "address": "0xfe6c5Ae087366A7119f12946d07E04C94BB7A048",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "EVM Bridge",
+    "explorers": [
       "https://etherscan.io/address/0xfe6c5ae087366a7119f12946d07e04c94bb7a048"
-      ]
+    ]
   },
   {
-      "name": "MultiTokenListener",
-      "address": "0x04458bA489cFa284ED8A693e3bea3e1DF600d022",
-      "chain": "ethereum",
-      "version": "v3",
-      "type": "core",
-      "description": "Multi Token Listener",
-      "explorers": [
-          "https://etherscan.io/address/0x04458ba489cfa284ed8a693e3bea3e1df600d022"
-      ]
+    "name": "MultiTokenListener",
+    "address": "0x04458bA489cFa284ED8A693e3bea3e1DF600d022",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Multi Token Listener",
+    "explorers": [
+      "https://etherscan.io/address/0x04458ba489cfa284ed8a693e3bea3e1df600d022"
+    ]
   },
   {
-      "name": "cUSD Prize Pool",
-      "address": "0x6F634F531ED0043B94527F68EC7861B4B1Ab110d",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-          "https://explorer.celo.org/address/0x6f634f531ed0043b94527f68ec7861b4b1ab110d"
-      ]
-      },
-      {
-      "name": "cUSD Prize Strategy",
-      "address": "0x56837090bb659ee4e468ae22eb97e17cdf829f9f",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-          "https://explorer.celo.org/address/0x56837090bb659ee4e468ae22eb97e17cdf829f9f"
-      ]
-      },
-      {
-      "name": "cEUR Prize Pool",
-      "address": "0xbe55435BdA8f0A2A20D2Ce98cC21B0AF5bfB7c83",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-          "https://explorer.celo.org/address/0xbe55435bda8f0a2a20d2ce98cc21b0af5bfb7c83"
-      ]
-      },
-      {
-      "name": "cEUR Prize Strategy",
-      "address": "0xc935142eef56f2467e2baa8d1821f6d9178320c7",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-          "https://explorer.celo.org/address/0xc935142eef56f2467e2baa8d1821f6d9178320c7"
-      ]
-      },
-      {
-      "name": "ControlledTokenBuilder",
-      "address": "0xb1D89477d1b505C261bab6e73f08fA834544CD21",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://explorer.celo.org/address/0xb1d89477d1b505c261bab6e73f08fa834544cd21"
-      ]
-      },
-      {
-      "name": "MultipleWinnersBuilder",
-      "address": "0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://explorer.celo.org/address/0xb2dc5571f477b1c5b36509a71013bfedd9cc492f"
-      ]
-      },
-      {
-      "name": "PoolWithMultipleWinnersBuilder",
-      "address": "0xE1d06d492107F14AE024c357005c5c692158B13D",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://explorer.celo.org/address/0xe1d06d492107f14ae024c357005c5c692158b13d"
-      ]
-      },
-      {
-      "name": "Reserve",
-      "address": "0xdd8f31f7B9C6026311464bc07aE5DB2F99F3892e",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://explorer.celo.org/address/0xdd8f31f7b9c6026311464bc07ae5db2f99f3892e"
-      ]
-      },
-      {
-      "name": "ReserveRegistry",
-      "address": "0x59b34c5BC94e2d5b9DcB97Ec935c94C353E5Eb94",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://explorer.celo.org/address/0x59b34c5bc94e2d5b9dcb97ec935c94c353e5eb94"
-      ]
-      },
-      {
-      "name": "TokenFaucetProxyFactory",
-      "address": "0x44C585E76A5DA580f59B0a3ADd7ca0C96bF4fE2a",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://explorer.celo.org/address/0x44c585e76a5da580f59b0a3add7ca0c96bf4fe2a"
-      ]
-      },
-      {
-      "name": "YieldSourcePrizePoolProxyFactory",
-      "address": "0xc79B5D46f010c88f738A00B3bed7757d04dd2a37",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://explorer.celo.org/address/0xc79b5d46f010c88f738a00b3bed7757d04dd2a37"
-      ]
-      },
-      {
-      "name": "RNGBlockhash",
-      "address": "0xa6d1C81A07c080d11A39F151E0ae69543a20e6e5",
-      "chain": "celo",
-      "version": "v3",
-      "type": "core",
-      "description": "RNG Contracts",
-      "explorers": [
-          "https://explorer.celo.org/address/0xa6d1c81a07c080d11a39f151e0ae69543a20e6e5"
-      ]
-      },
-      {
-      "name": "USDC Prize Pool",
-      "address": "0xEE06AbE9e2Af61cabcb13170e01266Af2DEFa946",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-          "https://polygonscan.com/address/0xee06abe9e2af61cabcb13170e01266af2defa946"
-      ]
-      },
-      {
-      "name": "USDC Prize Strategy",
-      "address": "0x640bc9e20fb1e1d6af59d6b9e684d57947966678",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-          "https://polygonscan.com/address/0x640bc9e20fb1e1d6af59d6b9e684d57947966678"
-      ]
-      },
-      {
-      "name": "USDT Prize Pool",
-      "address": "0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-          "https://polygonscan.com/address/0x887e17d791dcb44bfdda3023d26f7a04ca9c7ef4"
-      ]
-      },
-      {
-      "name": "USDT Prize Strategy",
-      "address": "0x5A65f0CE666B8334b6481A8d8C8323BB782386e6",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "PoolTogether Pools & Supporting Contracts",
-      "explorers": [
-          "https://polygonscan.com/address/0x5a65f0ce666b8334b6481a8d8c8323bb782386e6"
-      ]
-      },
-      {
-      "name": "ConfigurableReserve",
-      "address": "0xdEcD3c72187325C26f85099A89EED6D5bB4604D3",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Configurable Reserve",
-      "explorers": [
-          "https://polygonscan.com/address/0xdecd3c72187325c26f85099a89eed6d5bb4604d3"
-      ]
-      },
-      {
-      "name": "ControlledTokenBuilder",
-      "address": "0x42AD7b4E9ef876388630363a28AbAb51a248FB4d",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://polygonscan.com/address/0x42ad7b4e9ef876388630363a28abab51a248fb4d"
-      ]
-      },
-      {
-      "name": "MultipleWinnersBuilder",
-      "address": "0xD1A6515AAF261F5BF5D00bf3311ca325D32ed5A0",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://polygonscan.com/address/0xd1a6515aaf261f5bf5d00bf3311ca325d32ed5a0"
-      ]
-      },
-      {
-      "name": "PoolWithMultipleWinnersBuilder",
-      "address": "0x920Bd7C30b36C958FAE800ee07660E6A56b86A2c",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://polygonscan.com/address/0x920bd7c30b36c958fae800ee07660e6a56b86a2c"
-      ]
-      },
-      {
-      "name": "TokenFaucetProxyFactory",
-      "address": "0xeaa636304a7C8853324B6b603dCdE55F92dfbab1",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://polygonscan.com/address/0xeaa636304a7c8853324b6b603dcde55f92dfbab1"
-      ]
-      },
-      {
-      "name": "YieldSourcePrizePoolProxyFactory",
-      "address": "0x447838A9A11F7190C9F7E65C43bE685CD8109962",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://polygonscan.com/address/0x447838a9a11f7190c9f7e65c43be685cd8109962"
-      ]
-      },
-      {
-      "name": "RNGBlockhash",
-      "address": "0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "RNG Contracts",
-      "explorers": [
-          "https://polygonscan.com/address/0xb2dc5571f477b1c5b36509a71013bfedd9cc492f"
-      ]
-      },
-      {
-      "name": "RNGChainlink",
-      "address": "0xEccfB4F7aB44effE457e399cebAa04A95a9061d8",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "RNG Contracts",
-      "explorers": [
-          "https://polygonscan.com/address/0xeccfb4f7ab44effe457e399cebaa04a95a9061d8"
-      ]
-      },
-      {
-      "name": "GenericProxyFactory",
-      "address": "0xd1797D46C3E825fce5215a0259D3426a5c49455C",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Generic Proxy Factory",
-      "explorers": [
-          "https://polygonscan.com/address/0xd1797d46c3e825fce5215a0259d3426a5c49455c"
-      ]
-      },
-      {
-      "name": "AaveAAVEYieldSource",
-      "address": "0xEbED994f97396106f7B3d55C287A6A51128cDBB1",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
-          "https://polygonscan.com/address/0xebed994f97396106f7b3d55c287a6a51128cdbb1"
-      ]
-      },
-      {
-      "name": "AaveDAIYieldSource",
-      "address": "0x2FA36043BC27C8Da595F32099f4e8E5Ae48cf46e",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
-          "https://polygonscan.com/address/0x2fa36043bc27c8da595f32099f4e8e5ae48cf46e"
-      ]
-      },
-      {
-      "name": "AaveUSDCYieldSource",
-      "address": "0xABCea7B7f5ea7929b1Df9e3e7241547Fe7b7af14",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
-          "https://polygonscan.com/address/0xabcea7b7f5ea7929b1df9e3e7241547fe7b7af14"
-      ]
-      },
-      {
-      "name": "AaveUSDTYieldSource",
-      "address": "0x3C7CdFb942eb98cCe7e4d004e2927788CD9E54fe",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
-          "https://polygonscan.com/address/0x3c7cdfb942eb98cce7e4d004e2927788cd9e54fe"
-      ]
-      },
-      {
-      "name": "AaveWBTCYieldSource",
-      "address": "0x46CEB180cd117C333Faebd98DbC31BeE32e7c116",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
-          "https://polygonscan.com/address/0x46ceb180cd117c333faebd98dbc31bee32e7c116"
-      ]
-      },
-      {
-      "name": "AaveWETHYieldSource",
-      "address": "0x37c7Fc5fF5e265AE0fA12D2367fbDdA7D22c862C",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
-          "https://polygonscan.com/address/0x37c7fc5ff5e265ae0fa12d2367fbdda7d22c862c"
-      ]
-      },
-      {
-      "name": "AaveWMATICYieldSource",
-      "address": "0x4570Ab872EbF376caBbbB0CBecb985dFe2757900",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
-          "https://polygonscan.com/address/0x4570ab872ebf376cabbbb0cbecb985dfe2757900"
-      ]
-      },
-      {
-      "name": "ATokenYieldSource",
-      "address": "0xd06814AC6CD4A5192E3767a7329a731A3d2E3F1C",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Aave Yield Source",
-      "explorers": [
-          "https://polygonscan.com/address/0xd06814ac6cd4a5192e3767a7329a731a3d2e3f1c"
-      ]
-      },
-      {
-      "name": "PoolTogetherEVMBridgeChild",
-      "address": "0xfaB3b5c4F7959579e350532600707e0269e01F38",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "EVM Bridge",
-      "explorers": [
-          "https://polygonscan.com/address/0xfab3b5c4f7959579e350532600707e0269e01f38"
-      ]
-      },
-      {
-      "name": "TestContract",
-      "address": "0xc404c2e69cc82dF8e2F22221f1D1d8e6663bc5F5",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "EVM Bridge",
-      "explorers": [
-          "https://polygonscan.com/address/0xc404c2e69cc82df8e2f22221f1d1d8e6663bc5f5"
-      ]
-      },
-      {
-      "name": "Multi Token Listener",
-      "address": "0x8a4416453340ECF6c489eFf3030EDb632b0087B2",
-      "chain": "matic",
-      "version": "v3",
-      "type": "core",
-      "description": "Multi Token Listener",
-      "explorers": [
-          "https://polygonscan.com/address/0x8a4416453340ecf6c489eff3030edb632b0087b2"
-      ]
-      },
-      {
-      "name": "ControlledTokenBuilder",
-      "address": "0x941011a95ad6a69d3b06218A3b74a3f6296481A8",
-      "chain": "xDai",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://blockscout.com/xdai/mainnet/address/0x941011a95ad6a69d3b06218a3b74a3f6296481a8"
-      ]
-      },
-      {
-      "name": "MultipleWinnersBuilder",
-      "address": "0xB29A3c1a9d4eFa7391e685bFD2654ea31E2f3125",
-      "chain": "xDai",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://blockscout.com/xdai/mainnet/address/0xb29a3c1a9d4efa7391e685bfd2654ea31e2f3125"
-      ]
-      },
-      {
-      "name": "PoolWithMultipleWinnersBuilder",
-      "address": "0xCE7Ff1E49E16f3AD30b23a04eDA62F18D8F6d186",
-      "chain": "xDai",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://blockscout.com/xdai/mainnet/address/0xce7ff1e49e16f3ad30b23a04eda62f18d8f6d186"
-      ]
-      },
-      {
-      "name": "TokenFaucetProxyFactory",
-      "address": "0x317625b28Acb3C0540DB00b179D84D9b804277f7",
-      "chain": "xDai",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://blockscout.com/xdai/mainnet/address/0x317625b28acb3c0540db00b179d84d9b804277f7"
-      ]
-      },
-      {
-      "name": "YieldSourcePrizePoolProxyFactory",
-      "address": "0x5effa0823e486A5ED1D49d88A1374Fc337e1f9F4",
-      "chain": "xDai",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
-          "https://blockscout.com/xdai/mainnet/address/0x5effa0823e486a5ed1d49d88a1374fc337e1f9f4"
-      ]
-      },
-      {
-      "name": "RNGBlockhash",
-      "address": "0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F",
-      "chain": "xDai",
-      "version": "v3",
-      "type": "core",
-      "description": "RNG Contracts",
-      "explorers": [
-          "https://blockscout.com/xdai/mainnet/address/0xb2dc5571f477b1c5b36509a71013bfedd9cc492f"
-      ]
-      },
+    "name": "cUSD Prize Pool",
+    "address": "0x6F634F531ED0043B94527F68EC7861B4B1Ab110d",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://explorer.celo.org/address/0x6f634f531ed0043b94527f68ec7861b4b1ab110d"
+    ]
+  },
   {
-      "name": "ControlledTokenBuilder",
-      "address": "0x6aeBE10a4607B1002ea56D825Ee18Ce751fD9592",
-      "chain": "bsc",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
+    "name": "cUSD Prize Strategy",
+    "address": "0x56837090bb659ee4e468ae22eb97e17cdf829f9f",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://explorer.celo.org/address/0x56837090bb659ee4e468ae22eb97e17cdf829f9f"
+    ]
+  },
+  {
+    "name": "cEUR Prize Pool",
+    "address": "0xbe55435BdA8f0A2A20D2Ce98cC21B0AF5bfB7c83",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://explorer.celo.org/address/0xbe55435bda8f0a2a20d2ce98cc21b0af5bfb7c83"
+    ]
+  },
+  {
+    "name": "cEUR Prize Strategy",
+    "address": "0xc935142eef56f2467e2baa8d1821f6d9178320c7",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://explorer.celo.org/address/0xc935142eef56f2467e2baa8d1821f6d9178320c7"
+    ]
+  },
+  {
+    "name": "ControlledTokenBuilder",
+    "address": "0xb1D89477d1b505C261bab6e73f08fA834544CD21",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://explorer.celo.org/address/0xb1d89477d1b505c261bab6e73f08fa834544cd21"
+    ]
+  },
+  {
+    "name": "MultipleWinnersBuilder",
+    "address": "0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://explorer.celo.org/address/0xb2dc5571f477b1c5b36509a71013bfedd9cc492f"
+    ]
+  },
+  {
+    "name": "PoolWithMultipleWinnersBuilder",
+    "address": "0xE1d06d492107F14AE024c357005c5c692158B13D",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://explorer.celo.org/address/0xe1d06d492107f14ae024c357005c5c692158b13d"
+    ]
+  },
+  {
+    "name": "Reserve",
+    "address": "0xdd8f31f7B9C6026311464bc07aE5DB2F99F3892e",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://explorer.celo.org/address/0xdd8f31f7b9c6026311464bc07ae5db2f99f3892e"
+    ]
+  },
+  {
+    "name": "ReserveRegistry",
+    "address": "0x59b34c5BC94e2d5b9DcB97Ec935c94C353E5Eb94",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://explorer.celo.org/address/0x59b34c5bc94e2d5b9dcb97ec935c94c353e5eb94"
+    ]
+  },
+  {
+    "name": "TokenFaucetProxyFactory",
+    "address": "0x44C585E76A5DA580f59B0a3ADd7ca0C96bF4fE2a",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://explorer.celo.org/address/0x44c585e76a5da580f59b0a3add7ca0c96bf4fe2a"
+    ]
+  },
+  {
+    "name": "YieldSourcePrizePoolProxyFactory",
+    "address": "0xc79B5D46f010c88f738A00B3bed7757d04dd2a37",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://explorer.celo.org/address/0xc79b5d46f010c88f738a00b3bed7757d04dd2a37"
+    ]
+  },
+  {
+    "name": "RNGBlockhash",
+    "address": "0xa6d1C81A07c080d11A39F151E0ae69543a20e6e5",
+    "chain": "celo",
+    "version": "v3",
+    "type": "core",
+    "description": "RNG Contracts",
+    "explorers": [
+      "https://explorer.celo.org/address/0xa6d1c81a07c080d11a39f151e0ae69543a20e6e5"
+    ]
+  },
+  {
+    "name": "USDC Prize Pool",
+    "address": "0xEE06AbE9e2Af61cabcb13170e01266Af2DEFa946",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://polygonscan.com/address/0xee06abe9e2af61cabcb13170e01266af2defa946"
+    ]
+  },
+  {
+    "name": "USDC Prize Strategy",
+    "address": "0x640bc9e20fb1e1d6af59d6b9e684d57947966678",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://polygonscan.com/address/0x640bc9e20fb1e1d6af59d6b9e684d57947966678"
+    ]
+  },
+  {
+    "name": "USDT Prize Pool",
+    "address": "0x887E17D791Dcb44BfdDa3023D26F7a04Ca9C7EF4",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://polygonscan.com/address/0x887e17d791dcb44bfdda3023d26f7a04ca9c7ef4"
+    ]
+  },
+  {
+    "name": "USDT Prize Strategy",
+    "address": "0x5A65f0CE666B8334b6481A8d8C8323BB782386e6",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "PoolTogether Pools & Supporting Contracts",
+    "explorers": [
+      "https://polygonscan.com/address/0x5a65f0ce666b8334b6481a8d8c8323bb782386e6"
+    ]
+  },
+  {
+    "name": "ConfigurableReserve",
+    "address": "0xdEcD3c72187325C26f85099A89EED6D5bB4604D3",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Configurable Reserve",
+    "explorers": [
+      "https://polygonscan.com/address/0xdecd3c72187325c26f85099a89eed6d5bb4604d3"
+    ]
+  },
+  {
+    "name": "ControlledTokenBuilder",
+    "address": "0x42AD7b4E9ef876388630363a28AbAb51a248FB4d",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://polygonscan.com/address/0x42ad7b4e9ef876388630363a28abab51a248fb4d"
+    ]
+  },
+  {
+    "name": "MultipleWinnersBuilder",
+    "address": "0xD1A6515AAF261F5BF5D00bf3311ca325D32ed5A0",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://polygonscan.com/address/0xd1a6515aaf261f5bf5d00bf3311ca325d32ed5a0"
+    ]
+  },
+  {
+    "name": "PoolWithMultipleWinnersBuilder",
+    "address": "0x920Bd7C30b36C958FAE800ee07660E6A56b86A2c",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://polygonscan.com/address/0x920bd7c30b36c958fae800ee07660e6a56b86a2c"
+    ]
+  },
+  {
+    "name": "TokenFaucetProxyFactory",
+    "address": "0xeaa636304a7C8853324B6b603dCdE55F92dfbab1",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://polygonscan.com/address/0xeaa636304a7c8853324b6b603dcde55f92dfbab1"
+    ]
+  },
+  {
+    "name": "YieldSourcePrizePoolProxyFactory",
+    "address": "0x447838A9A11F7190C9F7E65C43bE685CD8109962",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://polygonscan.com/address/0x447838a9a11f7190c9f7e65c43be685cd8109962"
+    ]
+  },
+  {
+    "name": "RNGBlockhash",
+    "address": "0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "RNG Contracts",
+    "explorers": [
+      "https://polygonscan.com/address/0xb2dc5571f477b1c5b36509a71013bfedd9cc492f"
+    ]
+  },
+  {
+    "name": "RNGChainlink",
+    "address": "0xEccfB4F7aB44effE457e399cebAa04A95a9061d8",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "RNG Contracts",
+    "explorers": [
+      "https://polygonscan.com/address/0xeccfb4f7ab44effe457e399cebaa04a95a9061d8"
+    ]
+  },
+  {
+    "name": "GenericProxyFactory",
+    "address": "0xd1797D46C3E825fce5215a0259D3426a5c49455C",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Generic Proxy Factory",
+    "explorers": [
+      "https://polygonscan.com/address/0xd1797d46c3e825fce5215a0259d3426a5c49455c"
+    ]
+  },
+  {
+    "name": "AaveAAVEYieldSource",
+    "address": "0xEbED994f97396106f7B3d55C287A6A51128cDBB1",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
+      "https://polygonscan.com/address/0xebed994f97396106f7b3d55c287a6a51128cdbb1"
+    ]
+  },
+  {
+    "name": "AaveDAIYieldSource",
+    "address": "0x2FA36043BC27C8Da595F32099f4e8E5Ae48cf46e",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
+      "https://polygonscan.com/address/0x2fa36043bc27c8da595f32099f4e8e5ae48cf46e"
+    ]
+  },
+  {
+    "name": "AaveUSDCYieldSource",
+    "address": "0xABCea7B7f5ea7929b1Df9e3e7241547Fe7b7af14",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
+      "https://polygonscan.com/address/0xabcea7b7f5ea7929b1df9e3e7241547fe7b7af14"
+    ]
+  },
+  {
+    "name": "AaveUSDTYieldSource",
+    "address": "0x3C7CdFb942eb98cCe7e4d004e2927788CD9E54fe",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
+      "https://polygonscan.com/address/0x3c7cdfb942eb98cce7e4d004e2927788cd9e54fe"
+    ]
+  },
+  {
+    "name": "AaveWBTCYieldSource",
+    "address": "0x46CEB180cd117C333Faebd98DbC31BeE32e7c116",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
+      "https://polygonscan.com/address/0x46ceb180cd117c333faebd98dbc31bee32e7c116"
+    ]
+  },
+  {
+    "name": "AaveWETHYieldSource",
+    "address": "0x37c7Fc5fF5e265AE0fA12D2367fbDdA7D22c862C",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
+      "https://polygonscan.com/address/0x37c7fc5ff5e265ae0fa12d2367fbdda7d22c862c"
+    ]
+  },
+  {
+    "name": "AaveWMATICYieldSource",
+    "address": "0x4570Ab872EbF376caBbbB0CBecb985dFe2757900",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
+      "https://polygonscan.com/address/0x4570ab872ebf376cabbbb0cbecb985dfe2757900"
+    ]
+  },
+  {
+    "name": "ATokenYieldSource",
+    "address": "0xd06814AC6CD4A5192E3767a7329a731A3d2E3F1C",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Yield Source",
+    "explorers": [
+      "https://polygonscan.com/address/0xd06814ac6cd4a5192e3767a7329a731a3d2e3f1c"
+    ]
+  },
+  {
+    "name": "PoolTogetherEVMBridgeChild",
+    "address": "0xfaB3b5c4F7959579e350532600707e0269e01F38",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "EVM Bridge",
+    "explorers": [
+      "https://polygonscan.com/address/0xfab3b5c4f7959579e350532600707e0269e01f38"
+    ]
+  },
+  {
+    "name": "TestContract",
+    "address": "0xc404c2e69cc82dF8e2F22221f1D1d8e6663bc5F5",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "EVM Bridge",
+    "explorers": [
+      "https://polygonscan.com/address/0xc404c2e69cc82df8e2f22221f1d1d8e6663bc5f5"
+    ]
+  },
+  {
+    "name": "Multi Token Listener",
+    "address": "0x8a4416453340ECF6c489eFf3030EDb632b0087B2",
+    "chain": "matic",
+    "version": "v3",
+    "type": "core",
+    "description": "Multi Token Listener",
+    "explorers": [
+      "https://polygonscan.com/address/0x8a4416453340ecf6c489eff3030edb632b0087b2"
+    ]
+  },
+  {
+    "name": "ControlledTokenBuilder",
+    "address": "0x941011a95ad6a69d3b06218A3b74a3f6296481A8",
+    "chain": "xDai",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://blockscout.com/xdai/mainnet/address/0x941011a95ad6a69d3b06218a3b74a3f6296481a8"
+    ]
+  },
+  {
+    "name": "MultipleWinnersBuilder",
+    "address": "0xB29A3c1a9d4eFa7391e685bFD2654ea31E2f3125",
+    "chain": "xDai",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://blockscout.com/xdai/mainnet/address/0xb29a3c1a9d4efa7391e685bfd2654ea31e2f3125"
+    ]
+  },
+  {
+    "name": "PoolWithMultipleWinnersBuilder",
+    "address": "0xCE7Ff1E49E16f3AD30b23a04eDA62F18D8F6d186",
+    "chain": "xDai",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://blockscout.com/xdai/mainnet/address/0xce7ff1e49e16f3ad30b23a04eda62f18d8f6d186"
+    ]
+  },
+  {
+    "name": "TokenFaucetProxyFactory",
+    "address": "0x317625b28Acb3C0540DB00b179D84D9b804277f7",
+    "chain": "xDai",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://blockscout.com/xdai/mainnet/address/0x317625b28acb3c0540db00b179d84d9b804277f7"
+    ]
+  },
+  {
+    "name": "YieldSourcePrizePoolProxyFactory",
+    "address": "0x5effa0823e486A5ED1D49d88A1374Fc337e1f9F4",
+    "chain": "xDai",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
+      "https://blockscout.com/xdai/mainnet/address/0x5effa0823e486a5ed1d49d88a1374fc337e1f9f4"
+    ]
+  },
+  {
+    "name": "RNGBlockhash",
+    "address": "0xB2DC5571f477b1C5b36509a71013BFedD9Cc492F",
+    "chain": "xDai",
+    "version": "v3",
+    "type": "core",
+    "description": "RNG Contracts",
+    "explorers": [
+      "https://blockscout.com/xdai/mainnet/address/0xb2dc5571f477b1c5b36509a71013bfedd9cc492f"
+    ]
+  },
+  {
+    "name": "ControlledTokenBuilder",
+    "address": "0x6aeBE10a4607B1002ea56D825Ee18Ce751fD9592",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
       "https://bscscan.com/address/0x6aebe10a4607b1002ea56d825ee18ce751fd9592"
-      ]
+    ]
   },
   {
-      "name": "MultipleWinnersBuilder",
-      "address": "0xdE55668e38FEcD037BFA40AcFD7d30e58F9143D4",
-      "chain": "bsc",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
+    "name": "MultipleWinnersBuilder",
+    "address": "0xdE55668e38FEcD037BFA40AcFD7d30e58F9143D4",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
       "https://bscscan.com/address/0xde55668e38fecd037bfa40acfd7d30e58f9143d4"
-      ]
+    ]
   },
   {
-      "name": "PoolWithMultipleWinnersBuilder",
-      "address": "0xBA79b0aC8818e1515F51fEF240F4228F29F64948",
-      "chain": "bsc",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
+    "name": "PoolWithMultipleWinnersBuilder",
+    "address": "0xBA79b0aC8818e1515F51fEF240F4228F29F64948",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
       "https://bscscan.com/address/0xba79b0ac8818e1515f51fef240f4228f29f64948"
-      ]
+    ]
   },
   {
-      "name": "TokenFaucetProxyFactory",
-      "address": "0x58aF4554c0DB496EFdf93bB344eC513C5627Efb9",
-      "chain": "bsc",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
+    "name": "TokenFaucetProxyFactory",
+    "address": "0x58aF4554c0DB496EFdf93bB344eC513C5627Efb9",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
       "https://bscscan.com/address/0x58af4554c0db496efdf93bb344ec513c5627efb9"
-      ]
+    ]
   },
   {
-      "name": "YieldSourcePrizePoolProxyFactory",
-      "address": "0xdc488E6e8c55a11d20032997cd1fF7c4951401df",
-      "chain": "bsc",
-      "version": "v3",
-      "type": "core",
-      "description": "Builders",
-      "explorers": [
+    "name": "YieldSourcePrizePoolProxyFactory",
+    "address": "0xdc488E6e8c55a11d20032997cd1fF7c4951401df",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "core",
+    "description": "Builders",
+    "explorers": [
       "https://bscscan.com/address/0xdc488e6e8c55a11d20032997cd1ff7c4951401df"
-      ]
+    ]
   },
   {
-      "name": "RNGBlockhash",
-      "address": "0xb1D89477d1b505C261bab6e73f08fA834544CD21",
-      "chain": "bsc",
-      "version": "v3",
-      "type": "core",
-      "description": "RNG Contracts",
-      "explorers": [
+    "name": "RNGBlockhash",
+    "address": "0xb1D89477d1b505C261bab6e73f08fA834544CD21",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "core",
+    "description": "RNG Contracts",
+    "explorers": [
       "https://bscscan.com/address/0xb1d89477d1b505c261bab6e73f08fa834544cd21"
-      ]
+    ]
   }
 ]
