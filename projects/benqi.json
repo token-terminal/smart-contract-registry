@@ -1,0 +1,122 @@
+[
+  {
+    "name": "QI",
+    "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for the QI governance token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "https://avascan.info/blockchain/c/address/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5"
+    ]
+  },
+  {
+    "name": "qiLINK",
+    "address": "0x4e9f683A27a6BdAD3FC2764003759277e93696e6",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the LINK market and its qiLINK token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x4e9f683A27a6BdAD3FC2764003759277e93696e6",
+      "https://avascan.info/blockchain/c/address/0x4e9f683A27a6BdAD3FC2764003759277e93696e6"
+    ]
+  },
+  {
+    "name": "qiUSDT",
+    "address": "0xc9e5999b8e75C3fEB117F6f73E664b9f3C8ca65C",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the USDT market and its qiUSDT token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc9e5999b8e75C3fEB117F6f73E664b9f3C8ca65C",
+      "https://avascan.info/blockchain/c/address/0xc9e5999b8e75C3fEB117F6f73E664b9f3C8ca65C"
+    ]
+  },
+  {
+    "name": "qiAVAX",
+    "address": "0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the AVAX market and its qiAVAX token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c",
+      "https://avascan.info/blockchain/c/address/0x5C0401e81Bc07Ca70fAD469b451682c0d747Ef1c"
+    ]
+  },
+  {
+    "name": "qiBTC",
+    "address": "0xe194c4c5aC32a3C9ffDb358d9Bfd523a0B6d1568",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the BTC market and its qiBTC token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe194c4c5aC32a3C9ffDb358d9Bfd523a0B6d1568",
+      "https://avascan.info/blockchain/c/address/0xe194c4c5aC32a3C9ffDb358d9Bfd523a0B6d1568"
+    ]
+  },
+  {
+    "name": "qiETH",
+    "address": "0x334AD834Cd4481BB02d09615E7c11a00579A7909",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the ETH market and its qiETH token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x334AD834Cd4481BB02d09615E7c11a00579A7909",
+      "https://avascan.info/blockchain/c/address/0x334AD834Cd4481BB02d09615E7c11a00579A7909"
+    ]
+  },
+  {
+    "name": "qiDAI",
+    "address": "0x835866d37AFB8CB8F8334dCCdaf66cf01832Ff5D",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the DAI market and its qiDAI token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x835866d37AFB8CB8F8334dCCdaf66cf01832Ff5D",
+      "https://avascan.info/blockchain/c/address/0x835866d37AFB8CB8F8334dCCdaf66cf01832Ff5D"
+    ]
+  },
+  {
+    "name": "qiUSDC",
+    "address": "0xBEb5d47A3f720Ec0a390d04b4d41ED7d9688bC7F",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the USDC market and its qiUSDC token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xBEb5d47A3f720Ec0a390d04b4d41ED7d9688bC7F",
+      "https://avascan.info/blockchain/c/address/0xBEb5d47A3f720Ec0a390d04b4d41ED7d9688bC7F"
+    ]
+  },
+  {
+    "name": "qiQI",
+    "address": "0x35Bd6aedA81a7E5FC7A7832490e71F757b0cD9Ce",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the QI market and its qiQI token",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x35Bd6aedA81a7E5FC7A7832490e71F757b0cD9Ce",
+      "https://avascan.info/blockchain/c/address/0x35Bd6aedA81a7E5FC7A7832490e71F757b0cD9Ce"
+    ]
+  },
+  {
+    "name": "Comptroller",
+    "address": "0x486Af39519B4Dc9a7fCcd318217352830E8AD9b4",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for the central controller for the markets",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x486Af39519B4Dc9a7fCcd318217352830E8AD9b4",
+      "https://avascan.info/blockchain/c/address/0x486Af39519B4Dc9a7fCcd318217352830E8AD9b4"
+    ]
+  }
+]
