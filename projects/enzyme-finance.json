@@ -1,0 +1,574 @@
+[
+  {
+    "name": "AaveAdapter",
+    "address": "0x0Bad0886c5976072549687D5FfCD26803C5bA167",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x0bad0886c5976072549687d5ffcd26803c5ba167#code"
+    ]
+  },
+  {
+    "name": "AaveAdapter",
+    "address": "0x32d0cb26c2964749bd5d10ba93695e52b4b57ea3",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Integration Adapter for the Enzyme Protocol (with rounding improvement)",
+    "explorers": [
+      "https://etherscan.io/tx/0x068599dccedfcc2b0314df9ed184e47a6fd2273bfec4d8a545f8d0f5c5a25ea5"
+    ]
+  },
+  {
+    "name": "AavePriceFeed",
+    "address": "0x4e49a272dC42E26C8772de366aaa93d1AC816794",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aave Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x4e49a272dc42e26c8772de366aaa93d1ac816794#code"
+    ]
+  },
+  {
+    "name": "AdapterBlacklist",
+    "address": "0xA2A031B137452986B0E8fA32c9430D29b9b0494F",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Adapter Blacklist Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xa2a031b137452986b0e8fa32c9430d29b9b0494f#code"
+    ]
+  },
+  {
+    "name": "AdapterWhitelist",
+    "address": "0x306f571110C5441a8481d3CD7E8B16A7E2E967E3",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Adapter Whitelist Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x306f571110c5441a8481d3cd7e8b16a7e2e967e3#code"
+    ]
+  },
+  {
+    "name": "AggregatedDerivativePriceFeed",
+    "address": "0x2E45f9B3fd5871cCaf4eB415dFCcbDD126F57C4f",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aggregated Derivative Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x2e45f9b3fd5871ccaf4eb415dfccbdd126f57c4f#code"
+    ]
+  },
+  {
+    "name": "AlphaHomoraV1Adapter",
+    "address": "0x63765Ae5Df9bB8AF9D8bc976E595b79907CF341c",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Alpha Homora (v1) Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x63765ae5df9bb8af9d8bc976e595b79907cf341c#code"
+    ]
+  },
+  {
+    "name": "AlphaHomoraV1PriceFeed",
+    "address": "0x1a8b4f6D469Ee775d5982C4d4AAb46677c2C92d4",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Alpha Homora (v1) Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x1a8b4f6d469ee775d5982c4d4aab46677c2c92d4#code"
+    ]
+  },
+  {
+    "name": "AssetBlacklist",
+    "address": "0xdC1e40174ad831e505E8191881A66e90c3681E33",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Asset Blacklist Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xdc1e40174ad831e505e8191881a66e90c3681e33#code"
+    ]
+  },
+  {
+    "name": "AssetWhitelist",
+    "address": "0xA3b7B872407452E38dFfACa8dA2dB3eD6D756Ad1",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Asset Whitelist Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xa3b7b872407452e38dffaca8da2db3ed6d756ad1#code"
+    ]
+  },
+  {
+    "name": "BuySharesCallerWhitelist",
+    "address": "0xbc91dcc90ccdd0b51e3c623528cb886358c60105",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Buy Shares Caller Whitelist Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xbc91dcc90ccdd0b51e3c623528cb886358c60105#code"
+    ]
+  },
+  {
+    "name": "ChainlinkPriceFeed",
+    "address": "0x1fad8faf11E027f8630F394599830dBeb97004EE",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Chainlink Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x1fad8faf11e027f8630f394599830dbeb97004ee#code"
+    ]
+  },
+  {
+    "name": "CompoundAdapter",
+    "address": "0xb7bfd3582582A82Ef2A2f0Df0adf705f35A07D4B",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Compound Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xb7bfd3582582a82ef2a2f0df0adf705f35a07d4b#code"
+    ]
+  },
+  {
+    "name": "CompoundPriceFeed",
+    "address": "0x6d7F71Cc3109D4132Ad6124D84e72E353b979880",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Compound Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x6d7f71cc3109d4132ad6124d84e72e353b979880#code"
+    ]
+  },
+  {
+    "name": "ComptrollerLib",
+    "address": "0x1A7CBEDf13E25818dC377d2B1277E03e5d496300",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Comptroller Library for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x1a7cbedf13e25818dc377d2b1277e03e5d496300#code"
+    ]
+  },
+  {
+    "name": "CurveExchangeAdapter",
+    "address": "0x1990D8Bc382D38fA21EE3B570e9d1E6272152165",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Curve Exchange Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x1990d8bc382d38fa21ee3b570e9d1e6272152165#code"
+    ]
+  },
+  {
+    "name": "CurveLiquidityAaveAdapter",
+    "address": "0x78bA80C8517A4f3146FD76A3642Fa57B77F331eb",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Aggregated Derivative Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x78ba80c8517a4f3146fd76a3642fa57b77f331eb#code"
+    ]
+  },
+  {
+    "name": "CurveLiquiditySethAdapter",
+    "address": "0xeE91E3bB4752F358DDAaC6ab825536698b239546",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Curve Liquidity Synthetix Ether Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xee91e3bb4752f358ddaac6ab825536698b239546#code"
+    ]
+  },
+  {
+    "name": "CurveLiquidityStethAdapter",
+    "address": "0x6367bb496390dDf0ef508Db2992F53DBf376b1f4",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Curve Liquidity Staked Ether Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x6367bb496390ddf0ef508db2992f53dbf376b1f4#code"
+    ]
+  },
+  {
+    "name": "CurvePriceFeed",
+    "address": "0xc106f1B01017c854a9cd2D88Db733408236DD809",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Curve Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xc106f1b01017c854a9cd2d88db733408236dd809#code"
+    ]
+  },
+  {
+    "name": "Dispatcher",
+    "address": "0xC3DC853dD716bd5754f421ef94fdCbac3902ab32",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Dispatcher (Persistent Core) for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xc3dc853dd716bd5754f421ef94fdcbac3902ab32#code"
+    ]
+  },
+  {
+    "name": "EntranceRateBurnFee",
+    "address": "0x27F74B89B29508091014487253d8D9b88aa0264A",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Entrance Rate Burn Fee for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x27f74b89b29508091014487253d8d9b88aa0264a#code"
+    ]
+  },
+  {
+    "name": "EntranceRateDirectFee",
+    "address": "0x30a398Eb63B62bF2865F90e37752c8300Ef22F05",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Entrance Rate Direct Fee for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x30a398eb63b62bf2865f90e37752c8300ef22f05#code"
+    ]
+  },
+  {
+    "name": "FeeManager",
+    "address": "0x5d0a363e9a17fb839e2843ffa93c808cdafccb67",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Fee Manager (Governs Fee Collection) for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x5d0a363e9a17fb839e2843ffa93c808cdafccb67#code"
+    ]
+  },
+  {
+    "name": "FundActionsWrapper",
+    "address": "0xbc9a63cad5a825bD5854Abca4f3D42d6aCF9Bffa",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Convenience functions for interacting with Vaults on the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xbc9a63cad5a825bd5854abca4f3d42d6acf9bffa#code"
+    ]
+  },
+  {
+    "name": "FundDeployer",
+    "address": "0x7e6d3b1161DF9c9c7527F68d651B297d2Fdb820B",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Fund Deployer for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x7e6d3b1161df9c9c7527f68d651b297d2fdb820b#code"
+    ]
+  },
+  {
+    "name": "GuaranteedRedemption",
+    "address": "0x08d4225f0995d770c4c8ea85380602b3499164a9",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Guaranteed Redemption Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x08d4225f0995d770c4c8ea85380602b3499164a9#code"
+    ]
+  },
+  {
+    "name": "IdleAdapter",
+    "address": "0x649b6cc835c8fe3d3b94b6a9c155f791bf500dfe",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Idle Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x649b6cc835c8fe3d3b94b6a9c155f791bf500dfe#code"
+    ]
+  },
+  {
+    "name": "IdlePriceFeed",
+    "address": "0x13c2263e534BD27149d96b8Cb9961ea1beB560Ef",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Idle Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x13c2263e534bd27149d96b8cb9961ea1beb560ef#code"
+    ]
+  },
+  {
+    "name": "IntegrationManager",
+    "address": "0x965ca477106476B4600562a2eBe13536581883A6",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Integration Manager (Governs Swaps, Lending, Staking, etc) for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x965ca477106476b4600562a2ebe13536581883a6#code"
+    ]
+  },
+  {
+    "name": "InvestorWhitelist",
+    "address": "0x775f8d5d016c4d8a1427982148ec2170282c7784",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Investor Whitelist Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x775f8d5d016c4d8a1427982148ec2170282c7784#code"
+    ]
+  },
+  {
+    "name": "KyberAdapter",
+    "address": "0x4ff16EfF3b6D2175A513EF4c5b95f5f4D2F05179",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Kyber Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x4ff16eff3b6d2175a513ef4c5b95f5f4d2f05179#code"
+    ]
+  },
+  {
+    "name": "LidoStethPriceFeed",
+    "address": "0x11D8d414724281BD702838BA16C8F15F7C473e9a",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Lido Staked Ether Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x11d8d414724281bd702838ba16c8f15f7c473e9a#code"
+    ]
+  },
+  {
+    "name": "ManagementFee",
+    "address": "0x45f1b268cc6412b454dae20f8971fc4a36af0d29",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Management Fee for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x45f1b268cc6412b454dae20f8971fc4a36af0d29#code"
+    ]
+  },
+  {
+    "name": "MaxConcentration",
+    "address": "0xdee63b253432a443a09bf8461f20256d184319de",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Max Concentration Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xdee63b253432a443a09bf8461f20256d184319de#code"
+    ]
+  },
+  {
+    "name": "MinMaxInvestment",
+    "address": "0x016a7287f0fdbdce5f903334f574b2238be3fa25",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "MinMaxInvestment Policy for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x016a7287f0fdbdce5f903334f574b2238be3fa25#code"
+    ]
+  },
+  {
+    "name": "ParaSwapV4Adapter",
+    "address": "0x8eA6Ca02274E1b05b70c11058213ADC667258C3D",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "ParaSwap (v4) Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x8ea6ca02274e1b05b70c11058213adc667258c3d#code"
+    ]
+  },
+  {
+    "name": "PerformanceFee",
+    "address": "0x3c3f9143A15042B69eB314Cac211688A4E71a087",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Performance Fee for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x3c3f9143a15042b69eb314cac211688a4e71a087#code"
+    ]
+  },
+  {
+    "name": "PolicyManager",
+    "address": "0x0Bd9f0465d21d4c300c7B8d781A013bdc87A31E8",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Policy Manager (Governs Compliance and Risk Management) for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x0bd9f0465d21d4c300c7b8d781a013bdc87a31e8#code"
+    ]
+  },
+  {
+    "name": "StakehoundEthPriceFeed",
+    "address": "0xd3C515EAD7Bcc7451cd920e066C4a1849B827dfD",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Stakehound Ether Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xd3c515ead7bcc7451cd920e066c4a1849b827dfd#code"
+    ]
+  },
+  {
+    "name": "SynthetixAdapter",
+    "address": "0x07698c3fa26a62ec6320872bf2950ba160a2dd7c",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Synthetix Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x07698c3fa26a62ec6320872bf2950ba160a2dd7c#code"
+    ]
+  },
+  {
+    "name": "SynthetixPriceFeed",
+    "address": "0x4158F02ac2fF0f0E7959A768D06619B685aBF0C8",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Synthetix Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x4158f02ac2ff0f0e7959a768d06619b685abf0c8#code"
+    ]
+  },
+  {
+    "name": "TrackedAssetsAdapter",
+    "address": "0x2e8b6455cb06463a523d3318f2cdc6a55ed45118",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Tracked Assets Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x2e8b6455cb06463a523d3318f2cdc6a55ed45118#code"
+    ]
+  },
+  {
+    "name": "UniswapV2Adapter",
+    "address": "0x8481150a0f36c98EE859e6C7B46d61FDD836768f",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Uniswap (v2) Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x8481150a0f36c98ee859e6c7b46d61fdd836768f#code"
+    ]
+  },
+  {
+    "name": "UniswapV2PoolPriceFeed",
+    "address": "0x37FFB1842eF012d83A6FFdc92A6353044Ae0e3e8",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Uniswap (v2) Pool Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x37ffb1842ef012d83a6ffdc92a6353044ae0e3e8#code"
+    ]
+  },
+  {
+    "name": "ValueInterpreter",
+    "address": "0x10a5624840Ac07287f756777DF1DEC34d2C2d654",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Value Interpreter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x10a5624840ac07287f756777df1dec34d2c2d654#code"
+    ]
+  },
+  {
+    "name": "VaultLib",
+    "address": "0x1b3694907Ed7459c7B0116e7c6a4B7788288577F",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Vault Library for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x1b3694907ed7459c7b0116e7c6a4b7788288577f#code"
+    ]
+  },
+  {
+    "name": "WdgldPriceFeed",
+    "address": "0x76b548553d4E729c81e8ae8Ab826795bd88BA9E7",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Wrapped-DGLD Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x76b548553d4e729c81e8ae8ab826795bd88ba9e7#code"
+    ]
+  },
+  {
+    "name": "ZeroExV2Adapter",
+    "address": "0x9b6cD2195d3c275875cB469A59dd437995712550",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "0x (v2) Integration Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x9b6cd2195d3c275875cb469a59dd437995712550#code"
+    ]
+  },
+  {
+    "name": "YearnVaultV2Adapter",
+    "address": "0xDA27D95Bd940cAc017f9484175E5512D3e4B0662",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Yearn Vault (v2) Adapter for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xda27d95bd940cac017f9484175e5512d3e4b0662#code"
+    ]
+  },
+  {
+    "name": "YearnVaultV2PriceFeed",
+    "address": "0x7B768DD670B6f0d4AFC270cb413A8F7ca1889BD7",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Yearn Vault (v2) Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x7b768dd670b6f0d4afc270cb413a8f7ca1889bd7#code"
+    ]
+  },
+  {
+    "name": "RevertingPriceFeed",
+    "address": "0xE6e93746b8e2e0f03a3A1d469411059e93babe04",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Reverting Price Feed for the Enzyme Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0xe6e93746b8e2e0f03a3a1d469411059e93babe04#code"
+    ]
+  }
+]
