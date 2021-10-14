@@ -1,0 +1,2312 @@
+[
+  {
+    "name": "3Pool",
+    "address": "0xbEbc44782C7dB0a1A60Cb6fe97d0b483032FF1C7",
+    "chain": "ethereummm",
+    "version": "v1",
+    "type": "core",
+    "description": "Base Pool ",
+    "explorers": [
+      "https://etherscan.io/address/0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7"
+    ]
+  },
+  {
+      "name": "3Pool",
+      "address": "0x6c3F90f043a72FA612cbac8115EE7e52BDe6E490",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x6c3f90f043a72fa612cbac8115ee7e52bde6e490"
+      ]
+    },
+    {
+      "name": "AAVE",
+      "address": "0xFd2a8fA60Abd58Efe3EeE34dd494cD491dC14900",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xfd2a8fa60abd58efe3eee34dd494cd491dc14900"
+      ]
+    },
+    {
+      "name": "AAVE",
+      "address": "0xDeBF20617708857ebe4F679508E7b7863a8A8EeE",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xdebf20617708857ebe4f679508e7b7863a8a8eee"
+      ]
+    },
+    {
+      "name": "ankrETH",
+      "address": "0xA96A65c051bF88B4095Ee1f2451C2A9d43F53Ae2",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xa96a65c051bf88b4095ee1f2451c2a9d43f53ae2"
+      ]
+    },
+    {
+      "name": "ankrETH",
+      "address": "0xaA17A236F2bAdc98DDc0Cf999AbB47D47Fc0A6Cf",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xaa17a236f2badc98ddc0cf999abb47d47fc0a6cf"
+      ]
+    },
+    {
+      "name": "BUSD",
+      "address": "0x79a8C46DeA5aDa233ABaFFD40F3A0A2B1e5A4F27",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x79a8c46dea5ada233abaffd40f3a0a2b1e5a4f27"
+      ]
+    },
+    {
+      "name": "BUSD",
+      "address": "0xb6c057591E073249F2D9D88Ba59a46CFC9B59EdB",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xb6c057591e073249f2d9d88ba59a46cfc9b59edb"
+      ]
+    },
+    {
+      "name": "BUSD",
+      "address": "0x3B3Ac5386837Dc563660FB6a0937DFAa5924333B",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x3b3ac5386837dc563660fb6a0937dfaa5924333b"
+      ]
+    },
+    {
+      "name": "Compound",
+      "address": "0xA2B47E3D5c44877cca798226B7B8118F9BFb7A56",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xa2b47e3d5c44877cca798226b7b8118f9bfb7a56"
+      ]
+    },
+    {
+      "name": "Compound",
+      "address": "0xeB21209ae4C2c9FF2a86ACA31E123764A3B6Bc06",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xeb21209ae4c2c9ff2a86aca31e123764a3b6bc06"
+      ]
+    },
+    {
+      "name": "Compound",
+      "address": "0x845838DF265Dcd2c412A1Dc9e959c7d08537f8a2",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x845838df265dcd2c412a1dc9e959c7d08537f8a2"
+      ]
+    },
+    {
+      "name": "EURS",
+      "address": "0x0Ce6a5fF5217e38315f87032CF90686C96627CAA",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x0ce6a5ff5217e38315f87032cf90686c96627caa"
+      ]
+    },
+    {
+      "name": "EURS",
+      "address": "0x194eBd173F6cDacE046C53eACcE9B953F28411d1",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x194ebd173f6cdace046c53eacce9b953f28411d1"
+      ]
+    },
+    {
+      "name": "hBTC",
+      "address": "0x4CA9b3063Ec5866A4B82E437059D2C43d1be596F",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x4ca9b3063ec5866a4b82e437059d2c43d1be596f"
+      ]
+    },
+    {
+      "name": "hBTC",
+      "address": "0xb19059ebb43466C323583928285a49f558E572Fd",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xb19059ebb43466c323583928285a49f558e572fd"
+      ]
+    },
+    {
+      "name": "IronBank",
+      "address": "0x2dded6Da1BF5DBdF597C45fcFaa3194e53EcfeAF",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x2dded6da1bf5dbdf597c45fcfaa3194e53ecfeaf"
+      ]
+    },
+    {
+      "name": "IronBank",
+      "address": "0x5282a4eF67D9C33135340fB3289cc1711c13638C",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x5282a4ef67d9c33135340fb3289cc1711c13638c"
+      ]
+    },
+    {
+      "name": "Link",
+      "address": "0xf178c0b5bb7e7abf4e12a4838c7b7c5ba2c623c0",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xf178c0b5bb7e7abf4e12a4838c7b7c5ba2c623c0"
+      ]
+    },
+    {
+      "name": "Link",
+      "address": "0xcee60cfa923170e4f8204ae08b4fa6a3f5656f3a",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xcee60cfa923170e4f8204ae08b4fa6a3f5656f3a"
+      ]
+    },
+    {
+      "name": "PAX",
+      "address": "0xA50cCc70b6a011CffDdf45057E39679379187287",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xa50ccc70b6a011cffddf45057e39679379187287"
+      ]
+    },
+    {
+      "name": "PAX",
+      "address": "0x06364f10B501e868329afBc005b3492902d6C763",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x06364f10b501e868329afbc005b3492902d6c763"
+      ]
+    },
+    {
+      "name": "PAX",
+      "address": "0xD905e2eaeBe188fc92179b6350807D8bd91Db0D8",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xd905e2eaebe188fc92179b6350807d8bd91db0d8"
+      ]
+    },
+    {
+      "name": "renBTC",
+      "address": "0x93054188d876f558f4a66B2EF1d97d16eDf0895B",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x93054188d876f558f4a66b2ef1d97d16edf0895b"
+      ]
+    },
+    {
+      "name": "renBTC",
+      "address": "0x49849C98ae39Fff122806C06791Fa73784FB3675",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x49849c98ae39fff122806c06791fa73784fb3675"
+      ]
+    },
+    {
+      "name": "rETH",
+      "address": "0xF9440930043eb3997fc70e1339dBb11F341de7A8",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xf9440930043eb3997fc70e1339dbb11f341de7a8"
+      ]
+    },
+    {
+      "name": "rETH",
+      "address": "0x53a901d48795C58f485cBB38df08FA96a24669D5",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x53a901d48795c58f485cbb38df08fa96a24669d5"
+      ]
+    },
+    {
+      "name": "sAAVE",
+      "address": "0xEB16Ae0052ed37f479f7fe63849198Df1765a733",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xeb16ae0052ed37f479f7fe63849198df1765a733"
+      ]
+    },
+    {
+      "name": "sAAVE",
+      "address": "0x02d341CcB60fAaf662bC0554d13778015d1b285C",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x02d341ccb60faaf662bc0554d13778015d1b285c"
+      ]
+    },
+    {
+      "name": "sBTC",
+      "address": "0x7fC77b5c7614E1533320Ea6DDc2Eb61fa00A9714",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x7fc77b5c7614e1533320ea6ddc2eb61fa00a9714"
+      ]
+    },
+    {
+      "name": "sBTC",
+      "address": "0x075b1bb99792c9E1041bA13afEf80C91a1e70fB3",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x075b1bb99792c9e1041ba13afef80c91a1e70fb3"
+      ]
+    },
+    {
+      "name": "sETH",
+      "address": "0xc5424B857f758E906013F3555Dad202e4bdB4567",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xc5424b857f758e906013f3555dad202e4bdb4567"
+      ]
+    },
+    {
+      "name": "sETH",
+      "address": "0xA3D87FffcE63B53E0d54fAa1cc983B7eB0b74A9c",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xa3d87fffce63b53e0d54faa1cc983b7eb0b74a9c"
+      ]
+    },
+    {
+      "name": "stETH",
+      "address": "0xDC24316b9AE028F1497c275EB9192a3Ea0f67022",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xdc24316b9ae028f1497c275eb9192a3ea0f67022"
+      ]
+    },
+    {
+      "name": "stETH",
+      "address": "0x06325440D014e39736583c165C2963BA99fAf14E",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x06325440d014e39736583c165c2963ba99faf14e"
+      ]
+    },
+    {
+      "name": "sUSD",
+      "address": "0xFCBa3E75865d2d561BE8D220616520c171F12851",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xfcba3e75865d2d561be8d220616520c171f12851"
+      ]
+    },
+    {
+      "name": "sUSD",
+      "address": "0xA5407eAE9Ba41422680e2e00537571bcC53efBfD",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xa5407eae9ba41422680e2e00537571bcc53efbfd"
+      ]
+    },
+    {
+      "name": "sUSD",
+      "address": "0xC25a3A3b969415c80451098fa907EC722572917F",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xc25a3a3b969415c80451098fa907ec722572917f"
+      ]
+    },
+    {
+      "name": "TriCrypto",
+      "address": "0x80466c64868E1ab14a1Ddf27A676C3fcBE638Fe5",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x80466c64868e1ab14a1ddf27a676c3fcbe638fe5"
+      ]
+    },
+    {
+      "name": "TriCrypto",
+      "address": "0x331aF2E331bd619DefAa5DAc6c038f53FCF9F785",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x331af2e331bd619defaa5dac6c038f53fcf9f785"
+      ]
+    },
+    {
+      "name": "TriCrypto",
+      "address": "0xcA3d75aC011BF5aD07a98d02f18225F9bD9A6BDF",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xca3d75ac011bf5ad07a98d02f18225f9bd9a6bdf"
+      ]
+    },
+    {
+      "name": "USDT",
+      "address": "0xac795D2c97e60DF6a99ff1c814727302fD747a80",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xac795d2c97e60df6a99ff1c814727302fd747a80"
+      ]
+    },
+    {
+      "name": "USDT",
+      "address": "0x52EA46506B9CC5Ef470C5bf89f17Dc28bB35D85C",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c"
+      ]
+    },
+    {
+      "name": "USDT",
+      "address": "0x9fC689CCaDa600B6DF723D9E47D84d76664a1F23",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x9fc689ccada600b6df723d9e47d84d76664a1f23"
+      ]
+    },
+    {
+      "name": "Y",
+      "address": "0xbBC81d23Ea2c3ec7e56D39296F0cbB648873a5d3",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xbbc81d23ea2c3ec7e56d39296f0cbb648873a5d3"
+      ]
+    },
+    {
+      "name": "Y",
+      "address": "0x45F783CCE6B7FF23B2ab2D70e416cdb7D6055f51",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51"
+      ]
+    },
+    {
+      "name": "Y",
+      "address": "0xdF5e0e81Dff6FAF3A7e52BA697820c5e32D806A8",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8"
+      ]
+    },
+    {
+      "name": "Yv2",
+      "address": "0x8925D9d9B4569D737a48499DeF3f67BaA5a144b9",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x8925d9d9b4569d737a48499def3f67baa5a144b9"
+      ]
+    },
+    {
+      "name": "Yv2",
+      "address": "0x571FF5b7b346F706aa48d696a9a4a288e9Bb4091",
+      "chain": "ethereummm",
+      "version": "v1",
+      "type": "core",
+      "description": "Base Pool ",
+      "explorers": [
+        "https://etherscan.io/address/0x571ff5b7b346f706aa48d696a9a4a288e9bb4091"
+      ]
+    },
+    {
+      "name": "bBTC",
+      "address": "0x071c661B4DeefB59E2a3DdB20Db036821eeE8F4b",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x071c661b4deefb59e2a3ddb20db036821eee8f4b"
+      ]
+    },
+    {
+      "name": "bBTC",
+      "address": "0xC45b2EEe6e09cA176Ca3bB5f7eEe7C47bF93c756",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xc45b2eee6e09ca176ca3bb5f7eee7c47bf93c756"
+      ]
+    },
+    {
+      "name": "bBTC",
+      "address": "0x410e3E86ef427e30B9235497143881f717d93c2A",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x410e3e86ef427e30b9235497143881f717d93c2a"
+      ]
+    },
+    {
+      "name": "DUSD",
+      "address": "0x61E10659fe3aa93d036d099405224E4Ac24996d0",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x61e10659fe3aa93d036d099405224e4ac24996d0"
+      ]
+    },
+    {
+      "name": "DUSD",
+      "address": "0x8038C01A0390a8c547446a0b2c18fc9aEFEcc10c",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x8038c01a0390a8c547446a0b2c18fc9aefecc10c"
+      ]
+    },
+    {
+      "name": "DUSD",
+      "address": "0x3a664Ab939FD8482048609f652f9a0B0677337B9",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x3a664ab939fd8482048609f652f9a0b0677337b9"
+      ]
+    },
+    {
+      "name": "GUSD",
+      "address": "0x4f062658EaAF2C1ccf8C8e36D6824CDf41167956",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x4f062658eaaf2c1ccf8c8e36d6824cdf41167956"
+      ]
+    },
+    {
+      "name": "GUSD",
+      "address": "0x64448B78561690B70E17CBE8029a3e5c1bB7136e",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x64448b78561690b70e17cbe8029a3e5c1bb7136e"
+      ]
+    },
+    {
+      "name": "GUSD",
+      "address": "0xD2967f45c4f384DEEa880F807Be904762a3DeA07",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xd2967f45c4f384deea880f807be904762a3dea07"
+      ]
+    },
+    {
+      "name": "HUSD",
+      "address": "0x09672362833d8f703D5395ef3252D4Bfa51c15ca",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x09672362833d8f703d5395ef3252d4bfa51c15ca"
+      ]
+    },
+    {
+      "name": "HUSD",
+      "address": "0x3eF6A01A0f81D6046290f3e2A8c5b843e738E604",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604"
+      ]
+    },
+    {
+      "name": "HUSD",
+      "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x5b5cfe992adac0c9d48e05854b2d91c73a003858"
+      ]
+    },
+    {
+      "name": "LinkUSD",
+      "address": "0x1de7f0866e2c4adAC7b457c58Cc25c8688CDa1f2",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x1de7f0866e2c4adac7b457c58cc25c8688cda1f2"
+      ]
+    },
+    {
+      "name": "LinkUSD",
+      "address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xe7a24ef0c5e95ffb0f6684b813a78f2a3ad7d171"
+      ]
+    },
+    {
+      "name": "LinkUSD",
+      "address": "0x6D65b498cb23deAba52db31c93Da9BFFb340FB8F",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x6d65b498cb23deaba52db31c93da9bffb340fb8f"
+      ]
+    },
+    {
+      "name": "MUSD",
+      "address": "0x803A2B40c5a9BB2B86DD630B274Fa2A9202874C2",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x803a2b40c5a9bb2b86dd630b274fa2a9202874c2"
+      ]
+    },
+    {
+      "name": "MUSD",
+      "address": "0x8474DdbE98F5aA3179B3B3F5942D724aFcdec9f6",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x8474ddbe98f5aa3179b3b3f5942d724afcdec9f6"
+      ]
+    },
+    {
+      "name": "MUSD",
+      "address": "0x1AEf73d49Dedc4b1778d0706583995958Dc862e6",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x1aef73d49dedc4b1778d0706583995958dc862e6"
+      ]
+    },
+    {
+      "name": "oBTC",
+      "address": "0xd5BCf53e2C81e1991570f33Fa881c49EEa570C8D",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xd5bcf53e2c81e1991570f33fa881c49eea570c8d"
+      ]
+    },
+    {
+      "name": "oBTC",
+      "address": "0xd81dA8D904b52208541Bade1bD6595D8a251F8dd",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xd81da8d904b52208541bade1bd6595d8a251f8dd"
+      ]
+    },
+    {
+      "name": "oBTC",
+      "address": "0x2fE94ea3d5d4a175184081439753DE15AeF9d614",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x2fe94ea3d5d4a175184081439753de15aef9d614"
+      ]
+    },
+    {
+      "name": "pBTC",
+      "address": "0x11F419AdAbbFF8d595E7d5b223eee3863Bb3902C",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x11f419adabbff8d595e7d5b223eee3863bb3902c"
+      ]
+    },
+    {
+      "name": "pBTC",
+      "address": "0x7F55DDe206dbAD629C080068923b36fe9D6bDBeF",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x7f55dde206dbad629c080068923b36fe9d6bdbef"
+      ]
+    },
+    {
+      "name": "pBTC",
+      "address": "0xDE5331AC4B3630f94853Ff322B66407e0D6331E8",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xde5331ac4b3630f94853ff322b66407e0d6331e8"
+      ]
+    },
+    {
+      "name": "RSV",
+      "address": "0xBE175115BF33E12348ff77CcfEE4726866A0Fbd5",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xbe175115bf33e12348ff77ccfee4726866a0fbd5"
+      ]
+    },
+    {
+      "name": "RSV",
+      "address": "0xC18cC39da8b11dA8c3541C598eE022258F9744da",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xc18cc39da8b11da8c3541c598ee022258f9744da"
+      ]
+    },
+    {
+      "name": "RSV",
+      "address": "0xC2Ee6b0334C261ED60C72f6054450b61B8f18E35",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xc2ee6b0334c261ed60c72f6054450b61b8f18e35"
+      ]
+    },
+    {
+      "name": "tBTC",
+      "address": "0xaa82ca713D94bBA7A89CEAB55314F9EfFEdDc78c",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xaa82ca713d94bba7a89ceab55314f9effeddc78c"
+      ]
+    },
+    {
+      "name": "tBTC",
+      "address": "0xC25099792E9349C7DD09759744ea681C7de2cb66",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xc25099792e9349c7dd09759744ea681c7de2cb66"
+      ]
+    },
+    {
+      "name": "tBTC",
+      "address": "0x64eda51d3Ad40D56b9dFc5554E06F94e1Dd786Fd",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x64eda51d3ad40d56b9dfc5554e06f94e1dd786fd"
+      ]
+    },
+    {
+      "name": "USDK",
+      "address": "0xF1f85a74AD6c64315F85af52d3d46bF715236ADc",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xf1f85a74ad6c64315f85af52d3d46bf715236adc"
+      ]
+    },
+    {
+      "name": "USDK",
+      "address": "0x3E01dD8a5E1fb3481F0F589056b428Fc308AF0Fb",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x3e01dd8a5e1fb3481f0f589056b428fc308af0fb"
+      ]
+    },
+    {
+      "name": "USDK",
+      "address": "0x97E2768e8E73511cA874545DC5Ff8067eB19B787",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x97e2768e8e73511ca874545dc5ff8067eb19b787"
+      ]
+    },
+    {
+      "name": "USDN",
+      "address": "0x094d12e5b541784701FD8d65F11fc0598FBC6332",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x094d12e5b541784701fd8d65f11fc0598fbc6332"
+      ]
+    },
+    {
+      "name": "USDN",
+      "address": "0x0f9cb53Ebe405d49A0bbdBD291A65Ff571bC83e1",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x0f9cb53ebe405d49a0bbdbd291a65ff571bc83e1"
+      ]
+    },
+    {
+      "name": "USDN",
+      "address": "0x4f3E8F405CF5aFC05D68142F3783bDfE13811522",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x4f3e8f405cf5afc05d68142f3783bdfe13811522"
+      ]
+    },
+    {
+      "name": "USDP",
+      "address": "0x3c8cAee4E09296800f8D29A68Fa3837e2dae4940",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x3c8caee4e09296800f8d29a68fa3837e2dae4940"
+      ]
+    },
+    {
+      "name": "USDP",
+      "address": "0x42d7025938bEc20B69cBae5A77421082407f053A",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x42d7025938bec20b69cbae5a77421082407f053a"
+      ]
+    },
+    {
+      "name": "USDP",
+      "address": "0x7Eb40E450b9655f4B3cC4259BCC731c63ff55ae6",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x7eb40e450b9655f4b3cc4259bcc731c63ff55ae6"
+      ]
+    },
+    {
+      "name": "UST",
+      "address": "0xB0a0716841F2Fc03fbA72A891B8Bb13584F52F2d",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0xb0a0716841f2fc03fba72a891b8bb13584f52f2d"
+      ]
+    },
+    {
+      "name": "UST",
+      "address": "0x890f4e345B1dAED0367A877a1612f86A1f86985f",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x890f4e345b1daed0367a877a1612f86a1f86985f"
+      ]
+    },
+    {
+      "name": "UST",
+      "address": "0x94e131324b6054c0D789b190b2dAC504e4361b53",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPools",
+      "explorers": [
+        "https://etherscan.io/address/0x94e131324b6054c0d789b190b2dac504e4361b53"
+      ]
+    },
+    {
+      "name": "3pool",
+      "address": "0xbFcF63294aD7105dEa65aA58F8AE5BE2D9d0952A",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xbfcf63294ad7105dea65aa58f8ae5be2d9d0952a"
+      ]
+    },
+    {
+      "name": "AAVE",
+      "address": "0xd662908ADA2Ea1916B3318327A97eB18aD588b5d",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xd662908ada2ea1916b3318327a97eb18ad588b5d"
+      ]
+    },
+    {
+      "name": "alUSD",
+      "address": "0x9582C4ADACB3BCE56Fea3e590F05c3ca2fb9C477",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x9582c4adacb3bce56fea3e590f05c3ca2fb9c477"
+      ]
+    },
+    {
+      "name": "ankrETH",
+      "address": "0x6d10ed2cF043E6fcf51A0e7b4C2Af3Fa06695707",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x6d10ed2cf043e6fcf51a0e7b4c2af3fa06695707"
+      ]
+    },
+    {
+      "name": "bBTC",
+      "address": "0xdFc7AdFa664b08767b735dE28f9E84cd30492aeE",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xdfc7adfa664b08767b735de28f9e84cd30492aee"
+      ]
+    },
+    {
+      "name": "BUSD",
+      "address": "0x69Fb7c45726cfE2baDeE8317005d3F94bE838840",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x69fb7c45726cfe2badee8317005d3f94be838840"
+      ]
+    },
+    {
+      "name": "Compound",
+      "address": "0x7ca5b0a2910B33e9759DC7dDB0413949071D7575",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x7ca5b0a2910b33e9759dc7ddb0413949071d7575"
+      ]
+    },
+    {
+      "name": "DUSD",
+      "address": "0xAEA6c312f4b3E04D752946d329693F7293bC2e6D",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xaea6c312f4b3e04d752946d329693f7293bc2e6d"
+      ]
+    },
+    {
+      "name": "EURS",
+      "address": "0x90Bb609649E0451E5aD952683D64BD2d1f245840",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x90bb609649e0451e5ad952683d64bd2d1f245840"
+      ]
+    },
+    {
+      "name": "FRAX",
+      "address": "0x72e158d38dbd50a483501c24f792bdaaa3e7d55c",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x72e158d38dbd50a483501c24f792bdaaa3e7d55c"
+      ]
+    },
+    {
+      "name": "GUSD",
+      "address": "0xC5cfaDA84E902aD92DD40194f0883ad49639b023",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xc5cfada84e902ad92dd40194f0883ad49639b023"
+      ]
+    },
+    {
+      "name": "hBTC",
+      "address": "0x4c18E409Dc8619bFb6a1cB56D114C3f592E0aE79",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x4c18e409dc8619bfb6a1cb56d114c3f592e0ae79"
+      ]
+    },
+    {
+      "name": "HUSD",
+      "address": "0x2db0E83599a91b508Ac268a6197b8B14F5e72840",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x2db0e83599a91b508ac268a6197b8b14f5e72840"
+      ]
+    },
+    {
+      "name": "MUSD",
+      "address": "0x5f626c30EC1215f4EdCc9982265E8b1F411D1352",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x5f626c30ec1215f4edcc9982265e8b1f411d1352"
+      ]
+    },
+    {
+      "name": "oBTC",
+      "address": "0x11137B10C210b579405c21A07489e28F3c040AB1",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x11137b10c210b579405c21a07489e28f3c040ab1"
+      ]
+    },
+    {
+      "name": "PAX",
+      "address": "0x64E3C23bfc40722d3B649844055F1D51c1ac041d",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x64e3c23bfc40722d3b649844055f1d51c1ac041d"
+      ]
+    },
+    {
+      "name": "IronBank",
+      "address": "0xF5194c3325202F456c95c1Cf0cA36f8475C1949F",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xf5194c3325202f456c95c1cf0ca36f8475c1949f"
+      ]
+    },
+    {
+      "name": "Link",
+      "address": "0xFD4D8a17df4C27c1dD245d153ccf4499e806C87D",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xfd4d8a17df4c27c1dd245d153ccf4499e806c87d"
+      ]
+    },
+    {
+      "name": "pBTC",
+      "address": "0xd7d147c6Bb90A718c3De8C0568F9B560C79fa416",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xd7d147c6bb90a718c3de8c0568f9b560c79fa416"
+      ]
+    },
+    {
+      "name": "renBTC",
+      "address": "0xB1F2cdeC61db658F091671F5f199635aEF202CAC",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xb1f2cdec61db658f091671f5f199635aef202cac"
+      ]
+    },
+    {
+      "name": "RSV",
+      "address": "0x4dC4A289a8E33600D8bD4cf5F6313E43a37adec7",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x4dc4a289a8e33600d8bd4cf5f6313e43a37adec7"
+      ]
+    },
+    {
+      "name": "sAAVE",
+      "address": "0x462253b8F74B72304c145DB0e4Eebd326B22ca39",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x462253b8f74b72304c145db0e4eebd326b22ca39"
+      ]
+    },
+    {
+      "name": "sBTC",
+      "address": "0x705350c4BcD35c9441419DdD5d2f097d7a55410F",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x705350c4bcd35c9441419ddd5d2f097d7a55410f"
+      ]
+    },
+    {
+      "name": "sETH",
+      "address": "0x3C0FFFF15EA30C35d7A85B85c0782D6c94e1d238",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x3c0ffff15ea30c35d7a85b85c0782d6c94e1d238"
+      ]
+    },
+    {
+      "name": "stETH",
+      "address": "0x182B723a58739a9c974cFDB385ceaDb237453c28",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x182b723a58739a9c974cfdb385ceadb237453c28"
+      ]
+    },
+    {
+      "name": "sUSDv2",
+      "address": "0xA90996896660DEcC6E997655E065b23788857849",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xa90996896660decc6e997655e065b23788857849"
+      ]
+    },
+    {
+      "name": "rETH",
+      "address": "0x824F13f1a2F29cFEEa81154b46C0fc820677A637",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x824f13f1a2f29cfeea81154b46c0fc820677a637"
+      ]
+    },
+    {
+      "name": "tBTC",
+      "address": "0x6828bcF74279eE32f2723eC536c22c51Eed383C6",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x6828bcf74279ee32f2723ec536c22c51eed383c6"
+      ]
+    },
+    {
+      "name": "TriCrypto",
+      "address": "0x6955a55416a06839309018A8B0cB72c4DDC11f15",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x6955a55416a06839309018a8b0cb72c4ddc11f15"
+      ]
+    },
+    {
+      "name": "USDK",
+      "address": "0xC2b1DF84112619D190193E48148000e3990Bf627",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xc2b1df84112619d190193e48148000e3990bf627"
+      ]
+    },
+    {
+      "name": "USDN",
+      "address": "0xF98450B5602fa59CC66e1379DFfB6FDDc724CfC4",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xf98450b5602fa59cc66e1379dffb6fddc724cfc4"
+      ]
+    },
+    {
+      "name": "USDP",
+      "address": "0x055be5DDB7A925BfEF3417FC157f53CA77cA7222",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x055be5ddb7a925bfef3417fc157f53ca77ca7222"
+      ]
+    },
+    {
+      "name": "USDT",
+      "address": "0xBC89cd85491d81C6AD2954E6d0362Ee29fCa8F53",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xbc89cd85491d81c6ad2954e6d0362ee29fca8f53"
+      ]
+    },
+    {
+      "name": "UST",
+      "address": "0x3B7020743Bc2A4ca9EaF9D0722d42E20d6935855",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x3b7020743bc2a4ca9eaf9d0722d42e20d6935855"
+      ]
+    },
+    {
+      "name": "Y",
+      "address": "0xFA712EE4788C042e2B7BB55E6cb8ec569C4530c1",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xfa712ee4788c042e2b7bb55e6cb8ec569c4530c1"
+      ]
+    },
+    {
+      "name": "Yv2",
+      "address": "0x8101E6760130be2C8Ace79643AB73500571b7162",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Liquidity Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x8101e6760130be2c8ace79643ab73500571b7162"
+      ]
+    },
+    {
+      "name": "CRV Token",
+      "address": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Curve DAO",
+      "explorers": [
+        "https://etherscan.io/address/0xd533a949740bb3306d119cc777fa900ba034cd52"
+      ]
+    },
+    {
+      "name": "Fee Distributor",
+      "address": "0xA464e6DCda8AC41e03616F95f4BC98a13b8922Dc",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Curve DAO",
+      "explorers": [
+        "https://etherscan.io/address/0xa464e6dcda8ac41e03616f95f4bc98a13b8922dc"
+      ]
+    },
+    {
+      "name": "Gauge Controller",
+      "address": "0x2F50D538606Fa9EDD2B11E2446BEb18C9D5846bB",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Curve DAO",
+      "explorers": [
+        "https://etherscan.io/address/0x2f50d538606fa9edd2b11e2446beb18c9d5846bb"
+      ]
+    },
+    {
+      "name": "Minter",
+      "address": "0xd061D61a4d941c39E5453435B6345Dc261C2fcE0",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Curve DAO",
+      "explorers": [
+        "https://etherscan.io/address/0xd061d61a4d941c39e5453435b6345dc261c2fce0"
+      ]
+    },
+    {
+      "name": "Voting Escrow",
+      "address": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Curve DAO",
+      "explorers": [
+        "https://etherscan.io/address/0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2"
+      ]
+    },
+    {
+      "name": "Vesting Escrow",
+      "address": "0x575ccd8e2d300e2377b43478339e364000318e2c",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Curve DAO",
+      "explorers": [
+        "https://etherscan.io/address/0x575ccd8e2d300e2377b43478339e364000318e2c"
+      ]
+    },
+    {
+      "name": "Gauge Owner",
+      "address": "0x519AFB566c05E00cfB9af73496D00217A630e4D5",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Ownership Proxies",
+      "explorers": [
+        "https://etherscan.io/address/0x519afb566c05e00cfb9af73496d00217a630e4d5"
+      ]
+    },
+    {
+      "name": "Pool Owner",
+      "address": "0xeCb456EA5365865EbAb8a2661B0c503410e9B347",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Ownership Proxies",
+      "explorers": [
+        "https://etherscan.io/address/0xecb456ea5365865ebab8a2661b0c503410e9b347"
+      ]
+    },
+    {
+      "name": "Crypto Pool Owner",
+      "address": "0x3687367CcAEBBE89f1bc8Eae7592b4Eed44Ac0Bd",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Ownership Proxies",
+      "explorers": [
+        "https://etherscan.io/address/0x3687367ccaebbe89f1bc8eae7592b4eed44ac0bd"
+      ]
+    },
+    {
+      "name": "Factory Pool Owner",
+      "address": "0x8cf8af108b3b46ddc6ad596aebb917e053f0d72b",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Ownership Proxies",
+      "explorers": [
+        "https://etherscan.io/address/0x8cf8af108b3b46ddc6ad596aebb917e053f0d72b"
+      ]
+    },
+    {
+      "name": "Ownership",
+      "address": "0xE478de485ad2fe566d49342Cbd03E49ed7DB3356",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Aragon Voting app",
+      "explorers": [
+        "https://etherscan.io/address/0xE478de485ad2fe566d49342Cbd03E49ed7DB3356"
+      ]
+    },
+    {
+      "name": "Parameter",
+      "address": "0xBCfF8B0b9419b9A88c44546519b1e909cF330399",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Aragon Voting app",
+      "explorers": [
+        "https://etherscan.io/address/0xBCfF8B0b9419b9A88c44546519b1e909cF330399"
+      ]
+    },
+    {
+      "name": "Emergency",
+      "address": "0x1115c9b3168563354137cDc60efb66552dd50678",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Aragon Voting app",
+      "explorers": [
+        "https://etherscan.io/address/0x1115c9b3168563354137cDc60efb66552dd50678"
+      ]
+    },
+    {
+      "name": "Ownership",
+      "address": "0x40907540d8a6c65c637785e8f8b742ae6b0b9968",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Aragon Agent",
+      "explorers": [
+        "https://etherscan.io/address/0x40907540d8a6c65c637785e8f8b742ae6b0b9968"
+      ]
+    },
+    {
+      "name": "Parameter",
+      "address": "0x4eeb3ba4f221ca16ed4a0cc7254e2e32df948c5f",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Aragon Agent",
+      "explorers": [
+        "https://etherscan.io/address/0x4eeb3ba4f221ca16ed4a0cc7254e2e32df948c5f"
+      ]
+    },
+    {
+      "name": "Emergency",
+      "address": "0x00669DF67E4827FCc0E48A1838a8d5AB79281909",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Aragon Agent",
+      "explorers": [
+        "https://etherscan.io/address/0x00669df67e4827fcc0e48a1838a8d5ab79281909"
+      ]
+    },
+    {
+      "name": "Ownership / Parameter",
+      "address": "0x5f3b5DfEb7B28CDbD7FAba78963EE202a494e2A2",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Aragon Tokens",
+      "explorers": [
+        "https://etherscan.io/address/0x5f3b5dfeb7b28cdbd7faba78963ee202a494e2a2"
+      ]
+    },
+    {
+      "name": "Emergency",
+      "address": "0x4c0947B16FB1f755A2D32EC21A0c4181f711C500",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "governance",
+      "description": "Aragon Tokens",
+      "explorers": [
+        "https://etherscan.io/address/0x4c0947b16fb1f755a2d32ec21a0c4181f711c500"
+      ]
+    },
+    {
+      "name": "ABurner",
+      "address": "0x12220a63a2013133d54558c9d03c35288eac9b34",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0x12220a63a2013133d54558c9d03c35288eac9b34"
+      ]
+    },
+    {
+      "name": "CryptoLPBurner",
+      "address": "0x0B5B9210d5015fD0c97FB19B32675b19703b0453",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0x0b5b9210d5015fd0c97fb19b32675b19703b0453"
+      ]
+    },
+    {
+      "name": "CBurner",
+      "address": "0xdd0e10857d952c73b2fa39ce86308299df8774b8",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0xdd0e10857d952c73b2fa39ce86308299df8774b8"
+      ]
+    },
+    {
+      "name": "LPBurner",
+      "address": "0xaa42C0CD9645A58dfeB699cCAeFBD30f19B1ff81",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0xaa42c0cd9645a58dfeb699ccaefbd30f19b1ff81"
+      ]
+    },
+    {
+      "name": "MetaBurner",
+      "address": "0xE4b65889469ad896e866331f0AB5652C1EcfB3E6",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0xe4b65889469ad896e866331f0ab5652c1ecfb3e6"
+      ]
+    },
+    {
+      "name": "SynthBurner",
+      "address": "0x67a0213310202DBc2cbE788f4349B72fbA90f9Fa",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0x67a0213310202dbc2cbe788f4349b72fba90f9fa"
+      ]
+    },
+    {
+      "name": "USDNBurner",
+      "address": "0x06534b0BF7Ff378F162d4F348390BDA53b15fA35",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0x06534b0bf7ff378f162d4f348390bda53b15fa35"
+      ]
+    },
+    {
+      "name": "UnderlyingBurner",
+      "address": "0x786b374b5eef874279f4b7b4de16940e57301a58",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0x786b374b5eef874279f4b7b4de16940e57301a58"
+      ]
+    },
+    {
+      "name": "UniswapBurner",
+      "address": "0xf3b64840b39121b40d8685f1576b64c157ce2e24",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0xf3b64840b39121b40d8685f1576b64c157ce2e24"
+      ]
+    },
+    {
+      "name": "YBurner",
+      "address": "0xd16ea3e5681234da84419512eb597362135cd8c9",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Fee Burners",
+      "explorers": [
+        "https://etherscan.io/address/0xd16ea3e5681234da84419512eb597362135cd8c9"
+      ]
+    },
+    {
+      "name": "Address Provider",
+      "address": "0x0000000022d53366457f9d5e68ec105046fc4383",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Pool Registry",
+      "explorers": [
+        "https://etherscan.io/address/0x0000000022d53366457f9d5e68ec105046fc4383"
+      ]
+    },
+    {
+      "name": "Curve Calculator",
+      "address": "0xc1DB00a8E5Ef7bfa476395cdbcc98235477cDE4E",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Pool Registry",
+      "explorers": [
+        "https://etherscan.io/address/0xc1db00a8e5ef7bfa476395cdbcc98235477cde4e"
+      ]
+    },
+    {
+      "name": "Pool Info",
+      "address": "0xe64608E223433E8a03a1DaaeFD8Cb638C14B552C",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Pool Registry",
+      "explorers": [
+        "https://etherscan.io/address/0xe64608e223433e8a03a1daaefd8cb638c14b552c"
+      ]
+    },
+    {
+      "name": "Registry",
+      "address": "0x90E00ACe148ca3b23Ac1bC8C240C2a7Dd9c2d7f5",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Pool Registry",
+      "explorers": [
+        "https://etherscan.io/address/0x90e00ace148ca3b23ac1bc8c240c2a7dd9c2d7f5"
+      ]
+    },
+    {
+      "name": "Factory",
+      "address": "0x0959158b6040D32d04c301A72CBFD6b39E21c9AE",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPool Factory",
+      "explorers": [
+        "https://etherscan.io/address/0x0959158b6040d32d04c301a72cbfd6b39e21c9ae"
+      ]
+    },
+    {
+      "name": "Migrator",
+      "address": "0xd6930b7f661257DA36F93160149b031735237594",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "MetaPool Factory",
+      "explorers": [
+        "https://etherscan.io/address/0xd6930b7f661257da36f93160149b031735237594"
+      ]
+    },
+    {
+      "name": "3pool",
+      "address": "0x5F890841f657d90E081bAbdB532A05996Af79Fe6",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Implementation Contracts",
+      "explorers": [
+        "https://etherscan.io/address/0x5f890841f657d90e081babdb532a05996af79fe6"
+      ]
+    },
+    {
+      "name": "sBTC",
+      "address": "0x2f956eee002b0debd468cf2e0490d1aec65e027f",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Implementation Contracts",
+      "explorers": [
+        "https://etherscan.io/address/0x2f956eee002b0debd468cf2e0490d1aec65e027f"
+      ]
+    },
+    {
+      "name": "3pool Deposit Zap",
+      "address": "0xA79828DF1850E8a3A3064576f380D90aECDD3359",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Deposit Zaps",
+      "explorers": [
+        "https://etherscan.io/address/0xa79828df1850e8a3a3064576f380d90aecdd3359"
+      ]
+    },
+    {
+      "name": "sBTC Deposit Zap",
+      "address": "0x7AbDBAf29929e7F8621B757D2a7c04d78d633834",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Deposit Zaps",
+      "explorers": [
+        "https://etherscan.io/address/0x7abdbaf29929e7f8621b757d2a7c04d78d633834"
+      ]
+    },
+    {
+      "name": "alUSD",
+      "address": "0x43b4FdFD4Ff969587185cDB6f0BD875c5Fc83f8c",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Promoted Factory Pools",
+      "explorers": [
+        "https://etherscan.io/address/0x43b4fdfd4ff969587185cdb6f0bd875c5fc83f8c"
+      ]
+    },
+    {
+      "name": "FRAX",
+      "address": "0xd632f22692FaC7611d2AA1C0D552930D43CAEd3B",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Promoted Factory Pools",
+      "explorers": [
+        "https://etherscan.io/address/0xd632f22692fac7611d2aa1c0d552930d43caed3b"
+      ]
+    },
+    {
+      "name": "ATriCrypto Pool",
+      "address": "0x751B1e21756bDbc307CBcC5085c042a0e9AaEf36",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0x751B1e21756bDbc307CBcC5085c042a0e9AaEf36"
+      ]
+    },
+    {
+      "name": "ATriCrypto Zap",
+      "address": "0x3FCD5De6A9fC8A99995c406c77DDa3eD7E406f81",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0x3FCD5De6A9fC8A99995c406c77DDa3eD7E406f81"
+      ]
+    },
+    {
+      "name": "ATriCrypto LP Token",
+      "address": "0x8096ac61db23291252574D49f036f0f9ed8ab390",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0x8096ac61db23291252574D49f036f0f9ed8ab390"
+      ]
+    },
+    {
+      "name": "ATriCrypto Root Chain Gauge",
+      "address": "0x060e386eCfBacf42Aa72171Af9EFe17b3993fC4F",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0x060e386eCfBacf42Aa72171Af9EFe17b3993fC4F"
+      ]
+    },
+    {
+      "name": "ATriCrypto Child Chain Streamer",
+      "address": "0x060e386eCfBacf42Aa72171Af9EFe17b3993fC4F",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0x060e386eCfBacf42Aa72171Af9EFe17b3993fC4F"
+      ]
+    },
+    {
+      "name": "ATriCrypto Reward Claimer",
+      "address": "0xe84AE0321f88349B5F1119464EEB242b7De51a69",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0xe84AE0321f88349B5F1119464EEB242b7De51a69"
+      ]
+    },
+    {
+      "name": "ATriCrypto Gauge",
+      "address": "0xb0a366b987d77b5eD5803cBd95C80bB6DEaB48C0",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0xb0a366b987d77b5eD5803cBd95C80bB6DEaB48C0"
+      ]
+    },
+    {
+      "name": "Aave Pool",
+      "address": "0x445FE580eF8d70FF569aB36e80c647af338db351",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0x445FE580eF8d70FF569aB36e80c647af338db351"
+      ]
+    },
+    {
+      "name": "Aave LP Token",
+      "address": "0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0xE7a24EF0C5e95Ffb0f6684b813A78F2a3AD7D171"
+      ]
+    },
+    {
+      "name": "Aave Root Chain Gauge",
+      "address": "0xC48f4653dd6a9509De44c92beb0604BEA3AEe714",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address//0xC48f4653dd6a9509De44c92beb0604BEA3AEe714"
+      ]
+    },
+    {
+      "name": "Aave Child Chain Streamer",
+      "address": "0xC48f4653dd6a9509De44c92beb0604BEA3AEe714",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address/0xC48f4653dd6a9509De44c92beb0604BEA3AEe714"
+      ]
+    },
+    {
+      "name": "Aave Reward Claimer",
+      "address": "0x1de441Ef347c3E7fd512B1662B77B5bc4AC28Cc8",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address/0x1de441Ef347c3E7fd512B1662B77B5bc4AC28Cc8"
+      ]
+    },
+    {
+      "name": "Aave Gauge",
+      "address": "0x19793B454D3AfC7b454F206Ffe95aDE26cA6912c",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address/0x19793B454D3AfC7b454F206Ffe95aDE26cA6912c"
+      ]
+    },
+    {
+      "name": "renBTC Pool",
+      "address": "0xC2d95EEF97Ec6C17551d45e77B590dc1F9117C67",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address/0xC2d95EEF97Ec6C17551d45e77B590dc1F9117C67"
+      ]
+    },
+    {
+      "name": "renBTC LP Token",
+      "address": "0xf8a57c1d3b9629b77b6726a042ca48990A84Fb49",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address/0xf8a57c1d3b9629b77b6726a042ca48990A84Fb49"
+      ]
+    },
+    {
+      "name": "renBTC Root Chain Gauge",
+      "address": "0x488E6ef919C2bB9de535C634a80afb0114DA8F62",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x488E6ef919C2bB9de535C634a80afb0114DA8F62"
+      ]
+    },
+    {
+      "name": "renBTC Child Chain Streamer",
+      "address": "0x488E6ef919C2bB9de535C634a80afb0114DA8F62",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address/0x488E6ef919C2bB9de535C634a80afb0114DA8F62"
+      ]
+    },
+    {
+      "name": "renBTC Reward Claimer",
+      "address": "0xe89BC681C5cb6A3499E9dB97e0CE8558877Dd1A4",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address/0xe89BC681C5cb6A3499E9dB97e0CE8558877Dd1A4"
+      ]
+    },
+    {
+      "name": "renBTC Gauge",
+      "address": "0xffbACcE0CC7C19d46132f1258FC16CF6871D153c",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://polygonscan.com/address/0xffbACcE0CC7C19d46132f1258FC16CF6871D153c"
+      ]
+    },
+    {
+      "name": "WMATIC Distributor",
+      "address": "0xBdFF0C27dd073C119ebcb1299a68A6A92aE607F0",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Rewards and Admin Fees",
+      "explorers": [
+        "https://polygonscan.com/address/0xBdFF0C27dd073C119ebcb1299a68A6A92aE607F0"
+      ]
+    },
+    {
+      "name": "ABurner",
+      "address": "0xA237034249290De2B07988Ac64b96f22c0E76fE0",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Rewards and Admin Fees",
+      "explorers": [
+        "https://polygonscan.com/address/0xA237034249290De2B07988Ac64b96f22c0E76fE0"
+      ]
+    },
+    {
+      "name": "Admin Fee Bridge (Polygon)",
+      "address": "0x4473243A61b5193670D1324872368d015081822f",
+      "chain": "polygon",
+      "version": "v1",
+      "type": "core",
+      "description": "Rewards and Admin Fees",
+      "explorers": [
+        "https://polygonscan.com/address/0x4473243A61b5193670D1324872368d015081822f"
+      ]
+    },
+    {
+      "name": "Admin Fee Bridge (Ethereum)",
+      "address": "0x4473243A61b5193670D1324872368d015081822f",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Rewards and Admin Fees",
+      "explorers": [
+        "https://etherscan.io/address/0x4473243a61b5193670d1324872368d015081822f"
+      ]
+    },
+    {
+      "name": "2Pool Pool",
+      "address": "0x27E611FD27b276ACbd5Ffd632E5eAEBEC9761E40",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0x27e611fd27b276acbd5ffd632e5eaebec9761e40"
+      ]
+    },
+    {
+      "name": "2Pool LP Token",
+      "address": "0x27E611FD27b276ACbd5Ffd632E5eAEBEC9761E40",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0x27e611fd27b276acbd5ffd632e5eaebec9761e40"
+      ]
+    },
+    {
+      "name": "2Pool Root Chain Gauge",
+      "address": "0xb9C05B8EE41FDCbd9956114B3aF15834FDEDCb54",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0xb9c05b8ee41fdcbd9956114b3af15834fdedcb54"
+      ]
+    },
+    {
+      "name": "2Pool Child Chain Streamer",
+      "address": "0xb9C05B8EE41FDCbd9956114B3aF15834FDEDCb54",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0xb9c05b8ee41fdcbd9956114b3af15834fdedcb54"
+      ]
+    },
+    {
+      "name": "2Pool Gauge",
+      "address": "0x8866414733F22295b7563f9C5299715D2D76CAf4",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0x8866414733f22295b7563f9c5299715d2d76caf4"
+      ]
+    },
+    {
+      "name": "fUSDT Pool",
+      "address": "0x92D5ebF3593a92888C25C0AbEF126583d4b5312E",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0x92d5ebf3593a92888c25c0abef126583d4b5312e"
+      ]
+    },
+    {
+      "name": "fUSDT LP Token",
+      "address": "0x92D5ebF3593a92888C25C0AbEF126583d4b5312E",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0x92d5ebf3593a92888c25c0abef126583d4b5312e"
+      ]
+    },
+    {
+      "name": "fUSDT Root Chain Gauge",
+      "address": "0xfE1A3dD8b169fB5BF0D5dbFe813d956F39fF6310",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xfE1A3dD8b169fB5BF0D5dbFe813d956F39fF6310"
+      ]
+    },
+    {
+      "name": "fUSDT Child Chain Streamer",
+      "address": "0xfE1A3dD8b169fB5BF0D5dbFe813d956F39fF6310",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0xfe1a3dd8b169fb5bf0d5dbfe813d956f39ff6310"
+      ]
+    },
+    {
+      "name": "fUSDT Gauge",
+      "address": "0x06e3C4da96fd076b97b7ca3Ae23527314b6140dF",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0x06e3c4da96fd076b97b7ca3ae23527314b6140df"
+      ]
+    },
+    {
+      "name": "renBTC Pool",
+      "address": "0x3eF6A01A0f81D6046290f3e2A8c5b843e738E604",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0x3ef6a01a0f81d6046290f3e2a8c5b843e738e604"
+      ]
+    },
+    {
+      "name": "renBTC LP Token",
+      "address": "0x5B5CFE992AdAC0C9D48E05854B2d91C73a003858",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0x5b5cfe992adac0c9d48e05854b2d91c73a003858"
+      ]
+    },
+    {
+      "name": "renBTC Root Chain Gauge",
+      "address": "0xfDb129ea4b6f557b07BcDCedE54F665b7b6Bc281",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0xfDb129ea4b6f557b07BcDCedE54F665b7b6Bc281"
+      ]
+    },
+    {
+      "name": "renBTC Child Chain Streamer",
+      "address": "0xfDb129ea4b6f557b07BcDCedE54F665b7b6Bc281",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0xfdb129ea4b6f557b07bcdcede54f665b7b6bc281"
+      ]
+    },
+    {
+      "name": "renBTC Gauge",
+      "address": "0xBdFF0C27dd073C119ebcb1299a68A6A92aE607F0",
+      "chain": "fantom",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://ftmscan.com/address/0xbdff0c27dd073c119ebcb1299a68a6a92ae607f0"
+      ]
+    },
+    {
+      "name": "x3Pool Pool",
+      "address": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
+      "chain": "xdai",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://blockscout.com/xdai/mainnet/address/0x7f90122BF0700F9E7e1F688fe926940E8839F353"
+      ]
+    },
+    {
+      "name": "x3Pool LP Token",
+      "address": "0x1337BedC9D22ecbe766dF105c9623922A27963EC",
+      "chain": "xdai",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://blockscout.com/xdai/mainnet/address/0x6C09F6727113543Fd061a721da512B7eFCDD0267"
+      ]
+    },
+    {
+      "name": "x3Pool Root Chain Gauge",
+      "address": "0x6C09F6727113543Fd061a721da512B7eFCDD0267",
+      "chain": "ethereum",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://etherscan.io/address/0x6C09F6727113543Fd061a721da512B7eFCDD0267"
+      ]
+    },
+    {
+      "name": "x3Pool Child Chain Streamer",
+      "address": "0x6C09F6727113543Fd061a721da512B7eFCDD0267",
+      "chain": "xdai",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://blockscout.com/xdai/mainnet/address/0x6C09F6727113543Fd061a721da512B7eFCDD0267"
+      ]
+    },
+    {
+      "name": "x3Pool Gauge",
+      "address": "0x78CF256256C8089d68Cde634Cf7cDEFb39286470",
+      "chain": "xdai",
+      "version": "v1",
+      "type": "core",
+      "description": "Pools and Gauges",
+      "explorers": [
+        "https://blockscout.com/xdai/mainnet/address/0x78CF256256C8089d68Cde634Cf7cDEFb39286470"
+      ]
+    }
+]
