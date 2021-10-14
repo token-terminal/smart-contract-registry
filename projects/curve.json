@@ -5,7 +5,7 @@
     "chain": "ethereummm",
     "version": "v1",
     "type": "core",
-    "description": "Base Pool ",
+    "description": "Base Pool",
     "explorers": [
       "https://etherscan.io/address/0xbebc44782c7db0a1a60cb6fe97d0b483032ff1c7"
     ]
@@ -16,7 +16,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x6c3f90f043a72fa612cbac8115ee7e52bde6e490"
       ]
@@ -27,7 +27,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xfd2a8fa60abd58efe3eee34dd494cd491dc14900"
       ]
@@ -38,7 +38,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xdebf20617708857ebe4f679508e7b7863a8a8eee"
       ]
@@ -49,7 +49,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xa96a65c051bf88b4095ee1f2451c2a9d43f53ae2"
       ]
@@ -60,7 +60,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xaa17a236f2badc98ddc0cf999abb47d47fc0a6cf"
       ]
@@ -71,7 +71,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x79a8c46dea5ada233abaffd40f3a0a2b1e5a4f27"
       ]
@@ -82,7 +82,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xb6c057591e073249f2d9d88ba59a46cfc9b59edb"
       ]
@@ -93,7 +93,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x3b3ac5386837dc563660fb6a0937dfaa5924333b"
       ]
@@ -104,7 +104,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xa2b47e3d5c44877cca798226b7b8118f9bfb7a56"
       ]
@@ -115,7 +115,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xeb21209ae4c2c9ff2a86aca31e123764a3b6bc06"
       ]
@@ -126,7 +126,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x845838df265dcd2c412a1dc9e959c7d08537f8a2"
       ]
@@ -137,7 +137,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x0ce6a5ff5217e38315f87032cf90686c96627caa"
       ]
@@ -148,7 +148,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x194ebd173f6cdace046c53eacce9b953f28411d1"
       ]
@@ -159,7 +159,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x4ca9b3063ec5866a4b82e437059d2c43d1be596f"
       ]
@@ -170,7 +170,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xb19059ebb43466c323583928285a49f558e572fd"
       ]
@@ -181,7 +181,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x2dded6da1bf5dbdf597c45fcfaa3194e53ecfeaf"
       ]
@@ -192,7 +192,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x5282a4ef67d9c33135340fb3289cc1711c13638c"
       ]
@@ -203,7 +203,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xf178c0b5bb7e7abf4e12a4838c7b7c5ba2c623c0"
       ]
@@ -214,7 +214,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xcee60cfa923170e4f8204ae08b4fa6a3f5656f3a"
       ]
@@ -225,7 +225,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xa50ccc70b6a011cffddf45057e39679379187287"
       ]
@@ -236,7 +236,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x06364f10b501e868329afbc005b3492902d6c763"
       ]
@@ -247,7 +247,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xd905e2eaebe188fc92179b6350807d8bd91db0d8"
       ]
@@ -258,7 +258,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x93054188d876f558f4a66b2ef1d97d16edf0895b"
       ]
@@ -269,7 +269,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x49849c98ae39fff122806c06791fa73784fb3675"
       ]
@@ -280,7 +280,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xf9440930043eb3997fc70e1339dbb11f341de7a8"
       ]
@@ -291,7 +291,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x53a901d48795c58f485cbb38df08fa96a24669d5"
       ]
@@ -302,7 +302,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xeb16ae0052ed37f479f7fe63849198df1765a733"
       ]
@@ -313,7 +313,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x02d341ccb60faaf662bc0554d13778015d1b285c"
       ]
@@ -324,7 +324,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x7fc77b5c7614e1533320ea6ddc2eb61fa00a9714"
       ]
@@ -335,7 +335,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x075b1bb99792c9e1041ba13afef80c91a1e70fb3"
       ]
@@ -346,7 +346,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xc5424b857f758e906013f3555dad202e4bdb4567"
       ]
@@ -357,7 +357,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xa3d87fffce63b53e0d54faa1cc983b7eb0b74a9c"
       ]
@@ -368,7 +368,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xdc24316b9ae028f1497c275eb9192a3ea0f67022"
       ]
@@ -379,7 +379,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x06325440d014e39736583c165c2963ba99faf14e"
       ]
@@ -390,7 +390,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xfcba3e75865d2d561be8d220616520c171f12851"
       ]
@@ -401,7 +401,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xa5407eae9ba41422680e2e00537571bcc53efbfd"
       ]
@@ -412,7 +412,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xc25a3a3b969415c80451098fa907ec722572917f"
       ]
@@ -423,7 +423,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x80466c64868e1ab14a1ddf27a676c3fcbe638fe5"
       ]
@@ -434,7 +434,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x331af2e331bd619defaa5dac6c038f53fcf9f785"
       ]
@@ -445,7 +445,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xca3d75ac011bf5ad07a98d02f18225f9bd9a6bdf"
       ]
@@ -456,7 +456,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xac795d2c97e60df6a99ff1c814727302fd747a80"
       ]
@@ -467,7 +467,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x52ea46506b9cc5ef470c5bf89f17dc28bb35d85c"
       ]
@@ -478,7 +478,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x9fc689ccada600b6df723d9e47d84d76664a1f23"
       ]
@@ -489,7 +489,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xbbc81d23ea2c3ec7e56d39296f0cbb648873a5d3"
       ]
@@ -500,7 +500,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x45f783cce6b7ff23b2ab2d70e416cdb7d6055f51"
       ]
@@ -511,7 +511,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0xdf5e0e81dff6faf3a7e52ba697820c5e32d806a8"
       ]
@@ -522,7 +522,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x8925d9d9b4569d737a48499def3f67baa5a144b9"
       ]
@@ -533,7 +533,7 @@
       "chain": "ethereummm",
       "version": "v1",
       "type": "core",
-      "description": "Base Pool ",
+      "description": "Base Pool",
       "explorers": [
         "https://etherscan.io/address/0x571ff5b7b346f706aa48d696a9a4a288e9bb4091"
       ]
