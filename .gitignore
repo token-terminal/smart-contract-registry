@@ -105,3 +105,6 @@ dist
 
 #jetbrain files
 .idea
+
+# VSCode directories
+.vscode
