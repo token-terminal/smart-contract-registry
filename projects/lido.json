@@ -1,717 +1,717 @@
 [
   {
-      "name": "wstETH",
-      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "It's an ERC20 token that represents the account's share of the total supply of stETH tokens",
-      "explorers": [
+    "name": "wstETH",
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "It's an ERC20 token that represents the account's share of the total supply of stETH tokens",
+    "explorers": [
       "https://etherscan.io/token/0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0"
-      ]
+    ]
   },
   {
-      "name": "LDO token",
-      "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "The Lido governance token",
-      "explorers": [
-          "https://etherscan.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32"
-      ]
-      },
-      {
-      "name": "stETH ",
-      "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "This is the core contract which acts as a liquid staking pool.The contract is responsible for Ether deposits and withdrawals, minting and burning liquid tokens, delegating funds to node operators, applying fees, and accepting updates from the oracle contract",
-      "explorers": [
-          "https://etherscan.io/address/0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
-      ]
-      },
-      {
-      "name": "NodeOperatorsRegistry",
-      "address": "0x55032650b14df07b85bF18A3a3eC8E0Af2e028d5",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Node Operators act as validators on the Beacon chain for the benefit of the protocol. The DAO selects node operators and adds their addresses to the NodeOperatorsRegistry contract",
-      "explorers": [
-          "https://etherscan.io/address/0x55032650b14df07b85bf18a3a3ec8e0af2e028d5"
-      ]
-      },
-      {
-      "name": "WithdrawalsManagerStub",
-      "address": "0xB9D7934878B5FB9610B3fE8A5e441e8fad7E293f",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Lido DAO will vote for setting validator withdrawal credentials pointing to this proxy contract",
-      "explorers": [
-          "https://etherscan.io/address/0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f"
-      ]
-      },
-      {
-      "name": "Oracle",
-      "address": "0x442af784A788A5bd6F42A01Ebe9F287a871243fb",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "A contract where oracles send addresses' balances controlled by the DAO on the ETH 2.0 side",
-      "explorers": [
-          "https://etherscan.io/address/0x442af784a788a5bd6f42a01ebe9f287a871243fb"
-      ]
-      },
-      {
-      "name": "Aragon Voting",
-      "address": "0x2e59A20f205bB85a89C53f1936454680651E618e",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Governance related contract",
-      "explorers": [
-          "https://etherscan.io/address/0x2e59a20f205bb85a89c53f1936454680651e618e"
-      ]
-      },
-      {
-      "name": "Aragon Token Manager",
-      "address": "0xf73a1260d222f447210581DDf212D915c09a3249",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Governance related contract",
-      "explorers": [
-          "https://etherscan.io/address/0xf73a1260d222f447210581ddf212d915c09a3249"
-      ]
-      },
-      {
-      "name": "Aragon Finance",
-      "address": "0xB9E5CBB9CA5b0d659238807E84D0176930753d86",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Governance related contract",
-      "explorers": [
-          "https://etherscan.io/address/0xb9e5cbb9ca5b0d659238807e84d0176930753d86"
-      ]
-      },
-      {
-      "name": "Aragon Agent",
-      "address": "0x3e40D73EB977Dc6a537aF587D48316feE66E9C8c",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "governance",
-      "description": "Governance related contract",
-      "explorers": [
-          "https://etherscan.io/address/0x3e40d73eb977dc6a537af587d48316fee66e9c8c"
-      ]
-      },
-      {
-      "name": "Withdrawals Manager Stub",
-      "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Contract related to ETH withdrawals",
-      "explorers": [
-          "https://etherscan.io/address/0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f"
-      ]
-      },
-      {
-      "name": "Chainlink stETH/USD Price Feed",
-      "address": "0xCfE54B5cD566aB89272946F602D76Ea879CAb4a8",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Chainlink stETH/USD Price Feed",
-      "explorers": [
-          "https://etherscan.io/address/0xcfe54b5cd566ab89272946f602d76ea879cab4a8"
-      ]
-      },
-      {
-      "name": "Chainlink stETH/ETH Price Feed",
-      "address": "0x86392dC19c0b719886221c78AB11eb8Cf5c52812",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Chainlink stETH/ETH Price Feed",
-      "explorers": [
-          "https://etherscan.io/address/0x86392dc19c0b719886221c78ab11eb8cf5c52812"
-      ]
-      },
-      {
-      "name": "stETH/ETH Merkle Price Oracle",
-      "address": "0x3A6Bd15abf19581e411621D669B6a2bbe741ffD6",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "stETH/ETH Merkle Price Oracle",
-      "explorers": [
-          "https://etherscan.io/address/0x3a6bd15abf19581e411621d669b6a2bbe741ffd6"
-      ]
-      },
-      {
-      "name": "stETH/ETH Price Feed",
-      "address": "0xAb55Bf4DfBf469ebfe082b7872557D1F87692Fe6",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "stETH/ETH Price Feed",
-      "explorers": [
-          "https://etherscan.io/address/0xab55bf4dfbf469ebfe082b7872557d1f87692fe6#code"
-      ]
-      },
-      {
-      "name": "Curve stETH/ETH pool:",
-      "address": "0xDC24316b9AE028F1497c275EB9192a3Ea0f67022",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Curve stETH/ETH pool",
-      "explorers": [
-          "https://etherscan.io/address/0xdc24316b9ae028f1497c275eb9192a3ea0f67022"
-      ]
-      },
-      {
-      "name": "Balancer wstETH/WETH pool:",
-      "address": "0x32296969Ef14EB0c6d29669C550D4a0449130230",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Balancer wstETH/WETH pool",
-      "explorers": [
-          "https://etherscan.io/address/0x32296969ef14eb0c6d29669c550d4a0449130230"
-      ]
-      },
-      {
-      "name": "1inch stETH/DAI pool",
-      "address": "0xC1A900Ae76dB21dC5aa8E418Ac0F4E888A4C7431",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "1inch stETH/DAI pool",
-      "explorers": [
-          "https://etherscan.io/address/0xc1a900ae76db21dc5aa8e418ac0f4e888a4c7431"
-      ]
-      },
-      {
-      "name": "Sushi wstETH/DAI pool",
-      "address": "0xc5578194D457dcce3f272538D1ad52c68d1CE849",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Sushi wstETH/DAI pool",
-      "explorers": [
-          "https://etherscan.io/address/0xc5578194d457dcce3f272538d1ad52c68d1ce849"
-      ]
-      },
-      {
-      "name": "multisig_program_id",
-      "address": "AAHT26ecV3FEeFmL2gDZW6FfEqjPkghHbAkNZGqwT8Ww",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Configuration",
-      "explorers": [
-          "https://solanabeach.io/address/aaht26ecv3feefml2gdzw6ffeqjpkghhbaknzgqwt8ww"
-      ]
-      },
-      {
-      "name": "multisig_address",
-      "address": "3cXyJbjoAUNLpQsFrFJTTTp8GD3uPeabYbsCVobkQpD1",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Configuration",
-      "explorers": [
-          "https://solanabeach.io/address/3cxyjbjoaunlpqsfrfjtttp8gd3upeabybscvobkqpd1"
-      ]
-      },
-      {
-      "name": "solido_program_id",
-      "address": "CrX7kMhLC3cSsXJdT7JDgqrRVWGnUpX3gfEfxxU2NVLi",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Configuration",
-      "explorers": [
-          "https://solanabeach.io/address/crx7kmhlc3cssxjdt7jdgqrrvwgnupx3gfefxxu2nvli"
-      ]
-      },
-      {
-      "name": "solido_address",
-      "address": "49Yi1TKkNyYjPAFdR9LBvoHcUjuPX4Df5T5yv39w2XTn",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "Configuration",
-      "explorers": [
-          "https://solanabeach.io/address/49yi1tkknyyjpafdr9lbvohcujupx4df5t5yv39w2xtn"
-      ]
-      },
-      {
-      "name": "multisig_pda",
-      "address": "GQ3QPrB1RHPRr4Reen772WrMZkHcFM4DL5q44x1BBTFm",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Related addresses",
-      "explorers": [
-          "https://solanabeach.io/address/gq3qprb1rhprr4reen772wrmzkhcfm4dl5q44x1bbtfm"
-      ]
-      },
-      {
-      "name": "st_sol_mint",
-      "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Related addresses",
-      "explorers": [
-          "https://solanabeach.io/address/7dhbwxmci3dt8ufywyzweblxgycu7y3il6trkn1y7arj"
-      ]
-      },
-      {
-      "name": "withdraw_authority",
-      "address": "GgrQiJ8s2pfHsfMbEFtNcejnzLegzZ16c9XtJ2X2FpuF",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Related addresses",
-      "explorers": [
-          "https://solanabeach.io/address/ggrqij8s2pfhsfmbeftncejnzlegzz16c9xtj2x2fpuf"
-      ]
-      },
-      {
-      "name": "reserve",
-      "address": "3Kwv3pEAuoe4WevPB4rgMBTZndGDb53XT7qwQKnvHPfX",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Related addresses",
-      "explorers": [
-          "https://solanabeach.io/address/3kwv3peauoe4wevpb4rgmbtzndgdb53xt7qwqknvhpfx"
-      ]
-      },
-      {
-      "name": "P2P",
-      "address": "Cv6GM219kzMrdUUdgDGVJUPW6fGosvrhsFrvmEhz3Mc6",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Multisig owners",
-      "explorers": [
-          "https://solanabeach.io/address/cv6gm219kzmrduudgdgvjupw6fgosvrhsfrvmehz3mc6/transactions"
-      ]
-      },
-      {
-      "name": "Staking Facilities",
-      "address": "ENH1xvwjinUWkwEgw1hKduyAg7CrJMiKvr9nAS7wLHrp",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Multisig owners",
-      "explorers": [
-          "https://solanabeach.io/address/enh1xvwjinuwkwegw1hkduyag7crjmikvr9nas7wlhrp"
-      ]
-      },
-      {
-      "name": "Figment",
-      "address": "6CawqfAJDviZGfUpHFJgeauq6H9vhKuivMMZULZeGnPw",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Multisig owners",
-      "explorers": [
-          "https://solanabeach.io/address/6cawqfajdvizgfuphfjgeauq6h9vhkuivmmzulzegnpw"
-      ]
-      },
-      {
-      "name": "Saber",
-      "address": "F4VFp4tFTyrQWo9YVjCbPE5eQP27ice2zyGDp2tN2Rkm",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Multisig owners",
-      "explorers": [
-          "https://solanabeach.io/address/f4vfp4tftyrqwo9yvjcbpe5eqp27ice2zygdp2tn2rkm"
-      ]
-      },
-      {
-      "name": "ChainLayer",
-      "address": "AnoVUukL1fMAwEp4y2rrZV45BNHLes8ZwWsCRgEwhGH4",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Multisig owners",
-      "explorers": [
-          "https://solanabeach.io/address/anovuukl1fmawep4y2rrzv45bnhles8zwwscrgewhgh4"
-      ]
-      },
-      {
-      "name": "Chorus One",
-      "address": "6S21QCmpAadEhHj3pY2RMbPMGwgYNvS4Pd7zUXoRDMdK",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Multisig owners",
-      "explorers": [
-          "https://solanabeach.io/address/6s21qcmpaadehhj3py2rmbpmgwgynvs4pd7zuxordmdk"
-      ]
-      },
-      {
-      "name": "Solana Foundation",
-      "address": "8Lep9addZWUWqBNj3igx4QoHe43GBfvLhGJy18jJgWQa",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Multisig owners",
-      "explorers": [
-          "https://solanabeach.io/address/8lep9addzwuwqbnj3igx4qohe43gbfvlhgjy18jjgwqa"
-      ]
-      },
-      {
-      "name": "Chorus One",
-      "address": "AR7FaVeVvUQwnLtojZNUc42H987KiHqfc4AN1qEwPUJw",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Maintainers",
-      "explorers": [
-          "https://solanabeach.io/address/ar7favevvuqwnltojznuc42h987kihqfc4an1qewpujw"
-      ]
-      },
-      {
-      "name": "Figment",
-      "address": "2rqLzNZCBWykEs8bFMbmgqCz4eosaEfU3aRL4RJWdZgQ",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Maintainers",
-      "explorers": [
-          "https://solanabeach.io/address/2rqlznzcbwykes8bfmbmgqcz4eosaefu3arl4rjwdzgq"
-      ]
-      },
-      {
-      "name": "Staking Facilities",
-      "address": "DqCZaFR6cTMvFMuz43HS77Zcz1quR93n11kT1yY6aVf4",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Maintainers",
-      "explorers": [
-          "https://solanabeach.io/address/dqczafr6ctmvfmuz43hs77zcz1qur93n11kt1yy6avf4"
-      ]
-      },
-      {
-      "name": "P2P",
-      "address": "p2pokvNcNc1SFCMoUrp1UBQ6SBET7H5EdLqahz4g55k",
-      "chain": "solana",
-      "version": "v1",
-      "type": "core",
-      "description": "Maintainers",
-      "explorers": [
-          "https://solanabeach.io/address/p2pokvncnc1sfcmourp1ubq6sbet7h5edlqahz4g55k"
-      ]
-      },
-      {
-      "name": "Hub",
-      "address": "terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "bLuna Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts"
-      ]
-      },
-      {
-      "name": "Reward",
-      "address": "terra17yap3mhph35pcwvhza38c2lkj7gzywzy05h7l0",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "bLuna Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra17yap3mhph35pcwvhza38c2lkj7gzywzy05h7l0"
-      ]
-      },
-      {
-      "name": "Airdrop Registry",
-      "address": "terra199t7hg7w5vymehhg834r6799pju2q3a0ya7ae9",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "bLuna Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra199t7hg7w5vymehhg834r6799pju2q3a0ya7ae9"
-      ]
-      },
-      {
-      "name": "Bonded LUNA (bLUNA)",
-      "address": "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "bLuna Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp"
-      ]
-      },
-      {
-      "name": "AnchorVault",
-      "address": "0xA2F987A546D4CD1c607Ee8141276876C26b72Bdf",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "bETH Smart Contracts",
-      "explorers": [
-          "https://etherscan.io/address/0xa2f987a546d4cd1c607ee8141276876c26b72bdf"
-      ]
-      },
-      {
-      "name": "BridgeConnectorShuttle",
-      "address": "0x513251faB2542532753972B8FE9A7b60621affaD",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "bETH Smart Contracts",
-      "explorers": [
-          "https://etherscan.io/address/0x513251fab2542532753972b8fe9a7b60621affad"
-      ]
-      },
-      {
-      "name": "RewardsLiquidator",
-      "address": "0xdb99Fdb42FEc8Ba414ea60b3a189208bBdbfa321",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "bETH Smart Contracts",
-      "explorers": [
-          "https://etherscan.io/address/0xdb99fdb42fec8ba414ea60b3a189208bbdbfa321"
-      ]
-      },
-      {
-      "name": "InsuranceConnector",
-      "address": "0x2BDfD3De0fF23373B621CDAD0aD3dF1580efE701",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "bETH Smart Contracts",
-      "explorers": [
-          "https://etherscan.io/address/0x2bdfd3de0ff23373b621cdad0ad3df1580efe701"
-      ]
-      },
-      {
-      "name": "bETH ShuttleVault",
-      "address": "0xF9dcf31EE6EB94AB732A43c2FbA1dC6179c98965",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "bETH Smart Contracts",
-      "explorers": [
-          "https://etherscan.io/address/0xf9dcf31ee6eb94ab732a43c2fba1dc6179c98965"
-      ]
-      },
-      {
-      "name": "bETH",
-      "address": "0x707F9118e33A9B8998beA41dd0d46f38bb963FC8",
-      "chain": "ethereum",
-      "version": "v1",
-      "type": "core",
-      "description": "bETH Smart Contracts",
-      "explorers": [
-          "https://etherscan.io/token/0x707f9118e33a9b8998bea41dd0d46f38bb963fc8"
-      ]
-      },
-      {
-      "name": "bETH Reward",
-      "address": "terra1939tzfn4hn960ychpcsjshu8jds3zdwlp8jed9",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "bETH Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1939tzfn4hn960ychpcsjshu8jds3zdwlp8jed9"
-      ]
-      },
-      {
-      "name": "Bonded ETH (bETH)",
-      "address": "terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "bETH Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun"
-      ]
-      },
-      {
-      "name": "Gov",
-      "address": "terra1f32xyep306hhcxxxf7mlyh0ucggc00rm2s9da5",
-      "chain": "terra",
-      "version": "v1",
-      "type": "governance",
-      "description": "ANC-Related Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1f32xyep306hhcxxxf7mlyh0ucggc00rm2s9da5"
-      ]
-      },
-      {
-      "name": "Staking",
-      "address": "terra1897an2xux840p9lrh6py3ryankc6mspw49xse3",
-      "chain": "terra",
-      "version": "v1",
-      "type": "governance",
-      "description": "ANC-Related Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1897an2xux840p9lrh6py3ryankc6mspw49xse3"
-      ]
-      },
-      {
-      "name": "Community",
-      "address": "terra12wk8dey0kffwp27l5ucfumczlsc9aned8rqueg",
-      "chain": "terra",
-      "version": "v1",
-      "type": "governance",
-      "description": "ANC-Related Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra12wk8dey0kffwp27l5ucfumczlsc9aned8rqueg"
-      ]
-      },
-      {
-      "name": "Collector",
-      "address": "terra14ku9pgw5ld90dexlyju02u4rn6frheexr5f96h",
-      "chain": "terra",
-      "version": "v1",
-      "type": "governance",
-      "description": "ANC-Related Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra14ku9pgw5ld90dexlyju02u4rn6frheexr5f96h"
-      ]
-      },
-      {
-      "name": "Distributor",
-      "address": "terra1mxf7d5updqxfgvchd7lv6575ehhm8qfdttuqzz",
-      "chain": "terra",
-      "version": "v1",
-      "type": "governance",
-      "description": "ANC-Related Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1mxf7d5updqxfgvchd7lv6575ehhm8qfdttuqzz"
-      ]
-      },
-      {
-      "name": "Anchor Token (ANC)",
-      "address": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
-      "chain": "terra",
-      "version": "v1",
-      "type": "governance",
-      "description": "ANC-Related Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
-      ]
-      },
-      {
-      "name": "Overseer",
-      "address": "terra1tmnqgvg567ypvsvk6rwsga3srp7e3lg6u0elp8",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1tmnqgvg567ypvsvk6rwsga3srp7e3lg6u0elp8"
-      ]
-      },
-      {
-      "name": "Market",
-      "address": "terra1sepfj7s0aeg5967uxnfk4thzlerrsktkpelm5s",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1sepfj7s0aeg5967uxnfk4thzlerrsktkpelm5s"
-      ]
-      },
-      {
-      "name": "bLuna Custody",
-      "address": "terra1ptjp2vfjrwh0j0faj9r6katm640kgjxnwwq9kn",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1ptjp2vfjrwh0j0faj9r6katm640kgjxnwwq9kn"
-      ]
-      },
-      {
-      "name": "bETH Custody",
-      "address": "terra10cxuzggyvvv44magvrh3thpdnk9cmlgk93gmx2",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra10cxuzggyvvv44magvrh3thpdnk9cmlgk93gmx2"
-      ]
-      },
-      {
-      "name": "Interest Model",
-      "address": "terra1kq8zzq5hufas9t0kjsjc62t2kucfnx8txf547n",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1kq8zzq5hufas9t0kjsjc62t2kucfnx8txf547n"
-      ]
-      },
-      {
-      "name": "Distribution Model",
-      "address": "terra14mufqpr5mevdfn92p4jchpkxp7xr46uyknqjwq",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra14mufqpr5mevdfn92p4jchpkxp7xr46uyknqjwq"
-      ]
-      },
-      {
-      "name": "Oracle",
-      "address": "terra1cgg6yef7qcdm070qftghfulaxmllgmvk77nc7t",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1cgg6yef7qcdm070qftghfulaxmllgmvk77nc7t"
-      ]
-      },
-      {
-      "name": "Anchor TerraUSD (aUST)",
-      "address": "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu"
-      ]
-      },
-      {
-      "name": "Liquidation Contract",
-      "address": "terra1w9ky73v4g7v98zzdqpqgf3kjmusnx4d4mvnac6",
-      "chain": "terra",
-      "version": "v1",
-      "type": "core",
-      "description": "Terra USD Market Smart Contracts",
-      "explorers": [
-          "https://finder.terra.money/columbus-4/address/terra1w9ky73v4g7v98zzdqpqgf3kjmusnx4d4mvnac6"
-      ]
+    "name": "LDO token",
+    "address": "0x5A98FcBEA516Cf06857215779Fd812CA3beF1B32",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "The Lido governance token",
+    "explorers": [
+      "https://etherscan.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+    ]
+  },
+  {
+    "name": "stETH ",
+    "address": "0xae7ab96520DE3A18E5e111B5EaAb095312D7fE84",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "This is the core contract which acts as a liquid staking pool.The contract is responsible for Ether deposits and withdrawals, minting and burning liquid tokens, delegating funds to node operators, applying fees, and accepting updates from the oracle contract",
+    "explorers": [
+      "https://etherscan.io/address/0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+    ]
+  },
+  {
+    "name": "NodeOperatorsRegistry",
+    "address": "0x55032650b14df07b85bF18A3a3eC8E0Af2e028d5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Node Operators act as validators on the Beacon chain for the benefit of the protocol. The DAO selects node operators and adds their addresses to the NodeOperatorsRegistry contract",
+    "explorers": [
+      "https://etherscan.io/address/0x55032650b14df07b85bf18a3a3ec8e0af2e028d5"
+    ]
+  },
+  {
+    "name": "WithdrawalsManagerStub",
+    "address": "0xB9D7934878B5FB9610B3fE8A5e441e8fad7E293f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Lido DAO will vote for setting validator withdrawal credentials pointing to this proxy contract",
+    "explorers": [
+      "https://etherscan.io/address/0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f"
+    ]
+  },
+  {
+    "name": "Oracle",
+    "address": "0x442af784A788A5bd6F42A01Ebe9F287a871243fb",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A contract where oracles send addresses' balances controlled by the DAO on the ETH 2.0 side",
+    "explorers": [
+      "https://etherscan.io/address/0x442af784a788a5bd6f42a01ebe9f287a871243fb"
+    ]
+  },
+  {
+    "name": "Aragon Voting",
+    "address": "0x2e59A20f205bB85a89C53f1936454680651E618e",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance related contract",
+    "explorers": [
+      "https://etherscan.io/address/0x2e59a20f205bb85a89c53f1936454680651e618e"
+    ]
+  },
+  {
+    "name": "Aragon Token Manager",
+    "address": "0xf73a1260d222f447210581DDf212D915c09a3249",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance related contract",
+    "explorers": [
+      "https://etherscan.io/address/0xf73a1260d222f447210581ddf212d915c09a3249"
+    ]
+  },
+  {
+    "name": "Aragon Finance",
+    "address": "0xB9E5CBB9CA5b0d659238807E84D0176930753d86",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance related contract",
+    "explorers": [
+      "https://etherscan.io/address/0xb9e5cbb9ca5b0d659238807e84d0176930753d86"
+    ]
+  },
+  {
+    "name": "Aragon Agent",
+    "address": "0x3e40D73EB977Dc6a537aF587D48316feE66E9C8c",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance related contract",
+    "explorers": [
+      "https://etherscan.io/address/0x3e40d73eb977dc6a537af587d48316fee66e9c8c"
+    ]
+  },
+  {
+    "name": "Withdrawals Manager Stub",
+    "address": "0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Contract related to ETH withdrawals",
+    "explorers": [
+      "https://etherscan.io/address/0xb9d7934878b5fb9610b3fe8a5e441e8fad7e293f"
+    ]
+  },
+  {
+    "name": "Chainlink stETH/USD Price Feed",
+    "address": "0xCfE54B5cD566aB89272946F602D76Ea879CAb4a8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Chainlink stETH/USD Price Feed",
+    "explorers": [
+      "https://etherscan.io/address/0xcfe54b5cd566ab89272946f602d76ea879cab4a8"
+    ]
+  },
+  {
+    "name": "Chainlink stETH/ETH Price Feed",
+    "address": "0x86392dC19c0b719886221c78AB11eb8Cf5c52812",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Chainlink stETH/ETH Price Feed",
+    "explorers": [
+      "https://etherscan.io/address/0x86392dc19c0b719886221c78ab11eb8cf5c52812"
+    ]
+  },
+  {
+    "name": "stETH/ETH Merkle Price Oracle",
+    "address": "0x3A6Bd15abf19581e411621D669B6a2bbe741ffD6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "stETH/ETH Merkle Price Oracle",
+    "explorers": [
+      "https://etherscan.io/address/0x3a6bd15abf19581e411621d669b6a2bbe741ffd6"
+    ]
+  },
+  {
+    "name": "stETH/ETH Price Feed",
+    "address": "0xAb55Bf4DfBf469ebfe082b7872557D1F87692Fe6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "stETH/ETH Price Feed",
+    "explorers": [
+      "https://etherscan.io/address/0xab55bf4dfbf469ebfe082b7872557d1f87692fe6#code"
+    ]
+  },
+  {
+    "name": "Curve stETH/ETH pool:",
+    "address": "0xDC24316b9AE028F1497c275EB9192a3Ea0f67022",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Curve stETH/ETH pool",
+    "explorers": [
+      "https://etherscan.io/address/0xdc24316b9ae028f1497c275eb9192a3ea0f67022"
+    ]
+  },
+  {
+    "name": "Balancer wstETH/WETH pool:",
+    "address": "0x32296969Ef14EB0c6d29669C550D4a0449130230",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Balancer wstETH/WETH pool",
+    "explorers": [
+      "https://etherscan.io/address/0x32296969ef14eb0c6d29669c550d4a0449130230"
+    ]
+  },
+  {
+    "name": "1inch stETH/DAI pool",
+    "address": "0xC1A900Ae76dB21dC5aa8E418Ac0F4E888A4C7431",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "1inch stETH/DAI pool",
+    "explorers": [
+      "https://etherscan.io/address/0xc1a900ae76db21dc5aa8e418ac0f4e888a4c7431"
+    ]
+  },
+  {
+    "name": "Sushi wstETH/DAI pool",
+    "address": "0xc5578194D457dcce3f272538D1ad52c68d1CE849",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Sushi wstETH/DAI pool",
+    "explorers": [
+      "https://etherscan.io/address/0xc5578194d457dcce3f272538d1ad52c68d1ce849"
+    ]
+  },
+  {
+    "name": "multisig_program_id",
+    "address": "AAHT26ecV3FEeFmL2gDZW6FfEqjPkghHbAkNZGqwT8Ww",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Configuration",
+    "explorers": [
+      "https://solanabeach.io/address/aaht26ecv3feefml2gdzw6ffeqjpkghhbaknzgqwt8ww"
+    ]
+  },
+  {
+    "name": "multisig_address",
+    "address": "3cXyJbjoAUNLpQsFrFJTTTp8GD3uPeabYbsCVobkQpD1",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Configuration",
+    "explorers": [
+      "https://solanabeach.io/address/3cxyjbjoaunlpqsfrfjtttp8gd3upeabybscvobkqpd1"
+    ]
+  },
+  {
+    "name": "solido_program_id",
+    "address": "CrX7kMhLC3cSsXJdT7JDgqrRVWGnUpX3gfEfxxU2NVLi",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Configuration",
+    "explorers": [
+      "https://solanabeach.io/address/crx7kmhlc3cssxjdt7jdgqrrvwgnupx3gfefxxu2nvli"
+    ]
+  },
+  {
+    "name": "solido_address",
+    "address": "49Yi1TKkNyYjPAFdR9LBvoHcUjuPX4Df5T5yv39w2XTn",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Configuration",
+    "explorers": [
+      "https://solanabeach.io/address/49yi1tkknyyjpafdr9lbvohcujupx4df5t5yv39w2xtn"
+    ]
+  },
+  {
+    "name": "multisig_pda",
+    "address": "GQ3QPrB1RHPRr4Reen772WrMZkHcFM4DL5q44x1BBTFm",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Related addresses",
+    "explorers": [
+      "https://solanabeach.io/address/gq3qprb1rhprr4reen772wrmzkhcfm4dl5q44x1bbtfm"
+    ]
+  },
+  {
+    "name": "st_sol_mint",
+    "address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Related addresses",
+    "explorers": [
+      "https://solanabeach.io/address/7dhbwxmci3dt8ufywyzweblxgycu7y3il6trkn1y7arj"
+    ]
+  },
+  {
+    "name": "withdraw_authority",
+    "address": "GgrQiJ8s2pfHsfMbEFtNcejnzLegzZ16c9XtJ2X2FpuF",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Related addresses",
+    "explorers": [
+      "https://solanabeach.io/address/ggrqij8s2pfhsfmbeftncejnzlegzz16c9xtj2x2fpuf"
+    ]
+  },
+  {
+    "name": "reserve",
+    "address": "3Kwv3pEAuoe4WevPB4rgMBTZndGDb53XT7qwQKnvHPfX",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Related addresses",
+    "explorers": [
+      "https://solanabeach.io/address/3kwv3peauoe4wevpb4rgmbtzndgdb53xt7qwqknvhpfx"
+    ]
+  },
+  {
+    "name": "P2P",
+    "address": "Cv6GM219kzMrdUUdgDGVJUPW6fGosvrhsFrvmEhz3Mc6",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Multisig owners",
+    "explorers": [
+      "https://solanabeach.io/address/cv6gm219kzmrduudgdgvjupw6fgosvrhsfrvmehz3mc6/transactions"
+    ]
+  },
+  {
+    "name": "Staking Facilities",
+    "address": "ENH1xvwjinUWkwEgw1hKduyAg7CrJMiKvr9nAS7wLHrp",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Multisig owners",
+    "explorers": [
+      "https://solanabeach.io/address/enh1xvwjinuwkwegw1hkduyag7crjmikvr9nas7wlhrp"
+    ]
+  },
+  {
+    "name": "Figment",
+    "address": "6CawqfAJDviZGfUpHFJgeauq6H9vhKuivMMZULZeGnPw",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Multisig owners",
+    "explorers": [
+      "https://solanabeach.io/address/6cawqfajdvizgfuphfjgeauq6h9vhkuivmmzulzegnpw"
+    ]
+  },
+  {
+    "name": "Saber",
+    "address": "F4VFp4tFTyrQWo9YVjCbPE5eQP27ice2zyGDp2tN2Rkm",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Multisig owners",
+    "explorers": [
+      "https://solanabeach.io/address/f4vfp4tftyrqwo9yvjcbpe5eqp27ice2zygdp2tn2rkm"
+    ]
+  },
+  {
+    "name": "ChainLayer",
+    "address": "AnoVUukL1fMAwEp4y2rrZV45BNHLes8ZwWsCRgEwhGH4",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Multisig owners",
+    "explorers": [
+      "https://solanabeach.io/address/anovuukl1fmawep4y2rrzv45bnhles8zwwscrgewhgh4"
+    ]
+  },
+  {
+    "name": "Chorus One",
+    "address": "6S21QCmpAadEhHj3pY2RMbPMGwgYNvS4Pd7zUXoRDMdK",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Multisig owners",
+    "explorers": [
+      "https://solanabeach.io/address/6s21qcmpaadehhj3py2rmbpmgwgynvs4pd7zuxordmdk"
+    ]
+  },
+  {
+    "name": "Solana Foundation",
+    "address": "8Lep9addZWUWqBNj3igx4QoHe43GBfvLhGJy18jJgWQa",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Multisig owners",
+    "explorers": [
+      "https://solanabeach.io/address/8lep9addzwuwqbnj3igx4qohe43gbfvlhgjy18jjgwqa"
+    ]
+  },
+  {
+    "name": "Chorus One",
+    "address": "AR7FaVeVvUQwnLtojZNUc42H987KiHqfc4AN1qEwPUJw",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Maintainers",
+    "explorers": [
+      "https://solanabeach.io/address/ar7favevvuqwnltojznuc42h987kihqfc4an1qewpujw"
+    ]
+  },
+  {
+    "name": "Figment",
+    "address": "2rqLzNZCBWykEs8bFMbmgqCz4eosaEfU3aRL4RJWdZgQ",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Maintainers",
+    "explorers": [
+      "https://solanabeach.io/address/2rqlznzcbwykes8bfmbmgqcz4eosaefu3arl4rjwdzgq"
+    ]
+  },
+  {
+    "name": "Staking Facilities",
+    "address": "DqCZaFR6cTMvFMuz43HS77Zcz1quR93n11kT1yY6aVf4",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Maintainers",
+    "explorers": [
+      "https://solanabeach.io/address/dqczafr6ctmvfmuz43hs77zcz1qur93n11kt1yy6avf4"
+    ]
+  },
+  {
+    "name": "P2P",
+    "address": "p2pokvNcNc1SFCMoUrp1UBQ6SBET7H5EdLqahz4g55k",
+    "chain": "solana",
+    "version": "v1",
+    "type": "core",
+    "description": "Maintainers",
+    "explorers": [
+      "https://solanabeach.io/address/p2pokvncnc1sfcmourp1ubq6sbet7h5edlqahz4g55k"
+    ]
+  },
+  {
+    "name": "Hub",
+    "address": "terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "bLuna Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1mtwph2juhj0rvjz7dy92gvl6xvukaxu8rfv8ts"
+    ]
+  },
+  {
+    "name": "Reward",
+    "address": "terra17yap3mhph35pcwvhza38c2lkj7gzywzy05h7l0",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "bLuna Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra17yap3mhph35pcwvhza38c2lkj7gzywzy05h7l0"
+    ]
+  },
+  {
+    "name": "Airdrop Registry",
+    "address": "terra199t7hg7w5vymehhg834r6799pju2q3a0ya7ae9",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "bLuna Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra199t7hg7w5vymehhg834r6799pju2q3a0ya7ae9"
+    ]
+  },
+  {
+    "name": "Bonded LUNA (bLUNA)",
+    "address": "terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "bLuna Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1kc87mu460fwkqte29rquh4hc20m54fxwtsx7gp"
+    ]
+  },
+  {
+    "name": "AnchorVault",
+    "address": "0xA2F987A546D4CD1c607Ee8141276876C26b72Bdf",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "bETH Smart Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xa2f987a546d4cd1c607ee8141276876c26b72bdf"
+    ]
+  },
+  {
+    "name": "BridgeConnectorShuttle",
+    "address": "0x513251faB2542532753972B8FE9A7b60621affaD",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "bETH Smart Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x513251fab2542532753972b8fe9a7b60621affad"
+    ]
+  },
+  {
+    "name": "RewardsLiquidator",
+    "address": "0xdb99Fdb42FEc8Ba414ea60b3a189208bBdbfa321",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "bETH Smart Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xdb99fdb42fec8ba414ea60b3a189208bbdbfa321"
+    ]
+  },
+  {
+    "name": "InsuranceConnector",
+    "address": "0x2BDfD3De0fF23373B621CDAD0aD3dF1580efE701",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "bETH Smart Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x2bdfd3de0ff23373b621cdad0ad3df1580efe701"
+    ]
+  },
+  {
+    "name": "bETH ShuttleVault",
+    "address": "0xF9dcf31EE6EB94AB732A43c2FbA1dC6179c98965",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "bETH Smart Contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xf9dcf31ee6eb94ab732a43c2fba1dc6179c98965"
+    ]
+  },
+  {
+    "name": "bETH",
+    "address": "0x707F9118e33A9B8998beA41dd0d46f38bb963FC8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "bETH Smart Contracts",
+    "explorers": [
+      "https://etherscan.io/token/0x707f9118e33a9b8998bea41dd0d46f38bb963fc8"
+    ]
+  },
+  {
+    "name": "bETH Reward",
+    "address": "terra1939tzfn4hn960ychpcsjshu8jds3zdwlp8jed9",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "bETH Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1939tzfn4hn960ychpcsjshu8jds3zdwlp8jed9"
+    ]
+  },
+  {
+    "name": "Bonded ETH (bETH)",
+    "address": "terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "bETH Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1dzhzukyezv0etz22ud940z7adyv7xgcjkahuun"
+    ]
+  },
+  {
+    "name": "Gov",
+    "address": "terra1f32xyep306hhcxxxf7mlyh0ucggc00rm2s9da5",
+    "chain": "terra",
+    "version": "v1",
+    "type": "governance",
+    "description": "ANC-Related Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1f32xyep306hhcxxxf7mlyh0ucggc00rm2s9da5"
+    ]
+  },
+  {
+    "name": "Staking",
+    "address": "terra1897an2xux840p9lrh6py3ryankc6mspw49xse3",
+    "chain": "terra",
+    "version": "v1",
+    "type": "governance",
+    "description": "ANC-Related Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1897an2xux840p9lrh6py3ryankc6mspw49xse3"
+    ]
+  },
+  {
+    "name": "Community",
+    "address": "terra12wk8dey0kffwp27l5ucfumczlsc9aned8rqueg",
+    "chain": "terra",
+    "version": "v1",
+    "type": "governance",
+    "description": "ANC-Related Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra12wk8dey0kffwp27l5ucfumczlsc9aned8rqueg"
+    ]
+  },
+  {
+    "name": "Collector",
+    "address": "terra14ku9pgw5ld90dexlyju02u4rn6frheexr5f96h",
+    "chain": "terra",
+    "version": "v1",
+    "type": "governance",
+    "description": "ANC-Related Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra14ku9pgw5ld90dexlyju02u4rn6frheexr5f96h"
+    ]
+  },
+  {
+    "name": "Distributor",
+    "address": "terra1mxf7d5updqxfgvchd7lv6575ehhm8qfdttuqzz",
+    "chain": "terra",
+    "version": "v1",
+    "type": "governance",
+    "description": "ANC-Related Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1mxf7d5updqxfgvchd7lv6575ehhm8qfdttuqzz"
+    ]
+  },
+  {
+    "name": "Anchor Token (ANC)",
+    "address": "terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76",
+    "chain": "terra",
+    "version": "v1",
+    "type": "governance",
+    "description": "ANC-Related Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra14z56l0fp2lsf86zy3hty2z47ezkhnthtr9yq76"
+    ]
+  },
+  {
+    "name": "Overseer",
+    "address": "terra1tmnqgvg567ypvsvk6rwsga3srp7e3lg6u0elp8",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1tmnqgvg567ypvsvk6rwsga3srp7e3lg6u0elp8"
+    ]
+  },
+  {
+    "name": "Market",
+    "address": "terra1sepfj7s0aeg5967uxnfk4thzlerrsktkpelm5s",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1sepfj7s0aeg5967uxnfk4thzlerrsktkpelm5s"
+    ]
+  },
+  {
+    "name": "bLuna Custody",
+    "address": "terra1ptjp2vfjrwh0j0faj9r6katm640kgjxnwwq9kn",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1ptjp2vfjrwh0j0faj9r6katm640kgjxnwwq9kn"
+    ]
+  },
+  {
+    "name": "bETH Custody",
+    "address": "terra10cxuzggyvvv44magvrh3thpdnk9cmlgk93gmx2",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra10cxuzggyvvv44magvrh3thpdnk9cmlgk93gmx2"
+    ]
+  },
+  {
+    "name": "Interest Model",
+    "address": "terra1kq8zzq5hufas9t0kjsjc62t2kucfnx8txf547n",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1kq8zzq5hufas9t0kjsjc62t2kucfnx8txf547n"
+    ]
+  },
+  {
+    "name": "Distribution Model",
+    "address": "terra14mufqpr5mevdfn92p4jchpkxp7xr46uyknqjwq",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra14mufqpr5mevdfn92p4jchpkxp7xr46uyknqjwq"
+    ]
+  },
+  {
+    "name": "Oracle",
+    "address": "terra1cgg6yef7qcdm070qftghfulaxmllgmvk77nc7t",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1cgg6yef7qcdm070qftghfulaxmllgmvk77nc7t"
+    ]
+  },
+  {
+    "name": "Anchor TerraUSD (aUST)",
+    "address": "terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1hzh9vpxhsk8253se0vv5jj6etdvxu3nv8z07zu"
+    ]
+  },
+  {
+    "name": "Liquidation Contract",
+    "address": "terra1w9ky73v4g7v98zzdqpqgf3kjmusnx4d4mvnac6",
+    "chain": "terra",
+    "version": "v1",
+    "type": "core",
+    "description": "Terra USD Market Smart Contracts",
+    "explorers": [
+      "https://finder.terra.money/columbus-4/address/terra1w9ky73v4g7v98zzdqpqgf3kjmusnx4d4mvnac6"
+    ]
   }
 ]
