@@ -1,0 +1,1014 @@
+[
+  {
+    "name": "cr1INCH",
+    "address": "0x85759961b116f1D36fD697855c57A6ae40793D9B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the 1INCH lending market and the associated cr1INCH token",
+    "explorers": [
+      "https://etherscan.io/address/0x85759961b116f1D36fD697855c57A6ae40793D9B"
+    ]
+  },
+  {
+    "name": "crAAVE",
+    "address": "0x3225E3C669B39C7c8B3e204a8614bB218c5e31BC",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the AAVE lending market and the associated crAAVE token",
+    "explorers": [
+      "https://etherscan.io/address/0x3225E3C669B39C7c8B3e204a8614bB218c5e31BC"
+    ]
+  },
+  {
+    "name": "crAKRO",
+    "address": "0x65883978aDA0e707c3b2BE2A6825b1C4BDF76A90",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the AKRO lending market and the associated crAKRO token",
+    "explorers": [
+      "https://etherscan.io/address/0x65883978aDA0e707c3b2BE2A6825b1C4BDF76A90"
+    ]
+  },
+  {
+    "name": "crALPHA",
+    "address": "0x1d0986Fb43985c88Ffa9aD959CC24e6a087C7e35",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the ALPHA lending market and the associated crALPHA token",
+    "explorers": [
+      "https://etherscan.io/address/0x1d0986Fb43985c88Ffa9aD959CC24e6a087C7e35"
+    ]
+  },
+  {
+    "name": "crAMP",
+    "address": "0x2Db6c82CE72C8d7D770ba1b5F5Ed0b6E075066d6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the AMP lending market and the associated crAMP token",
+    "explorers": [
+      "https://etherscan.io/address/0x2Db6c82CE72C8d7D770ba1b5F5Ed0b6E075066d6"
+    ]
+  },
+  {
+    "name": "crARMOR",
+    "address": "0xab10586C918612BA440482db77549d26B7ABF8f7",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the ARMOR lending market and the associated crARMOR token",
+    "explorers": [
+      "https://etherscan.io/address/0xab10586C918612BA440482db77549d26B7ABF8f7"
+    ]
+  },
+  {
+    "name": "crARNXM",
+    "address": "0xdFFf11DFe6436e42a17B86e7F419Ac8292990393",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the ARNXM lending market and the associated crARNXM token",
+    "explorers": [
+      "https://etherscan.io/address/0xdFFf11DFe6436e42a17B86e7F419Ac8292990393"
+    ]
+  },
+  {
+    "name": "crAXS",
+    "address": "0xF04ce2e71D32D789a259428ddcD02D3C9F97fb4E",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the AXS lending market and the associated crAXS token",
+    "explorers": [
+      "https://etherscan.io/address/0xF04ce2e71D32D789a259428ddcD02D3C9F97fb4E"
+    ]
+  },
+  {
+    "name": "crBAL",
+    "address": "0xcE4Fe9b4b8Ff61949DCfeB7e03bc9FAca59D2Eb3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the BAL lending market and the associated crBAL token",
+    "explorers": [
+      "https://etherscan.io/address/0xcE4Fe9b4b8Ff61949DCfeB7e03bc9FAca59D2Eb3"
+    ]
+  },
+  {
+    "name": "crBBADGER",
+    "address": "0x8B950f43fCAc4931D408F1fcdA55C6CB6cbF3096",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the BBADGER lending market and the associated crBBADGER token",
+    "explorers": [
+      "https://etherscan.io/address/0x8B950f43fCAc4931D408F1fcdA55C6CB6cbF3096"
+    ]
+  },
+  {
+    "name": "crBBTC",
+    "address": "0x7ea9C63E216D5565c3940A2B3d150e59C2907Db3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the BBTC lending market and the associated crBBTC token",
+    "explorers": [
+      "https://etherscan.io/address/0x7ea9C63E216D5565c3940A2B3d150e59C2907Db3"
+    ]
+  },
+  {
+    "name": "crBNT",
+    "address": "0x81E346729723C4D15d0FB1c5679b9f2926Ff13C6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the BNT lending market and the associated crBNT token",
+    "explorers": [
+      "https://etherscan.io/address/0x81E346729723C4D15d0FB1c5679b9f2926Ff13C6"
+    ]
+  },
+  {
+    "name": "crBOND",
+    "address": "0xf55BbE0255f7f4E70f63837Ff72A577fbDDbE924",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the BOND lending market and the associated crBOND token",
+    "explorers": [
+      "https://etherscan.io/address/0xf55BbE0255f7f4E70f63837Ff72A577fbDDbE924"
+    ]
+  },
+  {
+    "name": "crBUSD",
+    "address": "0x1FF8CDB51219a8838b52E9cAc09b71e591BC998e",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the BUSD lending market and the associated crBUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0x1FF8CDB51219a8838b52E9cAc09b71e591BC998e"
+    ]
+  },
+  {
+    "name": "crCEL",
+    "address": "0x8b3FF1ed4F36C2c2be675AFb13CC3AA5d73685a5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the CEL lending market and the associated crCEL token",
+    "explorers": [
+      "https://etherscan.io/address/0x8b3FF1ed4F36C2c2be675AFb13CC3AA5d73685a5"
+    ]
+  },
+  {
+    "name": "crCOMP",
+    "address": "0x19D1666f543D42ef17F66E376944A22aEa1a8E46",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the COMP lending market and the associated crCOMP token",
+    "explorers": [
+      "https://etherscan.io/address/0x19D1666f543D42ef17F66E376944A22aEa1a8E46"
+    ]
+  },
+  {
+    "name": "crCREAM",
+    "address": "0x892B14321a4FCba80669aE30Bd0cd99a7ECF6aC0",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the CREAM lending market and the associated crCREAM token",
+    "explorers": [
+      "https://etherscan.io/address/0x892B14321a4FCba80669aE30Bd0cd99a7ECF6aC0"
+    ]
+  },
+  {
+    "name": "crCRETH2",
+    "address": "0xfd609a03B393F1A1cFcAcEdaBf068CAD09a924E2",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the CRETH2 lending market and the associated crCRETH2 token",
+    "explorers": [
+      "https://etherscan.io/address/0xfd609a03B393F1A1cFcAcEdaBf068CAD09a924E2"
+    ]
+  },
+  {
+    "name": "crCRV",
+    "address": "0xc7Fd8Dcee4697ceef5a2fd4608a7BD6A94C77480",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the CRV lending market and the associated crCRV token",
+    "explorers": [
+      "https://etherscan.io/address/0xc7Fd8Dcee4697ceef5a2fd4608a7BD6A94C77480"
+    ]
+  },
+  {
+    "name": "crDAI",
+    "address": "0x92B767185fB3B04F881e3aC8e5B0662a027A1D9f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the DAI lending market and the associated crDAI token",
+    "explorers": [
+      "https://etherscan.io/address/0x92B767185fB3B04F881e3aC8e5B0662a027A1D9f"
+    ]
+  },
+  {
+    "name": "crDPI",
+    "address": "0x2A537Fa9FFaea8C1A41D3C2B68a9cb791529366D",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the DPI lending market and the associated crDPI token",
+    "explorers": [
+      "https://etherscan.io/address/0x2A537Fa9FFaea8C1A41D3C2B68a9cb791529366D"
+    ]
+  },
+  {
+    "name": "crESD",
+    "address": "0x3C6C553A95910F9FC81c98784736bd628636D296",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the ESD lending market and the associated crESD token",
+    "explorers": [
+      "https://etherscan.io/address/0x3C6C553A95910F9FC81c98784736bd628636D296"
+    ]
+  },
+  {
+    "name": "crETH",
+    "address": "0xD06527D5e56A3495252A528C4987003b712860eE",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the ETH lending market and the associated crETH token",
+    "explorers": [
+      "https://etherscan.io/address/0xD06527D5e56A3495252A528C4987003b712860eE"
+    ]
+  },
+  {
+    "name": "crEURT",
+    "address": "0xC581b735A1688071A1746c968e0798D642EDE491",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the EURT lending market and the associated crEURT token",
+    "explorers": [
+      "https://etherscan.io/address/0xC581b735A1688071A1746c968e0798D642EDE491"
+    ]
+  },
+  {
+    "name": "crFEI",
+    "address": "0x8C3B7a4320ba70f8239F83770c4015B5bc4e6F91",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the FEI lending market and the associated crFEI token",
+    "explorers": [
+      "https://etherscan.io/address/0x8C3B7a4320ba70f8239F83770c4015B5bc4e6F91"
+    ]
+  },
+  {
+    "name": "crFRAX",
+    "address": "0xb092b4601850E23903A42EaCBc9D8A0EeC26A4d5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the FRAX lending market and the associated crFRAX token",
+    "explorers": [
+      "https://etherscan.io/address/0xb092b4601850E23903A42EaCBc9D8A0EeC26A4d5"
+    ]
+  },
+  {
+    "name": "crFTM",
+    "address": "0xc36080892c64821fa8e396bc1bD8678fA3b82b17",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the FTM lending market and the associated crFTM token",
+    "explorers": [
+      "https://etherscan.io/address/0xc36080892c64821fa8e396bc1bD8678fA3b82b17"
+    ]
+  },
+  {
+    "name": "crFTT",
+    "address": "0x10FDBD1e48eE2fD9336a482D746138AE19e649Db",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the FTT lending market and the associated crFTT token",
+    "explorers": [
+      "https://etherscan.io/address/0x10FDBD1e48eE2fD9336a482D746138AE19e649Db"
+    ]
+  },
+  {
+    "name": "crGNO",
+    "address": "0x523EFFC8bFEfC2948211A05A905F761CBA5E8e9E",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the GNO lending market and the associated crGNO token",
+    "explorers": [
+      "https://etherscan.io/address/0x523EFFC8bFEfC2948211A05A905F761CBA5E8e9E"
+    ]
+  },
+  {
+    "name": "crHBTC",
+    "address": "0x054B7ed3F45714d3091e82aAd64A1588dC4096Ed",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the HBTC lending market and the associated crHBTC token",
+    "explorers": [
+      "https://etherscan.io/address/0x054B7ed3F45714d3091e82aAd64A1588dC4096Ed"
+    ]
+  },
+  {
+    "name": "crHEGIC",
+    "address": "0x10a3da2BB0Fae4D591476fd97D6636fd172923a8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the HEGIC lending market and the associated crHEGIC token",
+    "explorers": [
+      "https://etherscan.io/address/0x10a3da2BB0Fae4D591476fd97D6636fd172923a8"
+    ]
+  },
+  {
+    "name": "crHFIL",
+    "address": "0xd5103AfcD0B3fA865997Ef2984C66742c51b2a8b",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the HFIL lending market and the associated crHFIL token",
+    "explorers": [
+      "https://etherscan.io/address/0xd5103AfcD0B3fA865997Ef2984C66742c51b2a8b"
+    ]
+  },
+  {
+    "name": "crHUSD",
+    "address": "0xD692ac3245bb82319A31068D6B8412796eE85d2c",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the HUSD lending market and the associated crHUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0xD692ac3245bb82319A31068D6B8412796eE85d2c"
+    ]
+  },
+  {
+    "name": "crIBBTC",
+    "address": "0x2A867fd776B83e1bd4e13C6611AFd2F6af07EA6D",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the IBBTC lending market and the associated crIBBTC token",
+    "explorers": [
+      "https://etherscan.io/address/0x2A867fd776B83e1bd4e13C6611AFd2F6af07EA6D"
+    ]
+  },
+  {
+    "name": "crKP3R",
+    "address": "0x903560b1CcE601794C584F58898dA8a8b789Fc5d",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the KP3R lending market and the associated crKP3R token",
+    "explorers": [
+      "https://etherscan.io/address/0x903560b1CcE601794C584F58898dA8a8b789Fc5d"
+    ]
+  },
+  {
+    "name": "crLEND",
+    "address": "0x8B86e0598616a8d4F1fdAE8b59E55FB5Bc33D0d6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the LEND lending market and the associated crLEND token",
+    "explorers": [
+      "https://etherscan.io/address/0x8B86e0598616a8d4F1fdAE8b59E55FB5Bc33D0d6"
+    ]
+  },
+  {
+    "name": "crLINK",
+    "address": "0x697256CAA3cCaFD62BB6d3Aa1C7C5671786A5fD9",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the LINK lending market and the associated crLINK token",
+    "explorers": [
+      "https://etherscan.io/address/0x697256CAA3cCaFD62BB6d3Aa1C7C5671786A5fD9"
+    ]
+  },
+  {
+    "name": "crLON",
+    "address": "0x250Fb308199FE8C5220509C1bf83D21d60b7f74A",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the LON lending market and the associated crLON token",
+    "explorers": [
+      "https://etherscan.io/address/0x250Fb308199FE8C5220509C1bf83D21d60b7f74A"
+    ]
+  },
+  {
+    "name": "crMANA",
+    "address": "0x58DA9c9fC3eb30AbBcbBAb5DDabb1E6e2eF3d2EF",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the MANA lending market and the associated crMANA token",
+    "explorers": [
+      "https://etherscan.io/address/0x58DA9c9fC3eb30AbBcbBAb5DDabb1E6e2eF3d2EF"
+    ]
+  },
+  {
+    "name": "crMLN",
+    "address": "0xDbb5e3081dEf4b6cdD8864aC2aeDA4cBf778feCf",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the MLN lending market and the associated crMLN token",
+    "explorers": [
+      "https://etherscan.io/address/0xDbb5e3081dEf4b6cdD8864aC2aeDA4cBf778feCf"
+    ]
+  },
+  {
+    "name": "crMTA",
+    "address": "0x3623387773010d9214B10C551d6e7fc375D31F58",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the MTA lending market and the associated crMTA token",
+    "explorers": [
+      "https://etherscan.io/address/0x3623387773010d9214B10C551d6e7fc375D31F58"
+    ]
+  },
+  {
+    "name": "crOCEAN",
+    "address": "0x7C3297cFB4c4bbd5f44b450c0872E0ADA5203112",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the OCEAN lending market and the associated crOCEAN token",
+    "explorers": [
+      "https://etherscan.io/address/0x7C3297cFB4c4bbd5f44b450c0872E0ADA5203112"
+    ]
+  },
+  {
+    "name": "crOGN",
+    "address": "0x59089279987DD76fC65Bf94Cb40E186b96e03cB3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the OGN lending market and the associated crOGN token",
+    "explorers": [
+      "https://etherscan.io/address/0x59089279987DD76fC65Bf94Cb40E186b96e03cB3"
+    ]
+  },
+  {
+    "name": "crOMG",
+    "address": "0x7Aaa323D7e398be4128c7042d197a2545f0f1fea",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the OMG lending market and the associated crOMG token",
+    "explorers": [
+      "https://etherscan.io/address/0x7Aaa323D7e398be4128c7042d197a2545f0f1fea"
+    ]
+  },
+  {
+    "name": "crPAX",
+    "address": "0xD7394428536F63d5659cc869EF69d10f9E66314B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the PAX lending market and the associated crPAX token",
+    "explorers": [
+      "https://etherscan.io/address/0xD7394428536F63d5659cc869EF69d10f9E66314B"
+    ]
+  },
+  {
+    "name": "crPAXG",
+    "address": "0x1241B10E7EA55b22f5b2d007e8fECDF73DCff999",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the PAXG lending market and the associated crPAXG token",
+    "explorers": [
+      "https://etherscan.io/address/0x1241B10E7EA55b22f5b2d007e8fECDF73DCff999"
+    ]
+  },
+  {
+    "name": "crPERP",
+    "address": "0x299e254A8a165bBeB76D9D69305013329Eea3a3B",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the PERP lending market and the associated crPERP token",
+    "explorers": [
+      "https://etherscan.io/address/0x299e254A8a165bBeB76D9D69305013329Eea3a3B"
+    ]
+  },
+  {
+    "name": "crPICKLE",
+    "address": "0xc68251421edda00a10815e273fa4b1191fac651b",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the PICKLE lending market and the associated crPICKLE token",
+    "explorers": [
+      "https://etherscan.io/address/0xc68251421edda00a10815e273fa4b1191fac651b"
+    ]
+  },
+  {
+    "name": "crRAI",
+    "address": "0xf8445C529D363cE114148662387eba5E62016e20",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the RAI lending market and the associated crRAI token",
+    "explorers": [
+      "https://etherscan.io/address/0xf8445C529D363cE114148662387eba5E62016e20"
+    ]
+  },
+  {
+    "name": "crRARI",
+    "address": "0x081FE64df6dc6fc70043aedF3713a3ce6F190a21",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the RARI lending market and the associated crRARI token",
+    "explorers": [
+      "https://etherscan.io/address/0x081FE64df6dc6fc70043aedF3713a3ce6F190a21"
+    ]
+  },
+  {
+    "name": "crRENBTC",
+    "address": "0x17107f40d70f4470d20CB3f138a052cAE8EbD4bE",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the RENBTC lending market and the associated crRENBTC token",
+    "explorers": [
+      "https://etherscan.io/address/0x17107f40d70f4470d20CB3f138a052cAE8EbD4bE"
+    ]
+  },
+  {
+    "name": "crRUNE",
+    "address": "0x8379BAA817c5c5aB929b03ee8E3c48e45018Ae41",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the RUNE lending market and the associated crRUNE token",
+    "explorers": [
+      "https://etherscan.io/address/0x8379BAA817c5c5aB929b03ee8E3c48e45018Ae41"
+    ]
+  },
+  {
+    "name": "crSAND",
+    "address": "0x89e42987c39f72e2EAd95a8a5bC92114323d5828",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SAND lending market and the associated crSAND token",
+    "explorers": [
+      "https://etherscan.io/address/0x89e42987c39f72e2EAd95a8a5bC92114323d5828"
+    ]
+  },
+  {
+    "name": "crSFI",
+    "address": "0x28526Bb33d7230E65E735dB64296413731C5402e",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SFI lending market and the associated crSFI token",
+    "explorers": [
+      "https://etherscan.io/address/0x28526Bb33d7230E65E735dB64296413731C5402e"
+    ]
+  },
+  {
+    "name": "crSLP-DAI-ETH",
+    "address": "0x38f27c03d6609a86FF7716ad03038881320BE4Ad",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SLP-DAI-ETH lending market and the associated crSLP-DAI-ETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x38f27c03d6609a86FF7716ad03038881320BE4Ad"
+    ]
+  },
+  {
+    "name": "crSLP-ETH-USDT",
+    "address": "0x5C291bc83d15f71fB37805878161718eA4b6AEe9",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SLP-ETH-USDT lending market and the associated crSLP-ETH-USDT token",
+    "explorers": [
+      "https://etherscan.io/address/0x5C291bc83d15f71fB37805878161718eA4b6AEe9"
+    ]
+  },
+  {
+    "name": "crSLP-SUSHI-ETH",
+    "address": "0x6BA0C66C48641e220CF78177C144323b3838D375",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SLP-SUSHI-ETH lending market and the associated crSLP-SUSHI-ETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x6BA0C66C48641e220CF78177C144323b3838D375"
+    ]
+  },
+  {
+    "name": "crSLP-USDC-ETH",
+    "address": "0x5EcaD8A75216CEa7DFF978525B2D523a251eEA92",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SLP-USDC-ETH lending market and the associated crSLP-USDC-ETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x5EcaD8A75216CEa7DFF978525B2D523a251eEA92"
+    ]
+  },
+  {
+    "name": "crSLP-WBTC-ETH",
+    "address": "0x73f6cBA38922960b7092175c0aDD22Ab8d0e81fC",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SLP-WBTC-ETH lending market and the associated crSLP-WBTC-ETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x73f6cBA38922960b7092175c0aDD22Ab8d0e81fC"
+    ]
+  },
+  {
+    "name": "crSLP-YFI-ETH",
+    "address": "0xd532944df6DFd5Dd629E8772F03D4fC861873abF",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SLP-YFI-ETH lending market and the associated crSLP-YFI-ETH token",
+    "explorers": [
+      "https://etherscan.io/address/0xd532944df6DFd5Dd629E8772F03D4fC861873abF"
+    ]
+  },
+  {
+    "name": "crSNX",
+    "address": "0xC25EAE724f189Ba9030B2556a1533E7c8A732E14",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SNX lending market and the associated crSNX token",
+    "explorers": [
+      "https://etherscan.io/address/0xC25EAE724f189Ba9030B2556a1533E7c8A732E14"
+    ]
+  },
+  {
+    "name": "crSRM",
+    "address": "0xef58b2d5A1b8D3cDE67b8aB054dC5C831E9Bc025",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SRM lending market and the associated crSRM token",
+    "explorers": [
+      "https://etherscan.io/address/0xef58b2d5A1b8D3cDE67b8aB054dC5C831E9Bc025"
+    ]
+  },
+  {
+    "name": "crSUSD",
+    "address": "0x25555933a8246Ab67cbf907CE3d1949884E82B55",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SUSD lending market and the associated crSUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0x25555933a8246Ab67cbf907CE3d1949884E82B55"
+    ]
+  },
+  {
+    "name": "crSUSHI",
+    "address": "0x338286C0BC081891A4Bda39C7667ae150bf5D206",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SUSHI lending market and the associated crSUSHI token",
+    "explorers": [
+      "https://etherscan.io/address/0x338286C0BC081891A4Bda39C7667ae150bf5D206"
+    ]
+  },
+  {
+    "name": "crSWAG",
+    "address": "0x22B243B96495C547598D9042B6f94B01C22B2e9E",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SWAG lending market and the associated crSWAG token",
+    "explorers": [
+      "https://etherscan.io/address/0x22B243B96495C547598D9042B6f94B01C22B2e9E"
+    ]
+  },
+  {
+    "name": "crSWAP",
+    "address": "0x98E329eB5aae2125af273102f3440DE19094b77c",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the SWAP lending market and the associated crSWAP token",
+    "explorers": [
+      "https://etherscan.io/address/0x98E329eB5aae2125af273102f3440DE19094b77c"
+    ]
+  },
+  {
+    "name": "crUNI",
+    "address": "0xe89a6D0509faF730BD707bf868d9A2A744a363C7",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the UNI lending market and the associated crUNI token",
+    "explorers": [
+      "https://etherscan.io/address/0xe89a6D0509faF730BD707bf868d9A2A744a363C7"
+    ]
+  },
+  {
+    "name": "crUNI-v1-DAI-ETH",
+    "address": "0xcD22C4110c12AC41aCEfA0091c432ef44efaAFA0",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the UNI-V2-DAI-ETH lending market and the associated crUNI-V2-DAI-ETH token",
+    "explorers": [
+      "https://etherscan.io/address/0xcD22C4110c12AC41aCEfA0091c432ef44efaAFA0"
+    ]
+  },
+  {
+    "name": "crUNI-v1-ETH-USDT",
+    "address": "0xE6C3120F38F56deb38B69b65cC7dcAF916373963",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the UNI-V2-ETH-USDT lending market and the associated crUNI-V2-ETH-USDT token",
+    "explorers": [
+      "https://etherscan.io/address/0xE6C3120F38F56deb38B69b65cC7dcAF916373963"
+    ]
+  },
+  {
+    "name": "crUNI-v1-USDC-ETH",
+    "address": "0x4Fe11BC316B6d7A345493127fBE298b95AdaAd85",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the UNI-V2-USDC-ETH lending market and the associated crUNI-V2-USDC-ETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x4Fe11BC316B6d7A345493127fBE298b95AdaAd85"
+    ]
+  },
+  {
+    "name": "crUNI-v1-WBTC-ETH",
+    "address": "0x011a014d5e8Eb4771E575bB1000318D509230Afa",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the UNI-V2-WBTC-ETH lending market and the associated crUNI-V2-WBTC-ETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x011a014d5e8Eb4771E575bB1000318D509230Afa"
+    ]
+  },
+  {
+    "name": "crUSDC",
+    "address": "0x44fbebd2f576670a6c33f6fc0b00aa8c5753b322",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the USDC lending market and the associated crUSDC token",
+    "explorers": [
+      "https://etherscan.io/address/0x44fbebd2f576670a6c33f6fc0b00aa8c5753b322"
+    ]
+  },
+  {
+    "name": "crUSDT",
+    "address": "0x797AAB1ce7c01eB727ab980762bA88e7133d2157",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the USDT lending market and the associated crUSDT token",
+    "explorers": [
+      "https://etherscan.io/address/0x797AAB1ce7c01eB727ab980762bA88e7133d2157"
+    ]
+  },
+  {
+    "name": "crUST",
+    "address": "0x51F48b638F82e8765F7a26373A2Cb4CcB10C07af",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the UST lending market and the associated crUST token",
+    "explorers": [
+      "https://etherscan.io/address/0x51F48b638F82e8765F7a26373A2Cb4CcB10C07af"
+    ]
+  },
+  {
+    "name": "crVSP",
+    "address": "0x71cEFCd324B732d4E058AfAcBA040d908c441847",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the VSP lending market and the associated crVSP token",
+    "explorers": [
+      "https://etherscan.io/address/0x71cEFCd324B732d4E058AfAcBA040d908c441847"
+    ]
+  },
+  {
+    "name": "crVVSP",
+    "address": "0x1A122348B73B58eA39F822A89e6ec67950c2bBD0",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the VVSP lending market and the associated crVVSP token",
+    "explorers": [
+      "https://etherscan.io/address/0x1A122348B73B58eA39F822A89e6ec67950c2bBD0"
+    ]
+  },
+  {
+    "name": "crWBTC",
+    "address": "0x197070723CE0D3810a0E47F06E935c30a480D4Fc",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the WBTC lending market and the associated crWBTC token",
+    "explorers": [
+      "https://etherscan.io/address/0x197070723CE0D3810a0E47F06E935c30a480D4Fc"
+    ]
+  },
+  {
+    "name": "crWNXM",
+    "address": "0xeFF039C3c1D668f408d09dD7B63008622a77532C",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the WNXM lending market and the associated crWNXM token",
+    "explorers": [
+      "https://etherscan.io/address/0xeFF039C3c1D668f408d09dD7B63008622a77532C"
+    ]
+  },
+  {
+    "name": "crWOO",
+    "address": "0xE585c76573D7593ABF21537B607091F76c996E73",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the WOO lending market and the associated crWOO token",
+    "explorers": [
+      "https://etherscan.io/address/0xE585c76573D7593ABF21537B607091F76c996E73"
+    ]
+  },
+  {
+    "name": "crXSUSHI",
+    "address": "0x228619CCa194Fbe3Ebeb2f835eC1eA5080DaFbb2",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the XSUSHI lending market and the associated crXSUSHI token",
+    "explorers": [
+      "https://etherscan.io/address/0x228619CCa194Fbe3Ebeb2f835eC1eA5080DaFbb2"
+    ]
+  },
+  {
+    "name": "crYCRV",
+    "address": "0x9baF8a5236d44AC410c0186Fe39178d5AAD0Bb87",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YCRV lending market and the associated crYCRV token",
+    "explorers": [
+      "https://etherscan.io/address/0x9baF8a5236d44AC410c0186Fe39178d5AAD0Bb87"
+    ]
+  },
+  {
+    "name": "crYETH",
+    "address": "0x01da76DEa59703578040012357b81ffE62015C2d",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YETH lending market and the associated crYETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x01da76DEa59703578040012357b81ffE62015C2d"
+    ]
+  },
+  {
+    "name": "crYFI",
+    "address": "0xCbaE0A83f4f9926997c8339545fb8eE32eDc6b76",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YFI lending market and the associated crYFI token",
+    "explorers": [
+      "https://etherscan.io/address/0xCbaE0A83f4f9926997c8339545fb8eE32eDc6b76"
+    ]
+  },
+  {
+    "name": "crYGG",
+    "address": "0x4112a717edD051F77d834A6703a1eF5e3d73387F",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YGG lending market and the associated crYGG token",
+    "explorers": [
+      "https://etherscan.io/address/0x4112a717edD051F77d834A6703a1eF5e3d73387F"
+    ]
+  },
+  {
+    "name": "crYUSD",
+    "address": "0x4BAa77013ccD6705ab0522853cB0E9d453579Dd4",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YUSD lending market and the associated crYUSD token",
+    "explorers": [
+      "https://etherscan.io/address/0x4BAa77013ccD6705ab0522853cB0E9d453579Dd4"
+    ]
+  },
+  {
+    "name": "crYVCurve-IB",
+    "address": "0x45406ba53bB84Cd32A58e7098a2D4D1b11B107F6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YVCurve-IB lending market and the associated crYVCurve-IB token",
+    "explorers": [
+      "https://etherscan.io/address/0x45406ba53bB84Cd32A58e7098a2D4D1b11B107F6"
+    ]
+  },
+  {
+    "name": "crYVCurve-sETH",
+    "address": "0x6d1B9e01aF17Dd08d6DEc08E210dfD5984FF1C20",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YVCurve-sETH lending market and the associated crYVCurve-sETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x6d1B9e01aF17Dd08d6DEc08E210dfD5984FF1C20"
+    ]
+  },
+  {
+    "name": "crYVCurve-stETH",
+    "address": "0x1F9b4756B008106C806c7E64322d7eD3B72cB284",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YVCurve-stETH lending market and the associated crYVCurve-stETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x1F9b4756B008106C806c7E64322d7eD3B72cB284"
+    ]
+  },
+  {
+    "name": "crYVWETH",
+    "address": "0x4202D97E00B9189936EdF37f8D01cfF88BDd81d4",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YVWETH lending market and the associated crYVWETH token",
+    "explorers": [
+      "https://etherscan.io/address/0x4202D97E00B9189936EdF37f8D01cfF88BDd81d4"
+    ]
+  },
+  {
+    "name": "crYYCRV",
+    "address": "0x4EE15f44c6F0d8d1136c83EfD2e8E4AC768954c6",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the YYCRV lending market and the associated crYYCRV token",
+    "explorers": [
+      "https://etherscan.io/address/0x4EE15f44c6F0d8d1136c83EfD2e8E4AC768954c6"
+    ]
+  },
+  {
+    "name": "CREAM",
+    "address": "0x2ba592F78dB6436527729929AAf6c908497cB200",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for the CREAM governance token",
+    "explorers": [
+      "https://etherscan.io/address/0x2ba592F78dB6436527729929AAf6c908497cB200"
+    ]
+  },
+  {
+    "name": "Comptroller",
+    "address": "0x3d5BC3c8d13dcB8bF317092d84783c2697AE9258",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for the Comptroller which controls the different parameters in the crToken contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x3d5BC3c8d13dcB8bF317092d84783c2697AE9258"
+    ]
+  }
+]
