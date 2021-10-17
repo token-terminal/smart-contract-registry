@@ -1,0 +1,101 @@
+[
+  {
+    "name": "CTX",
+    "address": "0x321C2fE4446C7c963dc41Dd58879AF648838f98D",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Governance token for the Cryptex Finance Protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x321C2fE4446C7c963dc41Dd58879AF648838f98D"
+    ]
+  },
+  {
+    "name": "GovernorBeta",
+    "address": "0x874C5D592AfC6803c3DD60d6442357879F196d5b",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Handles the logic for proposals and voting for changes in the protocol",
+    "explorers": [
+      "https://etherscan.io/address/0x874C5D592AfC6803c3DD60d6442357879F196d5b"
+    ]
+  },
+  {
+    "name": "Timelock",
+    "address": "0xa54074b2cc0e96a43048d4a68472F7F046aC0DA8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Handles the logic for the queue and execution of the contracts after wait period",
+    "explorers": [
+      "https://etherscan.io/address/0xa54074b2cc0e96a43048d4a68472F7F046aC0DA8"
+    ]
+  },
+  {
+    "name": "DelegatorFactory",
+    "address": "0x70236b36f86AB4bd557Fe9934E1246537B472918",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for staking and delegate CTX to an active steward to earn rewards",
+    "explorers": [
+      "https://etherscan.io/address/0x70236b36f86AB4bd557Fe9934E1246537B472918"
+    ]
+  },
+  {
+    "name": "ETHVaultHandler",
+    "address": "0x717170B66654292dFBd89c39F5aE6753D2aC1381",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Vault contract that holds ETH as collateral to mint TCAP",
+    "explorers": [
+      "https://etherscan.io/address/0x717170B66654292dFBd89c39F5aE6753D2aC1381"
+    ]
+  },
+  {
+    "name": "DAIVaultHandler",
+    "address": "0x443366a7a5821619D8d57405511E4fadD9964771",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Vault contract that holds DAI as collateral to mint TCAP",
+    "explorers": [
+      "https://etherscan.io/address/0x443366a7a5821619D8d57405511E4fadD9964771"
+    ]
+  },
+  {
+    "name": "TCAP",
+    "address": "0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Token that tracks the Total Crypto Currency Market Price",
+    "explorers": [
+      "https://etherscan.io/address/0x16c52CeeCE2ed57dAd87319D91B5e3637d50aFa4"
+    ]
+  },
+  {
+    "name": "ETHLiquidityReward",
+    "address": "0xc8BB1cd417D20116387a5e0603e195cA4f3Cf59A",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Yield farming contract for ETH / TCAP pair",
+    "explorers": [
+      "https://etherscan.io/address/0xc8BB1cd417D20116387a5e0603e195cA4f3Cf59A"
+    ]
+  },
+  {
+    "name": "CTXLiquidityReward",
+    "address": "0xdC4cDd5dB9EE777EFD891690dc283638CB3A5f94",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Yield farming contract for ETH / CTX pair",
+    "explorers": [
+      "https://etherscan.io/address/0xdC4cDd5dB9EE777EFD891690dc283638CB3A5f94"
+    ]
+  }
+]
