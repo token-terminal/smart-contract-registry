@@ -97,5 +97,38 @@
     "explorers": [
       "https://etherscan.io/address/0xdC4cDd5dB9EE777EFD891690dc283638CB3A5f94"
     ]
+  },
+  {
+    "name": "Orchestrator",
+    "address": "0x373C74BcE7893097ab26d22f05691907D4f2c18e",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Orchestrator contract in charge of managing the settings of the vaults, rewards and TCAP token. It acts as the owner of these contracts",
+    "explorers": [
+      "https://etherscan.io/address/0x373c74bce7893097ab26d22f05691907d4f2c18e"
+    ]
+  },
+  {
+    "name": "ETHRewardHandler",
+    "address": "0x5B577578565c2404BB84E734F583CF8523236eF1",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Contract in charge of handling the initial bootstrap of CTX for the users that minted the TCAP Token",
+    "explorers": [
+      "https://etherscan.io/address/0x5b577578565c2404bb84e734f583cf8523236ef1"
+    ]
+  },
+  {
+    "name": "ERC20RewardHandler",
+    "address": "0xE0c99C503c4AE5eC50aC63C59C7eF4725C355fdD",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Contract in charge of handling the initial bootstrap of CTX for the users that minted the TCAP Token",
+    "explorers": [
+      "https://etherscan.io/address/0xe0c99c503c4ae5ec50ac63c59c7ef4725c355fdd"
+    ]
   }
 ]
