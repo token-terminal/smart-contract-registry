@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Factory",
+    "address": "0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys SpookySwap pools",
+    "explorers": [
+      "https://ftmscan.com/address/0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3"
+    ]
+  },
+  {
+    "name": "Farm (MasterChef LP Staking Pool)",
+    "address": "0x2b2929E785374c651a81A63878Ab22742656DcDd",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Allows users to stake xBOO in order to earn staking rewards",
+    "explorers": [
+      "https://ftmscan.com/address/0x2b2929e785374c651a81a63878ab22742656dcdd"
+    ]
+  },
+  {
+    "name": "Router",
+    "address": "0xF491e7B69E4244ad4002BC14e878a34207E38c29",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Supports trading and liquidity management tasks",
+    "explorers": [
+      "https://ftmscan.com/address/0xf491e7b69e4244ad4002bc14e878a34207e38c29"
+    ]
+  },
+  {
+    "name": "BOO token",
+    "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "governance",
+    "description": "SpookySwap (BOO) governance token",
+    "explorers": [
+      "https://ftmscan.com/address/0x841fad6eae12c286d1fd18d1d525dffa75c7effe"
+    ]
+  },
+  {
+    "name": "BOO token (on Ethereum)",
+    "address": "0x55af5865807b196bd0197e0902746f31fbccfa58",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "SpookySwap (BOO) governance token on Ethereum",
+    "explorers": [
+      "https://etherscan.io/token/0x55af5865807b196bd0197e0902746f31fbccfa58"
+    ]
+  },
+  {
+    "name": "Boo MirrorWorld (xBOO)",
+    "address": "0xa48d959AE2E88f1dAA7D5F611E01908106dE7598",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "xBOO is the token used for staking",
+    "explorers": [
+      "https://ftmscan.com/address/0xa48d959ae2e88f1daa7d5f611e01908106de7598"
+    ]
+  },
+  {
+    "name": "Brew Boo",
+    "address": "0x7F41312B5D2D31D49482F31C9a53e6485Df37E1D",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://ftmscan.com/address/0x7f41312b5d2d31d49482f31c9a53e6485df37e1d"
+    ]
+  },
+  {
+    "name": "AceLab (xBOO staking)",
+    "address": "0x2352b745561e7e6FCD03c093cE7220e3e126ace0",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://ftmscan.com/address/0x2352b745561e7e6fcd03c093ce7220e3e126ace0"
+    ]
+  },
+  {
+    "name": "FTM-BOO Pair",
+    "address": "0xEc7178F4C41f346b2721907F5cF7628E388A7a58",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Example of an SpookySwap pair (FTM/BOO)",
+    "explorers": [
+      "https://ftmscan.com/address/0xec7178f4c41f346b2721907f5cf7628e388a7a58"
+    ]
+  }
+]
+  
