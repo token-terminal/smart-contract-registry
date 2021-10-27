@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Factory",
+    "address": "0x86407bEa2078ea5f5EB5A52B2caA963bC1F889Da",
+    "chain": "binance smart chain",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys BabySwap pools",
+    "explorers": [
+      "https://bscscan.com/address/0x86407bea2078ea5f5eb5a52b2caa963bc1f889da#code"
+    ]
+  },
+  {
+    "name": "Main Staking Contract/MasterChef",
+    "address": "0xdfAa0e08e357dB0153927C7EaBB492d1F60aC730",
+    "chain": "binance smart chain",
+    "version": "v1",
+    "type": "core",
+    "description": "Enables minting new BABY tokens and for LPs to receive liquidity mining rewards",
+    "explorers": [
+      "https://bscscan.com/address/0xdfaa0e08e357db0153927c7eabb492d1f60ac730"
+    ]
+  },
+  {
+    "name": "Router",
+    "address": "0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd",
+    "chain": "binance smart chain",
+    "version": "v1",
+    "type": "core",
+    "description": "Supports trading and liquidity management tasks",
+    "explorers": [
+      "https://bscscan.com/address/0x325e343f1de602396e256b67efd1f61c3a6b38bd#code"
+    ]
+  },
+  {
+    "name": "BABY token",
+    "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
+    "chain": "binance smart chain",
+    "version": "v1",
+    "type": "governance",
+    "description": "BabySwap (BABY) governance token",
+    "explorers": [
+      "https://www.bscscan.com/token/0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657"
+    ]
+  }
+]
