@@ -1,0 +1,266 @@
+[
+  {
+    "name": "VISR Token",
+    "address": "0xf938424f7210f31df2aee3011291b658f872e91e",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xf938424f7210f31df2aee3011291b658f872e91e"
+    ]
+  },
+  {
+    "name": "Visor NFT Smart Vault",
+    "address": "0x08fb62c84909da3aa5f59e01763e5fdc62de76e9",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x08fb62c84909da3aa5f59e01763e5fdc62de76e9#code"
+    ]
+  },
+  {
+    "name": "Hypervisor Factory",
+    "address": "0xd12fa3E3B60CFb96a735aB57a071F0f324860929",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xd12fa3e3b60cfb96a735ab57a071f0f324860929#code"
+    ]
+  },
+  {
+    "name": "vVisor Token",
+    "address": "0x3a84aD5d16aDBE566BAA6b3DafE39Db3D5E261E5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x3a84ad5d16adbe566baa6b3dafe39db3d5e261e5#code"
+    ]
+  },
+  {
+    "name": "VISR / vVISR Staking Wallet Contract",
+    "address": "0xc9f27a50f82571c1c8423a42970613b8dbda14ef",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc9f27a50f82571c1c8423a42970613b8dbda14ef"
+    ]
+  },
+  {
+    "name": "Swapper",
+    "address": "0x0B7D3aE92b6F4a440bacc4B9826ad2b4C35a12C8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x0b7d3ae92b6f4a440bacc4b9826ad2b4c35a12c8#code"
+    ]
+  },
+  {
+    "name": "Reward Pool Factory Contract",
+    "address": "0x4Bd9401bC6BA8F2f7Ec20F7f8fA2cd8f91B5A2ea",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4bd9401bc6ba8f2f7ec20f7f8fa2cd8f91b5a2ea"
+    ]
+  },
+  {
+    "name": "AAVE-ETH Hybervisor",
+    "address": "0xbb9b86a75ca3115caab045e2af17b0bba483acbc",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xbb9b86a75ca3115caab045e2af17b0bba483acbc"
+    ]
+  },
+  {
+    "name": "MKR-ETH Hybervisor",
+    "address": "0x4564a37c88e3b13d3a0c08832dcf88278997e6fe",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4564a37c88e3b13d3a0c08832dcf88278997e6fe"
+    ]
+  },
+  {
+    "name": "COMP-ETH Hybervisor",
+    "address": "0x0407c810546f1dc007f01a80e65983072d5c6dfa",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x0407c810546f1dc007f01a80e65983072d5c6dfa"
+    ]
+  },
+  {
+    "name": "UNI-ETH Hybervisor",
+    "address": "0xd8dbdb77305898365d7ba6dd438f2663f7d4e409",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xd8dbdb77305898365d7ba6dd438f2663f7d4e409"
+    ]
+  },
+  {
+    "name": "OHM-ETH Hybervisor",
+    "address": "0x65bc5c6a2630a87c2b494f36148e338dd76c054f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x65bc5c6a2630a87c2b494f36148e338dd76c054f"
+    ]
+  },
+  {
+    "name": "MM-ETH Hybervisor",
+    "address": "0xb666bfdb553a1aff4042c1e4f39e43852ba9731d",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xb666bfdb553a1aff4042c1e4f39e43852ba9731d"
+    ]
+  },
+  {
+    "name": "PERP-ETH Hybervisor",
+    "address": "0x33682bfc1d94480a0e3de0a565180b182b71d485",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x33682bfc1d94480a0e3de0a565180b182b71d485"
+    ]
+  },
+  {
+    "name": "FORTH-ETH Hybervisor",
+    "address": "0x53a4512bbe5083695d8e890789fe1cf6f5686d52",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x53a4512bbe5083695d8e890789fe1cf6f5686d52"
+    ]
+  },
+  {
+    "name": "MATIC-ETH Hybervisor",
+    "address": "0x53a4512bbe5083695d8e890789fe1cf6f5686d52",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x53a4512bbe5083695d8e890789fe1cf6f5686d52"
+    ]
+  },
+  {
+    "name": "CRV-ETH Hybervisor",
+    "address": "0x6e67bb258b6485b688cbb526c868d4428b634cf1",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x6e67bb258b6485b688cbb526c868d4428b634cf1"
+    ]
+  },
+  {
+    "name": "TRU-ETH Hybervisor",
+    "address": "0xc92ff322c8a18e38b46393dbcc8a7c5691586497",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc92ff322c8a18e38b46393dbcc8a7c5691586497"
+    ]
+  },
+  {
+    "name": "GTC-ETH Hybervisor",
+    "address": "0x18d3284d9eff64fc97b64ab2b871738e684aa151",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x18d3284d9eff64fc97b64ab2b871738e684aa151"
+    ]
+  },
+  {
+    "name": "WBTC-ETH Hybervisor",
+    "address": "0x97491b65c9c8e8754b5c55ed208ff490b2ee6190",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x97491b65c9c8e8754b5c55ed208ff490b2ee6190"
+    ]
+  },
+  {
+    "name": "LINK-ETH Hybervisor",
+    "address": "0x407e99b20d61f245426031df872966953909e9d3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x407e99b20d61f245426031df872966953909e9d3"
+    ]
+  },
+  {
+    "name": "USDC-ETH Hybervisor",
+    "address": "0x716bd8a7f8a44b010969a1825ae5658e7a18630d",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x716bd8a7f8a44b010969a1825ae5658e7a18630d"
+    ]
+  },
+  {
+    "name": "DAI-ETH Hybervisor",
+    "address": "0x6c8116abe5c5f2c39553c6f4217840e71462539c",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x6c8116abe5c5f2c39553c6f4217840e71462539c"
+    ]
+  },
+  {
+    "name": "USDT-ETH Hybervisor",
+    "address": "0x9a98bffabc0abf291d6811c034e239e916bbcec0",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x9a98bffabc0abf291d6811c034e239e916bbcec0"
+    ]
+  }
+]
