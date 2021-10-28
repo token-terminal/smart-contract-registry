@@ -11,1774 +11,1774 @@
     ]
   },
   {
-      "name": "CollateralErc20",
-      "address": "0xaa03aB31b55DceEeF845C8d17890CC61cD98eD04",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xaa03ab31b55dceeef845c8d17890cc61cd98ed04"
-      ]
-    },
-    {
-      "name": "CollateralEth",
-      "address": "0x5c8344bcdC38F1aB5EB5C1d4a35DdEeA522B5DfA",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x5c8344bcdc38f1ab5eb5c1d4a35ddeea522b5dfa"
-      ]
-    },
-    {
-      "name": "CollateralManager",
-      "address": "0x067e398605E84F2D0aEEC1806e62768C5110DCc6",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x067e398605e84f2d0aeec1806e62768c5110dcc6"
-      ]
-    },
-    {
-      "name": "CollateralManagerState",
-      "address": "0x573E5105c4B92416D1544A188F1bf77d442Bb52d",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x573e5105c4b92416d1544a188f1bf77d442bb52d"
-      ]
-    },
-    {
-      "name": "CollateralShort",
-      "address": "0x1F2c3a1046c32729862fcB038369696e3273a516",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x1f2c3a1046c32729862fcb038369696e3273a516"
-      ]
-    },
-    {
-      "name": "CollateralStateErc20",
-      "address": "0x8A1A00Df7aA0102497C7591912bA8301e8dB8CdB",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x8a1a00df7aa0102497c7591912ba8301e8db8cdb"
-      ]
-    },
-    {
-      "name": "CollateralStateEth",
-      "address": "0xbe5B5a7c198bC156474ed5c33CBf2F3F604F8fF8",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xbe5b5a7c198bc156474ed5c33cbf2f3f604f8ff8"
-      ]
-    },
-    {
-      "name": "CollateralStateShort",
-      "address": "0x13A114a3Fa8A6CE03a0C5488BE9e614d78eDdb0c",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x13a114a3fa8a6ce03a0c5488be9e614d78eddb0c"
-      ]
-    },
-    {
-      "name": "DappMaintenance",
-      "address": "0xAb0B2f1Cf979cdbF4676251F35353eC5AF2732Dd",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xab0b2f1cf979cdbf4676251f35353ec5af2732dd"
-      ]
-    },
-    {
-      "name": "DebtCache",
-      "address": "0xe92B4c7428152052B0930c81F4c687a5F1A12292",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xe92b4c7428152052b0930c81f4c687a5f1a12292"
-      ]
-    },
-    {
-      "name": "DelegateApprovals",
-      "address": "0x15fd6e554874B9e70F832Ed37f231Ac5E142362f",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x15fd6e554874b9e70f832ed37f231ac5e142362f"
-      ]
-    },
-    {
-      "name": "DelegateApprovalsEternalStorage",
-      "address": "0x8F586F063ffbb89b186C8e604FC6614766f9C9d1",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x8f586f063ffbb89b186c8e604fc6614766f9c9d1"
-      ]
-    },
-    {
-      "name": "Depot",
-      "address": "0xE1f64079aDa6Ef07b03982Ca34f1dD7152AA3b86",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xe1f64079ada6ef07b03982ca34f1dd7152aa3b86"
-      ]
-    },
-    {
-      "name": "EscrowChecker",
-      "address": "0x3b399e00AFd8201ACf8A5a0EcCF1C47d8D5E41da",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x3b399e00afd8201acf8a5a0eccf1c47d8d5e41da"
-      ]
-    },
-    {
-      "name": "EternalStorageLiquidations",
-      "address": "0x0F7c200C4d3b5570C777764884Ce6DE67F31D3Ba",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x0f7c200c4d3b5570c777764884ce6de67f31d3ba"
-      ]
-    },
-    {
-      "name": "EtherWrapper",
-      "address": "0xC1AAE9d18bBe386B102435a8632C8063d31e747C",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc1aae9d18bbe386b102435a8632c8063d31e747c"
-      ]
-    },
-    {
-      "name": "ExchangeRates",
-      "address": "0xd69b189020EF614796578AfE4d10378c5e7e1138",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xd69b189020ef614796578afe4d10378c5e7e1138"
-      ]
-    },
-    {
-      "name": "ExchangeState",
-      "address": "0x545973f28950f50fc6c7F52AAb4Ad214A27C0564",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x545973f28950f50fc6c7f52aab4ad214a27c0564"
-      ]
-    },
-    {
-      "name": "Exchanger",
-      "address": "0x7634F2A1741a683ccda37Dce864c187F990D7B4b",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x7634f2a1741a683ccda37dce864c187f990d7b4b"
-      ]
-    },
-    {
-      "name": "FeePool",
-      "address": "0x510adfDF6E7554C571b7Cd9305Ce91473610015e",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x510adfdf6e7554c571b7cd9305ce91473610015e"
-      ]
-    },
-    {
-      "name": "FeePoolEternalStorage",
-      "address": "0xC9DFff5fA5605fd94F8B7927b892F2B57391e8bB",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc9dfff5fa5605fd94f8b7927b892f2b57391e8bb"
-      ]
-    },
-    {
-      "name": "FeePoolState",
-      "address": "0x11164F6a47C3f8472D19b9aDd516Fc780cb7Ee02",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x11164f6a47c3f8472d19b9add516fc780cb7ee02"
-      ]
-    },
-    {
-      "name": "FlexibleStorage",
-      "address": "0xc757aCBa3c0506218b3022266a9DC7F3612d85f5",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc757acba3c0506218b3022266a9dc7f3612d85f5"
-      ]
-    },
-    {
-      "name": "IssuanceEternalStorage",
-      "address": "0x631E93A0fb06B5eC6d52c0A2D89a3f9672d6Ba64",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x631e93a0fb06b5ec6d52c0a2d89a3f9672d6ba64"
-      ]
-    },
-    {
-      "name": "Issuer",
-      "address": "0x922C84B3894298296C34842D866BfC0d36C54778",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x922c84b3894298296c34842d866bfc0d36c54778"
-      ]
-    },
-    {
-      "name": "Liquidations",
-      "address": "0xAD95C918af576c82Df740878C3E983CBD175daB6",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xad95c918af576c82df740878c3e983cbd175dab6"
-      ]
-    },
-    {
-      "name": "Math",
-      "address": "0x385e1Eb2FF28F4A637DA2C9971F8CAF5F5b1E77c",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x385e1eb2ff28f4a637da2c9971f8caf5f5b1e77c"
-      ]
-    },
-    {
-      "name": "NativeEtherWrapper",
-      "address": "0x7A3d898b717e50a96fd8b232E9d15F0A547A7eeb",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x7a3d898b717e50a96fd8b232e9d15f0a547a7eeb"
-      ]
-    },
-    {
-      "name": "ProxyERC20",
-      "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "governance",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
-      ]
-    },
-    {
-      "name": "ProxyERC20sUSD",
-      "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x57ab1ec28d129707052df4df418d58a2d46d5f51"
-      ]
-    },
-    {
-      "name": "ProxyFeePool",
-      "address": "0xb440DD674e1243644791a4AdfE3A2AbB0A92d309",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xb440dd674e1243644791a4adfe3a2abb0a92d309"
-      ]
-    },
-    {
-      "name": "Use ProxyERC20",
-      "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc011a72400e58ecd99ee497cf89e3775d4bd732f"
-      ]
-    },
-    {
-      "name": "ProxysAAVE",
-      "address": "0xd2dF355C19471c8bd7D8A3aa27Ff4e26A21b4076",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076"
-      ]
-    },
-    {
-      "name": "ProxysADA",
-      "address": "0xe36E2D3c7c34281FA3bC737950a68571736880A1",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xe36e2d3c7c34281fa3bc737950a68571736880a1"
-      ]
-    },
-    {
-      "name": "ProxysAUD",
-      "address": "0xF48e200EAF9906362BB1442fca31e0835773b8B4",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xf48e200eaf9906362bb1442fca31e0835773b8b4"
-      ]
-    },
-    {
-      "name": "ProxysBTC",
-      "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6"
-      ]
-    },
-    {
-      "name": "ProxysCHF",
-      "address": "0x0F83287FF768D1c1e17a42F44d644D7F22e8ee1d",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d"
-      ]
-    },
-    {
-      "name": "ProxysDEFI",
-      "address": "0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b"
-      ]
-    },
-    {
-      "name": "ProxysDOT",
-      "address": "0x1715AC0743102BF5Cd58EfBB6Cf2dC2685d967b6",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x1715ac0743102bf5cd58efbb6cf2dc2685d967b6"
-      ]
-    },
-    {
-      "name": "ProxysETH",
-      "address": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb"
-      ]
-    },
-    {
-      "name": "ProxysEUR",
-      "address": "0xD71eCFF9342A5Ced620049e616c5035F1dB98620",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xd71ecff9342a5ced620049e616c5035f1db98620"
-      ]
-    },
-    {
-      "name": "ProxysGBP",
-      "address": "0x97fe22E7341a0Cd8Db6F6C021A24Dc8f4DAD855F",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f"
-      ]
-    },
-    {
-      "name": "ProxysJPY",
-      "address": "0xF6b1C627e95BFc3c1b4c9B825a032Ff0fBf3e07d",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d"
-      ]
-    },
-    {
-      "name": "ProxysKRW",
-      "address": "0x269895a3dF4D73b077Fc823dD6dA1B95f72Aaf9B",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x269895a3df4d73b077fc823dd6da1b95f72aaf9b"
-      ]
-    },
-    {
-      "name": "ProxysLINK",
-      "address": "0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6"
-      ]
-    },
-    {
-      "name": "Use ProxyERC20sUSD",
-      "address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x57ab1e02fee23774580c119740129eac7081e9d3"
-      ]
-    },
-    {
-      "name": "ReadProxyAddressResolver",
-      "address": "0x4E3b31eB0E5CB73641EE1E65E7dCEFe520bA3ef2",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x4e3b31eb0e5cb73641ee1e65e7dcefe520ba3ef2"
-      ]
-    },
-    {
-      "name": "RewardEscrow",
-      "address": "0xb671F2210B1F6621A2607EA63E6B2DC3e2464d1F",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xb671f2210b1f6621a2607ea63e6b2dc3e2464d1f"
-      ]
-    },
-    {
-      "name": "RewardEscrowV2",
-      "address": "0xDA4eF8520b1A57D7d63f1E249606D1A459698876",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xda4ef8520b1a57d7d63f1e249606d1a459698876"
-      ]
-    },
-    {
-      "name": "RewardsDistribution",
-      "address": "0x29C295B046a73Cde593f21f63091B072d407e3F2",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x29c295b046a73cde593f21f63091b072d407e3f2"
-      ]
-    },
-    {
-      "name": "SafeDecimalMath",
-      "address": "0x84D626B2BB4D0F064067e4BF80FCe7055d8F3E7B",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x84d626b2bb4d0f064067e4bf80fce7055d8f3e7b"
-      ]
-    },
-    {
-      "name": "ShortingRewardssBTC",
-      "address": "0xCed4055b47cfD0421f3727a35F69CE659c8bAF7a",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xced4055b47cfd0421f3727a35f69ce659c8baf7a"
-      ]
-    },
-    {
-      "name": "ShortingRewardssETH",
-      "address": "0x12DC1273915A16ab8BD47bA7866B240c253e4c12",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x12dc1273915a16ab8bd47ba7866b240c253e4c12"
-      ]
-    },
-    {
-      "name": "StakingRewardsSNXBalancer",
-      "address": "0xFBaEdde70732540cE2B11A8AC58Eb2dC0D69dE10",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xfbaedde70732540ce2b11a8ac58eb2dc0d69de10"
-      ]
-    },
-    {
-      "name": "StakingRewardsiBTC",
-      "address": "0x167009dcDA2e49930a71712D956f02cc980DcC1b",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x167009dcda2e49930a71712d956f02cc980dcc1b"
-      ]
-    },
-    {
-      "name": "StakingRewardsiETH",
-      "address": "0x3f27c540ADaE3a9E8c875C61e3B970b559d7F65d",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x3f27c540adae3a9e8c875c61e3b970b559d7f65d"
-      ]
-    },
-    {
-      "name": "StakingRewardssAAPLBalancer",
-      "address": "0x7af65f1740c0eB816A27FD808EaF6Ab09F6Fa646",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x7af65f1740c0eb816a27fd808eaf6ab09f6fa646"
-      ]
-    },
-    {
-      "name": "StakingRewardssAMZNBalancer",
-      "address": "0xDC338C7544654c7dadFEb7E44076E457963113B0",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xdc338c7544654c7dadfeb7e44076e457963113b0"
-      ]
-    },
-    {
-      "name": "StakingRewardssBTCCurve",
-      "address": "0x13C1542A468319688B89E323fe9A3Be3A90EBb27",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x13c1542a468319688b89e323fe9a3be3a90ebb27"
-      ]
-    },
-    {
-      "name": "StakingRewardssCOINBalancer",
-      "address": "0x1C1D97f6338759AB814a5A717aE359573Ab5D5d4",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x1c1d97f6338759ab814a5a717ae359573ab5d5d4"
-      ]
-    },
-    {
-      "name": "StakingRewardssETHUniswapV2",
-      "address": "0x48D7f315feDcaD332F68aafa017c7C158BC54760",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x48d7f315fedcad332f68aafa017c7c158bc54760"
-      ]
-    },
-    {
-      "name": "StakingRewardssEURCurve",
-      "address": "0xc0d8994Cd78eE1980885DF1A0C5470fC977b5cFe",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc0d8994cd78ee1980885df1a0c5470fc977b5cfe"
-      ]
-    },
-    {
-      "name": "StakingRewardssFBBalancer",
-      "address": "0x26Fa0665660c1D3a3666584669511d3c66Ad37Cb",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x26fa0665660c1d3a3666584669511d3c66ad37cb"
-      ]
-    },
-    {
-      "name": "StakingRewardssGOOGBalancer",
-      "address": "0x6fB7F0E78582746bd01BcB6dfbFE62cA5F4F9175",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x6fb7f0e78582746bd01bcb6dfbfe62ca5f4f9175"
-      ]
-    },
-    {
-      "name": "StakingRewardssMSFTBalancer",
-      "address": "0x9D003Cc298E7Ea141A809C241C0a703176DA3ba3",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x9d003cc298e7ea141a809c241c0a703176da3ba3"
-      ]
-    },
-    {
-      "name": "StakingRewardssNFLXBalancer",
-      "address": "0x8Ef8cA2AcAaAfEc19fB366C11561718357F780F2",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x8ef8ca2acaaafec19fb366c11561718357f780f2"
-      ]
-    },
-    {
-      "name": "StakingRewardssTSLABalancer",
-      "address": "0xF0de877F2F9E7A60767f9BA662F10751566AD01c",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xf0de877f2f9e7a60767f9ba662f10751566ad01c"
-      ]
-    },
-    {
-      "name": "StakingRewardssUSDCurve",
-      "address": "0xDCB6A51eA3CA5d3Fd898Fd6564757c7aAeC3ca92",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xdcb6a51ea3ca5d3fd898fd6564757c7aaec3ca92"
-      ]
-    },
-    {
-      "name": "StakingRewardssXAUUniswapV2",
-      "address": "0x8302FE9F0C509a996573D3Cc5B0D5D51e4FDD5eC",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x8302fe9f0c509a996573d3cc5b0d5d51e4fdd5ec"
-      ]
-    },
-    {
-      "name": "SupplySchedule",
-      "address": "0xA05e45396703BabAa9C276B5E5A9B6e2c175b521",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xa05e45396703babaa9c276b5e5a9b6e2c175b521"
-      ]
-    },
-    {
-      "name": "SynthRedeemer",
-      "address": "0xe533139Af961c9747356D947838c98451015e234",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xe533139af961c9747356d947838c98451015e234"
-      ]
-    },
-    {
-      "name": "SynthUtil",
-      "address": "0x81Aee4EA48f678E172640fB5813cf7A96AFaF6C3",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x81aee4ea48f678e172640fb5813cf7a96afaf6c3"
-      ]
-    },
-    {
-      "name": "Synthetix",
-      "address": "0x54f25546260C7539088982bcF4b7dC8EDEF19f21",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x54f25546260c7539088982bcf4b7dc8edef19f21"
-      ]
-    },
-    {
-      "name": "SynthetixBridgeEscrow",
-      "address": "0x5Fd79D46EBA7F351fe49BFF9E87cdeA6c821eF9f",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x5fd79d46eba7f351fe49bff9e87cdea6c821ef9f"
-      ]
-    },
-    {
-      "name": "SynthetixBridgeToOptimism",
-      "address": "0xCd9D4988C0AE61887B075bA77f08cbFAd2b65068",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xcd9d4988c0ae61887b075ba77f08cbfad2b65068"
-      ]
-    },
-    {
-      "name": "SynthetixEscrow",
-      "address": "0x971e78e0C92392A4E39099835cF7E6aB535b2227",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x971e78e0c92392a4e39099835cf7e6ab535b2227"
-      ]
-    },
-    {
-      "name": "SynthetixState",
-      "address": "0x4b9Ca5607f1fF8019c1C6A3c2f0CC8de622D5B82",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x4b9ca5607f1ff8019c1c6a3c2f0cc8de622d5b82"
-      ]
-    },
-    {
-      "name": "SynthsAAVE",
-      "address": "0xaB38249f4f56Ef868F6b5E01D9cFa26B952c1270",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xab38249f4f56ef868f6b5e01d9cfa26b952c1270"
-      ]
-    },
-    {
-      "name": "SynthsADA",
-      "address": "0xC22e51FA362654ea453B4018B616ef6f6ab3b779",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc22e51fa362654ea453b4018b616ef6f6ab3b779"
-      ]
-    },
-    {
-      "name": "SynthsAUD",
-      "address": "0x37B648a07476F4941D3D647f81118AFd55fa8a04",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x37b648a07476f4941d3d647f81118afd55fa8a04"
-      ]
-    },
-    {
-      "name": "SynthsBTC",
-      "address": "0xC8a5f06858a1B49A7F703EacD433A1444a5e5bd9",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc8a5f06858a1b49a7f703eacd433a1444a5e5bd9"
-      ]
-    },
-    {
-      "name": "SynthsCHF",
-      "address": "0xcf9bB94b5d65589039607BA66e3DAC686d3eFf01",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xcf9bb94b5d65589039607ba66e3dac686d3eff01"
-      ]
-    },
-    {
-      "name": "SynthsDEFI",
-      "address": "0x46A7Af405093B27DA6DeF193C508Bd9240A255FA",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x46a7af405093b27da6def193c508bd9240a255fa"
-      ]
-    },
-    {
-      "name": "SynthsDOT",
-      "address": "0xfD0435A588BF5c5a6974BA19Fa627b772833d4eb",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xfd0435a588bf5c5a6974ba19fa627b772833d4eb"
-      ]
-    },
-    {
-      "name": "SynthsETH",
-      "address": "0xCFA46B4923c0E75B7b84E9FBde70ED26feFefBf6",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xcfa46b4923c0e75b7b84e9fbde70ed26fefefbf6"
-      ]
-    },
-    {
-      "name": "SynthsEUR",
-      "address": "0xC61b352fCc311Ae6B0301459A970150005e74b3E",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xc61b352fcc311ae6b0301459a970150005e74b3e"
-      ]
-    },
-    {
-      "name": "SynthsGBP",
-      "address": "0xEF285D339c91aDf1dD7DE0aEAa6250805FD68258",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xef285d339c91adf1dd7de0aeaa6250805fd68258"
-      ]
-    },
-    {
-      "name": "SynthsJPY",
-      "address": "0x388fD1A8a7d36e03eFA1ab100a1c5159a3A3d427",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x388fd1a8a7d36e03efa1ab100a1c5159a3a3d427"
-      ]
-    },
-    {
-      "name": "SynthsKRW",
-      "address": "0xCeC4e038371d32212C6Dcdf36Fdbcb6F8a34C6d8",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xcec4e038371d32212c6dcdf36fdbcb6f8a34c6d8"
-      ]
-    },
-    {
-      "name": "SynthsLINK",
-      "address": "0xcd980Fc5CcdAe62B18A52b83eC64200121A929db",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xcd980fc5ccdae62b18a52b83ec64200121a929db"
-      ]
-    },
-    {
-      "name": "SynthsUSD",
-      "address": "0x967968963517AFDC9b8Ccc9AD6649bC507E83a7b",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x967968963517afdc9b8ccc9ad6649bc507e83a7b"
-      ]
-    },
-    {
-      "name": "SystemSettings",
-      "address": "0xD3C8d372bFCd36c2B452639a7ED6ef7dbFDC56F8",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xd3c8d372bfcd36c2b452639a7ed6ef7dbfdc56f8"
-      ]
-    },
-    {
-      "name": "SystemStatus",
-      "address": "0x1c86B3CDF2a60Ae3a574f7f71d44E2C50BDdB87E",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x1c86b3cdf2a60ae3a574f7f71d44e2c50bddb87e"
-      ]
-    },
-    {
-      "name": "TokenStateSynthetix",
-      "address": "0x5b1b5fEa1b99D83aD479dF0C222F0492385381dD",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x5b1b5fea1b99d83ad479df0c222f0492385381dd"
-      ]
-    },
-    {
-      "name": "TokenStatesAAVE",
-      "address": "0x9BcED8A8E3Ad81c9b146FFC880358f734A06f7c0",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x9bced8a8e3ad81c9b146ffc880358f734a06f7c0"
-      ]
-    },
-    {
-      "name": "TokenStatesADA",
-      "address": "0x9956c5019a24fbd5B506AD070b771577bAc5c343",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x9956c5019a24fbd5b506ad070b771577bac5c343"
-      ]
-    },
-    {
-      "name": "TokenStatesAUD",
-      "address": "0xCb29D2cf2C65d3Be1d00F07f3441390432D55203",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xcb29d2cf2c65d3be1d00f07f3441390432d55203"
-      ]
-    },
-    {
-      "name": "TokenStatesBTC",
-      "address": "0x4F6296455F8d754c19821cF1EC8FeBF2cD456E67",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x4f6296455f8d754c19821cf1ec8febf2cd456e67"
-      ]
-    },
-    {
-      "name": "TokenStatesCHF",
-      "address": "0x52496fE8a4feaEFe14d9433E00D48E6929c13deC",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x52496fe8a4feaefe14d9433e00d48e6929c13dec"
-      ]
-    },
-    {
-      "name": "TokenStatesDEFI",
-      "address": "0x7Ac2D37098a65B0f711CFfA3be635F1E6aCacFaB",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x7ac2d37098a65b0f711cffa3be635f1e6acacfab"
-      ]
-    },
-    {
-      "name": "TokenStatesDOT",
-      "address": "0x73B1a2643507Cd30F11Dfcf2D974f4373E5BC077",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x73b1a2643507cd30f11dfcf2d974f4373e5bc077"
-      ]
-    },
-    {
-      "name": "TokenStatesETH",
-      "address": "0x34A5ef81d18F3a305aE9C2d7DF42beef4c79031c",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x34a5ef81d18f3a305ae9c2d7df42beef4c79031c"
-      ]
-    },
-    {
-      "name": "TokenStatesEUR",
-      "address": "0x6568D9e750fC44AF00f857885Dfb8281c00529c4",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x6568d9e750fc44af00f857885dfb8281c00529c4"
-      ]
-    },
-    {
-      "name": "TokenStatesGBP",
-      "address": "0x7e88D19A79b291cfE5696d496055f7e57F537A75",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x7e88d19a79b291cfe5696d496055f7e57f537a75"
-      ]
-    },
-    {
-      "name": "TokenStatesJPY",
-      "address": "0x4dFACfB15514C21c991ff75Bc7Bf6Fb1F98361ed",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x4dfacfb15514c21c991ff75bc7bf6fb1f98361ed"
-      ]
-    },
-    {
-      "name": "TokenStatesKRW",
-      "address": "0x93B6e9FbBd2c32a0DC3C2B943B7C3CBC2fE23730",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x93b6e9fbbd2c32a0dc3c2b943b7c3cbc2fe23730"
-      ]
-    },
-    {
-      "name": "TokenStatesLINK",
-      "address": "0x577D4a7395c6A5f46d9981a5F83fa7294926aBB0",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x577d4a7395c6a5f46d9981a5f83fa7294926abb0"
-      ]
-    },
-    {
-      "name": "TokenStatesUSD",
-      "address": "0x05a9CBe762B36632b3594DA4F082340E0e5343e8",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x05a9cbe762b36632b3594da4f082340e0e5343e8"
-      ]
-    },
-    {
-      "name": "TradingRewards",
-      "address": "0x62922670313bf6b41C580143d1f6C173C5C20019",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0x62922670313bf6b41c580143d1f6c173c5c20019"
-      ]
-    },
-    {
-      "name": "VirtualSynthMastercopy",
-      "address": "0xf02ce48fD47D7FA1B7a45a0444805d320D035775",
-      "chain": "ethereum",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://etherscan.io/address/0xf02ce48fd47d7fa1b7a45a0444805d320d035775"
-      ]
-    },
-    {
-      "name": "AddressResolver",
-      "address": "0x95A6a3f44a70172E7d50a9e28c85Dfd712756B8C",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x95a6a3f44a70172e7d50a9e28c85dfd712756b8c"
-      ]
-    },
-    {
-      "name": "CollateralManager",
-      "address": "0x70B21B422Dade467659522892A857F0Ee31cebb4",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x70b21b422dade467659522892a857f0ee31cebb4"
-      ]
-    },
-    {
-      "name": "DappMaintenance",
-      "address": "0x54581A23F62D147AC76d454f0b3eF77F9D766058",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x54581a23f62d147ac76d454f0b3ef77f9d766058"
-      ]
-    },
-    {
-      "name": "DebtCache",
-      "address": "0x8be60b5031C0686e48a079C81822173bFa1268DA",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x8be60b5031c0686e48a079c81822173bfa1268da"
-      ]
-    },
-    {
-      "name": "DelegateApprovals",
-      "address": "0x2A23bc0EA97A89abD91214E8e4d20F02Fe14743f",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x2a23bc0ea97a89abd91214e8e4d20f02fe14743f"
-      ]
-    },
-    {
-      "name": "DelegateApprovalsEternalStorage",
-      "address": "0x02f7fB66B55e6ca476d126d96f14c5732Eeb4363",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x02f7fb66b55e6ca476d126d96f14c5732eeb4363"
-      ]
-    },
-    {
-      "name": "EscrowChecker",
-      "address": "0xcdb7D0a946223255d39A6e29B54f08f3291cc118",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xcdb7d0a946223255d39a6e29b54f08f3291cc118"
-      ]
-    },
-    {
-      "name": "EternalStorageLiquidations",
-      "address": "0x76d2de36936005A0182a1BB61dA501A8A044D477",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x76d2de36936005a0182a1bb61da501a8a044d477"
-      ]
-    },
-    {
-      "name": "EtherCollateral",
-      "address": "0xC8E91c926E04BE1cb94e51c5379d14774D51ae6C",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xc8e91c926e04be1cb94e51c5379d14774d51ae6c"
-      ]
-    },
-    {
-      "name": "EtherCollateralsUSD",
-      "address": "0xC0c66470E766AE2026E6695966C56C90741811AA",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xc0c66470e766ae2026e6695966c56c90741811aa"
-      ]
-    },
-    {
-      "name": "EtherWrapper",
-      "address": "0xc3Ee42caBD773A608fa9Ec951982c94BD6F33d59",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xc3ee42cabd773a608fa9ec951982c94bd6f33d59"
-      ]
-    },
-    {
-      "name": "ExchangeRates",
-      "address": "0x631E93A0fb06B5eC6d52c0A2D89a3f9672d6Ba64",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x631e93a0fb06b5ec6d52c0a2d89a3f9672d6ba64"
-      ]
-    },
-    {
-      "name": "ExchangeState",
-      "address": "0x7EF87c14f50CFFe2e73d2C87916C3128c56593A8",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x7ef87c14f50cffe2e73d2c87916c3128c56593a8"
-      ]
-    },
-    {
-      "name": "Exchanger",
-      "address": "0x395eC94bf3E3dCd3aFBd82cd03197731411E396B",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x395ec94bf3e3dcd3afbd82cd03197731411e396b"
-      ]
-    },
-    {
-      "name": "FeePool",
-      "address": "0xF950a48E9463a13b13D75F452200E711c1c426b6",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xf950a48e9463a13b13d75f452200e711c1c426b6"
-      ]
-    },
-    {
-      "name": "FeePoolEternalStorage",
-      "address": "0x41140Bf6498a36f2E44eFd49f21dAe3bbb7367c8",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x41140bf6498a36f2e44efd49f21dae3bbb7367c8"
-      ]
-    },
-    {
-      "name": "FeePoolState",
-      "address": "0x6e0d26cffc3a63d763F1546f749bf62ebC7d72D8",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x6e0d26cffc3a63d763f1546f749bf62ebc7d72d8"
-      ]
-    },
-    {
-      "name": "FlexibleStorage",
-      "address": "0x47649022380d182DA8010Ae5d257fea4227b21ff",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x47649022380d182da8010ae5d257fea4227b21ff"
-      ]
-    },
-    {
-      "name": "Issuer",
-      "address": "0x8377b25B8564f6Be579865639776c5082CB37163",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x8377b25b8564f6be579865639776c5082cb37163"
-      ]
-    },
-    {
-      "name": "Liquidations",
-      "address": "0x14E6f8e6Da00a32C069b11b64e48EA1FEF2361D4",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x14e6f8e6da00a32c069b11b64e48ea1fef2361d4"
-      ]
-    },
-    {
-      "name": "Math",
-      "address": "0x0B3A73EE0740b3130e40B2A6b5aaf59E7E3Ef74c",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x0b3a73ee0740b3130e40b2a6b5aaf59e7e3ef74c"
-      ]
-    },
-    {
-      "name": "ProxyERC20",
-      "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "governance",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x8700daec35af8ff88c16bdf0418774cb3d7599b4"
-      ]
-    },
-    {
-      "name": "ProxyERC20sUSD",
-      "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9"
-      ]
-    },
-    {
-      "name": "ProxyFeePool",
-      "address": "0x4a16A42407AA491564643E1dfc1fd50af29794eF",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x4a16a42407aa491564643e1dfc1fd50af29794ef"
-      ]
-    },
-    {
-      "name": "Use ProxyERC20",
-      "address": "0x218067172e9E0460A883458D44BD1f56ea609502",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x218067172e9e0460a883458d44bd1f56ea609502"
-      ]
-    },
-    {
-      "name": "ProxysBTC",
-      "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x298b9b95708152ff6968aafd889c6586e9169f1d"
-      ]
-    },
-    {
-      "name": "ProxysETH",
-      "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49"
-      ]
-    },
-    {
-      "name": "ProxysLINK",
-      "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xc5db22719a06418028a40a9b5e9a7c02959d0d08"
-      ]
-    },
-    {
-      "name": "Use ProxyERC20sUSD",
-      "address": "0xbecc58c6D7Ca71b6FCC4cC8c9c5294A0eA7A0397",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xbecc58c6d7ca71b6fcc4cc8c9c5294a0ea7a0397"
-      ]
-    },
-    {
-      "name": "ReadProxyAddressResolver",
-      "address": "0x1Cb059b7e74fD21665968C908806143E744D5F30",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x1cb059b7e74fd21665968c908806143e744d5f30"
-      ]
-    },
-    {
-      "name": "RewardEscrow",
-      "address": "0xd32138018210edA0028240638f35b70ECC0D8C22",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xd32138018210eda0028240638f35b70ecc0d8c22"
-      ]
-    },
-    {
-      "name": "RewardEscrowV2",
-      "address": "0x47eE58801C1AC44e54FF2651aE50525c5cfc66d0",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x47ee58801c1ac44e54ff2651ae50525c5cfc66d0"
-      ]
-    },
-    {
-      "name": "RewardsDistribution",
-      "address": "0x5d9187630E99dBce4BcAB8733B76757f7F44aA2e",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x5d9187630e99dbce4bcab8733b76757f7f44aa2e"
-      ]
-    },
-    {
-      "name": "SafeDecimalMath",
-      "address": "0x0142F40c25CE1F1177Ed131101FA19217396cB88",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x0142f40c25ce1f1177ed131101fa19217396cb88"
-      ]
-    },
-    {
-      "name": "SynthUtil",
-      "address": "0x87b1481c82913301Fc6c884Ac266a7c430F92cFA",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x87b1481c82913301fc6c884ac266a7c430f92cfa"
-      ]
-    },
-    {
-      "name": "Synthetix",
-      "address": "0xAe4CA85A36920b4130A8DB9303a31abA64e3d2A8",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xae4ca85a36920b4130a8db9303a31aba64e3d2a8"
-      ]
-    },
-    {
-      "name": "SynthetixBridgeToBase",
-      "address": "0x3f87Ff1de58128eF8FCb4c807eFD776E1aC72E51",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x3f87ff1de58128ef8fcb4c807efd776e1ac72e51"
-      ]
-    },
-    {
-      "name": "SynthetixEscrow",
-      "address": "0x06C6D063896ac733673c4474E44d9268f2402A55",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x06c6d063896ac733673c4474e44d9268f2402a55"
-      ]
-    },
-    {
-      "name": "SynthetixState",
-      "address": "0x9770239D49Db97E77fc5Adcb5413654C9e45A510",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x9770239d49db97e77fc5adcb5413654c9e45a510"
-      ]
-    },
-    {
-      "name": "SynthsBTC",
-      "address": "0x6f1EE829627C8a544CB3e7AB296de386245C14a3",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x6f1ee829627c8a544cb3e7ab296de386245c14a3"
-      ]
-    },
-    {
-      "name": "SynthsETH",
-      "address": "0xE118737eB5F931FCeB663fACd3234B4169aC638A",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xe118737eb5f931fceb663facd3234b4169ac638a"
-      ]
-    },
-    {
-      "name": "SynthsLINK",
-      "address": "0x388dD240bFFA4047D85D1d6F3Dc814c054217a23",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x388dd240bffa4047d85d1d6f3dc814c054217a23"
-      ]
-    },
-    {
-      "name": "SynthsUSD",
-      "address": "0xF2FF43DA7B6e5963059b7004df43b5c5870EEb18",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xf2ff43da7b6e5963059b7004df43b5c5870eeb18"
-      ]
-    },
-    {
-      "name": "SystemSettings",
-      "address": "0x46D4504ed0f751309e3c6b1f544ad2E8458537Dc",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x46d4504ed0f751309e3c6b1f544ad2e8458537dc"
-      ]
-    },
-    {
-      "name": "SystemStatus",
-      "address": "0xf83c5f65dBef4017CD19Ae99b15E1B8649AdbEb4",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xf83c5f65dbef4017cd19ae99b15e1b8649adbeb4"
-      ]
-    },
-    {
-      "name": "TokenStateSynthetix",
-      "address": "0xB9c6CA25452E7f6D0D3340CE1e9B573421afc2eE",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xb9c6ca25452e7f6d0d3340ce1e9b573421afc2ee"
-      ]
-    },
-    {
-      "name": "TokenStatesBTC",
-      "address": "0xA9E630952522E3F110322711F424528Af894e307",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xa9e630952522e3f110322711f424528af894e307"
-      ]
-    },
-    {
-      "name": "TokenStatesETH",
-      "address": "0xEc3665F7e696b0Ad0D04Ae5161b18782D48cd1fd",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0xec3665f7e696b0ad0d04ae5161b18782d48cd1fd"
-      ]
-    },
-    {
-      "name": "TokenStatesLINK",
-      "address": "0x08a008eEA07d3cC7ca1913EEC3468C10F8F79e6A",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x08a008eea07d3cc7ca1913eec3468c10f8f79e6a"
-      ]
-    },
-    {
-      "name": "TokenStatesUSD",
-      "address": "0x92bAc115d89cA17fd02Ed9357CEcA32842ACB4c2",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x92bac115d89ca17fd02ed9357ceca32842acb4c2"
-      ]
-    },
-    {
-      "name": "TradingRewards",
-      "address": "0x2DcAD1A019fba8301b77810Ae14007cc88ED004B",
-      "chain": "optimism",
-      "version": "v2",
-      "type": "core",
-      "description": "-",
-      "explorers": [
-        "https://optimistic.etherscan.io/address/0x2dcad1a019fba8301b77810ae14007cc88ed004b"
-      ]
-    }
+    "name": "CollateralErc20",
+    "address": "0xaa03aB31b55DceEeF845C8d17890CC61cD98eD04",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xaa03ab31b55dceeef845c8d17890cc61cd98ed04"
+    ]
+  },
+  {
+    "name": "CollateralEth",
+    "address": "0x5c8344bcdC38F1aB5EB5C1d4a35DdEeA522B5DfA",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x5c8344bcdc38f1ab5eb5c1d4a35ddeea522b5dfa"
+    ]
+  },
+  {
+    "name": "CollateralManager",
+    "address": "0x067e398605E84F2D0aEEC1806e62768C5110DCc6",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x067e398605e84f2d0aeec1806e62768c5110dcc6"
+    ]
+  },
+  {
+    "name": "CollateralManagerState",
+    "address": "0x573E5105c4B92416D1544A188F1bf77d442Bb52d",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x573e5105c4b92416d1544a188f1bf77d442bb52d"
+    ]
+  },
+  {
+    "name": "CollateralShort",
+    "address": "0x1F2c3a1046c32729862fcB038369696e3273a516",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x1f2c3a1046c32729862fcb038369696e3273a516"
+    ]
+  },
+  {
+    "name": "CollateralStateErc20",
+    "address": "0x8A1A00Df7aA0102497C7591912bA8301e8dB8CdB",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x8a1a00df7aa0102497c7591912ba8301e8db8cdb"
+    ]
+  },
+  {
+    "name": "CollateralStateEth",
+    "address": "0xbe5B5a7c198bC156474ed5c33CBf2F3F604F8fF8",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xbe5b5a7c198bc156474ed5c33cbf2f3f604f8ff8"
+    ]
+  },
+  {
+    "name": "CollateralStateShort",
+    "address": "0x13A114a3Fa8A6CE03a0C5488BE9e614d78eDdb0c",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x13a114a3fa8a6ce03a0c5488be9e614d78eddb0c"
+    ]
+  },
+  {
+    "name": "DappMaintenance",
+    "address": "0xAb0B2f1Cf979cdbF4676251F35353eC5AF2732Dd",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xab0b2f1cf979cdbf4676251f35353ec5af2732dd"
+    ]
+  },
+  {
+    "name": "DebtCache",
+    "address": "0xe92B4c7428152052B0930c81F4c687a5F1A12292",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xe92b4c7428152052b0930c81f4c687a5f1a12292"
+    ]
+  },
+  {
+    "name": "DelegateApprovals",
+    "address": "0x15fd6e554874B9e70F832Ed37f231Ac5E142362f",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x15fd6e554874b9e70f832ed37f231ac5e142362f"
+    ]
+  },
+  {
+    "name": "DelegateApprovalsEternalStorage",
+    "address": "0x8F586F063ffbb89b186C8e604FC6614766f9C9d1",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x8f586f063ffbb89b186c8e604fc6614766f9c9d1"
+    ]
+  },
+  {
+    "name": "Depot",
+    "address": "0xE1f64079aDa6Ef07b03982Ca34f1dD7152AA3b86",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xe1f64079ada6ef07b03982ca34f1dd7152aa3b86"
+    ]
+  },
+  {
+    "name": "EscrowChecker",
+    "address": "0x3b399e00AFd8201ACf8A5a0EcCF1C47d8D5E41da",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x3b399e00afd8201acf8a5a0eccf1c47d8d5e41da"
+    ]
+  },
+  {
+    "name": "EternalStorageLiquidations",
+    "address": "0x0F7c200C4d3b5570C777764884Ce6DE67F31D3Ba",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x0f7c200c4d3b5570c777764884ce6de67f31d3ba"
+    ]
+  },
+  {
+    "name": "EtherWrapper",
+    "address": "0xC1AAE9d18bBe386B102435a8632C8063d31e747C",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc1aae9d18bbe386b102435a8632c8063d31e747c"
+    ]
+  },
+  {
+    "name": "ExchangeRates",
+    "address": "0xd69b189020EF614796578AfE4d10378c5e7e1138",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xd69b189020ef614796578afe4d10378c5e7e1138"
+    ]
+  },
+  {
+    "name": "ExchangeState",
+    "address": "0x545973f28950f50fc6c7F52AAb4Ad214A27C0564",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x545973f28950f50fc6c7f52aab4ad214a27c0564"
+    ]
+  },
+  {
+    "name": "Exchanger",
+    "address": "0x7634F2A1741a683ccda37Dce864c187F990D7B4b",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x7634f2a1741a683ccda37dce864c187f990d7b4b"
+    ]
+  },
+  {
+    "name": "FeePool",
+    "address": "0x510adfDF6E7554C571b7Cd9305Ce91473610015e",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x510adfdf6e7554c571b7cd9305ce91473610015e"
+    ]
+  },
+  {
+    "name": "FeePoolEternalStorage",
+    "address": "0xC9DFff5fA5605fd94F8B7927b892F2B57391e8bB",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc9dfff5fa5605fd94f8b7927b892f2b57391e8bb"
+    ]
+  },
+  {
+    "name": "FeePoolState",
+    "address": "0x11164F6a47C3f8472D19b9aDd516Fc780cb7Ee02",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x11164f6a47c3f8472d19b9add516fc780cb7ee02"
+    ]
+  },
+  {
+    "name": "FlexibleStorage",
+    "address": "0xc757aCBa3c0506218b3022266a9DC7F3612d85f5",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc757acba3c0506218b3022266a9dc7f3612d85f5"
+    ]
+  },
+  {
+    "name": "IssuanceEternalStorage",
+    "address": "0x631E93A0fb06B5eC6d52c0A2D89a3f9672d6Ba64",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x631e93a0fb06b5ec6d52c0a2d89a3f9672d6ba64"
+    ]
+  },
+  {
+    "name": "Issuer",
+    "address": "0x922C84B3894298296C34842D866BfC0d36C54778",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x922c84b3894298296c34842d866bfc0d36c54778"
+    ]
+  },
+  {
+    "name": "Liquidations",
+    "address": "0xAD95C918af576c82Df740878C3E983CBD175daB6",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xad95c918af576c82df740878c3e983cbd175dab6"
+    ]
+  },
+  {
+    "name": "Math",
+    "address": "0x385e1Eb2FF28F4A637DA2C9971F8CAF5F5b1E77c",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x385e1eb2ff28f4a637da2c9971f8caf5f5b1e77c"
+    ]
+  },
+  {
+    "name": "NativeEtherWrapper",
+    "address": "0x7A3d898b717e50a96fd8b232E9d15F0A547A7eeb",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x7a3d898b717e50a96fd8b232e9d15f0a547a7eeb"
+    ]
+  },
+  {
+    "name": "ProxyERC20",
+    "address": "0xC011a73ee8576Fb46F5E1c5751cA3B9Fe0af2a6F",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+    ]
+  },
+  {
+    "name": "ProxyERC20sUSD",
+    "address": "0x57Ab1ec28D129707052df4dF418D58a2D46d5f51",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x57ab1ec28d129707052df4df418d58a2d46d5f51"
+    ]
+  },
+  {
+    "name": "ProxyFeePool",
+    "address": "0xb440DD674e1243644791a4AdfE3A2AbB0A92d309",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xb440dd674e1243644791a4adfe3a2abb0a92d309"
+    ]
+  },
+  {
+    "name": "Use ProxyERC20",
+    "address": "0xC011A72400E58ecD99Ee497CF89E3775d4bd732F",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc011a72400e58ecd99ee497cf89e3775d4bd732f"
+    ]
+  },
+  {
+    "name": "ProxysAAVE",
+    "address": "0xd2dF355C19471c8bd7D8A3aa27Ff4e26A21b4076",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xd2df355c19471c8bd7d8a3aa27ff4e26a21b4076"
+    ]
+  },
+  {
+    "name": "ProxysADA",
+    "address": "0xe36E2D3c7c34281FA3bC737950a68571736880A1",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xe36e2d3c7c34281fa3bc737950a68571736880a1"
+    ]
+  },
+  {
+    "name": "ProxysAUD",
+    "address": "0xF48e200EAF9906362BB1442fca31e0835773b8B4",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xf48e200eaf9906362bb1442fca31e0835773b8b4"
+    ]
+  },
+  {
+    "name": "ProxysBTC",
+    "address": "0xfE18be6b3Bd88A2D2A7f928d00292E7a9963CfC6",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xfe18be6b3bd88a2d2a7f928d00292e7a9963cfc6"
+    ]
+  },
+  {
+    "name": "ProxysCHF",
+    "address": "0x0F83287FF768D1c1e17a42F44d644D7F22e8ee1d",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x0f83287ff768d1c1e17a42f44d644d7f22e8ee1d"
+    ]
+  },
+  {
+    "name": "ProxysDEFI",
+    "address": "0xe1aFe1Fd76Fd88f78cBf599ea1846231B8bA3B6B",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xe1afe1fd76fd88f78cbf599ea1846231b8ba3b6b"
+    ]
+  },
+  {
+    "name": "ProxysDOT",
+    "address": "0x1715AC0743102BF5Cd58EfBB6Cf2dC2685d967b6",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x1715ac0743102bf5cd58efbb6cf2dc2685d967b6"
+    ]
+  },
+  {
+    "name": "ProxysETH",
+    "address": "0x5e74C9036fb86BD7eCdcb084a0673EFc32eA31cb",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb"
+    ]
+  },
+  {
+    "name": "ProxysEUR",
+    "address": "0xD71eCFF9342A5Ced620049e616c5035F1dB98620",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xd71ecff9342a5ced620049e616c5035f1db98620"
+    ]
+  },
+  {
+    "name": "ProxysGBP",
+    "address": "0x97fe22E7341a0Cd8Db6F6C021A24Dc8f4DAD855F",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x97fe22e7341a0cd8db6f6c021a24dc8f4dad855f"
+    ]
+  },
+  {
+    "name": "ProxysJPY",
+    "address": "0xF6b1C627e95BFc3c1b4c9B825a032Ff0fBf3e07d",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xf6b1c627e95bfc3c1b4c9b825a032ff0fbf3e07d"
+    ]
+  },
+  {
+    "name": "ProxysKRW",
+    "address": "0x269895a3dF4D73b077Fc823dD6dA1B95f72Aaf9B",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x269895a3df4d73b077fc823dd6da1b95f72aaf9b"
+    ]
+  },
+  {
+    "name": "ProxysLINK",
+    "address": "0xbBC455cb4F1B9e4bFC4B73970d360c8f032EfEE6",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xbbc455cb4f1b9e4bfc4b73970d360c8f032efee6"
+    ]
+  },
+  {
+    "name": "Use ProxyERC20sUSD",
+    "address": "0x57Ab1E02fEE23774580C119740129eAC7081e9D3",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x57ab1e02fee23774580c119740129eac7081e9d3"
+    ]
+  },
+  {
+    "name": "ReadProxyAddressResolver",
+    "address": "0x4E3b31eB0E5CB73641EE1E65E7dCEFe520bA3ef2",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4e3b31eb0e5cb73641ee1e65e7dcefe520ba3ef2"
+    ]
+  },
+  {
+    "name": "RewardEscrow",
+    "address": "0xb671F2210B1F6621A2607EA63E6B2DC3e2464d1F",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xb671f2210b1f6621a2607ea63e6b2dc3e2464d1f"
+    ]
+  },
+  {
+    "name": "RewardEscrowV2",
+    "address": "0xDA4eF8520b1A57D7d63f1E249606D1A459698876",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xda4ef8520b1a57d7d63f1e249606d1a459698876"
+    ]
+  },
+  {
+    "name": "RewardsDistribution",
+    "address": "0x29C295B046a73Cde593f21f63091B072d407e3F2",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x29c295b046a73cde593f21f63091b072d407e3f2"
+    ]
+  },
+  {
+    "name": "SafeDecimalMath",
+    "address": "0x84D626B2BB4D0F064067e4BF80FCe7055d8F3E7B",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x84d626b2bb4d0f064067e4bf80fce7055d8f3e7b"
+    ]
+  },
+  {
+    "name": "ShortingRewardssBTC",
+    "address": "0xCed4055b47cfD0421f3727a35F69CE659c8bAF7a",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xced4055b47cfd0421f3727a35f69ce659c8baf7a"
+    ]
+  },
+  {
+    "name": "ShortingRewardssETH",
+    "address": "0x12DC1273915A16ab8BD47bA7866B240c253e4c12",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x12dc1273915a16ab8bd47ba7866b240c253e4c12"
+    ]
+  },
+  {
+    "name": "StakingRewardsSNXBalancer",
+    "address": "0xFBaEdde70732540cE2B11A8AC58Eb2dC0D69dE10",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xfbaedde70732540ce2b11a8ac58eb2dc0d69de10"
+    ]
+  },
+  {
+    "name": "StakingRewardsiBTC",
+    "address": "0x167009dcDA2e49930a71712D956f02cc980DcC1b",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x167009dcda2e49930a71712d956f02cc980dcc1b"
+    ]
+  },
+  {
+    "name": "StakingRewardsiETH",
+    "address": "0x3f27c540ADaE3a9E8c875C61e3B970b559d7F65d",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x3f27c540adae3a9e8c875c61e3b970b559d7f65d"
+    ]
+  },
+  {
+    "name": "StakingRewardssAAPLBalancer",
+    "address": "0x7af65f1740c0eB816A27FD808EaF6Ab09F6Fa646",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x7af65f1740c0eb816a27fd808eaf6ab09f6fa646"
+    ]
+  },
+  {
+    "name": "StakingRewardssAMZNBalancer",
+    "address": "0xDC338C7544654c7dadFEb7E44076E457963113B0",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xdc338c7544654c7dadfeb7e44076e457963113b0"
+    ]
+  },
+  {
+    "name": "StakingRewardssBTCCurve",
+    "address": "0x13C1542A468319688B89E323fe9A3Be3A90EBb27",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x13c1542a468319688b89e323fe9a3be3a90ebb27"
+    ]
+  },
+  {
+    "name": "StakingRewardssCOINBalancer",
+    "address": "0x1C1D97f6338759AB814a5A717aE359573Ab5D5d4",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x1c1d97f6338759ab814a5a717ae359573ab5d5d4"
+    ]
+  },
+  {
+    "name": "StakingRewardssETHUniswapV2",
+    "address": "0x48D7f315feDcaD332F68aafa017c7C158BC54760",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x48d7f315fedcad332f68aafa017c7c158bc54760"
+    ]
+  },
+  {
+    "name": "StakingRewardssEURCurve",
+    "address": "0xc0d8994Cd78eE1980885DF1A0C5470fC977b5cFe",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc0d8994cd78ee1980885df1a0c5470fc977b5cfe"
+    ]
+  },
+  {
+    "name": "StakingRewardssFBBalancer",
+    "address": "0x26Fa0665660c1D3a3666584669511d3c66Ad37Cb",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x26fa0665660c1d3a3666584669511d3c66ad37cb"
+    ]
+  },
+  {
+    "name": "StakingRewardssGOOGBalancer",
+    "address": "0x6fB7F0E78582746bd01BcB6dfbFE62cA5F4F9175",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x6fb7f0e78582746bd01bcb6dfbfe62ca5f4f9175"
+    ]
+  },
+  {
+    "name": "StakingRewardssMSFTBalancer",
+    "address": "0x9D003Cc298E7Ea141A809C241C0a703176DA3ba3",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x9d003cc298e7ea141a809c241c0a703176da3ba3"
+    ]
+  },
+  {
+    "name": "StakingRewardssNFLXBalancer",
+    "address": "0x8Ef8cA2AcAaAfEc19fB366C11561718357F780F2",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x8ef8ca2acaaafec19fb366c11561718357f780f2"
+    ]
+  },
+  {
+    "name": "StakingRewardssTSLABalancer",
+    "address": "0xF0de877F2F9E7A60767f9BA662F10751566AD01c",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xf0de877f2f9e7a60767f9ba662f10751566ad01c"
+    ]
+  },
+  {
+    "name": "StakingRewardssUSDCurve",
+    "address": "0xDCB6A51eA3CA5d3Fd898Fd6564757c7aAeC3ca92",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xdcb6a51ea3ca5d3fd898fd6564757c7aaec3ca92"
+    ]
+  },
+  {
+    "name": "StakingRewardssXAUUniswapV2",
+    "address": "0x8302FE9F0C509a996573D3Cc5B0D5D51e4FDD5eC",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x8302fe9f0c509a996573d3cc5b0d5d51e4fdd5ec"
+    ]
+  },
+  {
+    "name": "SupplySchedule",
+    "address": "0xA05e45396703BabAa9C276B5E5A9B6e2c175b521",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xa05e45396703babaa9c276b5e5a9b6e2c175b521"
+    ]
+  },
+  {
+    "name": "SynthRedeemer",
+    "address": "0xe533139Af961c9747356D947838c98451015e234",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xe533139af961c9747356d947838c98451015e234"
+    ]
+  },
+  {
+    "name": "SynthUtil",
+    "address": "0x81Aee4EA48f678E172640fB5813cf7A96AFaF6C3",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x81aee4ea48f678e172640fb5813cf7a96afaf6c3"
+    ]
+  },
+  {
+    "name": "Synthetix",
+    "address": "0x54f25546260C7539088982bcF4b7dC8EDEF19f21",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x54f25546260c7539088982bcf4b7dc8edef19f21"
+    ]
+  },
+  {
+    "name": "SynthetixBridgeEscrow",
+    "address": "0x5Fd79D46EBA7F351fe49BFF9E87cdeA6c821eF9f",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x5fd79d46eba7f351fe49bff9e87cdea6c821ef9f"
+    ]
+  },
+  {
+    "name": "SynthetixBridgeToOptimism",
+    "address": "0xCd9D4988C0AE61887B075bA77f08cbFAd2b65068",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xcd9d4988c0ae61887b075ba77f08cbfad2b65068"
+    ]
+  },
+  {
+    "name": "SynthetixEscrow",
+    "address": "0x971e78e0C92392A4E39099835cF7E6aB535b2227",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x971e78e0c92392a4e39099835cf7e6ab535b2227"
+    ]
+  },
+  {
+    "name": "SynthetixState",
+    "address": "0x4b9Ca5607f1fF8019c1C6A3c2f0CC8de622D5B82",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4b9ca5607f1ff8019c1c6a3c2f0cc8de622d5b82"
+    ]
+  },
+  {
+    "name": "SynthsAAVE",
+    "address": "0xaB38249f4f56Ef868F6b5E01D9cFa26B952c1270",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xab38249f4f56ef868f6b5e01d9cfa26b952c1270"
+    ]
+  },
+  {
+    "name": "SynthsADA",
+    "address": "0xC22e51FA362654ea453B4018B616ef6f6ab3b779",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc22e51fa362654ea453b4018b616ef6f6ab3b779"
+    ]
+  },
+  {
+    "name": "SynthsAUD",
+    "address": "0x37B648a07476F4941D3D647f81118AFd55fa8a04",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x37b648a07476f4941d3d647f81118afd55fa8a04"
+    ]
+  },
+  {
+    "name": "SynthsBTC",
+    "address": "0xC8a5f06858a1B49A7F703EacD433A1444a5e5bd9",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc8a5f06858a1b49a7f703eacd433a1444a5e5bd9"
+    ]
+  },
+  {
+    "name": "SynthsCHF",
+    "address": "0xcf9bB94b5d65589039607BA66e3DAC686d3eFf01",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xcf9bb94b5d65589039607ba66e3dac686d3eff01"
+    ]
+  },
+  {
+    "name": "SynthsDEFI",
+    "address": "0x46A7Af405093B27DA6DeF193C508Bd9240A255FA",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x46a7af405093b27da6def193c508bd9240a255fa"
+    ]
+  },
+  {
+    "name": "SynthsDOT",
+    "address": "0xfD0435A588BF5c5a6974BA19Fa627b772833d4eb",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xfd0435a588bf5c5a6974ba19fa627b772833d4eb"
+    ]
+  },
+  {
+    "name": "SynthsETH",
+    "address": "0xCFA46B4923c0E75B7b84E9FBde70ED26feFefBf6",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xcfa46b4923c0e75b7b84e9fbde70ed26fefefbf6"
+    ]
+  },
+  {
+    "name": "SynthsEUR",
+    "address": "0xC61b352fCc311Ae6B0301459A970150005e74b3E",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xc61b352fcc311ae6b0301459a970150005e74b3e"
+    ]
+  },
+  {
+    "name": "SynthsGBP",
+    "address": "0xEF285D339c91aDf1dD7DE0aEAa6250805FD68258",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xef285d339c91adf1dd7de0aeaa6250805fd68258"
+    ]
+  },
+  {
+    "name": "SynthsJPY",
+    "address": "0x388fD1A8a7d36e03eFA1ab100a1c5159a3A3d427",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x388fd1a8a7d36e03efa1ab100a1c5159a3a3d427"
+    ]
+  },
+  {
+    "name": "SynthsKRW",
+    "address": "0xCeC4e038371d32212C6Dcdf36Fdbcb6F8a34C6d8",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xcec4e038371d32212c6dcdf36fdbcb6f8a34c6d8"
+    ]
+  },
+  {
+    "name": "SynthsLINK",
+    "address": "0xcd980Fc5CcdAe62B18A52b83eC64200121A929db",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xcd980fc5ccdae62b18a52b83ec64200121a929db"
+    ]
+  },
+  {
+    "name": "SynthsUSD",
+    "address": "0x967968963517AFDC9b8Ccc9AD6649bC507E83a7b",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x967968963517afdc9b8ccc9ad6649bc507e83a7b"
+    ]
+  },
+  {
+    "name": "SystemSettings",
+    "address": "0xD3C8d372bFCd36c2B452639a7ED6ef7dbFDC56F8",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xd3c8d372bfcd36c2b452639a7ed6ef7dbfdc56f8"
+    ]
+  },
+  {
+    "name": "SystemStatus",
+    "address": "0x1c86B3CDF2a60Ae3a574f7f71d44E2C50BDdB87E",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x1c86b3cdf2a60ae3a574f7f71d44e2c50bddb87e"
+    ]
+  },
+  {
+    "name": "TokenStateSynthetix",
+    "address": "0x5b1b5fEa1b99D83aD479dF0C222F0492385381dD",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x5b1b5fea1b99d83ad479df0c222f0492385381dd"
+    ]
+  },
+  {
+    "name": "TokenStatesAAVE",
+    "address": "0x9BcED8A8E3Ad81c9b146FFC880358f734A06f7c0",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x9bced8a8e3ad81c9b146ffc880358f734a06f7c0"
+    ]
+  },
+  {
+    "name": "TokenStatesADA",
+    "address": "0x9956c5019a24fbd5B506AD070b771577bAc5c343",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x9956c5019a24fbd5b506ad070b771577bac5c343"
+    ]
+  },
+  {
+    "name": "TokenStatesAUD",
+    "address": "0xCb29D2cf2C65d3Be1d00F07f3441390432D55203",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xcb29d2cf2c65d3be1d00f07f3441390432d55203"
+    ]
+  },
+  {
+    "name": "TokenStatesBTC",
+    "address": "0x4F6296455F8d754c19821cF1EC8FeBF2cD456E67",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4f6296455f8d754c19821cf1ec8febf2cd456e67"
+    ]
+  },
+  {
+    "name": "TokenStatesCHF",
+    "address": "0x52496fE8a4feaEFe14d9433E00D48E6929c13deC",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x52496fe8a4feaefe14d9433e00d48e6929c13dec"
+    ]
+  },
+  {
+    "name": "TokenStatesDEFI",
+    "address": "0x7Ac2D37098a65B0f711CFfA3be635F1E6aCacFaB",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x7ac2d37098a65b0f711cffa3be635f1e6acacfab"
+    ]
+  },
+  {
+    "name": "TokenStatesDOT",
+    "address": "0x73B1a2643507Cd30F11Dfcf2D974f4373E5BC077",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x73b1a2643507cd30f11dfcf2d974f4373e5bc077"
+    ]
+  },
+  {
+    "name": "TokenStatesETH",
+    "address": "0x34A5ef81d18F3a305aE9C2d7DF42beef4c79031c",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x34a5ef81d18f3a305ae9c2d7df42beef4c79031c"
+    ]
+  },
+  {
+    "name": "TokenStatesEUR",
+    "address": "0x6568D9e750fC44AF00f857885Dfb8281c00529c4",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x6568d9e750fc44af00f857885dfb8281c00529c4"
+    ]
+  },
+  {
+    "name": "TokenStatesGBP",
+    "address": "0x7e88D19A79b291cfE5696d496055f7e57F537A75",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x7e88d19a79b291cfe5696d496055f7e57f537a75"
+    ]
+  },
+  {
+    "name": "TokenStatesJPY",
+    "address": "0x4dFACfB15514C21c991ff75Bc7Bf6Fb1F98361ed",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4dfacfb15514c21c991ff75bc7bf6fb1f98361ed"
+    ]
+  },
+  {
+    "name": "TokenStatesKRW",
+    "address": "0x93B6e9FbBd2c32a0DC3C2B943B7C3CBC2fE23730",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x93b6e9fbbd2c32a0dc3c2b943b7c3cbc2fe23730"
+    ]
+  },
+  {
+    "name": "TokenStatesLINK",
+    "address": "0x577D4a7395c6A5f46d9981a5F83fa7294926aBB0",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x577d4a7395c6a5f46d9981a5f83fa7294926abb0"
+    ]
+  },
+  {
+    "name": "TokenStatesUSD",
+    "address": "0x05a9CBe762B36632b3594DA4F082340E0e5343e8",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x05a9cbe762b36632b3594da4f082340e0e5343e8"
+    ]
+  },
+  {
+    "name": "TradingRewards",
+    "address": "0x62922670313bf6b41C580143d1f6C173C5C20019",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x62922670313bf6b41c580143d1f6c173c5c20019"
+    ]
+  },
+  {
+    "name": "VirtualSynthMastercopy",
+    "address": "0xf02ce48fD47D7FA1B7a45a0444805d320D035775",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xf02ce48fd47d7fa1b7a45a0444805d320d035775"
+    ]
+  },
+  {
+    "name": "AddressResolver",
+    "address": "0x95A6a3f44a70172E7d50a9e28c85Dfd712756B8C",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x95a6a3f44a70172e7d50a9e28c85dfd712756b8c"
+    ]
+  },
+  {
+    "name": "CollateralManager",
+    "address": "0x70B21B422Dade467659522892A857F0Ee31cebb4",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x70b21b422dade467659522892a857f0ee31cebb4"
+    ]
+  },
+  {
+    "name": "DappMaintenance",
+    "address": "0x54581A23F62D147AC76d454f0b3eF77F9D766058",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x54581a23f62d147ac76d454f0b3ef77f9d766058"
+    ]
+  },
+  {
+    "name": "DebtCache",
+    "address": "0x8be60b5031C0686e48a079C81822173bFa1268DA",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x8be60b5031c0686e48a079c81822173bfa1268da"
+    ]
+  },
+  {
+    "name": "DelegateApprovals",
+    "address": "0x2A23bc0EA97A89abD91214E8e4d20F02Fe14743f",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x2a23bc0ea97a89abd91214e8e4d20f02fe14743f"
+    ]
+  },
+  {
+    "name": "DelegateApprovalsEternalStorage",
+    "address": "0x02f7fB66B55e6ca476d126d96f14c5732Eeb4363",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x02f7fb66b55e6ca476d126d96f14c5732eeb4363"
+    ]
+  },
+  {
+    "name": "EscrowChecker",
+    "address": "0xcdb7D0a946223255d39A6e29B54f08f3291cc118",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xcdb7d0a946223255d39a6e29b54f08f3291cc118"
+    ]
+  },
+  {
+    "name": "EternalStorageLiquidations",
+    "address": "0x76d2de36936005A0182a1BB61dA501A8A044D477",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x76d2de36936005a0182a1bb61da501a8a044d477"
+    ]
+  },
+  {
+    "name": "EtherCollateral",
+    "address": "0xC8E91c926E04BE1cb94e51c5379d14774D51ae6C",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xc8e91c926e04be1cb94e51c5379d14774d51ae6c"
+    ]
+  },
+  {
+    "name": "EtherCollateralsUSD",
+    "address": "0xC0c66470E766AE2026E6695966C56C90741811AA",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xc0c66470e766ae2026e6695966c56c90741811aa"
+    ]
+  },
+  {
+    "name": "EtherWrapper",
+    "address": "0xc3Ee42caBD773A608fa9Ec951982c94BD6F33d59",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xc3ee42cabd773a608fa9ec951982c94bd6f33d59"
+    ]
+  },
+  {
+    "name": "ExchangeRates",
+    "address": "0x631E93A0fb06B5eC6d52c0A2D89a3f9672d6Ba64",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x631e93a0fb06b5ec6d52c0a2d89a3f9672d6ba64"
+    ]
+  },
+  {
+    "name": "ExchangeState",
+    "address": "0x7EF87c14f50CFFe2e73d2C87916C3128c56593A8",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x7ef87c14f50cffe2e73d2c87916c3128c56593a8"
+    ]
+  },
+  {
+    "name": "Exchanger",
+    "address": "0x395eC94bf3E3dCd3aFBd82cd03197731411E396B",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x395ec94bf3e3dcd3afbd82cd03197731411e396b"
+    ]
+  },
+  {
+    "name": "FeePool",
+    "address": "0xF950a48E9463a13b13D75F452200E711c1c426b6",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xf950a48e9463a13b13d75f452200e711c1c426b6"
+    ]
+  },
+  {
+    "name": "FeePoolEternalStorage",
+    "address": "0x41140Bf6498a36f2E44eFd49f21dAe3bbb7367c8",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x41140bf6498a36f2e44efd49f21dae3bbb7367c8"
+    ]
+  },
+  {
+    "name": "FeePoolState",
+    "address": "0x6e0d26cffc3a63d763F1546f749bf62ebC7d72D8",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x6e0d26cffc3a63d763f1546f749bf62ebc7d72d8"
+    ]
+  },
+  {
+    "name": "FlexibleStorage",
+    "address": "0x47649022380d182DA8010Ae5d257fea4227b21ff",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x47649022380d182da8010ae5d257fea4227b21ff"
+    ]
+  },
+  {
+    "name": "Issuer",
+    "address": "0x8377b25B8564f6Be579865639776c5082CB37163",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x8377b25b8564f6be579865639776c5082cb37163"
+    ]
+  },
+  {
+    "name": "Liquidations",
+    "address": "0x14E6f8e6Da00a32C069b11b64e48EA1FEF2361D4",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x14e6f8e6da00a32c069b11b64e48ea1fef2361d4"
+    ]
+  },
+  {
+    "name": "Math",
+    "address": "0x0B3A73EE0740b3130e40B2A6b5aaf59E7E3Ef74c",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x0b3a73ee0740b3130e40b2a6b5aaf59e7e3ef74c"
+    ]
+  },
+  {
+    "name": "ProxyERC20",
+    "address": "0x8700dAec35aF8Ff88c16BdF0418774CB3D7599B4",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x8700daec35af8ff88c16bdf0418774cb3d7599b4"
+    ]
+  },
+  {
+    "name": "ProxyERC20sUSD",
+    "address": "0x8c6f28f2F1A3C87F0f938b96d27520d9751ec8d9",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9"
+    ]
+  },
+  {
+    "name": "ProxyFeePool",
+    "address": "0x4a16A42407AA491564643E1dfc1fd50af29794eF",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x4a16a42407aa491564643e1dfc1fd50af29794ef"
+    ]
+  },
+  {
+    "name": "Use ProxyERC20",
+    "address": "0x218067172e9E0460A883458D44BD1f56ea609502",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x218067172e9e0460a883458d44bd1f56ea609502"
+    ]
+  },
+  {
+    "name": "ProxysBTC",
+    "address": "0x298B9B95708152ff6968aafd889c6586e9169f1D",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x298b9b95708152ff6968aafd889c6586e9169f1d"
+    ]
+  },
+  {
+    "name": "ProxysETH",
+    "address": "0xE405de8F52ba7559f9df3C368500B6E6ae6Cee49",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xe405de8f52ba7559f9df3c368500b6e6ae6cee49"
+    ]
+  },
+  {
+    "name": "ProxysLINK",
+    "address": "0xc5Db22719A06418028A40A9B5E9A7c02959D0d08",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xc5db22719a06418028a40a9b5e9a7c02959d0d08"
+    ]
+  },
+  {
+    "name": "Use ProxyERC20sUSD",
+    "address": "0xbecc58c6D7Ca71b6FCC4cC8c9c5294A0eA7A0397",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xbecc58c6d7ca71b6fcc4cc8c9c5294a0ea7a0397"
+    ]
+  },
+  {
+    "name": "ReadProxyAddressResolver",
+    "address": "0x1Cb059b7e74fD21665968C908806143E744D5F30",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x1cb059b7e74fd21665968c908806143e744d5f30"
+    ]
+  },
+  {
+    "name": "RewardEscrow",
+    "address": "0xd32138018210edA0028240638f35b70ECC0D8C22",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xd32138018210eda0028240638f35b70ecc0d8c22"
+    ]
+  },
+  {
+    "name": "RewardEscrowV2",
+    "address": "0x47eE58801C1AC44e54FF2651aE50525c5cfc66d0",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x47ee58801c1ac44e54ff2651ae50525c5cfc66d0"
+    ]
+  },
+  {
+    "name": "RewardsDistribution",
+    "address": "0x5d9187630E99dBce4BcAB8733B76757f7F44aA2e",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x5d9187630e99dbce4bcab8733b76757f7f44aa2e"
+    ]
+  },
+  {
+    "name": "SafeDecimalMath",
+    "address": "0x0142F40c25CE1F1177Ed131101FA19217396cB88",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x0142f40c25ce1f1177ed131101fa19217396cb88"
+    ]
+  },
+  {
+    "name": "SynthUtil",
+    "address": "0x87b1481c82913301Fc6c884Ac266a7c430F92cFA",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x87b1481c82913301fc6c884ac266a7c430f92cfa"
+    ]
+  },
+  {
+    "name": "Synthetix",
+    "address": "0xAe4CA85A36920b4130A8DB9303a31abA64e3d2A8",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xae4ca85a36920b4130a8db9303a31aba64e3d2a8"
+    ]
+  },
+  {
+    "name": "SynthetixBridgeToBase",
+    "address": "0x3f87Ff1de58128eF8FCb4c807eFD776E1aC72E51",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x3f87ff1de58128ef8fcb4c807efd776e1ac72e51"
+    ]
+  },
+  {
+    "name": "SynthetixEscrow",
+    "address": "0x06C6D063896ac733673c4474E44d9268f2402A55",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x06c6d063896ac733673c4474e44d9268f2402a55"
+    ]
+  },
+  {
+    "name": "SynthetixState",
+    "address": "0x9770239D49Db97E77fc5Adcb5413654C9e45A510",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x9770239d49db97e77fc5adcb5413654c9e45a510"
+    ]
+  },
+  {
+    "name": "SynthsBTC",
+    "address": "0x6f1EE829627C8a544CB3e7AB296de386245C14a3",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x6f1ee829627c8a544cb3e7ab296de386245c14a3"
+    ]
+  },
+  {
+    "name": "SynthsETH",
+    "address": "0xE118737eB5F931FCeB663fACd3234B4169aC638A",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xe118737eb5f931fceb663facd3234b4169ac638a"
+    ]
+  },
+  {
+    "name": "SynthsLINK",
+    "address": "0x388dD240bFFA4047D85D1d6F3Dc814c054217a23",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x388dd240bffa4047d85d1d6f3dc814c054217a23"
+    ]
+  },
+  {
+    "name": "SynthsUSD",
+    "address": "0xF2FF43DA7B6e5963059b7004df43b5c5870EEb18",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xf2ff43da7b6e5963059b7004df43b5c5870eeb18"
+    ]
+  },
+  {
+    "name": "SystemSettings",
+    "address": "0x46D4504ed0f751309e3c6b1f544ad2E8458537Dc",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x46d4504ed0f751309e3c6b1f544ad2e8458537dc"
+    ]
+  },
+  {
+    "name": "SystemStatus",
+    "address": "0xf83c5f65dBef4017CD19Ae99b15E1B8649AdbEb4",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xf83c5f65dbef4017cd19ae99b15e1b8649adbeb4"
+    ]
+  },
+  {
+    "name": "TokenStateSynthetix",
+    "address": "0xB9c6CA25452E7f6D0D3340CE1e9B573421afc2eE",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xb9c6ca25452e7f6d0d3340ce1e9b573421afc2ee"
+    ]
+  },
+  {
+    "name": "TokenStatesBTC",
+    "address": "0xA9E630952522E3F110322711F424528Af894e307",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xa9e630952522e3f110322711f424528af894e307"
+    ]
+  },
+  {
+    "name": "TokenStatesETH",
+    "address": "0xEc3665F7e696b0Ad0D04Ae5161b18782D48cd1fd",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0xec3665f7e696b0ad0d04ae5161b18782d48cd1fd"
+    ]
+  },
+  {
+    "name": "TokenStatesLINK",
+    "address": "0x08a008eEA07d3cC7ca1913EEC3468C10F8F79e6A",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x08a008eea07d3cc7ca1913eec3468c10f8f79e6a"
+    ]
+  },
+  {
+    "name": "TokenStatesUSD",
+    "address": "0x92bAc115d89cA17fd02Ed9357CEcA32842ACB4c2",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x92bac115d89ca17fd02ed9357ceca32842acb4c2"
+    ]
+  },
+  {
+    "name": "TradingRewards",
+    "address": "0x2DcAD1A019fba8301b77810Ae14007cc88ED004B",
+    "chain": "optimism",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://optimistic.etherscan.io/address/0x2dcad1a019fba8301b77810ae14007cc88ed004b"
+    ]
+  }
 ]
