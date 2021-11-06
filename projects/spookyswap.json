@@ -33,7 +33,7 @@
     ]
   },
   {
-    "name": "BOO token",
+    "name": "BOO",
     "address": "0x841FAD6EAe12c286d1Fd18d1d525DFfA75C7EFFE",
     "chain": "fantom",
     "version": "v1",
@@ -44,7 +44,7 @@
     ]
   },
   {
-    "name": "BOO token (on Ethereum)",
+    "name": "BOO (on Ethereum)",
     "address": "0x55af5865807b196bd0197e0902746f31fbccfa58",
     "chain": "ethereum",
     "version": "v1",
@@ -71,7 +71,7 @@
     "chain": "fantom",
     "version": "v1",
     "type": "core",
-    "description": "-",
+    "description": "Handles rewards for xBoo holders by trading tokens collected from fees for Boo",
     "explorers": [
       "https://ftmscan.com/address/0x7f41312b5d2d31d49482f31c9a53e6485df37e1d"
     ]
@@ -82,9 +82,20 @@
     "chain": "fantom",
     "version": "v1",
     "type": "core",
-    "description": "-",
+    "description": "Contract involved in xBOO staking",
     "explorers": [
       "https://ftmscan.com/address/0x2352b745561e7e6fcd03c093ce7220e3e126ace0"
+    ]
+  },
+  {
+    "name": "Magicats (MGC)",
+    "address": "0x2aB5C606a5AA2352f8072B9e2E8A213033e2c4c9",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Token address of Magicats (MGC) NFT collection",
+    "explorers": [
+      "https://ftmscan.com/address/0x2ab5c606a5aa2352f8072b9e2e8a213033e2c4c9"
     ]
   },
   {
@@ -99,4 +110,3 @@
     ]
   }
 ]
-  
