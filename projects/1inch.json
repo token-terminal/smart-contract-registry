@@ -60,7 +60,7 @@
     "chain": "ethereum",
     "version": "v1",
     "type": "governance",
-    "description": "Module in Governance that allows to vote. Controls how much percent will go to leftover reward and how much will go to referal.",
+    "description": "Module in Governance that allows to vote. Controls how much percent will go to leftover reward and how much will go to referral.",
     "explorers": [
       "https://etherscan.io/address/0xd5c5c41248f949fce678a7f1619bcea7872c93ef"
     ]
@@ -71,7 +71,7 @@
     "chain": "ethereum",
     "version": "v1",
     "type": "core",
-    "description": "Contract receives LP tokens (share tokens) and converts them into governance reward or referal rewards. The contract interacts with both the Governance and the Liquidity Protocol.",
+    "description": "Contract receives LP tokens (share tokens) and converts them into governance reward or referral rewards. The contract interacts with both the Governance and the Liquidity Protocol.",
     "explorers": [
       "https://etherscan.io/address/0x2eea44e40930b1984f42078e836c659a12301e40"
     ]
