@@ -2,7 +2,7 @@
   {
     "name": "Factory",
     "address": "0x86407bEa2078ea5f5EB5A52B2caA963bC1F889Da",
-    "chain": "binance smart chain",
+    "chain": "bsc",
     "version": "v1",
     "type": "core",
     "description": "Deploys BabySwap pools",
@@ -13,7 +13,7 @@
   {
     "name": "Main Staking Contract/MasterChef",
     "address": "0xdfAa0e08e357dB0153927C7EaBB492d1F60aC730",
-    "chain": "binance smart chain",
+    "chain": "bsc",
     "version": "v1",
     "type": "core",
     "description": "Enables minting new BABY tokens and for LPs to receive liquidity mining rewards",
@@ -24,7 +24,7 @@
   {
     "name": "Router",
     "address": "0x325E343f1dE602396E256B67eFd1F61C3A6B38Bd",
-    "chain": "binance smart chain",
+    "chain": "bsc",
     "version": "v1",
     "type": "core",
     "description": "Supports trading and liquidity management tasks",
@@ -35,12 +35,23 @@
   {
     "name": "BABY token",
     "address": "0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657",
-    "chain": "binance smart chain",
+    "chain": "bsc",
     "version": "v1",
     "type": "governance",
     "description": "BabySwap (BABY) governance token",
     "explorers": [
       "https://www.bscscan.com/token/0x53e562b9b7e5e94b81f10e96ee70ad06df3d2657"
+    ]
+  },
+  {
+    "name": "BABY-USDT Pair",
+    "address": "0xE730C7B7470447AD4886c763247012DfD233bAfF",
+    "chain": "bsc",
+    "version": "v1",
+    "type": "core",
+    "description": "Example of a BabySwap farm (BABY-USDT)",
+    "explorers": [
+      "https://www.bscscan.com/token/0xe730c7b7470447ad4886c763247012dfd233baff"
     ]
   }
 ]
