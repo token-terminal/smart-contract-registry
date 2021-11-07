@@ -27,7 +27,7 @@
     "chain": "avalanche",
     "version": "v3",
     "type": "governance",
-    "description": "Logic for distribuiton of token rewards",
+    "description": "Logic for distribution of token rewards",
     "explorers": [
       "https://avascan.info/blockchain/c/address/0xf530a090ef6481cfb33f98c63532e7745abab58a"
     ]
@@ -71,7 +71,7 @@
     "chain": "bsc",
     "version": "v3",
     "type": "governance",
-    "description": "Logic for distribuiton of token rewards",
+    "description": "Logic for distribution of token rewards",
     "explorers": [
       "https://bscscan.com/address/0xfab5186a194588f5ad5074bd52659302906b4522"
     ]
@@ -126,7 +126,7 @@
     "chain": "ethereum",
     "version": "v3",
     "type": "governance",
-    "description": "Logic for distribuiton of token rewards",
+    "description": "Logic for distribution of token rewards",
     "explorers": [
       "https://etherscan.io/address/0xfab5186a194588f5ad5074bd52659302906b4522"
     ]
@@ -192,7 +192,7 @@
     "chain": "polygon",
     "version": "v3",
     "type": "governance",
-    "description": "Logic for distribuiton of token rewards",
+    "description": "Logic for distribution of token rewards",
     "explorers": [
       "https://polygonscan.com/address/0x063dd8b5a42aae93a014ce5fabb5b70474667961"
     ]
