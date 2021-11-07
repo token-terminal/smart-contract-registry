@@ -1,0 +1,200 @@
+[
+  {
+    "name": "DMMFactory",
+    "address": "0x10908C875D865C66f271F5d3949848971c9595C9",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "Creates the pools on Kyber DMM",
+    "explorers": [
+      "https://avascan.info/blockchain/c/address/0x10908c875d865c66f271f5d3949848971c9595c9"
+    ]
+  },
+  {
+    "name": "DMMRouter02",
+    "address": "0x8Efa5A9AD6D594Cf76830267077B78cE0Bc5A5F8",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "core",
+    "description": "For liquidity provision, querying token rates and executing token swaps",
+    "explorers": [
+      "https://avascan.info/blockchain/c/address/0x8efa5a9ad6d594cf76830267077b78ce0bc5a5f8"
+    ]
+  },
+  {
+    "name": "RewardLocker",
+    "address": "0xf530a090EF6481cfB33F98c63532E7745abab58A",
+    "chain": "avalanche",
+    "version": "v3",
+    "type": "governance",
+    "description": "Logic for distribution of token rewards",
+    "explorers": [
+      "https://avascan.info/blockchain/c/address/0xf530a090ef6481cfb33f98c63532e7745abab58a"
+    ]
+  },
+  {
+    "name": "DMMFactory",
+    "address": "0x878dFE971d44e9122048308301F540910Bbd934c",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "core",
+    "description": "Creates the pools on Kyber DMM",
+    "explorers": [
+      "https://bscscan.com/address/0x878dfe971d44e9122048308301f540910bbd934c"
+    ]
+  },
+  {
+    "name": "DMMRouter02",
+    "address": "0x78df70615ffc8066cc0887917f2Cd72092C86409",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "core",
+    "description": "For liquidity provision, querying token rates and executing token swaps",
+    "explorers": [
+      "https://bscscan.com/address/0x78df70615ffc8066cc0887917f2cd72092c86409"
+    ]
+  },
+  {
+    "name": "KNC token",
+    "address": "0xfe56d5892BDffC7BF58f2E84BE1b2C32D21C308b",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "governance",
+    "description": "Wrapped version of the KNC governance token on Ethereum",
+    "explorers": [
+      "https://bscscan.com/address/0xfe56d5892bdffc7bf58f2e84be1b2c32d21c308b"
+    ]
+  },
+  {
+    "name": "RewardLocker",
+    "address": "0xfab5186A194588F5AD5074Bd52659302906B4522",
+    "chain": "bsc",
+    "version": "v3",
+    "type": "governance",
+    "description": "Logic for distribution of token rewards",
+    "explorers": [
+      "https://bscscan.com/address/0xfab5186a194588f5ad5074bd52659302906b4522"
+    ]
+  },
+  {
+    "name": "DMMFactory",
+    "address": "0x833e4083B7ae46CeA85695c4f7ed25CDAd8886dE",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Creates the pools on Kyber DMM",
+    "explorers": [
+      "https://etherscan.io/address/0x833e4083b7ae46cea85695c4f7ed25cdad8886de"
+    ]
+  },
+  {
+    "name": "DMMRouter02",
+    "address": "0x1c87257F5e8609940Bc751a07BB085Bb7f8cDBE6",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "For liquidity provision, querying token rates and executing token swaps",
+    "explorers": [
+      "https://etherscan.io/address/0x1c87257f5e8609940bc751a07bb085bb7f8cdbe6"
+    ]
+  },
+  {
+    "name": "Migrator",
+    "address": "0x6A65e062cE8290007301296F3C6AE446Af7BDEeC",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for migrating liquidity to DMM pools",
+    "explorers": [
+      "https://etherscan.io/address/0x6a65e062ce8290007301296f3c6ae446af7bdeec"
+    ]
+  },
+  {
+    "name": "KNC",
+    "address": "0xdeFA4e8a7bcBA345F687a2f1456F5Edd9CE97202",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Logic for KNC governance token",
+    "explorers": [
+      "https://etherscan.io/address/0xdefa4e8a7bcba345f687a2f1456f5edd9ce97202"
+    ]
+  },
+  {
+    "name": "RewardLocker",
+    "address": "0xfab5186A194588F5AD5074Bd52659302906B4522",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Logic for distribution of token rewards",
+    "explorers": [
+      "https://etherscan.io/address/0xfab5186a194588f5ad5074bd52659302906b4522"
+    ]
+  },
+  {
+    "name": "DMMFactory",
+    "address": "0x78df70615ffc8066cc0887917f2Cd72092C86409",
+    "chain": "fantom",
+    "version": "v3",
+    "type": "core",
+    "description": "Creates the pools on Kyber DMM",
+    "explorers": [
+      "https://ftmscan.com/address/0x78df70615ffc8066cc0887917f2cd72092c86409"
+    ]
+  },
+  {
+    "name": "DMMRouter02",
+    "address": "0x5d5A5a0a465129848c2549669e12cDC2f8DE039A",
+    "chain": "fantom",
+    "version": "v3",
+    "type": "core",
+    "description": "For liquidity provision, querying token rates and executing token swaps",
+    "explorers": [
+      "https://ftmscan.com/address/0x5d5a5a0a465129848c2549669e12cdc2f8de039a"
+    ]
+  },
+  {
+    "name": "DMMFactory",
+    "address": "0x5F1fe642060B5B9658C15721Ea22E982643c095c",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "core",
+    "description": "Creates the pools on Kyber DMM",
+    "explorers": [
+      "https://polygonscan.com/address/0x5f1fe642060b5b9658c15721ea22e982643c095c"
+    ]
+  },
+  {
+    "name": "DMMRouter02",
+    "address": "0x546C79662E028B661dFB4767664d0273184E4dD1",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "core",
+    "description": "For liquidity provision, querying token rates and executing token swaps",
+    "explorers": [
+      "https://polygonscan.com/address/0x546c79662e028b661dfb4767664d0273184e4dd1"
+    ]
+  },
+  {
+    "name": "KNC token",
+    "address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "governance",
+    "description": "Wrapped version of the KNC governance token on Ethereum",
+    "explorers": [
+      "https://polygonscan.com/address/0x1c954e8fe737f99f68fa1ccda3e51ebdb291948c"
+    ]
+  },
+  {
+    "name": "RewardLocker",
+    "address": "0x063DD8b5a42AaE93a014ce5FAbB5B70474667961",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "governance",
+    "description": "Logic for distribution of token rewards",
+    "explorers": [
+      "https://polygonscan.com/address/0x063dd8b5a42aae93a014ce5fabb5b70474667961"
+    ]
+  }
+]
