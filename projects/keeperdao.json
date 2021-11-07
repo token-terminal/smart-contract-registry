@@ -44,7 +44,7 @@
     ]
   },
   {
-    "name": "LiquidityPool Rewards Contract",
+    "name": "Liquidity Pool Rewards",
     "address": "0x9Bc9BDfe0843f44cF0878700501bB9142CDad2B8",
     "chain": "ethereum",
     "version": "v1",
@@ -115,7 +115,7 @@
     "chain": "ethereum",
     "version": "v1",
     "type": "core",
-    "description": "Includes staked tokens  in kETH, kWETH, kRENBTC, kUSDC, and kDAI",
+    "description": "Includes staked tokens in kETH, kWETH, kRENBTC, kUSDC, and kDAI",
     "explorers": [
       "https://etherscan.io/address/0x9a67f1940164d0318612b497e8e6038f902a00a4"
     ]
@@ -126,7 +126,7 @@
     "chain": "ethereum",
     "version": "v1",
     "type": "core",
-    "description": "current LP for DAI, USDC, renBTC, ETH, WETH",
+    "description": "Current LP for DAI, USDC, renBTC, ETH, WETH",
     "explorers": [
       "https://etherscan.io/address/0x4f868c1aa37fcf307ab38d215382e88fca6275e2"
     ]
