@@ -70,7 +70,7 @@
     "address": "​0xAdaF18d79f316005542da4eCb1624B59c4e6e398​",
     "chain": "avalanche",
     "version": "v1",
-    "type": "core",
+    "type": "governance",
     "description": "-",
     "explorers": [
       "https://cchain.explorer.avax.network/address/0xadaf18d79f316005542da4ecb1624b59c4e6e398/transactions"
@@ -114,7 +114,7 @@
     "address": "​0xdc13687554205E5b89Ac783db14bb5bba4A1eDaC​",
     "chain": "avalanche",
     "version": "v1",
-    "type": "core",
+    "type": "governance",
     "description": "-",
     "explorers": [
       "https://cchain.explorer.avax.network/address/0xdc13687554205e5b89ac783db14bb5bba4a1edac/transactions"
