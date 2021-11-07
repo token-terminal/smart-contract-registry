@@ -1,0 +1,112 @@
+[
+  {
+    "name": "1inch Token",
+    "address": "0x111111111117dC0aa78b770fA6A738034120C302",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "1inch governance token contract.",
+    "explorers": [
+      "https://etherscan.io/address/0x111111111117dc0aa78b770fa6a738034120c302"
+    ]
+  },
+  {
+    "name": "1inch Liquidity Protocol Deployer",
+    "address": "0xCB06dF7F0Be5B8Bb261d294Cf87C794EB9Da85b1",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Service proxy contract, which is accessed by the 1inch Liquidity Protocol Factory and deployed liquidation pools.",
+    "explorers": [
+      "https://etherscan.io/address/0xcb06df7f0be5b8bb261d294cf87c794eb9da85b1"
+    ]
+  },
+  {
+    "name": "1inch Liquidity Protocol Factory",
+    "address": "0xbAF9A5d4b0052359326A6CDAb54BABAa3a3A9643",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Registry for all pools Liquidity Protocol. New pools can be created through this factory.",
+    "explorers": [
+      "https://etherscan.io/address/0xbaf9a5d4b0052359326a6cdab54babaa3a3a9643"
+    ]
+  },
+  {
+    "name": "Aggregation Router V3",
+    "address": "0x11111112542D85B3EF69AE05771c2dCCff4fAa26",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "The main contract that allows you to do aggregate swaps.",
+    "explorers": [
+      "https://etherscan.io/address/0x11111112542d85b3ef69ae05771c2dccff4faa26"
+    ]
+  },
+  {
+    "name": "DEX Oracle",
+    "address": "0x07D91f5fb9Bf7798734C3f606dB065549F6893bb",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "The contract that finds the weighted price in ETH or in other tokens for all connected DEXs.",
+    "explorers": [
+      "https://etherscan.io/address/0x07d91f5fb9bf7798734c3f606db065549f6893bb"
+    ]
+  },
+  {
+    "name": "Exchange Governance",
+    "address": "0xD5c5c41248F949Fce678A7F1619BCea7872c93eF",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Module in Governance that allows to vote. Controls how much percent will go to leftover reward and how much will go to referral.",
+    "explorers": [
+      "https://etherscan.io/address/0xd5c5c41248f949fce678a7f1619bcea7872c93ef"
+    ]
+  },
+  {
+    "name": "Fee Collector",
+    "address": "0x2eea44e40930b1984f42078e836c659a12301e40",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Contract receives LP tokens (share tokens) and converts them into governance reward or referral rewards. The contract interacts with both the Governance and the Liquidity Protocol.",
+    "explorers": [
+      "https://etherscan.io/address/0x2eea44e40930b1984f42078e836c659a12301e40"
+    ]
+  },
+  {
+    "name": "Governance Mothership",
+    "address": "0xA0446D8804611944F1B527eCD37d7dcbE442caba",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "A contract-factory that allows to connect different Governance modules. Also, 1inch Stake of the token occurs through this contract.",
+    "explorers": [
+      "https://etherscan.io/address/0xa0446d8804611944f1b527ecd37d7dcbe442caba"
+    ]
+  },
+  {
+    "name": "Governance Rewards",
+    "address": "0x0F85A912448279111694F4Ba4F85dC641c54b594",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Contract manages the 1inch Token rewards that are staked on the Governance Mothership contract.",
+    "explorers": [
+      "https://etherscan.io/address/0x0f85a912448279111694f4ba4f85dc641c54b594"
+    ]
+  },
+  {
+    "name": "Limit Order Protocol",
+    "address": "0x3ef51736315F52d568D6D2cf289419b9CfffE782",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Contract allows execution of offchain limit orders, and has arbitrary price discovery and conditional execution.",
+    "explorers": [
+      "https://etherscan.io/address/0x3ef51736315f52d568d6d2cf289419b9cfffe782"
+    ]
+  }
+]

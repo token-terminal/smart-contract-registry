@@ -2,6 +2,10 @@
   "name": "smart-contract-registry",
   "version": "1.0.0",
   "description": "An up-to-date registry of the relevant smart contracts for each protocol listed on Token Terminal.",
+  "scripts": {
+    "format": "prettier --write projects/*.json",
+    "test-format": "prettier -c projects/*.json"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/token-terminal/smart-contract-registry.git"
@@ -14,6 +18,7 @@
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
     "@commitlint/config-conventional": "^13.1.0",
-    "husky": "^7.0.2"
+    "husky": "^7.0.2",
+    "prettier": "2.4.1"
   }
 }
