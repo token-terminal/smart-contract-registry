@@ -1,0 +1,178 @@
+[
+  {
+    "name": "ROOK",
+    "address": "0xfA5047c9c78B8877af97BDcb85Db743fD7313d4a",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Logic for the ROOK governance token",
+    "explorers": [
+      "https://etherscan.io/address/0xfa5047c9c78b8877af97bdcb85db743fd7313d4a"
+    ]
+  },
+  {
+    "name": "JITU",
+    "address": "0xAaE0633E15200bc9C50d45cD762477D268E126BD",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Monitors and protects loans made on lending platforms",
+    "explorers": [
+      "https://etherscan.io/address/0xaae0633e15200bc9c50d45cd762477d268e126bd"
+    ]
+  },
+  {
+    "name": "HidingVault",
+    "address": "0xAe7b93a591c37eA37Ed8Bc7B6B999C85f2eD2405",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for token incentives for Hiding Vault users",
+    "explorers": [
+      "https://etherscan.io/address/0xae7b93a591c37ea37ed8bc7b6b999c85f2ed2405"
+    ]
+  },
+  {
+    "name": "HidingGame",
+    "address": "0xC00ba24eBcB6FB4aecBe5b78431Ea49D608f5565",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for token incentives for Hiding Game users",
+    "explorers": [
+      "https://etherscan.io/address/0xc00ba24ebcb6fb4aecbe5b78431ea49d608f5565"
+    ]
+  },
+  {
+    "name": "Liquidity Pool Rewards",
+    "address": "0x9Bc9BDfe0843f44cF0878700501bB9142CDad2B8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for token incentives for Liquidity Pool LPs",
+    "explorers": [
+      "https://etherscan.io/address/0x9bc9bdfe0843f44cf0878700501bb9142cdad2b8"
+    ]
+  },
+  {
+    "name": "kWETH",
+    "address": "0x834CAcd6425fA6c7126b028B3d1E4cda53EB7257",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the WETH liquidity pool and the associated kWETH LP token",
+    "explorers": [
+      "https://etherscan.io/address/0x834cacd6425fa6c7126b028b3d1e4cda53eb7257"
+    ]
+  },
+  {
+    "name": "kETH",
+    "address": "0x179212cb86D0eE6A4dfb2AbB1CF6A09feE0A9525",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the ETH liquidity pool and the associated ETH LP token",
+    "explorers": [
+      "https://etherscan.io/address/0x179212cb86d0ee6a4dfb2abb1cf6a09fee0a9525"
+    ]
+  },
+  {
+    "name": "kDAI",
+    "address": "0x8EE17Fa30D63ebD66e02205B1DF2f30D60a5CA30",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the DAI liquidity pool and the associated kDAI LP token",
+    "explorers": [
+      "https://etherscan.io/address/0x8ee17fa30d63ebd66e02205b1df2f30d60a5ca30"
+    ]
+  },
+  {
+    "name": "kBTC",
+    "address": "0x77565202D78a6EDA565c7DC737FF1d8E64fd672a",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the BTC liquidity pool and the associated kBTC LP token",
+    "explorers": [
+      "https://etherscan.io/address/0x77565202d78a6eda565c7dc737ff1d8e64fd672a"
+    ]
+  },
+  {
+    "name": "kUSDC",
+    "address": "0x3045312Fb54f00f43d6607999e387Db58FFb4cF4",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for the USDC liquidity pool and the associated kUSDC LP token",
+    "explorers": [
+      "https://etherscan.io/address/0x3045312fb54f00f43d6607999e387db58ffb4cf4"
+    ]
+  },
+  {
+    "name": "KeeperDAO Treasury",
+    "address": "0x9a67F1940164d0318612b497E8e6038f902a00a4",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Includes staked tokens in kETH, kWETH, kRENBTC, kUSDC, and kDAI",
+    "explorers": [
+      "https://etherscan.io/address/0x9a67f1940164d0318612b497e8e6038f902a00a4"
+    ]
+  },
+  {
+    "name": "Liquidity Pool v4",
+    "address": "0x4F868C1aa37fCf307ab38D215382e88FCA6275E2",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Current LP for DAI, USDC, renBTC, ETH, WETH",
+    "explorers": [
+      "https://etherscan.io/address/0x4f868c1aa37fcf307ab38d215382e88fca6275e2"
+    ]
+  },
+  {
+    "name": "Hiding Vault Contract",
+    "address": "0xe2ad581fc01434ee426bb3f471c4cb0317ee672e",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "ERC-721 contract for Hiding Vault NFT minting and transfering",
+    "explorers": [
+      "https://etherscan.io/address/0xe2ad581fc01434ee426bb3f471c4cb0317ee672e"
+    ]
+  },
+  {
+    "name": "Hiding Game Bot",
+    "address": "0x3D71d79C224998E608d03C5Ec9B405E7a38505F0",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Bot that performs transactions for KeeperDAO's Hiding Book",
+    "explorers": [
+      "https://etherscan.io/address/0x3d71d79c224998e608d03c5ec9b405e7a38505f0"
+    ]
+  },
+  {
+    "name": "KeeperDAO: Deployer",
+    "address": "0x3C530cB040d71047D94791fddC5CC8e54b648730",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Deployer",
+    "explorers": [
+      "https://etherscan.io/address/0x3c530cb040d71047d94791fddc5cc8e54b648730"
+    ]
+  },
+  {
+    "name": "Team Token Address",
+    "address": "0xB81F5B9bD373b9d0Df2e3191A01b8fA9b4d2832A",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "780,000 ROOK Minted",
+    "explorers": [
+      "https://etherscan.io/address/0xb81f5b9bd373b9d0df2e3191a01b8fa9b4d2832a"
+    ]
+  }
+]
