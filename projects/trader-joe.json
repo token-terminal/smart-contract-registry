@@ -1,0 +1,288 @@
+[
+  {
+    "name": "JoeToken",
+    "address": "​0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/transactions"
+    ]
+  },
+  {
+    "name": "JoeBar (xJoe)",
+    "address": "​0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33/transactions"
+    ]
+  },
+  {
+    "name": "JoeFactory",
+    "address": "​0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x9ad6c38be94206ca50bb0d90783181662f0cfa10/transactions"
+    ]
+  },
+  {
+    "name": "JoeRouter",
+    "address": "​0x60aE616a2155Ee3d9A68541Ba4544862310933d4​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x60ae616a2155ee3d9a68541ba4544862310933d4/transactions"
+    ]
+  },
+  {
+    "name": "MasterChefJoeV2",
+    "address": "​0xd6a4F121CA35509aF06A0Be99093d08462f53052​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xd6a4f121ca35509af06a0be99093d08462f53052/transactions"
+    ]
+  },
+  {
+    "name": "MasterChefJoeV3",
+    "address": "​0x188bED1968b795d5c9022F6a0bb5931Ac4c18F00​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x188bed1968b795d5c9022f6a0bb5931ac4c18f00/transactions"
+    ]
+  },
+  {
+    "name": "Timelock (for MCJV2)",
+    "address": "​0xAdaF18d79f316005542da4eCb1624B59c4e6e398​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xadaf18d79f316005542da4ecb1624b59c4e6e398/transactions"
+    ]
+  },
+  {
+    "name": "JoeHatToken",
+    "address": "​0x82FE038Ea4b50f9C957da326C412ebd73462077C​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x82fe038ea4b50f9c957da326c412ebd73462077c/transactions"
+    ]
+  },
+  {
+    "name": "Cliff (Team)",
+    "address": "​0xaFF90532E2937fF290009521e7e120ed062d4F34​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xaff90532e2937ff290009521e7e120ed062d4f34/transactions"
+    ]
+  },
+  {
+    "name": "Cliff (Investor)",
+    "address": "0xc13B1C927565C5AF8fcaF9eF7387172c447f6796",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc13b1c927565c5af8fcaf9ef7387172c447f6796/transactions"
+    ]
+  },
+  {
+    "name": "Joetroller",
+    "address": "​0xdc13687554205E5b89Ac783db14bb5bba4A1eDaC​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xdc13687554205e5b89ac783db14bb5bba4a1edac/transactions"
+    ]
+  },
+  {
+    "name": "PriceOracle",
+    "address": "​0xe34309613B061545d42c4160ec4d64240b114482​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe34309613b061545d42c4160ec4d64240b114482/transactions"
+    ]
+  },
+  {
+    "name": "RewardDistributor",
+    "address": "​0x2274491950B2D6d79b7e69b683b482282ba14885​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x2274491950b2d6d79b7e69b683b482282ba14885/transactions"
+    ]
+  },
+  {
+    "name": "TripleSlopeRateModel (Majors)",
+    "address": "​0xe6FfD92B9F77FBF5BfEc0F3D9c9d027C4CF3bA6e​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe6ffd92b9f77fbf5bfec0f3d9c9d027c4cf3ba6e/transactions"
+    ]
+  },
+  {
+    "name": "TripleSlopeRateModel (Stablecoins)",
+    "address": "​0x3C5486b85fAAE29B071F2a616a59cA7bF8F73682​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3c5486b85faae29b071f2a616a59ca7bf8f73682/transactions"
+    ]
+  },
+  {
+    "name": "TripleSlopeRateModel (Governance/Seed tokens)",
+    "address": "​0x82Ea6f7bf853A199AB921137B119B6D41F08038e​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x82ea6f7bf853a199ab921137b119b6d41f08038e/transactions"
+    ]
+  },
+  {
+    "name": "JoeLens",
+    "address": "​0x997fbA28c75747417571c5F3fe50015AaC2BB073​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x997fba28c75747417571c5f3fe50015aac2bb073/transactions"
+    ]
+  },
+  {
+    "name": "Maximillion",
+    "address": "​0xe5cDdAFd0f7Af3DEAf4bd213bBaee7A5927AB7E7​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xe5cddafd0f7af3deaf4bd213bbaee7a5927ab7e7/transactions"
+    ]
+  },
+  {
+    "name": "jAVAX",
+    "address": "​0xC22F01ddc8010Ee05574028528614634684EC29e​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc22f01ddc8010ee05574028528614634684ec29e/transactions"
+    ]
+  },
+  {
+    "name": "jWETH",
+    "address": "​0x929f5caB61DFEc79a5431a7734a68D714C4633fa​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x929f5cab61dfec79a5431a7734a68d714c4633fa/transactions"
+    ]
+  },
+  {
+    "name": "jWBTC",
+    "address": "​0x3fE38b7b610C0ACD10296fEf69d9b18eB7a9eB1F​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f/transactions"
+    ]
+  },
+  {
+    "name": "jUSDC",
+    "address": "​0xEd6AaF91a2B084bd594DBd1245be3691F9f637aC​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xed6aaf91a2b084bd594dbd1245be3691f9f637ac/transactions"
+    ]
+  },
+  {
+    "name": "jUSDT",
+    "address": "​0x8b650e26404AC6837539ca96812f0123601E4448​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x8b650e26404ac6837539ca96812f0123601e4448/transactions"
+    ]
+  },
+  {
+    "name": "jDAI",
+    "address": "​0xc988c170d0E38197DC634A45bF00169C7Aa7CA19​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xc988c170d0e38197dc634a45bf00169c7aa7ca19/transactions"
+    ]
+  },
+  {
+    "name": "jLINK",
+    "address": "​0x585E7bC75089eD111b656faA7aeb1104F5b96c15​",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0x585e7bc75089ed111b656faa7aeb1104f5b96c15/transactions"
+    ]
+  },
+  {
+    "name": "jMIM",
+    "address": "​0xcE095A9657A02025081E0607c8D8b081c76A75ea",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://cchain.explorer.avax.network/address/0xce095a9657a02025081e0607c8d8b081c76a75ea/transactions"
+    ]
+  }
+]
