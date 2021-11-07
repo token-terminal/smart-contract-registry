@@ -1,0 +1,101 @@
+[
+  {
+    "name": "PancakeFactory",
+    "address": "0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73",
+    "chain": "bsc",
+    "version": "v2",
+    "type": "core",
+    "description": "Deploys PancakeSwap pools",
+    "explorers": [
+      "https://bscscan.com/address/0xca143ce32fe78f1f7019d7d551a6402fc5350c73"
+    ]
+  },
+  {
+    "name": "PancakeRouter",
+    "address": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+    "chain": "bsc",
+    "version": "v2",
+    "type": "core",
+    "description": "Supports trading and liquidity management tasks",
+    "explorers": [
+      "https://bscscan.com/address/0x10ed43c718714eb63d5aa57b78b54704e256024e"
+    ]
+  },
+  {
+    "name": "MasterChef",
+    "address": "0x73feaa1eE314F8c655E354234017bE2193C9E24E",
+    "chain": "bsc",
+    "version": "v1",
+    "type": "core",
+    "description": "Main staking contract",
+    "explorers": [
+      "https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e"
+    ]
+  },
+  {
+    "name": "CakeVault",
+    "address": "0xa80240Eb5d7E05d3F250cF000eEc0891d00b51CC",
+    "chain": "bsc",
+    "version": "v1",
+    "type": "core",
+    "description": "Auto CAKE Syrup Pool (CakeVault)",
+    "explorers": [
+      "https://bscscan.com/address/0xa80240eb5d7e05d3f250cf000eec0891d00b51cc"
+    ]
+  },
+  {
+    "name": "PancakeSwapLottery",
+    "address": "0x5aF6D33DE2ccEC94efb1bDF8f92Bd58085432d2c",
+    "chain": "bsc",
+    "version": "v2",
+    "type": "core",
+    "description": "Contract related to the lottery function",
+    "explorers": [
+      "https://bscscan.com/address/0x5af6d33de2ccec94efb1bdf8f92bd58085432d2c"
+    ]
+  },
+  {
+    "name": "RandomNumberGenerator",
+    "address": "0x8c6375Aab6e5B26a30bF241EBBf29AD6e6c503c2",
+    "chain": "bsc",
+    "version": "v2",
+    "type": "core",
+    "description": "Generates random numbers",
+    "explorers": [
+      "https://bscscan.com/address/0x8c6375aab6e5b26a30bf241ebbf29ad6e6c503c2"
+    ]
+  },
+  {
+    "name": "PancakePredictionV2",
+    "address": "0x18B2A687610328590Bc8F2e5fEdDe3b582A49cdA",
+    "chain": "bsc",
+    "version": "v2",
+    "type": "core",
+    "description": "Implements prediction market logic",
+    "explorers": [
+      "https://bscscan.com/address/0x18b2a687610328590bc8f2e5fedde3b582a49cda"
+    ]
+  },
+  {
+    "name": "CakeToken",
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "chain": "bsc",
+    "version": "v1",
+    "type": "governance",
+    "description": "PancakeSwap (CAKE) governance token",
+    "explorers": [
+      "https://bscscan.com/address/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+    ]
+  },
+  {
+    "name": "WBNB/BUSD Pool",
+    "address": "0x58F876857a02D6762E0101bb5C46A8c1ED44Dc16",
+    "chain": "bsc",
+    "version": "v2",
+    "type": "core",
+    "description": "Example of a PancakeSwap pool (BUSD-BNB)",
+    "explorers": [
+      "https://bscscan.com/address/0x58f876857a02d6762e0101bb5c46a8c1ed44dc16"
+    ]
+  }
+]
