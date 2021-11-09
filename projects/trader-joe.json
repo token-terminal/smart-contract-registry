@@ -7,7 +7,7 @@
     "type": "governance",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/transactions"
+      "https://snowtrace.io/address/0x6e84a6216ea6dacc71ee8e6b0a5b7322eebc0fdd/transactions"
     ]
   },
   {
@@ -18,7 +18,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33/transactions"
+      "https://snowtrace.io/address/0x57319d41f71e81f3c65f2a47ca4e001ebafd4f33/transactions"
     ]
   },
   {
@@ -29,7 +29,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x9ad6c38be94206ca50bb0d90783181662f0cfa10/transactions"
+      "https://snowtrace.io/address/0x9ad6c38be94206ca50bb0d90783181662f0cfa10/transactions"
     ]
   },
   {
@@ -40,7 +40,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x60ae616a2155ee3d9a68541ba4544862310933d4/transactions"
+      "https://snowtrace.io/address/0x60ae616a2155ee3d9a68541ba4544862310933d4/transactions"
     ]
   },
   {
@@ -51,7 +51,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xd6a4f121ca35509af06a0be99093d08462f53052/transactions"
+      "https://snowtrace.io/address/0xd6a4f121ca35509af06a0be99093d08462f53052/transactions"
     ]
   },
   {
@@ -62,7 +62,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x188bed1968b795d5c9022f6a0bb5931ac4c18f00/transactions"
+      "https://snowtrace.io/address/0x188bed1968b795d5c9022f6a0bb5931ac4c18f00/transactions"
     ]
   },
   {
@@ -73,7 +73,7 @@
     "type": "governance",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xadaf18d79f316005542da4ecb1624b59c4e6e398/transactions"
+      "https://snowtrace.io/address/0xadaf18d79f316005542da4ecb1624b59c4e6e398/transactions"
     ]
   },
   {
@@ -84,7 +84,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x82fe038ea4b50f9c957da326c412ebd73462077c/transactions"
+      "https://snowtrace.io/address/0x82fe038ea4b50f9c957da326c412ebd73462077c/transactions"
     ]
   },
   {
@@ -95,7 +95,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xaff90532e2937ff290009521e7e120ed062d4f34/transactions"
+      "https://snowtrace.io/address/0xaff90532e2937ff290009521e7e120ed062d4f34/transactions"
     ]
   },
   {
@@ -106,7 +106,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xc13b1c927565c5af8fcaf9ef7387172c447f6796/transactions"
+      "https://snowtrace.io/address/0xc13b1c927565c5af8fcaf9ef7387172c447f6796/transactions"
     ]
   },
   {
@@ -117,7 +117,7 @@
     "type": "governance",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xdc13687554205e5b89ac783db14bb5bba4a1edac/transactions"
+      "https://snowtrace.io/address/0xdc13687554205e5b89ac783db14bb5bba4a1edac/transactions"
     ]
   },
   {
@@ -128,7 +128,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xe34309613b061545d42c4160ec4d64240b114482/transactions"
+      "https://snowtrace.io/address/0xe34309613b061545d42c4160ec4d64240b114482/transactions"
     ]
   },
   {
@@ -139,7 +139,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x2274491950b2d6d79b7e69b683b482282ba14885/transactions"
+      "https://snowtrace.io/address/0x2274491950b2d6d79b7e69b683b482282ba14885/transactions"
     ]
   },
   {
@@ -150,7 +150,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xe6ffd92b9f77fbf5bfec0f3d9c9d027c4cf3ba6e/transactions"
+      "https://snowtrace.io/address/0xe6ffd92b9f77fbf5bfec0f3d9c9d027c4cf3ba6e/transactions"
     ]
   },
   {
@@ -161,7 +161,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x3c5486b85faae29b071f2a616a59ca7bf8f73682/transactions"
+      "https://snowtrace.io/address/0x3c5486b85faae29b071f2a616a59ca7bf8f73682/transactions"
     ]
   },
   {
@@ -172,7 +172,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x82ea6f7bf853a199ab921137b119b6d41f08038e/transactions"
+      "https://snowtrace.io/address/0x82ea6f7bf853a199ab921137b119b6d41f08038e/transactions"
     ]
   },
   {
@@ -183,7 +183,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x997fba28c75747417571c5f3fe50015aac2bb073/transactions"
+      "https://snowtrace.io/address/0x997fba28c75747417571c5f3fe50015aac2bb073/transactions"
     ]
   },
   {
@@ -194,7 +194,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xe5cddafd0f7af3deaf4bd213bbaee7a5927ab7e7/transactions"
+      "https://snowtrace.io/address/0xe5cddafd0f7af3deaf4bd213bbaee7a5927ab7e7/transactions"
     ]
   },
   {
@@ -205,7 +205,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xc22f01ddc8010ee05574028528614634684ec29e/transactions"
+      "https://snowtrace.io/address/0xc22f01ddc8010ee05574028528614634684ec29e/transactions"
     ]
   },
   {
@@ -216,7 +216,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x929f5cab61dfec79a5431a7734a68d714c4633fa/transactions"
+      "https://snowtrace.io/address/0x929f5cab61dfec79a5431a7734a68d714c4633fa/transactions"
     ]
   },
   {
@@ -227,7 +227,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f/transactions"
+      "https://snowtrace.io/address/0x3fe38b7b610c0acd10296fef69d9b18eb7a9eb1f/transactions"
     ]
   },
   {
@@ -238,7 +238,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xed6aaf91a2b084bd594dbd1245be3691f9f637ac/transactions"
+      "https://snowtrace.io/address/0xed6aaf91a2b084bd594dbd1245be3691f9f637ac/transactions"
     ]
   },
   {
@@ -249,7 +249,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x8b650e26404ac6837539ca96812f0123601e4448/transactions"
+      "https://snowtrace.io/address/0x8b650e26404ac6837539ca96812f0123601e4448/transactions"
     ]
   },
   {
@@ -260,7 +260,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xc988c170d0e38197dc634a45bf00169c7aa7ca19/transactions"
+      "https://snowtrace.io/address/0xc988c170d0e38197dc634a45bf00169c7aa7ca19/transactions"
     ]
   },
   {
@@ -271,7 +271,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0x585e7bc75089ed111b656faa7aeb1104f5b96c15/transactions"
+      "https://snowtrace.io/address/0x585e7bc75089ed111b656faa7aeb1104f5b96c15/transactions"
     ]
   },
   {
@@ -282,7 +282,7 @@
     "type": "core",
     "description": "-",
     "explorers": [
-      "https://cchain.explorer.avax.network/address/0xce095a9657a02025081e0607c8d8b081c76a75ea/transactions"
+      "https://snowtrace.io/address/0xce095a9657a02025081e0607c8d8b081c76a75ea/transactions"
     ]
   }
 ]
