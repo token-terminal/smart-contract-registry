@@ -1,0 +1,211 @@
+[
+  {
+    "name": "ETHRegistrarController",
+    "address": "0x283Af0B28c62C092C9727F1Ee09c02CA627EB7F5",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "A registrar controller for registering and renewing names at fixed cost.",
+    "explorers": [
+      "https://etherscan.io/address/0x283af0b28c62c092c9727f1ee09c02ca627eb7f5"
+    ]
+  },
+  {
+    "name": "Proxy",
+    "address": "0xCF60916b6CB4753f58533808fA610FcbD4098Ec0",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "ENS MultiSig (multisig.ens.eth).",
+    "explorers": [
+      "https://etherscan.io/address/0xcf60916b6cb4753f58533808fa610fcbd4098ec0"
+    ]
+  },
+  {
+    "name": "TimelockController",
+    "address": "0xFe89cc7aBB2C4183683ab71653C4cdc9B02D44b7",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xfe89cc7abb2c4183683ab71653c4cdc9b02d44b7"
+    ]
+  },
+  {
+    "name": "TokenLock",
+    "address": "0xd7A029Db2585553978190dB5E85eC724Aa4dF23f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Time-locks tokens according to an unlock schedule.",
+    "explorers": [
+      "https://etherscan.io/address/0xd7a029db2585553978190db5e85ec724aa4df23f"
+    ]
+  },
+  {
+    "name": "ENSRegistryWithFallback",
+    "address": "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "ENS registry.",
+    "explorers": [
+      "https://etherscan.io/address/0x00000000000c2e074ec69a0dfb2997ba6c7d2e1e"
+    ]
+  },
+  {
+    "name": "ENS",
+    "address": "0x314159265dD8dbb310642f98f50C066173C1259b",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Old ENS registry (before February 2020 migration).",
+    "explorers": [
+      "https://etherscan.io/address/0x314159265dd8dbb310642f98f50c066173c1259b"
+    ]
+  },
+  {
+    "name": "BaseRegistrarImplementation",
+    "address": "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": ".ETH registrar contract.",
+    "explorers": [
+      "https://etherscan.io/address/0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85"
+    ]
+  },
+  {
+    "name": "PublicResolver",
+    "address": "0x4976fb03C32e5B8cfe2b6cCB31c09Ba78EBaBa41",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4976fb03c32e5b8cfe2b6ccb31c09ba78ebaba41"
+    ]
+  },
+  {
+    "name": "BulkRenewal",
+    "address": "0xfF252725f6122A92551A5FA9a6b6bf10eb0Be035",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xff252725f6122a92551a5fa9a6b6bf10eb0be035"
+    ]
+  },
+  {
+    "name": "ENS Deployer",
+    "address": "0x4Fe4e666Be5752f1FdD210F4Ab5DE2Cc26e3E0e8",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "ENS Deployer.",
+    "explorers": [
+      "https://etherscan.io/address/0x4fe4e666be5752f1fdd210f4ab5de2cc26e3e0e8"
+    ]
+  },
+  {
+    "name": "DNSRegistrar",
+    "address": "0xa2F428617a523837d4adC81C67a296d42FD95e86",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xa2f428617a523837d4adc81c67a296d42fd95e86"
+    ]
+  },
+  {
+    "name": "RegistrarMigration",
+    "address": "0x60C7C2A24b5e86C38639Fd1586917a8FEF66a56d",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x60c7c2a24b5e86c38639fd1586917a8fef66a56d"
+    ]
+  },
+  {
+    "name": "DefaultReverseResolver",
+    "address": "0xA2C122BE93b0074270ebeE7f6b7292C7deB45047",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xa2c122be93b0074270ebee7f6b7292c7deb45047"
+    ]
+  },
+  {
+    "name": "ENSMigrationSubdomainRegistrar",
+    "address": "0xe65d8AAF34CB91087D1598e0A15B582F57F217d9",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xe65d8aaf34cb91087d1598e0a15b582f57f217d9"
+    ]
+  },
+  {
+    "name": "MultiSigWallet",
+    "address": "0x911143d946bA5d467BfC476491fdb235fEf4D667",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "ENS MultiSig Wallet.",
+    "explorers": [
+      "https://etherscan.io/address/0x911143d946ba5d467bfc476491fdb235fef4d667"
+    ]
+  },
+  {
+    "name": "ReverseRegistrar",
+    "address": "0x084b1c3C81545d370f3634392De611CaaBFf8148",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": ".",
+    "explorers": [
+      "https://etherscan.io/address/0x084b1c3c81545d370f3634392de611caabff8148"
+    ]
+  },
+  {
+    "name": "Root",
+    "address": "0xaB528d626EC275E3faD363fF1393A41F581c5897",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xab528d626ec275e3fad363ff1393a41f581c5897"
+    ]
+  },
+  {
+    "name": "EthRegistrarSubdomainRegistrar",
+    "address": "0xC32659651D137A18b79925449722855aA327231d",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "ENS Subdomain Registrar.",
+    "explorers": [
+      "https://etherscan.io/address/0xc32659651d137a18b79925449722855aa327231d"
+    ]
+  },
+  {
+    "name": "ENSToken",
+    "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Ethereum Name Service (ENS) token.",
+    "explorers": [
+      "https://etherscan.io/address/0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+    ]
+  }
+]
