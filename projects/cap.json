@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Router",
+    "address": "0x5ABFF8F8D5b13253dCAB1e427Fdb3305cA620119",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the routing contract",
+    "explorers": [
+      "https://arbiscan.io/address/0x5abff8f8d5b13253dcab1e427fdb3305ca620119"
+    ]
+  },
+  {
+    "name": "Trading",
+    "address": "0xCAEc650502F15c1a6bFf1C2288fC8F819776B2eC",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the trading contract which specifies the main parameters of the protocol",
+    "explorers": [
+      "https://arbiscan.io/address/0xcaec650502f15c1a6bff1c2288fc8f819776b2ec"
+    ]
+  },
+  {
+    "name": "Oracle",
+    "address": "0xE195a15533c01c8cD6b28f09066842486f80F8f2",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the oracle contract which gets the price data for different assets",
+    "explorers": [
+      "https://arbiscan.io/address/0xe195a15533c01c8cd6b28f09066842486f80f8f2"
+    ]
+  },
+  {
+    "name": "Treasury",
+    "address": "0x283C41b726634fBD6B72aA22741B202DB7E56aaC",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the treasury which is where the part of the fees that belong to the protocol accrue",
+    "explorers": [
+      "https://arbiscan.io/address/0x283c41b726634fbd6b72aa22741b202db7e56aac"
+    ]
+  },
+  {
+    "name": "Pool ETH",
+    "address": "0xB224F2689BC0aFc5b6721a0807d07017D8CDddf8",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the ETH pool. Users can deposit ETH to this pool and in exchange earn a portion of trader losses and fees based on the users share of the pool",
+    "explorers": [
+      "https://arbiscan.io/address/0xb224f2689bc0afc5b6721a0807d07017d8cdddf8"
+    ]
+  },
+  {
+    "name": "Pool USDC",
+    "address": "0x07B0B00B9008798055071dde6f2d343782b35dC6",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the USDC pool. Users can deposit USDC to this pool and in exchange earn a portion of trader losses and fees based on the users share of the pool",
+    "explorers": [
+      "https://arbiscan.io/address/0x07b0b00b9008798055071dde6f2d343782b35dc6"
+    ]
+  },
+  {
+    "name": "Pool Rewards ETH",
+    "address": "0x9190338f23bE9024A9F9628E44cd169926fE7795",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the ETH reward pool. This is where the fees paid by users accrue",
+    "explorers": [
+      "https://arbiscan.io/address/0x9190338f23be9024a9f9628e44cd169926fe7795"
+    ]
+  },
+  {
+    "name": "Pool Rewards USDC",
+    "address": "0x996DA299Fb8247dbc2ef45299b62B897d89C01D4",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the USDC reward pool. This is where the fees paid by users accrue",
+    "explorers": [
+      "https://arbiscan.io/address/0x996da299fb8247dbc2ef45299b62b897d89c01d4"
+    ]
+  },
+  {
+    "name": "Pool CAP",
+    "address": "0xC8CDd2Ea6A5149ced1F2d225D16a775ee081C67D",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the CAP pool. Users can deposit CAP to this pool and in exchange earn a portion of trader fees based on the users share of the pool",
+    "explorers": [
+      "https://arbiscan.io/address/0xc8cdd2ea6a5149ced1f2d225d16a775ee081c67d"
+    ]
+  },
+  {
+    "name": "CAP Rewards ETH",
+    "address": "0x1E91F67a5aa0137aD86eEbAD64E2C2a1B6ae30E5",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the CAP ETH reward pool. This is where the fees paid in ETH by users that go to CAP stakers are held",
+    "explorers": [
+      "https://arbiscan.io/address/0x1e91f67a5aa0137ad86eebad64e2c2a1b6ae30e5"
+    ]
+  },
+  {
+    "name": "CAP Rewards USDC",
+    "address": "0xCEFFAc2522b837012B576770b6F5DD75a3F75C38",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the CAP USDC reward pool. This is where the fees paid in USDC by users that go to CAP stakers are held",
+    "explorers": [
+      "https://arbiscan.io/address/0xceffac2522b837012b576770b6f5dd75a3f75c38"
+    ]
+  },
+  {
+    "name": "CAP Token",
+    "address": "0x43044f861ec040DB59A7e324c40507adDb673142",
+    "chain": "ethereum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Logic for the CAP governance token",
+    "explorers": [
+      "https://etherscan.io/address/0x43044f861ec040db59a7e324c40507addb673142"
+    ]
+  },
+  {
+    "name": "CAP Token (Arbitrum)",
+    "address": "0x031d35296154279DC1984dCD93E392b1f946737b",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "Logic for the CAP governance token (Arbitrum)",
+    "explorers": [
+      "https://arbiscan.io/address/0x031d35296154279dc1984dcd93e392b1f946737b"
+    ]
+  }
+]
