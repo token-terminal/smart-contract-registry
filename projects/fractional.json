@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Single NFT Vault",
+    "address": "0x85Aa7f78BdB2DE8F3e0c0010d99AD5853fFcfC63",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for how to fractionalise a single ERC721",
+    "explorers": [
+      "https://etherscan.io/address/0x85aa7f78bdb2de8f3e0c0010d99ad5853ffcfc63"
+    ]
+  },
+  {
+    "name": "Token Vault",
+    "address": "0x7B0fCE54574D9746414D11367F54C9AB94e53DCa",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for changable parameters for already fractionalised NFTs ",
+    "explorers": [
+      "https://etherscan.io/address/0x7b0fce54574d9746414d11367f54c9ab94e53dca"
+    ]
+  },
+  {
+    "name": "Vault Governance",
+    "address": "0xE0FC79183a22106229B84ECDd55cA017A07eddCa",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for how governance can set parameters for the Vault contracts",
+    "explorers": [
+      "https://etherscan.io/address/0xe0fc79183a22106229b84ecdd55ca017a07eddca"
+    ]
+  },
+  {
+    "name": "Multiple NFT Vault",
+    "address": "0xde771104C0C44123d22D39bB716339cD0c3333a1",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Logic for how to create a single ERC721 that custodies multiple ERC721 tokens",
+    "explorers": [
+      "https://etherscan.io/address/0xde771104c0c44123d22d39bb716339cd0c3333a1"
+    ]
+  }
+]
