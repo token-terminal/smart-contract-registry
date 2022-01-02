@@ -5,7 +5,7 @@
     "chain": "polygon",
     "version": "v1",
     "type": "core",
-    "description": "Deploys QuickSwap pools",
+    "description": "Deploys QuickSwap pairs",
     "explorers": [
       "https://polygonscan.com/address/0x5757371414417b8c6caad45baef941abc7d3ab32"
     ]
@@ -38,7 +38,7 @@
     "chain": "polygon",
     "version": "v1",
     "type": "core",
-    "description": "Example of a QuickSwap pair (BUSD-BNB)",
+    "description": "Example of a QuickSwap pair (USDC-WETH)",
     "explorers": [
       "https://polygonscan.com/address/0x853ee4b2a13f8a742d64c8f088be7ba2131f670d"
     ]
