@@ -1,0 +1,46 @@
+[
+  {
+    "name": "QuickSwapFactory",
+    "address": "0x5757371414417b8C6CAad45bAeF941aBc7d3Ab32",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Deploys QuickSwap pairs",
+    "explorers": [
+      "https://polygonscan.com/address/0x5757371414417b8c6caad45baef941abc7d3ab32"
+    ]
+  },
+  {
+    "name": "QuickSwapRouter",
+    "address": "0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Supports trading and liquidity management tasks",
+    "explorers": [
+      "https://polygonscan.com/address/0xa5e0829caced8ffdd4de3c43696c57f7d7a678ff"
+    ]
+  },
+  {
+    "name": "QUICK Token",
+    "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "governance",
+    "description": "QuickSwap (QUICK) governance token",
+    "explorers": [
+      "https://polygonscan.com/address/0x831753dd7087cac61ab5644b308642cc1c33dc13"
+    ]
+  },
+  {
+    "name": "USDC/WETH Pair",
+    "address": "0x853Ee4b2A13f8a742d64C8F088bE7bA2131f670d",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "Example of a QuickSwap pair (USDC-WETH)",
+    "explorers": [
+      "https://polygonscan.com/address/0x853ee4b2a13f8a742d64c8f088be7ba2131f670d"
+    ]
+  }
+]
