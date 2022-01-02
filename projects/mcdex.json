@@ -1,0 +1,607 @@
+[
+  {
+    "name": "PoolCreator - Implementation",
+    "address": "0x592c6A6419fB86BAD15926c840A9f9306f69f590",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x592c6A6419fB86BAD15926c840A9f9306f69f590"
+    ]
+  },
+  {
+    "name": "PoolCreator - Proxy",
+    "address": "0xA017B813652b93a0aF2887913EFCBB4ab250CE65",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xA017B813652b93a0aF2887913EFCBB4ab250CE65"
+    ]
+  },
+  {
+    "name": "LiquidityPool - Implementation",
+    "address": "0xf1791E48B9d7f7b39036d5aE9601B45C9694539e",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xf1791E48B9d7f7b39036d5aE9601B45C9694539e"
+    ]
+  },
+  {
+    "name": "LpGovernor - Implementation",
+    "address": "0x53ED042577717BB96986D6644C5BE2C12002467e",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x53ED042577717BB96986D6644C5BE2C12002467e"
+    ]
+  },
+  {
+    "name": "SymbolService - Implementation",
+    "address": "0xe9B15e490C193324d699CdA062c54E13d81A035c",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xe9B15e490C193324d699CdA062c54E13d81A035c"
+    ]
+  },
+  {
+    "name": "SymbolService - Proxy",
+    "address": "0x2842c57C2736BB459BdAc97bAA22596e71f05811",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x2842c57C2736BB459BdAc97bAA22596e71f05811"
+    ]
+  },
+  {
+    "name": "TunableOracleRegister - Implementation",
+    "address": "0x58228d352B6B2b8642395e6175b06D90ceA93B5a",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x58228d352B6B2b8642395e6175b06D90ceA93B5a"
+    ]
+  },
+  {
+    "name": "TunableOracleRegister - Proxy",
+    "address": "0x43800D850C87d5D585D8DDF3DFB23152A826cDeB",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x43800D850C87d5D585D8DDF3DFB23152A826cDeB"
+    ]
+  },
+  {
+    "name": "InverseStateService - Proxy",
+    "address": "0x129AD040Bd127c00d6De9051b3CfE9F3E36453D3",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x129AD040Bd127c00d6De9051b3CfE9F3E36453D3"
+    ]
+  },
+  {
+    "name": "UniswapV3OracleAdaptorCreator - Proxy",
+    "address": "0xCEda10b4d3bdE429DdA3A6daB87b38360313CBdB",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xCEda10b4d3bdE429DdA3A6daB87b38360313CBdB"
+    ]
+  },
+  {
+    "name": "OracleRouterCreator - Proxy",
+    "address": "0xC3E272F76b3740C2AcF8e5272CbEF06D70e14FF3",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xC3E272F76b3740C2AcF8e5272CbEF06D70e14FF3"
+    ]
+  },
+  {
+    "name": "Broker - Proxy",
+    "address": "0xf985cA33B8b787599DE77E4Ccf2d0Ecbf27d87d9",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xf985cA33B8b787599DE77E4Ccf2d0Ecbf27d87d9"
+    ]
+  },
+  {
+    "name": "Reader - Proxy",
+    "address": "0xf7D17C801b3Df2c818AB5aA07e9108589241B8a5",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xf7D17C801b3Df2c818AB5aA07e9108589241B8a5"
+    ]
+  },
+  {
+    "name": "MCDEX Token",
+    "address": "0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42",
+    "chain": "moi",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/token/0x4e352cF164E64ADCBad318C3a1e222E9EBa4Ce42"
+    ]
+  },
+  {
+    "name": "MCDEX Token (Arbitrum)",
+    "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/token/0x4e352cf164e64adcbad318c3a1e222e9eba4ce42"
+    ]
+  },
+  {
+    "name": "Authenticator - Implementation",
+    "address": "0x737Da8533E4fA59C1292545d8D155c199567AcF2",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x737Da8533E4fA59C1292545d8D155c199567AcF2"
+    ]
+  },
+  {
+    "name": "Authenticator - Proxy",
+    "address": "0x54752977A387a2eABdce47e575940d15BCc319c5",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x54752977A387a2eABdce47e575940d15BCc319c5"
+    ]
+  },
+  {
+    "name": "XMCB - Implementation",
+    "address": "0x369878Ecc69B7148b7cC151d1a03dbcbfD9b537E",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x369878Ecc69B7148b7cC151d1a03dbcbfD9b537E"
+    ]
+  },
+  {
+    "name": "XMCB - Proxy",
+    "address": "0x1284c70F0ed8539F450584Ce937267F8C088B4cC",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x1284c70F0ed8539F450584Ce937267F8C088B4cC"
+    ]
+  },
+  {
+    "name": "GovernorAlpha - Implementation",
+    "address": "0xB1bfC2f6CF568bE05677607DA9ffb99b54E994d2",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xB1bfC2f6CF568bE05677607DA9ffb99b54E994d2"
+    ]
+  },
+  {
+    "name": "GovernorAlpha - Proxy",
+    "address": "0x8597eB9E005f39f8f70A17aeA914B20450ABfE60",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x8597eB9E005f39f8f70A17aeA914B20450ABfE60"
+    ]
+  },
+  {
+    "name": "Timelock - Implementation",
+    "address": "0xdE62adA1C78fDC8Bfa62c7945Fdd0Fa1F8be2233",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xdE62adA1C78fDC8Bfa62c7945Fdd0Fa1F8be2233"
+    ]
+  },
+  {
+    "name": "Timelock - Proxy",
+    "address": "0xC1D816Ad4Ee531994D940C6C3ECEdb948Dc2735e",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xC1D816Ad4Ee531994D940C6C3ECEdb948Dc2735e"
+    ]
+  },
+  {
+    "name": "ValueCapture - Implementation",
+    "address": "0x5FCDfD5634c50CCcEf6275a239207B09Bd0379df",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x5FCDfD5634c50CCcEf6275a239207B09Bd0379df"
+    ]
+  },
+  {
+    "name": "ValueCapture - Proxy",
+    "address": "0xa04197E5F7971E7AEf78Cf5Ad2bC65aaC1a967Aa",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xa04197E5F7971E7AEf78Cf5Ad2bC65aaC1a967Aa"
+    ]
+  },
+  {
+    "name": "Vault - Implementation",
+    "address": "0xc344191DC17b0e1a5D50448662105eD590681503",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xc344191DC17b0e1a5D50448662105eD590681503"
+    ]
+  },
+  {
+    "name": "Vault - Proxy",
+    "address": "0xD78ba1D99dbBC4ebA3B206c9C67a08879b6eC79B",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xD78ba1D99dbBC4ebA3B206c9C67a08879b6eC79B"
+    ]
+  },
+  {
+    "name": "MCBMinter - Implementation",
+    "address": "0xbe7Bd523Fb0A1E397bfb109D4306cd421d58b560",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xbe7Bd523Fb0A1E397bfb109D4306cd421d58b560"
+    ]
+  },
+  {
+    "name": "MCBMinter - Proxy",
+    "address": "0x7230D622D067D9C30154a750dBd29C035bA7605a",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x7230D622D067D9C30154a750dBd29C035bA7605a"
+    ]
+  },
+  {
+    "name": "RewardDistribution - Implementation",
+    "address": "0xcC8A884396a7B3a6e61591D5f8949076Ed0c7353",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xcC8A884396a7B3a6e61591D5f8949076Ed0c7353"
+    ]
+  },
+  {
+    "name": "RewardDistribution - Proxy",
+    "address": "0x694baa24d46530E46BCd39b1F07943a2BDDb01e6",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x694baa24d46530E46BCd39b1F07943a2BDDb01e6"
+    ]
+  },
+  {
+    "name": "MCBVesting - Implementation",
+    "address": "0x2953B29f665E25F54Cc60137792a50e2AB04e986",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x2953B29f665E25F54Cc60137792a50e2AB04e986"
+    ]
+  },
+  {
+    "name": "MCBVesting - Proxy",
+    "address": "0x80EefA1DEd44f08e2DaCFab07B612bE66363326e",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x80EefA1DEd44f08e2DaCFab07B612bE66363326e"
+    ]
+  },
+  {
+    "name": "MCBStaking - Implementation",
+    "address": "0x892a59337f66b1C1A04F38543A6074cFd7FeC36f",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0x892a59337f66b1C1A04F38543A6074cFd7FeC36f"
+    ]
+  },
+  {
+    "name": "MCBStaking - Proxy",
+    "address": "0xB3500fb8fa94423974A5A6e55c405139c5928E85",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xB3500fb8fa94423974A5A6e55c405139c5928E85"
+    ]
+  },
+  {
+    "name": "MerkleRedeem - Implementation",
+    "address": "0xDBF04BEd11158a3a416A69EB01fBB742b710B612",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xDBF04BEd11158a3a416A69EB01fBB742b710B612"
+    ]
+  },
+  {
+    "name": "MerkleRedeem - Proxy",
+    "address": "0xFB726565beD2aE33De0ccd9F4DA8b831B48c6cD4",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://arbiscan.io/address/0xFB726565beD2aE33De0ccd9F4DA8b831B48c6cD4"
+    ]
+  },
+  {
+    "name": "PoolCreator - Implementation",
+    "address": "0x028FB01FFafE25E278ebb467F69bD79A928cf25e",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x028FB01FFafE25E278ebb467F69bD79A928cf25e"
+    ]
+  },
+  {
+    "name": "PoolCreator - Proxy",
+    "address": "0xfB4cD1bf5C5919A29fb894c8ddC4A69A36f5Ec87",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0xfB4cD1bf5C5919A29fb894c8ddC4A69A36f5Ec87"
+    ]
+  },
+  {
+    "name": "LiquidityPool - Implementation",
+    "address": "0x58228d352B6B2b8642395e6175b06D90ceA93B5a",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x58228d352B6B2b8642395e6175b06D90ceA93B5a"
+    ]
+  },
+  {
+    "name": "LiquidityPoolHop1 - Implementation",
+    "address": "0x43800D850C87d5D585D8DDF3DFB23152A826cDeB",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x43800D850C87d5D585D8DDF3DFB23152A826cDeB"
+    ]
+  },
+  {
+    "name": "LpGovernor - Implementation",
+    "address": "0x97797fdB99f8f3038DA73ee8Aea52964576F1f8a",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x97797fdB99f8f3038DA73ee8Aea52964576F1f8a"
+    ]
+  },
+  {
+    "name": "SymbolService - Implementation",
+    "address": "0x009b14c79a0f53ADE2744D432e50CeE5ED934E85",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x009b14c79a0f53ADE2744D432e50CeE5ED934E85"
+    ]
+  },
+  {
+    "name": "SymbolService - Proxy",
+    "address": "0x39f632208bb924f5c4c6253b042Cd056eca3710D",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x39f632208bb924f5c4c6253b042Cd056eca3710D"
+    ]
+  },
+  {
+    "name": "TunableOracleRegister - Implementation",
+    "address": "0xB0507842B30a60c3cd967526d08e229Cb99d75ee",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0xB0507842B30a60c3cd967526d08e229Cb99d75ee"
+    ]
+  },
+  {
+    "name": "TunableOracleRegister - Proxy",
+    "address": "0x5f2ffBbb40c8FCd7E62f04A70ffe5A039ae25972",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x5f2ffBbb40c8FCd7E62f04A70ffe5A039ae25972"
+    ]
+  },
+  {
+    "name": "InverseStateService - Proxy",
+    "address": "0x7C55F0CB0DFB6E546a57FE728c8a4bf244789992",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x7C55F0CB0DFB6E546a57FE728c8a4bf244789992"
+    ]
+  },
+  {
+    "name": "UniswapV3OracleAdaptorCreator - Proxy",
+    "address": "0x9734Bf8700C5A403CE3B96a4eC034e7CeDFdf08d",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x9734Bf8700C5A403CE3B96a4eC034e7CeDFdf08d"
+    ]
+  },
+  {
+    "name": "OracleRouterCreator - Proxy",
+    "address": "0xa48823Ff78e0D4D73D90b0Bf4B22Bf8a6EdBbb57",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0xa48823Ff78e0D4D73D90b0Bf4B22Bf8a6EdBbb57"
+    ]
+  },
+  {
+    "name": "Broker - Proxy",
+    "address": "0xbCCF6C081d9aa6E8B85602C04e66c5405D9be4A7",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0xbCCF6C081d9aa6E8B85602C04e66c5405D9be4A7"
+    ]
+  },
+  {
+    "name": "Reader - Proxy",
+    "address": "0x942Df696cd1995ba2eAB710D168B2D9CeE53B52c",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x942Df696cd1995ba2eAB710D168B2D9CeE53B52c"
+    ]
+  },
+  {
+    "name": "MCBStaking - Implementation",
+    "address": "0xA95A724772e34dDc1F4E68Db0938D6329e33385A",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0xA95A724772e34dDc1F4E68Db0938D6329e33385A"
+    ]
+  },
+  {
+    "name": "MCBStaking - Proxy",
+    "address": "0x78963E7cB9454cCf8412Cd0B5bC4C69AD5cDbBd3",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x78963E7cB9454cCf8412Cd0B5bC4C69AD5cDbBd3"
+    ]
+  },
+  {
+    "name": "MerkleRedeem - Implementation",
+    "address": "0xe8b94D73EB372e32288cD7E8174cBe6B231E3452",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0xe8b94D73EB372e32288cD7E8174cBe6B231E3452"
+    ]
+  },
+  {
+    "name": "MerkleRedeem - Proxy",
+    "address": "0x205285D6eEF9055779650f6556C3704a5B514271",
+    "chain": "Binance Smart Chain",
+    "version": "v3",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://bscscan.com/address/0x205285d6eef9055779650f6556c3704a5b514271"
+    ]
+  }
+]
