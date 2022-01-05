@@ -78,7 +78,7 @@
   },
   {
     "name": "NFTXStakingZap",
-    "address": "0x0b8ee2ee7d6f3bfb73c9ae2127558d1172b65fb1",
+    "address": "0x0B8Ee2Ee7d6f3bFB73C9aE2127558D1172B65fb1",
     "chain": "ethereum",
     "version": "v2",
     "type": "core",
