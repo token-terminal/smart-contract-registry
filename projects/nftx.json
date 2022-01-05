@@ -1,0 +1,101 @@
+[
+  {
+    "name": "StakingTokenProvider",
+    "address": "0x5fAD0e4cc9925365b9B0bbEc9e0C3536c0B1a5C7",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x5fad0e4cc9925365b9b0bbec9e0c3536c0b1a5c7"
+    ]
+  },
+  {
+    "name": "Staking",
+    "address": "0x688c3E4658B5367da06fd629E41879beaB538E37",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x688c3e4658b5367da06fd629e41879beab538e37"
+    ]
+  },
+  {
+    "name": "Vault template",
+    "address": "0xe8B6820b74533c27786E4724a578Bfca28D97BD1",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xe8b6820b74533c27786e4724a578bfca28d97bd1"
+    ]
+  },
+  {
+    "name": "FeeDistributor",
+    "address": "0x7AE9D7Ee8489cAD7aFc84111b8b185EE594Ae090",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x7ae9d7ee8489cad7afc84111b8b185ee594ae090"
+    ]
+  },
+  {
+    "name": "VaultFactory",
+    "address": "0xBE86f647b167567525cCAAfcd6f881F1Ee558216",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0xbe86f647b167567525ccaafcd6f881f1ee558216"
+    ]
+  },
+  {
+    "name": "EligibilityManager",
+    "address": "0x4086e98Cce041d286112d021612fD894cFed94D5",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4086e98cce041d286112d021612fd894cfed94d5"
+    ]
+  },
+  {
+    "name": "ProxyController address",
+    "address": "0x4333d66Ec59762D1626Ec102d7700E64610437Df",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x4333d66ec59762d1626ec102d7700e64610437df"
+    ]
+  },
+  {
+    "name": "NFTXStakingZap",
+    "address": "0x0B8Ee2Ee7d6f3bFB73C9aE2127558D1172B65fb1",
+    "chain": "ethereum",
+    "version": "v2",
+    "type": "core",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x0b8ee2ee7d6f3bfb73c9ae2127558d1172b65fb1"
+    ]
+  },
+  {
+    "name": "NFTX Token",
+    "address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "-",
+    "explorers": [
+      "https://etherscan.io/address/0x87d73e916d7057945c9bcd8cdd94e42a6f47f776"
+    ]
+  }
+]
