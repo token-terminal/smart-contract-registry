@@ -11,14 +11,25 @@
     ]
   },
   {
-    "name": "Trading",
+    "name": "Trading (old)",
     "address": "0xCAEc650502F15c1a6bFf1C2288fC8F819776B2eC",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Deprecated. Contains bug.",
+    "explorers": [
+      "https://arbiscan.io/address/0xcaec650502f15c1a6bff1c2288fc8f819776b2ec"
+    ]
+  },
+  {
+    "name": "Trading",
+    "address": "0xbEd32937D8A5D1421241F52809908f1a17D75bDb",
     "chain": "arbitrum",
     "version": "v3",
     "type": "core",
     "description": "Logic for the trading contract which specifies the main parameters of the protocol",
     "explorers": [
-      "https://arbiscan.io/address/0xcaec650502f15c1a6bff1c2288fc8f819776b2ec"
+      "https://arbiscan.io/address/0xbed32937d8a5d1421241f52809908f1a17d75bdb"
     ]
   },
   {
@@ -44,47 +55,91 @@
     ]
   },
   {
-    "name": "Pool ETH",
+    "name": "Pool ETH (old)",
     "address": "0xB224F2689BC0aFc5b6721a0807d07017D8CDddf8",
     "chain": "arbitrum",
     "version": "v3",
     "type": "core",
-    "description": "Logic for the ETH pool. Users can deposit ETH to this pool and in exchange earn a portion of trader losses and fees based on the users share of the pool",
+    "description": "Deprecated. Logic for the ETH pool. Users can deposit ETH to this pool and in exchange earn a portion of trader losses and fees based on the users share of the pool",
     "explorers": [
       "https://arbiscan.io/address/0xb224f2689bc0afc5b6721a0807d07017d8cdddf8"
     ]
   },
   {
-    "name": "Pool USDC",
+    "name": "Pool USDC (old)",
     "address": "0x07B0B00B9008798055071dde6f2d343782b35dC6",
     "chain": "arbitrum",
     "version": "v3",
     "type": "core",
-    "description": "Logic for the USDC pool. Users can deposit USDC to this pool and in exchange earn a portion of trader losses and fees based on the users share of the pool",
+    "description": "Deprecated. Logic for the USDC pool. Users can deposit USDC to this pool and in exchange earn a portion of trader losses and fees based on the users share of the pool",
     "explorers": [
       "https://arbiscan.io/address/0x07b0b00b9008798055071dde6f2d343782b35dc6"
     ]
   },
   {
-    "name": "Pool Rewards ETH",
+    "name": "Pool Rewards ETH (old)",
     "address": "0x9190338f23bE9024A9F9628E44cd169926fE7795",
     "chain": "arbitrum",
     "version": "v3",
     "type": "core",
-    "description": "Logic for the ETH reward pool. This is where the fees paid by users accrue",
+    "description": "Deprecated. Logic for the ETH reward pool. This is where the fees paid by users accrue",
     "explorers": [
       "https://arbiscan.io/address/0x9190338f23be9024a9f9628e44cd169926fe7795"
     ]
   },
   {
-    "name": "Pool Rewards USDC",
+    "name": "Pool Rewards USDC (old)",
     "address": "0x996DA299Fb8247dbc2ef45299b62B897d89C01D4",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Deprecated. Logic for the USDC reward pool. This is where the fees paid by users accrue",
+    "explorers": [
+      "https://arbiscan.io/address/0x996da299fb8247dbc2ef45299b62b897d89c01d4"
+    ]
+  },
+  {
+    "name": "Pool ETH",
+    "address": "0xE0cCd451BB57851c1B2172c07d8b4A7c6952a54e",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the ETH pool. Users can deposit ETH to this pool and in exchange earn a portion of trader losses and fees based on the users share of the pool",
+    "explorers": [
+      "https://arbiscan.io/address/0xe0ccd451bb57851c1b2172c07d8b4a7c6952a54e"
+    ]
+  },
+  {
+    "name": "Pool USDC",
+    "address": "0x958cc92297e6F087f41A86125BA8E121F0FbEcF2",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the USDC pool. Users can deposit USDC to this pool and in exchange earn a portion of trader losses and fees based on the users share of the pool",
+    "explorers": [
+      "https://arbiscan.io/address/0x958cc92297e6f087f41a86125ba8e121f0fbecf2"
+    ]
+  },
+  {
+    "name": "Pool Rewards ETH",
+    "address": "0x29163356bBAF0a3bfeE9BA5a52a5C6463114Cb5f",
+    "chain": "arbitrum",
+    "version": "v3",
+    "type": "core",
+    "description": "Logic for the ETH reward pool. This is where the fees paid by users accrue",
+    "explorers": [
+      "https://arbiscan.io/address/0x29163356bbaf0a3bfee9ba5a52a5c6463114cb5f"
+    ]
+  },
+  {
+    "name": "Pool Rewards USDC",
+    "address": "0x10f2f3B550d98b6E51461a83AD3FE27123391029",
     "chain": "arbitrum",
     "version": "v3",
     "type": "core",
     "description": "Logic for the USDC reward pool. This is where the fees paid by users accrue",
     "explorers": [
-      "https://arbiscan.io/address/0x996da299fb8247dbc2ef45299b62b897d89c01d4"
+      "https://arbiscan.io/address/0x10f2f3b550d98b6e51461a83ad3fe27123391029"
     ]
   },
   {
