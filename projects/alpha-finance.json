@@ -1,0 +1,574 @@
+[
+  {
+    "name": "ALPHA Token",
+    "address": "0xa1faa113cbe53436df28ff0aee54275c13b40975",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "AlphaToken ($ALPHA) - Governance Token",
+    "explorers": [
+      "https://etherscan.io/address/0xa1faa113cbe53436df28ff0aee54275c13b40975"
+    ]
+  },
+  {
+    "name": "Alpha Staking",
+    "address": "0x2aa297c3208bd98a9a477514d3c80ace570a6dee",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "governance",
+    "description": "Alpha Staking contract (Proxy)",
+    "explorers": [
+      "https://etherscan.io/address/0x2aa297c3208bd98a9a477514d3c80ace570a6dee"
+    ]
+  },
+  {
+    "name": "Homora Bank (Proxy)",
+    "address": "0xba5ebaf3fc1fcca67147050bf80462393814e54b",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Homora bank - keep all position infos and holds all the positions (ERC-1155 tokens)",
+    "explorers": [
+      "https://etherscan.io/address/0xba5ebaf3fc1fcca67147050bf80462393814e54b"
+    ]
+  },
+  {
+    "name": "werc20Address",
+    "address": "0x06799a1e4792001aa9114f0012b9650ca28059a3",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Liquidity Providing position",
+    "explorers": [
+      "https://etherscan.io/address/0x06799a1e4792001aa9114f0012b9650ca28059a3"
+    ]
+  },
+  {
+    "name": "wMasterChefAddress",
+    "address": "0xa2caea05ff7b98f10ad5ddc837f15905f33feb60",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Sushiswap's Yield Farming position",
+    "explorers": [
+      "https://etherscan.io/address/0xa2caea05ff7b98f10ad5ddc837f15905f33feb60"
+    ]
+  },
+  {
+    "name": "wLiquidityGauge",
+    "address": "0xf1f32c8eeb06046d3cc3157b8f9f72b09d84ee5b",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Curve 3pool position",
+    "explorers": [
+      "https://etherscan.io/address/0xf1f32c8eeb06046d3cc3157b8f9f72b09d84ee5b"
+    ]
+  },
+  {
+    "name": "wStakingRewardIndex",
+    "address": "0x011535fd795fd28c749363e080662d62fbb456a7",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the UniswapV1 DPI/ETH position",
+    "explorers": [
+      "https://etherscan.io/address/0x011535fd795fd28c749363e080662d62fbb456a7"
+    ]
+  },
+  {
+    "name": "safeboxWethAddress",
+    "address": "0xeea3311250fe4c3268f8e684f7c87a82ff183ec1",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crETH.",
+    "explorers": [
+      "https://etherscan.io/address/0xeea3311250fe4c3268f8e684f7c87a82ff183ec1"
+    ]
+  },
+  {
+    "name": "safeboxDaiAddress",
+    "address": "0xee8389d235e092b2945fe363e97cdbed121a0439",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crDAI.",
+    "explorers": [
+      "https://etherscan.io/address/0xee8389d235e092b2945fe363e97cdbed121a0439"
+    ]
+  },
+  {
+    "name": "safeboxUsdtAddress",
+    "address": "0x020edc614187f9937a1efeee007656c6356fb13a",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crUSDT.",
+    "explorers": [
+      "https://etherscan.io/address/0x020edc614187f9937a1efeee007656c6356fb13a"
+    ]
+  },
+  {
+    "name": "safeboxUsdcAddress",
+    "address": "0x08bd64bfc832f1c2b3e07e634934453ba7fa2db2",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crUSDC.",
+    "explorers": [
+      "https://etherscan.io/address/0x08bd64bfc832f1c2b3e07e634934453ba7fa2db2"
+    ]
+  },
+  {
+    "name": "safeboxYfiAddress",
+    "address": "0xe52557bf7315fd5b38ac0ff61304cb33bb973603",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crYFI.",
+    "explorers": [
+      "https://etherscan.io/address/0xe52557bf7315fd5b38ac0ff61304cb33bb973603"
+    ]
+  },
+  {
+    "name": "safeboxDpiAddress",
+    "address": "0xd80ce6816f263c3ca551558b2034b61bc9852b97",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crDPI.",
+    "explorers": [
+      "https://etherscan.io/address/0xd80ce6816f263c3ca551558b2034b61bc9852b97"
+    ]
+  },
+  {
+    "name": "safeboxSnxAddress",
+    "address": "0x4d38b1ac1fad488e22282db451613edd10434bdc",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crSNX.",
+    "explorers": [
+      "https://etherscan.io/address/0x4d38b1ac1fad488e22282db451613edd10434bdc"
+    ]
+  },
+  {
+    "name": "safeboxsUsdAddress",
+    "address": "0x8897ca3e1b9bc5d5d715b653f186cc7767bd4c66",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crsUSD.",
+    "explorers": [
+      "https://etherscan.io/address/0x8897ca3e1b9bc5d5d715b653f186cc7767bd4c66"
+    ]
+  },
+  {
+    "name": "safeboxUniAddress",
+    "address": "0x6cdd8cbcffb3821be459f6fcac647a447e56c999",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crUNI.",
+    "explorers": [
+      "https://etherscan.io/address/0x6cdd8cbcffb3821be459f6fcac647a447e56c999"
+    ]
+  },
+  {
+    "name": "safeboxSushiAddress",
+    "address": "0x2abba23bdc48245f5f68661e390da243755b569f",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crSUSHI.",
+    "explorers": [
+      "https://etherscan.io/address/0x2abba23bdc48245f5f68661e390da243755b569f"
+    ]
+  },
+  {
+    "name": "safeboxLinkAddress",
+    "address": "0xb59ecdf6c2aea5e67fafbaf912b26658d43295ed",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crLINK.",
+    "explorers": [
+      "https://etherscan.io/address/0xb59ecdf6c2aea5e67fafbaf912b26658d43295ed"
+    ]
+  },
+  {
+    "name": "safeboxWbtcAddress",
+    "address": "0xe520679df7e32600d9b2caf50bd5a4337ea3cf89",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crWBTC.",
+    "explorers": [
+      "https://etherscan.io/address/0xe520679df7e32600d9b2caf50bd5a4337ea3cf89"
+    ]
+  },
+  {
+    "name": "Homora Bank (Proxy)",
+    "address": "0x060e91a44f16dfcc1e2c427a0383596e1d2e886f",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Homora bank - keep all position infos and holds all the positions (ERC-1155 tokens)",
+    "explorers": [
+      "https://ftmscan.com/address/0x060e91a44f16dfcc1e2c427a0383596e1d2e886f"
+    ]
+  },
+  {
+    "name": "werc20Address",
+    "address": "0x98604b8c8a41fec08b64a31a378b6e0489d25392",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Liquidity Providing position",
+    "explorers": [
+      "https://ftmscan.com/address/0x98604b8c8a41fec08b64a31a378b6e0489d25392"
+    ]
+  },
+  {
+    "name": "wMasterChefBooV1Address",
+    "address": "0x5fc20fcd1b50c5e1196ac790dadcfcdd416bb0c7",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Spookyswap's Yield Farming position",
+    "explorers": [
+      "https://ftmscan.com/address/0x5fc20fcd1b50c5e1196ac790dadcfcdd416bb0c7"
+    ]
+  },
+  {
+    "name": "safeboxWftmAddress",
+    "address": "0xffe5030da862ff61aef933303c3d124ca3c65af6",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crFTM.",
+    "explorers": [
+      "https://ftmscan.com/address/0xffe5030da862ff61aef933303c3d124ca3c65af6"
+    ]
+  },
+  {
+    "name": "safeboxUsdcAddress",
+    "address": "0x5196e0a4fb2a459856e1d41ab4975316bbdf19f8",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crUSDC.",
+    "explorers": [
+      "https://ftmscan.com/address/0x5196e0a4fb2a459856e1d41ab4975316bbdf19f8"
+    ]
+  },
+  {
+    "name": "safeboxEthAddress",
+    "address": "0xa575163c0da0bec6887b5bc01be7231fa7cb2c0b",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crETH.",
+    "explorers": [
+      "https://ftmscan.com/address/0xa575163c0da0bec6887b5bc01be7231fa7cb2c0b"
+    ]
+  },
+  {
+    "name": "safeboxFusdtAddress",
+    "address": "0x49991481a9ab4a3e2c42c7787f1bf51fc8bb0561",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crfUSDT.",
+    "explorers": [
+      "https://ftmscan.com/address/0x49991481a9ab4a3e2c42c7787f1bf51fc8bb0561"
+    ]
+  },
+  {
+    "name": "safeboxBtcAddress",
+    "address": "0xc4fe42313ff313cd4f858c4e796fe0d4931198c1",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crBTC.",
+    "explorers": [
+      "https://ftmscan.com/address/0xc4fe42313ff313cd4f858c4e796fe0d4931198c1"
+    ]
+  },
+  {
+    "name": "safeboxDaiAddress",
+    "address": "0x0f431a00fab97f38e223b556b116caac97d73838",
+    "chain": "fantom",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crDAI.",
+    "explorers": [
+      "https://ftmscan.com/address/0x0f431a00fab97f38e223b556b116caac97d73838"
+    ]
+  },
+  {
+    "name": "Homora Bank (Proxy)",
+    "address": "0x376d16c7de138b01455a51da79ad65806e9cd694",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Homora bank - keep all position infos and holds all the positions (ERC-1155 tokens)",
+    "explorers": [
+      "https://snowtrace.io/address/0x376d16c7de138b01455a51da79ad65806e9cd694"
+    ]
+  },
+  {
+    "name": "werc20Address",
+    "address": "0x496aa991cf3952264f284355371cd190ddcc8588",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Liquidity Providing position",
+    "explorers": [
+      "https://snowtrace.io/address/0x496aa991cf3952264f284355371cd190ddcc8588"
+    ]
+  },
+  {
+    "name": "wMasterChefJoeAddress",
+    "address": "0xb41de9c1f50697cc3fd63f24ede2b40f6269cbcb",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Joe's Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0xb41de9c1f50697cc3fd63f24ede2b40f6269cbcb"
+    ]
+  },
+  {
+    "name": "wMasterChefJoeV3UstAvaxAddress",
+    "address": "0x35d9f9ea86e86e2c8c3d1e24e116797139114178",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the JoeV3 UST/AVAX Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0x35d9f9ea86e86e2c8c3d1e24e116797139114178"
+    ]
+  },
+  {
+    "name": "wMasterChefJoeV3UsdceUsdcAddress",
+    "address": "0x094532967bf224da829bb5d1d6e710277be376b8",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the JoeV3 USDC.e/USDC Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0x094532967bf224da829bb5d1d6e710277be376b8"
+    ]
+  },
+  {
+    "name": "wMasterChefJoeV3AlphaeWavaxAddress",
+    "address": "0x8bbaf67ceb8eed2d5afc5d7786deeaba8268fd4a",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the JoeV3 ALPHA.e/AVAX Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0x8bbaf67ceb8eed2d5afc5d7786deeaba8268fd4a"
+    ]
+  },
+  {
+    "name": "wBoostedMasterChefJoeWavaxUsdcAddress",
+    "address": "0xab80758cec0a69a49ed1c9b3f114cf98118643f0",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Joe Boosted AVAX/USDC Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0xab80758cec0a69a49ed1c9b3f114cf98118643f0"
+    ]
+  },
+  {
+    "name": "wBoostedMasterChefJoeWetheWavaxAddress",
+    "address": "0xda255a9126fca3a2db4bbb991816f3e6564c003c",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Joe Boosted WETH.e/AVAX Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0xda255a9126fca3a2db4bbb991816f3e6564c003c"
+    ]
+  },
+  {
+    "name": "wBoostedMasterChefJoeWavaxUsdteAddress",
+    "address": "0xe2f6c8c5ae8f07d0a2e16a7e43fbab476257b9ef",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Joe Boosted AVAX/USDT.e Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0xe2f6c8c5ae8f07d0a2e16a7e43fbab476257b9ef"
+    ]
+  },
+  {
+    "name": "wBoostedMasterChefJoeUsdceWavaxAddress",
+    "address": "0x8df47fc33df77ae0526cdac4a0ca89739ef9f1cc",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Joe Boosted USDC.e/AVAX Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0x8df47fc33df77ae0526cdac4a0ca89739ef9f1cc"
+    ]
+  },
+  {
+    "name": "wBoostedMasterChefJoeMimWavaxAddress",
+    "address": "0xd885e488eae40c9f9e4867e1dc7ae26684083150",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Joe Boosted MIM/AVAX Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0xd885e488eae40c9f9e4867e1dc7ae26684083150"
+    ]
+  },
+  {
+    "name": "wBoostedMasterChefJoeWavaxWbtceAddress",
+    "address": "0xc32cb9d28b257ce286f4a1c01222171f55a6f7f9",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Joe Boosted AVAX/WBTC.e Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0xc32cb9d28b257ce286f4a1c01222171f55a6f7f9"
+    ]
+  },
+  {
+    "name": "wMiniChefAddress",
+    "address": "0xa67cf61b0b9bc39c6df04095a118e53bfb9303c7",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Wrap token - ERC-1155 to keep the Pangolin V1 Yield Farming position",
+    "explorers": [
+      "https://snowtrace.io/address/0xa67cf61b0b9bc39c6df04095a118e53bfb9303c7"
+    ]
+  },
+  {
+    "name": "safeboxWavaxAddress",
+    "address": "0x21c630b7824d15bcdfeefa73cbd4e49cafe9f836",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crAVAX.",
+    "explorers": [
+      "https://snowtrace.io/address/0x21c630b7824d15bcdfeefa73cbd4e49cafe9f836"
+    ]
+  },
+  {
+    "name": "safeboxusdteAddress",
+    "address": "0x858d6353a52c25c53df1869230282d22b41f5790",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crUSDT.e.",
+    "explorers": [
+      "https://snowtrace.io/address/0x858d6353a52c25c53df1869230282d22b41f5790"
+    ]
+  },
+  {
+    "name": "safeboxUsdcAddress",
+    "address": "0xa0b8adc61e76e2b3961eb66e2e37840e02053591",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crUSDC.",
+    "explorers": [
+      "https://snowtrace.io/address/0xa0b8adc61e76e2b3961eb66e2e37840e02053591"
+    ]
+  },
+  {
+    "name": "safeboxUsdceAddress",
+    "address": "0xd3843b60e69f958ef93bec299467e6ed301cbeeb",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crUSDC.e.",
+    "explorers": [
+      "https://snowtrace.io/address/0xd3843b60e69f958ef93bec299467e6ed301cbeeb"
+    ]
+  },
+  {
+    "name": "safeboxWethAddress",
+    "address": "0xf9eb24b83b51fbc0bcb1204221c8c9f1cef33994",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crWETH.e.",
+    "explorers": [
+      "https://snowtrace.io/address/0xf9eb24b83b51fbc0bcb1204221c8c9f1cef33994"
+    ]
+  },
+  {
+    "name": "safeboxDaieAddress",
+    "address": "0x69491fd9a6d9e32f32113cc076b1b69d8b9ebd3f",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crDAI.e.",
+    "explorers": [
+      "https://snowtrace.io/address/0x69491fd9a6d9e32f32113cc076b1b69d8b9ebd3f"
+    ]
+  },
+  {
+    "name": "safeboxWbtcAddress",
+    "address": "0x1de90c0ce3d940412c3ba7322a257f7bdcc00ceb",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crWBTC.e.",
+    "explorers": [
+      "https://snowtrace.io/address/0x1de90c0ce3d940412c3ba7322a257f7bdcc00ceb"
+    ]
+  },
+  {
+    "name": "safeboxMimAddress",
+    "address": "0x377da1791e2225740599a3c447c50861f7b27f49",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crMIM.",
+    "explorers": [
+      "https://snowtrace.io/address/0x377da1791e2225740599a3c447c50861f7b27f49"
+    ]
+  },
+  {
+    "name": "safeboxAlphaeAddress",
+    "address": "0x79ef2ae6027feb0342dc9956814c300666705eb3",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crALPHA.e.",
+    "explorers": [
+      "https://snowtrace.io/address/0x79ef2ae6027feb0342dc9956814c300666705eb3"
+    ]
+  },
+  {
+    "name": "safeboxUstAddress",
+    "address": "0xe13b4e4d0b3648770d625dcfd7bd4f96b3cac479",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crUST.axl.",
+    "explorers": [
+      "https://snowtrace.io/address/0xe13b4e4d0b3648770d625dcfd7bd4f96b3cac479"
+    ]
+  },
+  {
+    "name": "safeboxLinkeAddress",
+    "address": "0xaafa80367975dad6f5243382f26d2eab978973fe",
+    "chain": "avalanche",
+    "version": "v1",
+    "type": "core",
+    "description": "Safebox (Interest bearing) contract for holding Iron Bank's crLINK.e.",
+    "explorers": [
+      "https://snowtrace.io/address/0xaafa80367975dad6f5243382f26d2eab978973fe"
+    ]
+  }
+]
