@@ -1,0 +1,90 @@
+[
+  {
+    "name": "IDEX Token",
+    "address": "0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE",
+    "chain": "ethereum",
+    "version": "v1",
+    "type": "core",
+    "description": "IDEX ERC-20 token for use on Ethereum",
+    "explorers": [
+      "https://etherscan.io/token/0xB705268213D593B8FD88d3FDEFF93AFF5CbDcfAE"
+    ]
+  },
+  {
+    "name": "IDEX Token",
+    "address": "0x0856978F7fFff0a2471B4520E3521c4B3343e36f",
+    "chain": "bsc",
+    "version": "v1",
+    "type": "core",
+    "description": "IDEX ERC-20 token for use on BSC",
+    "explorers": [
+      "https://bscscan.com/token/0x0856978F7fFff0a2471B4520E3521c4B3343e36f"
+    ]
+  },
+  {
+    "name": "IDEX Token",
+    "address": "0x9Cb74C8032b007466865f060ad2c46145d45553D",
+    "chain": "polygon",
+    "version": "v1",
+    "type": "core",
+    "description": "IDEX ERC-20 token for use on Polygon",
+    "explorers": [
+      "https://polygonscan.com/token/0x9Cb74C8032b007466865f060ad2c46145d45553D"
+    ]
+  },
+  {
+    "name": "IDEX v3 Exchange",
+    "address": "0x3253A7e75539EdaEb1Db608ce6Ef9AA1ac9126B6",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "core",
+    "description": "Main exchange contract for IDEX v3",
+    "explorers": [
+      "https://polygonscan.com/address/0x3253A7e75539EdaEb1Db608ce6Ef9AA1ac9126B6"
+    ]
+  },
+  {
+    "name": "IDEX v3 Custodian",
+    "address": "0x3bcC4EcA0a40358558ca8D1bcd2d1dBdE63eB468",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "core",
+    "description": "Custodies funds held on the IDEX v3 exchange",
+    "explorers": [
+      "https://polygonscan.com/address/0x3bcC4EcA0a40358558ca8D1bcd2d1dBdE63eB468"
+    ]
+  },
+  {
+    "name": "IDEX v3 Governance",
+    "address": "0x82fe5999c996c3dBeFEA570CEB66e993D667FA05",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "governance",
+    "description": "Governance contract enabling upgrades for IDEX v3",
+    "explorers": [
+      "https://polygonscan.com/address/0x82fe5999c996c3dBeFEA570CEB66e993D667FA05"
+    ]
+  },
+  {
+    "name": "IDEX Farm",
+    "address": "0xB9C951c85C8646daFCDC0aD99D326C621aBBAdcE",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "core",
+    "description": "IDEX farm contract for generating rewards from LP Tokens",
+    "explorers": [
+      "https://polygonscan.com/address/0xB9C951c85C8646daFCDC0aD99D326C621aBBAdcE"
+    ]
+  },
+  {
+    "name": "IDEX Liquidity Provider Token",
+    "address": "0xe587C332eDaB74a4E443C6a6a88cBCB727125b39",
+    "chain": "polygon",
+    "version": "v3",
+    "type": "core",
+    "description": "Provides ERC-20 LP tokens and related liquidity pool functions for a pool",
+    "explorers": [
+      "https://polygonscan.com/token/0xe587C332eDaB74a4E443C6a6a88cBCB727125b39"
+    ]
+  }
+]
