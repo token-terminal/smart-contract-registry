@@ -1,4 +1,4 @@
-# Smart contract registry
+# Smart contract registry demo
 
 ## Introduction
 
